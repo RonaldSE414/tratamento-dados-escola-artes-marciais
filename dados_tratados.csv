@@ -1,0 +1,1485 @@
+﻿id_aluno,nome,modalidade,turma,faixa_atual,valor_mensalidade,vencimento,data_pagamento,situacao_pagamento,multa_exemplo,quantidade_aulas,presencas,frequencia_percentual,frequencia_minima_atingida
+503,Fernanda Fonseca,Jiu-jitsu,T03,Cinza,210.00,2026-10-12,2026-10-18,Pago,0.00,17,11,64.7,Não
+506,Otávio Andrade,Jiu-jitsu,T01,Amarela,100.00,2026-11-28,,Em aberto,0.00,14,13,92.9,Sim
+507,André Araújo,Jiu-jitsu,T16,Verde,180.00,2026-10-17,2026-10-16,Pago,0.00,14,10,71.4,Não
+508,Samuel Xavier,Muay Thai,T18,Cinza,130.00,2026-11-22,2026-10-31,Pago,0.00,14,11,78.6,Sim
+513,Elaine Dias,Muay Thai,T01,Amarela,100.00,2026-11-10,,Em aberto,0.00,15,13,86.7,Sim
+514,Diego Oliveira,Muay Thai,T01,Verde,125.00,2026-11-28,2026-10-30,Pago,0.00,10,5,50.0,Não
+515,Wesley Teixeira,Muay Thai,T15,Laranja,130.00,2026-10-22,2026-10-15,Pago,0.00,15,9,60.0,Não
+517,Matheus Figueiredo,Judô,T18,Laranja,120.00,2026-11-12,,Em aberto,0.00,8,7,87.5,Sim
+520,Manuela Machado,Muay Thai,T05,Roxa,130.00,2026-11-25,,Em aberto,0.00,18,10,55.6,Não
+526,Larissa Oliveira Lima,Muay Thai,T18,Branca,140.00,2026-11-17,,Em aberto,0.00,11,5,45.5,Não
+530,Gabriel Machado Xavier,Muay Thai,T07,Verde,100.00,2026-10-20,2026-10-26,Pago,0.00,15,13,86.7,Sim
+536,Leonardo Costa,Muay Thai,T15,Laranja,125.00,2026-10-10,2026-10-02,Pago,0.00,7,5,71.4,Não
+540,César Almeida Batista,Jiu-jitsu,T04,Branca,85.00,2026-10-17,,Atrasado,1.70,17,15,88.2,Sim
+541,Elisa Silva Monteiro,Muay Thai,T15,Cinza,180.00,2026-10-25,2026-10-21,Pago,0.00,17,12,70.6,Não
+543,Rafael Moura,Muay Thai,T01,Branca,145.00,2026-11-15,2026-11-02,Pago,0.00,9,7,77.8,Sim
+552,Valentina Carvalho Soares,Muay Thai,T08,Azul,150.00,2026-09-17,2026-09-14,Pago,0.00,11,6,54.5,Não
+553,Matheus Ramos,Jiu-jitsu,T09,Roxa,150.00,2026-10-10,2026-09-30,Pago,0.00,15,12,80.0,Sim
+554,Luana Monteiro Soares,Muay Thai,T16,Verde,120.00,2026-10-22,2026-10-11,Pago,0.00,13,11,84.6,Sim
+556,Diego Moraes,Muay Thai,T15,Laranja,115.00,2026-10-28,2026-10-31,Pago,0.00,11,10,90.9,Sim
+558,Igor Monteiro,Muay Thai,T03,Laranja,175.00,2026-11-12,2026-11-02,Pago,0.00,11,8,72.7,Não
+565,Matheus Teixeira,Karatê,T10,Marrom,120.00,2026-11-10,2026-11-02,Pago,0.00,14,10,71.4,Não
+571,Ricardo Araújo,Jiu-jitsu,T09,Branca,140.00,2026-10-05,,Atrasado,2.80,17,9,52.9,Não
+577,Fábio Teixeira,Muay Thai,T06,Branca,100.00,2026-10-15,2026-10-12,Pago,0.00,14,9,64.3,Não
+580,Beatriz Andrade Amaral,Judô,T06,Amarela,115.00,2026-09-12,,Atrasado,2.30,13,12,92.3,Sim
+587,Felipe Figueiredo Almeida,Judô,T17,Laranja,160.00,2026-11-28,2026-11-01,Pago,0.00,8,3,37.5,Não
+590,Fernanda Duarte,Jiu-jitsu,T02,Azul,120.00,2026-11-25,,Em aberto,0.00,12,7,58.3,Não
+592,Larissa Cunha,Judô,T13,Branca,95.00,2026-11-12,2026-10-30,Pago,0.00,9,7,77.8,Sim
+595,Thiago Almeida Borges,Jiu-jitsu,T01,Cinza,120.00,2026-10-17,2026-10-10,Pago,0.00,13,9,69.2,Não
+597,Mariana Teixeira Coelho,Muay Thai,T03,Branca,120.00,2026-10-25,,Atrasado,2.40,12,7,58.3,Não
+603,Wesley Soares,Karatê,T13,Branca,150.00,2026-10-10,2026-10-02,Pago,0.00,13,11,84.6,Sim
+610,Elisa Moura Reis,Judô,T17,Branca,110.00,2026-10-15,2026-10-17,Pago,0.00,13,7,53.8,Não
+614,Felipe Freitas,Jiu-jitsu,T18,Branca,115.00,2026-10-15,2026-10-17,Pago,0.00,9,6,66.7,Não
+616,Matheus Moraes,Muay Thai,T04,Branca,120.00,2026-10-17,2026-10-22,Pago,0.00,12,6,50.0,Não
+623,Renata Freitas Sousa,Judô,T15,Laranja,145.00,2026-10-22,,Atrasado,2.90,18,8,44.4,Não
+627,Camila Amaral,Karatê,T12,Cinza,150.00,2026-09-05,2026-08-23,Pago,0.00,12,7,58.3,Não
+631,Ana Freitas,Jiu-jitsu,T07,Amarela,210.00,2026-10-12,2026-10-06,Pago,0.00,17,14,82.4,Sim
+633,Vinícius Figueiredo,Jiu-jitsu,T18,Cinza,125.00,2026-10-28,2026-10-19,Pago,0.00,11,11,100.0,Sim
+638,Samuel Cunha,Judô,T11,Branca,160.00,2026-10-10,,Atrasado,3.20,16,16,100.0,Sim
+644,Valentina Araújo Gonçalves,Judô,T04,Amarela,130.00,2026-11-17,2026-11-02,Pago,0.00,7,5,71.4,Não
+646,Larissa Amaral Xavier,Jiu-jitsu,T17,Amarela,145.00,2026-10-10,2026-10-05,Pago,0.00,18,15,83.3,Sim
+652,Elaine Marques,Jiu-jitsu,T17,Cinza,140.00,2026-11-28,,Em aberto,0.00,13,10,76.9,Sim
+660,Elisa Fonseca,Karatê,T06,Cinza,130.00,2026-10-28,2026-10-25,Pago,0.00,13,7,53.8,Não
+664,Felipe Melo,Jiu-jitsu,T17,Laranja,150.00,2026-10-10,,Atrasado,3.00,11,7,63.6,Não
+666,Camila Martins,Judô,T10,Laranja,175.00,2026-10-12,,Atrasado,3.50,15,12,80.0,Sim
+668,Ricardo Moraes,Jiu-jitsu,T12,Roxa,130.00,2026-10-10,2026-09-29,Pago,0.00,9,7,77.8,Sim
+670,Daniel Gomes Ramos,Karatê,T01,Amarela,145.00,2026-10-05,,Atrasado,2.90,14,7,50.0,Não
+674,Rafaela Barros Xavier,Jiu-jitsu,T13,Branca,150.00,2026-11-22,2026-10-30,Pago,0.00,17,13,76.5,Sim
+675,Rafaela Marques,Karatê,T13,Amarela,130.00,2026-11-12,,Em aberto,0.00,8,7,87.5,Sim
+679,Yasmin Melo,Judô,T18,Laranja,110.00,2026-11-25,,Em aberto,0.00,7,4,57.1,Não
+682,Ricardo Campos Castro,Muay Thai,T02,Branca,145.00,2026-10-05,,Atrasado,2.90,18,14,77.8,Sim
+684,Camila Gomes Ramos,Muay Thai,T01,Marrom,120.00,2026-11-15,,Em aberto,0.00,17,12,70.6,Não
+686,Gabriel Andrade,Muay Thai,T14,Cinza,140.00,2026-11-12,,Em aberto,0.00,12,11,91.7,Sim
+692,Thiago Nascimento,Karatê,T10,Laranja,110.00,2026-09-20,2026-09-17,Pago,0.00,15,13,86.7,Sim
+695,Samuel Martins,Muay Thai,T01,Branca,115.00,2026-11-15,,Em aberto,0.00,7,6,85.7,Sim
+698,Eduardo Andrade,Muay Thai,T05,Branca,100.00,2026-10-12,2026-10-14,Pago,0.00,14,8,57.1,Não
+707,Ricardo Borges Duarte,Jiu-jitsu,T06,Amarela,115.00,2026-10-20,2026-10-11,Pago,0.00,8,8,100.0,Sim
+714,Elisa Lopes Borges,Karatê,T06,Amarela,180.00,2026-10-12,2026-10-14,Pago,0.00,8,8,100.0,Sim
+718,Camila Carvalho,Judô,T01,Branca,115.00,2026-11-28,,Em aberto,0.00,13,12,92.3,Sim
+725,Beatriz Carvalho,Muay Thai,T06,Verde,175.00,2026-10-22,2026-10-14,Pago,0.00,18,17,94.4,Sim
+729,Gabriela Carvalho,Jiu-jitsu,T13,Branca,145.00,2026-09-05,2026-08-26,Pago,0.00,16,11,68.8,Não
+732,Daniela Amaral,Karatê,T16,Laranja,100.00,2026-09-22,,Atrasado,2.00,11,5,45.5,Não
+733,Thiago Reis,Jiu-jitsu,T09,Cinza,115.00,2026-10-20,,Atrasado,2.30,8,4,50.0,Não
+734,Helena Figueiredo,Judô,T06,Azul,110.00,2026-11-17,,Em aberto,0.00,8,6,75.0,Sim
+736,Helena Freitas,Jiu-jitsu,T14,Azul,180.00,2026-11-22,,Em aberto,0.00,7,5,71.4,Não
+737,Felipe Nogueira,Muay Thai,T06,Branca,95.00,2026-09-10,2026-09-05,Pago,0.00,9,7,77.8,Sim
+740,João Amaral,Jiu-jitsu,T06,Roxa,110.00,2026-10-20,,Atrasado,2.20,11,10,90.9,Sim
+744,Samuel Coelho,Muay Thai,T06,Branca,160.00,2026-10-17,,Atrasado,3.20,11,7,63.6,Não
+745,Elisa Ferreira Amaral,Jiu-jitsu,T16,Branca,140.00,2026-11-07,,Em aberto,0.00,8,6,75.0,Sim
+746,Marcelo Campos,Jiu-jitsu,T16,Branca,120.00,2026-11-28,,Em aberto,0.00,12,6,50.0,Não
+748,Valentina Machado,Jiu-jitsu,T13,Amarela,145.00,2026-10-05,2026-10-10,Pago,0.00,13,7,53.8,Não
+756,Larissa Borges Nogueira,Jiu-jitsu,T02,Amarela,125.00,2026-10-10,2026-10-14,Pago,0.00,11,10,90.9,Sim
+757,Gabriel Almeida,Jiu-jitsu,T15,Branca,110.00,2026-11-05,,Em aberto,0.00,13,11,84.6,Sim
+758,Leonardo Rodrigues,Muay Thai,T14,Branca,130.00,2026-11-22,2026-11-02,Pago,0.00,8,5,62.5,Não
+764,Natália Silva,Jiu-jitsu,T06,Roxa,140.00,2026-10-12,,Atrasado,2.80,8,7,87.5,Sim
+768,Isabela Ribeiro Pinto,Jiu-jitsu,T08,Azul,145.00,2026-10-28,,Atrasado,2.90,13,9,69.2,Não
+774,Felipe Costa,Judô,T09,Cinza,150.00,2026-10-20,2026-10-25,Pago,0.00,8,5,62.5,Não
+775,Elaine Lima Castro,Jiu-jitsu,T08,Amarela,160.00,2026-10-17,,Atrasado,3.20,18,12,66.7,Não
+776,Valentina Reis Moreira,Muay Thai,T07,Cinza,100.00,2026-10-12,,Atrasado,2.00,15,10,66.7,Não
+783,Helena Moreira Ferreira,Judô,T04,Branca,150.00,2026-10-17,2026-10-22,Pago,0.00,11,9,81.8,Sim
+785,Vitória Gonçalves,Muay Thai,T16,Branca,160.00,2026-10-05,2026-10-08,Pago,0.00,16,13,81.2,Sim
+788,Gabriel Barros,Jiu-jitsu,T06,Cinza,95.00,2026-11-25,,Em aberto,0.00,14,8,57.1,Não
+795,Renata Cardoso Oliveira,Muay Thai,T16,Azul,110.00,2026-11-10,2026-10-31,Pago,0.00,13,12,92.3,Sim
+802,Felipe Machado,Judô,T01,Marrom,110.00,2026-10-05,2026-10-07,Pago,0.00,15,14,93.3,Sim
+808,Yasmin Martins Marques,Judô,T03,Verde,110.00,2026-09-28,2026-09-22,Pago,0.00,15,14,93.3,Sim
+810,Yasmin Gonçalves Borges,Jiu-jitsu,T08,Cinza,150.00,2026-11-10,,Em aberto,0.00,15,12,80.0,Sim
+813,Thiago Almeida,Jiu-jitsu,T16,Roxa,95.00,2026-11-22,,Em aberto,0.00,16,13,81.2,Sim
+820,Beatriz Teixeira,Jiu-jitsu,T16,Branca,130.00,2026-10-07,,Atrasado,2.60,9,8,88.9,Sim
+826,Samuel Ramos,Jiu-jitsu,T01,Roxa,145.00,2026-11-12,,Em aberto,0.00,14,9,64.3,Não
+829,Pedro Teixeira,Jiu-jitsu,T03,Branca,125.00,2026-11-28,2026-10-30,Pago,0.00,15,7,46.7,Não
+830,Igor Gonçalves,Jiu-jitsu,T07,Verde,210.00,2026-10-17,2026-10-12,Pago,0.00,12,12,100.0,Sim
+833,Vitória Cardoso Silva,Karatê,T16,Branca,100.00,2026-10-22,2026-10-25,Pago,0.00,11,10,90.9,Sim
+837,Júlia Freitas Ramos,Judô,T18,Amarela,120.00,2026-11-22,,Em aberto,0.00,10,8,80.0,Sim
+840,Elaine Moura Moreira,Jiu-jitsu,T10,Branca,180.00,2026-10-05,2026-10-08,Pago,0.00,11,6,54.5,Não
+847,Beatriz Andrade Fonseca,Jiu-jitsu,T11,Branca,120.00,2026-09-20,2026-09-10,Pago,0.00,9,5,55.6,Não
+853,Daniel Rocha,Muay Thai,T15,Laranja,120.00,2026-10-07,,Atrasado,2.40,18,14,77.8,Sim
+854,Júlia Coelho,Muay Thai,T15,Branca,120.00,2026-10-25,2026-10-21,Pago,0.00,9,4,44.4,Não
+855,Marcelo Lopes,Judô,T15,Amarela,125.00,2026-11-05,2026-10-31,Pago,0.00,16,15,93.8,Sim
+857,Marcelo Fonseca,Jiu-jitsu,T01,Branca,145.00,2026-10-20,,Atrasado,2.90,18,11,61.1,Não
+860,Valentina Silva,Karatê,T15,Branca,145.00,2026-10-05,2026-10-10,Pago,0.00,10,6,60.0,Não
+864,Caio Barros Fonseca,Jiu-jitsu,T05,Cinza,160.00,2026-10-10,,Atrasado,3.20,17,12,70.6,Não
+865,Elaine Gomes Martins,Muay Thai,T13,Amarela,130.00,2026-10-20,,Atrasado,2.60,13,9,69.2,Não
+866,Leonardo Ribeiro,Karatê,T06,Branca,120.00,2026-10-05,2026-10-05,Pago,0.00,8,5,62.5,Não
+870,Ricardo Araújo Sousa,Jiu-jitsu,T16,Verde,145.00,2026-10-20,2026-10-09,Pago,0.00,17,9,52.9,Não
+871,Eduardo Batista,Muay Thai,T17,Verde,160.00,2026-11-07,,Em aberto,0.00,17,15,88.2,Sim
+872,Rafael Vieira,Jiu-jitsu,T18,Branca,160.00,2026-11-22,2026-10-29,Pago,0.00,17,12,70.6,Não
+873,Bruno Machado,Karatê,T08,Verde,175.00,2026-10-20,,Atrasado,3.50,12,10,83.3,Sim
+883,Manuela Borges,Muay Thai,T05,Branca,140.00,2026-11-22,2026-10-30,Pago,0.00,14,12,85.7,Sim
+884,Caio Teixeira Reis,Jiu-jitsu,T02,Amarela,160.00,2026-10-22,,Atrasado,3.20,16,13,81.2,Sim
+887,Gustavo Mendes,Muay Thai,T08,Laranja,115.00,2026-10-15,,Atrasado,2.30,10,9,90.0,Sim
+889,Natália Melo,Jiu-jitsu,T15,Azul,120.00,2026-10-05,2026-09-30,Pago,0.00,10,9,90.0,Sim
+890,André Vieira,Muay Thai,T12,Amarela,130.00,2026-10-20,,Atrasado,2.60,15,9,60.0,Não
+893,Mirela Castro Oliveira,Muay Thai,T14,Branca,115.00,2026-10-15,2026-10-14,Pago,0.00,17,13,76.5,Sim
+900,Otávio Andrade,Jiu-jitsu,T16,Cinza,130.00,2026-11-07,,Em aberto,0.00,13,6,46.2,Não
+901,Otávio Santos,Muay Thai,T05,Marrom,130.00,2026-10-05,2026-09-25,Pago,0.00,14,9,64.3,Não
+907,Sofia Xavier Santos,Karatê,T16,Cinza,145.00,2026-10-17,2026-10-18,Pago,0.00,11,9,81.8,Sim
+913,Eduardo Rocha,Muay Thai,T16,Azul,145.00,2026-10-10,2026-10-04,Pago,0.00,11,8,72.7,Não
+914,Gabriela Xavier,Muay Thai,T16,Branca,115.00,2026-10-12,,Atrasado,2.30,9,6,66.7,Não
+920,Luana Amaral,Judô,T08,Laranja,150.00,2026-10-20,2026-10-12,Pago,0.00,17,12,70.6,Não
+924,Gabriela Machado,Jiu-jitsu,T11,Branca,150.00,2026-10-10,,Atrasado,3.00,8,7,87.5,Sim
+925,Rafael Oliveira Marques,Muay Thai,T02,Azul,110.00,2026-10-17,2026-10-06,Pago,0.00,17,12,70.6,Não
+926,Marcelo Nogueira,Muay Thai,T06,Amarela,100.00,2026-10-25,2026-10-21,Pago,0.00,15,11,73.3,Não
+927,Fábio Duarte Araújo,Muay Thai,T15,Laranja,180.00,2026-11-17,,Em aberto,0.00,13,11,84.6,Sim
+933,Lucas Gonçalves Vieira,Jiu-jitsu,T01,Laranja,115.00,2026-11-22,,Em aberto,0.00,13,8,61.5,Não
+937,Fábio Rodrigues,Jiu-jitsu,T03,Cinza,130.00,2026-11-05,,Em aberto,0.00,18,13,72.2,Não
+939,Mariana Martins,Judô,T06,Cinza,120.00,2026-11-25,,Em aberto,0.00,17,4,23.5,Não
+940,Igor Duarte,Jiu-jitsu,T15,Roxa,150.00,2026-10-10,2026-09-29,Pago,0.00,10,9,90.0,Sim
+941,Gabriela Silva Lima,Jiu-jitsu,T11,Amarela,100.00,2026-10-28,2026-10-27,Pago,0.00,13,12,92.3,Sim
+942,Renata Araújo Barros,Muay Thai,T12,Branca,130.00,2026-11-15,,Em aberto,0.00,12,11,91.7,Sim
+946,Júlia Nogueira Machado,Jiu-jitsu,T16,Cinza,120.00,2026-10-12,,Atrasado,2.40,13,8,61.5,Não
+950,Bruno Sousa Moreira,Jiu-jitsu,T14,Cinza,195.00,2026-09-12,2026-09-07,Pago,0.00,9,8,88.9,Sim
+956,Caio Dias,Muay Thai,T11,Amarela,140.00,2026-11-28,2026-10-31,Pago,0.00,9,6,66.7,Não
+962,Fernanda Duarte,Jiu-jitsu,T16,Branca,95.00,2026-11-12,,Em aberto,0.00,13,9,69.2,Não
+963,Manuela Rocha,Jiu-jitsu,T09,Branca,115.00,2026-11-05,,Em aberto,0.00,7,5,71.4,Não
+966,Isabela Silva,Muay Thai,T16,Amarela,125.00,2026-09-20,2026-09-14,Pago,0.00,7,4,57.1,Não
+972,Caio Castro,Jiu-jitsu,T06,Laranja,100.00,2026-10-07,2026-10-14,Pago,0.00,12,9,75.0,Sim
+973,Yasmin Freitas,Jiu-jitsu,T12,Roxa,145.00,2026-10-10,2026-10-17,Pago,0.00,9,9,100.0,Sim
+982,André Mendes,Jiu-jitsu,T11,Branca,120.00,2026-10-07,,Atrasado,2.40,10,10,100.0,Sim
+983,Manuela Monteiro,Judô,T13,Cinza,110.00,2026-10-28,2026-10-18,Pago,0.00,12,9,75.0,Sim
+990,Leonardo Ferreira,Jiu-jitsu,T18,Laranja,125.00,2026-10-17,2026-10-22,Pago,0.00,17,14,82.4,Sim
+1003,Ricardo Moura,Karatê,T04,Verde,150.00,2026-10-15,2026-10-15,Pago,0.00,10,9,90.0,Sim
+1006,Gabriel Ferreira,Muay Thai,T02,Amarela,120.00,2026-10-10,,Atrasado,2.40,13,9,69.2,Não
+1008,Lucas Freitas,Jiu-jitsu,T14,Marrom,110.00,2026-11-12,2026-10-30,Pago,0.00,15,11,73.3,Não
+1010,Bruno Vieira,Muay Thai,T18,Verde,210.00,2026-10-10,,Atrasado,4.20,10,8,80.0,Sim
+1011,Camila Andrade Coelho,Jiu-jitsu,T08,Cinza,125.00,2026-10-17,,Atrasado,2.50,17,17,100.0,Sim
+1018,Isabela Oliveira,Jiu-jitsu,T15,Laranja,145.00,2026-10-28,,Atrasado,2.90,13,8,61.5,Não
+1021,Lucas Costa,Jiu-jitsu,T11,Verde,110.00,2026-10-20,,Atrasado,2.20,15,12,80.0,Sim
+1022,Mariana Martins,Judô,T03,Amarela,100.00,2026-10-07,2026-10-11,Pago,0.00,13,12,92.3,Sim
+1031,Felipe Reis,Jiu-jitsu,T06,Azul,110.00,2026-10-12,,Atrasado,2.20,17,13,76.5,Sim
+1033,Marcelo Marques,Jiu-jitsu,T02,Branca,145.00,2026-10-25,2026-10-23,Pago,0.00,17,7,41.2,Não
+1035,Vitória Almeida,Jiu-jitsu,T13,Branca,115.00,2026-09-15,2026-09-09,Pago,0.00,8,5,62.5,Não
+1042,Thiago Melo,Muay Thai,T11,Verde,210.00,2026-09-17,2026-09-05,Pago,0.00,8,5,62.5,Não
+1050,Gustavo Oliveira,Judô,T07,Verde,175.00,2026-11-05,2026-10-25,Pago,0.00,10,7,70.0,Não
+1057,Daniela Duarte,Jiu-jitsu,T07,Branca,130.00,2026-10-07,2026-10-09,Pago,0.00,18,17,94.4,Sim
+1064,Helena Araújo,Judô,T17,Branca,120.00,2026-11-15,,Em aberto,0.00,8,4,50.0,Não
+1070,Larissa Moraes Nogueira,Jiu-jitsu,T08,Branca,115.00,2026-11-07,,Em aberto,0.00,12,9,75.0,Sim
+1071,Natália Campos,Jiu-jitsu,T03,Amarela,110.00,2026-11-25,,Em aberto,0.00,11,4,36.4,Não
+1076,Mariana Andrade,Jiu-jitsu,T14,Verde,100.00,2026-11-17,,Em aberto,0.00,7,6,85.7,Sim
+1083,Leonardo Silva,Muay Thai,T15,Laranja,175.00,2026-10-15,2026-10-17,Pago,0.00,12,10,83.3,Sim
+1087,Larissa Vieira Melo,Muay Thai,T09,Cinza,120.00,2026-10-20,2026-10-14,Pago,0.00,12,11,91.7,Sim
+1089,Vitória Castro Campos,Jiu-jitsu,T07,Roxa,95.00,2026-11-07,,Em aberto,0.00,12,4,33.3,Não
+1091,Fernanda Moraes,Jiu-jitsu,T12,Branca,195.00,2026-10-20,2026-10-17,Pago,0.00,17,13,76.5,Sim
+1093,André Teixeira,Jiu-jitsu,T10,Azul,140.00,2026-11-10,,Em aberto,0.00,10,9,90.0,Sim
+1099,Rafael Teixeira Gomes,Karatê,T03,Laranja,130.00,2026-10-15,2026-10-17,Pago,0.00,14,9,64.3,Não
+1100,Samuel Figueiredo,Jiu-jitsu,T03,Branca,120.00,2026-11-28,,Em aberto,0.00,15,10,66.7,Não
+1102,Otávio Lima Rodrigues,Judô,T10,Amarela,160.00,2026-10-17,2026-10-19,Pago,0.00,16,11,68.8,Não
+1105,Gabriel Freitas,Jiu-jitsu,T12,Laranja,100.00,2026-10-15,2026-10-15,Pago,0.00,8,6,75.0,Sim
+1111,César Xavier Batista,Jiu-jitsu,T08,Branca,95.00,2026-09-12,2026-09-19,Pago,0.00,8,7,87.5,Sim
+1114,Larissa Fonseca,Muay Thai,T18,Laranja,130.00,2026-10-20,,Atrasado,2.60,18,16,88.9,Sim
+1120,Diego Freitas,Jiu-jitsu,T01,Laranja,110.00,2026-10-25,,Atrasado,2.20,15,13,86.7,Sim
+1126,João Amaral,Jiu-jitsu,T05,Amarela,150.00,2026-11-05,2026-10-24,Pago,0.00,9,7,77.8,Sim
+1129,Renata Campos,Jiu-jitsu,T15,Amarela,175.00,2026-11-22,,Em aberto,0.00,14,13,92.9,Sim
+1132,Luana Nogueira,Muay Thai,T11,Cinza,120.00,2026-10-07,,Atrasado,2.40,18,16,88.9,Sim
+1133,Gabriel Ramos Nogueira,Jiu-jitsu,T03,Cinza,145.00,2026-10-12,2026-10-01,Pago,0.00,11,10,90.9,Sim
+1134,Elaine Pinto,Jiu-jitsu,T03,Cinza,140.00,2026-11-25,,Em aberto,0.00,14,12,85.7,Sim
+1136,Elaine Vieira,Jiu-jitsu,T16,Branca,85.00,2026-10-10,2026-10-07,Pago,0.00,11,7,63.6,Não
+1137,Felipe Barbosa,Jiu-jitsu,T04,Laranja,130.00,2026-10-05,2026-10-11,Pago,0.00,11,8,72.7,Não
+1143,Renata Cardoso Rocha,Jiu-jitsu,T09,Amarela,145.00,2026-11-28,,Em aberto,0.00,14,9,64.3,Não
+1149,Leonardo Mendes,Jiu-jitsu,T08,Roxa,160.00,2026-10-07,2026-10-12,Pago,0.00,13,7,53.8,Não
+1150,João Marques Soares,Karatê,T06,Cinza,195.00,2026-10-25,2026-10-29,Pago,0.00,13,10,76.9,Sim
+1152,Daniela Lima Ferreira,Jiu-jitsu,T01,Amarela,195.00,2026-11-15,,Em aberto,0.00,12,10,83.3,Sim
+1159,Fábio Almeida,Karatê,T08,Branca,150.00,2026-10-12,,Atrasado,3.00,13,8,61.5,Não
+1163,Elaine Nogueira,Muay Thai,T17,Amarela,160.00,2026-10-20,2026-10-20,Pago,0.00,17,9,52.9,Não
+1165,Camila Nogueira,Muay Thai,T14,Amarela,175.00,2026-10-28,,Atrasado,3.50,7,2,28.6,Não
+1169,Marcelo Lopes,Jiu-jitsu,T14,Branca,115.00,2026-11-22,,Em aberto,0.00,17,15,88.2,Sim
+1173,Otávio Sousa Costa,Karatê,T09,Laranja,120.00,2026-10-05,,Atrasado,2.40,14,11,78.6,Sim
+1174,César Teixeira,Muay Thai,T09,Branca,150.00,2026-11-22,,Em aberto,0.00,18,11,61.1,Não
+1181,Rafaela Freitas Andrade,Muay Thai,T05,Marrom,120.00,2026-10-22,,Atrasado,2.40,15,8,53.3,Não
+1183,Eduardo Duarte,Judô,T09,Cinza,120.00,2026-09-25,2026-09-26,Pago,0.00,9,8,88.9,Sim
+1189,Igor Moreira,Jiu-jitsu,T16,Amarela,125.00,2026-10-17,,Atrasado,2.50,18,11,61.1,Não
+1193,Vinícius Mendes Reis,Jiu-jitsu,T17,Amarela,120.00,2026-10-07,2026-10-08,Pago,0.00,7,6,85.7,Sim
+1194,Valentina Barbosa,Muay Thai,T10,Azul,120.00,2026-09-07,2026-08-30,Pago,0.00,10,7,70.0,Não
+1197,Fábio Moura Medeiros,Muay Thai,T02,Verde,100.00,2026-11-25,,Em aberto,0.00,10,6,60.0,Não
+1199,João Moraes,Muay Thai,T05,Roxa,120.00,2026-10-22,2026-10-13,Pago,0.00,16,11,68.8,Não
+1206,Wesley Fonseca Melo,Muay Thai,T03,Branca,180.00,2026-11-15,,Em aberto,0.00,14,10,71.4,Não
+1210,Diego Silva Campos,Muay Thai,T09,Amarela,125.00,2026-10-20,,Atrasado,2.50,18,11,61.1,Não
+1212,Thiago Moreira,Muay Thai,T08,Branca,160.00,2026-11-28,,Em aberto,0.00,17,14,82.4,Sim
+1215,Helena Araújo,Karatê,T07,Amarela,95.00,2026-10-10,2026-10-14,Pago,0.00,16,8,50.0,Não
+1220,Júlia Ramos,Jiu-jitsu,T13,Roxa,145.00,2026-10-22,2026-10-19,Pago,0.00,8,7,87.5,Sim
+1222,Camila Lopes Pinto,Muay Thai,T02,Laranja,110.00,2026-11-12,2026-10-30,Pago,0.00,11,9,81.8,Sim
+1225,Rafael Moura,Jiu-jitsu,T01,Branca,175.00,2026-10-22,,Atrasado,3.50,8,6,75.0,Sim
+1229,Bruno Monteiro,Muay Thai,T13,Branca,100.00,2026-10-15,,Atrasado,2.00,12,11,91.7,Sim
+1230,Rafael Barros,Jiu-jitsu,T14,Amarela,120.00,2026-09-10,,Atrasado,2.40,7,5,71.4,Não
+1236,Vitória Nascimento,Jiu-jitsu,T09,Branca,115.00,2026-11-25,,Em aberto,0.00,18,11,61.1,Não
+1239,Pedro Santos,Jiu-jitsu,T07,Cinza,150.00,2026-10-20,2026-10-13,Pago,0.00,9,3,33.3,Não
+1252,Gabriela Castro,Jiu-jitsu,T01,Branca,175.00,2026-10-22,,Atrasado,3.50,13,4,30.8,Não
+1255,Valentina Ramos,Jiu-jitsu,T10,Amarela,160.00,2026-11-05,,Em aberto,0.00,11,7,63.6,Não
+1257,Paula Araújo,Jiu-jitsu,T14,Roxa,125.00,2026-10-25,2026-10-13,Pago,0.00,18,17,94.4,Sim
+1258,Luana Pereira,Jiu-jitsu,T13,Branca,145.00,2026-11-05,2026-10-29,Pago,0.00,8,8,100.0,Sim
+1260,Paula Fonseca,Jiu-jitsu,T11,Branca,100.00,2026-11-07,2026-10-31,Pago,0.00,15,12,80.0,Sim
+1267,Lucas Araújo,Judô,T06,Cinza,145.00,2026-09-12,,Atrasado,2.90,16,12,75.0,Sim
+1269,Otávio Campos,Jiu-jitsu,T09,Branca,145.00,2026-10-28,,Atrasado,2.90,10,10,100.0,Sim
+1270,Samuel Lima,Muay Thai,T09,Amarela,150.00,2026-11-12,,Em aberto,0.00,15,14,93.3,Sim
+1279,Matheus Reis,Jiu-jitsu,T15,Azul,110.00,2026-09-10,,Atrasado,2.20,13,9,69.2,Não
+1283,Mariana Duarte,Judô,T18,Branca,140.00,2026-09-15,,Atrasado,2.80,14,12,85.7,Sim
+1289,Mariana Castro,Karatê,T07,Verde,110.00,2026-11-12,,Em aberto,0.00,18,11,61.1,Não
+1296,Ana Carvalho,Karatê,T07,Amarela,120.00,2026-11-28,,Em aberto,0.00,11,7,63.6,Não
+1302,Valentina Fonseca Barros,Jiu-jitsu,T18,Cinza,100.00,2026-10-17,,Atrasado,2.00,12,6,50.0,Não
+1303,Mirela Ramos Carvalho,Muay Thai,T08,Cinza,120.00,2026-09-25,2026-09-29,Pago,0.00,7,6,85.7,Sim
+1309,Mariana Araújo,Jiu-jitsu,T12,Cinza,125.00,2026-10-28,2026-10-18,Pago,0.00,17,16,94.1,Sim
+1310,Ricardo Reis,Jiu-jitsu,T06,Branca,145.00,2026-09-20,,Atrasado,2.90,15,11,73.3,Não
+1311,Mariana Silva Freitas,Jiu-jitsu,T02,Verde,145.00,2026-10-07,,Atrasado,2.90,7,5,71.4,Não
+1314,Fábio Monteiro,Muay Thai,T03,Cinza,175.00,2026-11-20,,Em aberto,0.00,7,4,57.1,Não
+1321,Valentina Lopes,Judô,T06,Cinza,110.00,2026-10-28,2026-10-18,Pago,0.00,11,9,81.8,Sim
+1322,Paula Campos Medeiros,Jiu-jitsu,T03,Branca,110.00,2026-11-28,,Em aberto,0.00,14,12,85.7,Sim
+1328,Larissa Pereira Borges,Judô,T01,Laranja,195.00,2026-10-10,2026-09-29,Pago,0.00,16,5,31.2,Não
+1331,Renata Sousa,Jiu-jitsu,T11,Azul,110.00,2026-11-07,,Em aberto,0.00,11,8,72.7,Não
+1333,Fábio Gomes,Muay Thai,T05,Amarela,145.00,2026-09-22,2026-09-21,Pago,0.00,9,6,66.7,Não
+1335,Fernanda Cardoso,Jiu-jitsu,T14,Laranja,175.00,2026-10-10,,Atrasado,3.50,8,7,87.5,Sim
+1341,Rafaela Carvalho Batista,Muay Thai,T10,Branca,125.00,2026-10-20,2026-10-23,Pago,0.00,17,13,76.5,Sim
+1348,Beatriz Teixeira,Judô,T09,Amarela,150.00,2026-11-10,,Em aberto,0.00,13,8,61.5,Não
+1354,Daniela Gomes,Jiu-jitsu,T07,Amarela,145.00,2026-09-10,2026-08-28,Pago,0.00,8,3,37.5,Não
+1356,Otávio Reis,Jiu-jitsu,T18,Branca,125.00,2026-09-17,,Atrasado,2.50,15,11,73.3,Não
+1358,Isabela Reis,Jiu-jitsu,T15,Branca,130.00,2026-10-28,2026-10-27,Pago,0.00,12,8,66.7,Não
+1359,Beatriz Silva Ramos,Jiu-jitsu,T07,Azul,140.00,2026-10-10,,Atrasado,2.80,13,8,61.5,Não
+1366,Felipe Cardoso,Jiu-jitsu,T02,Marrom,110.00,2026-11-15,,Em aberto,0.00,16,15,93.8,Sim
+1374,Elisa Barbosa,Muay Thai,T07,Branca,180.00,2026-10-20,2026-10-20,Pago,0.00,8,5,62.5,Não
+1378,Fábio Campos,Karatê,T18,Branca,130.00,2026-10-25,2026-10-20,Pago,0.00,10,10,100.0,Sim
+1379,Caio Mendes,Jiu-jitsu,T17,Amarela,160.00,2026-11-05,2026-10-29,Pago,0.00,12,7,58.3,Não
+1380,Vitória Melo Costa,Judô,T05,Cinza,125.00,2026-10-25,,Atrasado,2.50,17,5,29.4,Não
+1382,Rafael Medeiros,Muay Thai,T03,Verde,100.00,2026-10-28,2026-10-29,Pago,0.00,9,5,55.6,Não
+1384,Luana Mendes,Jiu-jitsu,T11,Amarela,120.00,2026-10-25,,Atrasado,2.40,15,13,86.7,Sim
+1388,Paula Andrade,Jiu-jitsu,T02,Branca,150.00,2026-11-22,,Em aberto,0.00,12,10,83.3,Sim
+1389,Gabriel Campos,Karatê,T16,Amarela,120.00,2026-11-05,2026-10-29,Pago,0.00,16,15,93.8,Sim
+1391,Larissa Cardoso Dias,Judô,T16,Marrom,115.00,2026-10-20,2026-10-27,Pago,0.00,14,7,50.0,Não
+1393,Gabriel Rocha Dias,Jiu-jitsu,T15,Amarela,95.00,2026-10-12,2026-10-06,Pago,0.00,7,4,57.1,Não
+1400,Yasmin Ribeiro,Muay Thai,T18,Branca,115.00,2026-10-20,,Atrasado,2.30,17,13,76.5,Sim
+1401,Mirela Lopes Gomes,Jiu-jitsu,T06,Laranja,110.00,2026-11-20,,Em aberto,0.00,17,14,82.4,Sim
+1404,Matheus Gonçalves,Jiu-jitsu,T05,Verde,210.00,2026-11-28,,Em aberto,0.00,7,6,85.7,Sim
+1412,Rafael Rodrigues Santos,Jiu-jitsu,T01,Azul,130.00,2026-10-20,,Atrasado,2.60,18,16,88.9,Sim
+1413,Renata Nascimento Ferreira,Jiu-jitsu,T05,Amarela,180.00,2026-09-05,2026-09-02,Pago,0.00,9,8,88.9,Sim
+1415,Gabriela Freitas,Jiu-jitsu,T07,Amarela,100.00,2026-10-17,,Atrasado,2.00,8,8,100.0,Sim
+1418,Caio Rocha Lima,Muay Thai,T06,Roxa,120.00,2026-11-07,,Em aberto,0.00,8,4,50.0,Não
+1424,Gustavo Martins,Muay Thai,T14,Laranja,85.00,2026-10-05,2026-10-01,Pago,0.00,7,5,71.4,Não
+1425,Renata Araújo,Jiu-jitsu,T08,Azul,95.00,2026-11-07,,Em aberto,0.00,18,13,72.2,Não
+1427,Paula Soares,Jiu-jitsu,T11,Azul,100.00,2026-10-20,,Atrasado,2.00,17,16,94.1,Sim
+1431,Daniela Vieira,Muay Thai,T12,Branca,140.00,2026-10-07,,Atrasado,2.80,17,12,70.6,Não
+1432,Mirela Batista Gomes,Jiu-jitsu,T06,Roxa,175.00,2026-10-22,,Atrasado,3.50,15,12,80.0,Sim
+1434,Camila Barbosa,Muay Thai,T16,Azul,150.00,2026-11-10,,Em aberto,0.00,18,17,94.4,Sim
+1435,Camila Oliveira Cardoso,Judô,T04,Amarela,130.00,2026-11-22,,Em aberto,0.00,7,3,42.9,Não
+1438,Camila Dias Moreira,Muay Thai,T18,Branca,125.00,2026-11-25,,Em aberto,0.00,10,7,70.0,Não
+1442,Heloísa Nogueira,Jiu-jitsu,T09,Branca,100.00,2026-11-05,,Em aberto,0.00,15,9,60.0,Não
+1448,Fábio Ramos,Judô,T07,Amarela,145.00,2026-11-22,2026-10-31,Pago,0.00,16,15,93.8,Sim
+1449,Larissa Moreira,Muay Thai,T15,Azul,140.00,2026-10-10,,Atrasado,2.80,11,9,81.8,Sim
+1456,Pedro Nascimento Ferreira,Muay Thai,T06,Verde,110.00,2026-10-17,2026-10-22,Pago,0.00,13,12,92.3,Sim
+1462,Diego Coelho,Jiu-jitsu,T17,Amarela,120.00,2026-10-10,,Atrasado,2.40,10,7,70.0,Não
+1463,Beatriz Santos,Jiu-jitsu,T02,Branca,100.00,2026-11-22,,Em aberto,0.00,12,10,83.3,Sim
+1467,Luana Moura,Muay Thai,T07,Azul,100.00,2026-10-28,2026-10-20,Pago,0.00,18,5,27.8,Não
+1471,Vitória Moura,Muay Thai,T12,Azul,110.00,2026-11-22,,Em aberto,0.00,14,10,71.4,Não
+1475,Caio Soares,Karatê,T10,Branca,175.00,2026-11-22,,Em aberto,0.00,16,12,75.0,Sim
+1476,Samuel Nascimento,Muay Thai,T10,Amarela,110.00,2026-10-25,2026-10-30,Pago,0.00,16,15,93.8,Sim
+1485,Marcelo Oliveira,Jiu-jitsu,T05,Amarela,120.00,2026-10-15,,Atrasado,2.40,7,3,42.9,Não
+1487,Thiago Barbosa,Jiu-jitsu,T11,Cinza,125.00,2026-10-17,2026-10-15,Pago,0.00,13,10,76.9,Sim
+1490,Marcelo Monteiro Melo,Jiu-jitsu,T13,Azul,110.00,2026-10-12,,Atrasado,2.20,11,8,72.7,Não
+1498,Rafael Santos,Jiu-jitsu,T13,Laranja,110.00,2026-10-07,,Atrasado,2.20,10,8,80.0,Sim
+1499,Eduardo Santos,Jiu-jitsu,T02,Branca,125.00,2026-10-17,2026-10-04,Pago,0.00,11,6,54.5,Não
+1501,Elisa Xavier,Jiu-jitsu,T06,Amarela,100.00,2026-10-20,2026-10-18,Pago,0.00,8,6,75.0,Sim
+1503,Mirela Rocha,Judô,T08,Branca,125.00,2026-11-15,,Em aberto,0.00,14,5,35.7,Não
+1505,Júlia Rocha,Karatê,T16,Amarela,140.00,2026-10-05,,Atrasado,2.80,15,12,80.0,Sim
+1507,Lucas Lima,Judô,T12,Laranja,145.00,2026-10-10,,Atrasado,2.90,13,7,53.8,Não
+1508,João Marques Xavier,Jiu-jitsu,T02,Laranja,130.00,2026-10-22,2026-10-12,Pago,0.00,11,4,36.4,Não
+1509,Mariana Fonseca,Jiu-jitsu,T13,Amarela,130.00,2026-11-28,,Em aberto,0.00,11,10,90.9,Sim
+1510,João Rocha,Judô,T06,Branca,110.00,2026-10-25,,Atrasado,2.20,16,11,68.8,Não
+1511,Bruno Sousa,Jiu-jitsu,T03,Branca,120.00,2026-11-20,2026-11-02,Pago,0.00,9,6,66.7,Não
+1521,Ana Ribeiro Monteiro,Judô,T08,Branca,145.00,2026-11-28,2026-11-02,Pago,0.00,9,6,66.7,Não
+1523,Leonardo Figueiredo Vieira,Karatê,T18,Laranja,120.00,2026-11-22,2026-10-28,Pago,0.00,7,6,85.7,Sim
+1525,Vitória Machado,Judô,T07,Branca,210.00,2026-09-28,2026-09-17,Pago,0.00,12,9,75.0,Sim
+1526,Eduardo Oliveira,Jiu-jitsu,T13,Branca,115.00,2026-11-10,,Em aberto,0.00,14,11,78.6,Sim
+1537,Caio Gomes,Jiu-jitsu,T05,Verde,210.00,2026-10-12,,Atrasado,4.20,11,5,45.5,Não
+1541,Beatriz Araújo,Karatê,T15,Branca,130.00,2026-11-07,,Em aberto,0.00,10,10,100.0,Sim
+1543,Fernanda Machado,Muay Thai,T06,Laranja,100.00,2026-10-05,2026-10-11,Pago,0.00,13,8,61.5,Não
+1549,Diego Figueiredo,Jiu-jitsu,T10,Branca,175.00,2026-10-05,,Atrasado,3.50,15,5,33.3,Não
+1550,Paula Rocha,Muay Thai,T18,Branca,160.00,2026-10-20,2026-10-25,Pago,0.00,9,6,66.7,Não
+1551,Natália Costa,Muay Thai,T06,Cinza,175.00,2026-11-28,2026-11-01,Pago,0.00,15,8,53.3,Não
+1555,Júlia Silva,Muay Thai,T13,Amarela,100.00,2026-11-25,,Em aberto,0.00,10,10,100.0,Sim
+1556,Bruno Lima Andrade,Muay Thai,T10,Amarela,120.00,2026-10-10,2026-10-04,Pago,0.00,17,11,64.7,Não
+1558,Matheus Moraes,Jiu-jitsu,T09,Branca,110.00,2026-10-22,2026-10-11,Pago,0.00,8,6,75.0,Sim
+1561,Diego Campos,Muay Thai,T06,Laranja,120.00,2026-11-22,2026-11-02,Pago,0.00,8,5,62.5,Não
+1568,Sofia Oliveira,Jiu-jitsu,T18,Verde,160.00,2026-10-20,2026-10-15,Pago,0.00,9,4,44.4,Não
+1570,João Lopes Ferreira,Judô,T05,Laranja,145.00,2026-10-17,2026-10-18,Pago,0.00,11,9,81.8,Sim
+1576,Paula Barbosa Monteiro,Jiu-jitsu,T07,Roxa,175.00,2026-11-22,,Em aberto,0.00,7,5,71.4,Não
+1582,Eduardo Oliveira Teixeira,Jiu-jitsu,T06,Marrom,160.00,2026-10-10,2026-09-28,Pago,0.00,7,4,57.1,Não
+1584,Caio Carvalho,Muay Thai,T12,Branca,95.00,2026-11-12,2026-10-29,Pago,0.00,10,8,80.0,Sim
+1585,Larissa Machado,Muay Thai,T01,Verde,130.00,2026-10-10,2026-10-10,Pago,0.00,12,8,66.7,Não
+1586,Pedro Soares,Muay Thai,T04,Amarela,115.00,2026-10-20,2026-10-09,Pago,0.00,18,15,83.3,Sim
+1587,Gabriel Santos,Muay Thai,T12,Amarela,95.00,2026-10-17,,Atrasado,1.90,13,11,84.6,Sim
+1595,Rafael Carvalho,Jiu-jitsu,T13,Verde,160.00,2026-10-15,,Atrasado,3.20,11,10,90.9,Sim
+1596,Felipe Duarte Medeiros,Karatê,T12,Amarela,95.00,2026-10-12,2026-10-04,Pago,0.00,18,10,55.6,Não
+1600,Fábio Vieira,Judô,T03,Branca,130.00,2026-10-20,,Atrasado,2.60,14,13,92.9,Sim
+1603,Ana Moraes,Jiu-jitsu,T08,Verde,120.00,2026-10-25,,Atrasado,2.40,13,9,69.2,Não
+1604,Rafaela Ramos,Judô,T13,Branca,120.00,2026-10-25,,Atrasado,2.40,12,9,75.0,Sim
+1605,Matheus Moura,Jiu-jitsu,T05,Azul,120.00,2026-11-15,,Em aberto,0.00,13,8,61.5,Não
+1606,Diego Melo,Jiu-jitsu,T01,Laranja,120.00,2026-11-05,,Em aberto,0.00,14,13,92.9,Sim
+1613,Renata Santos,Jiu-jitsu,T09,Roxa,145.00,2026-11-05,,Em aberto,0.00,8,7,87.5,Sim
+1617,Gabriel Dias Lopes,Jiu-jitsu,T02,Branca,130.00,2026-09-22,2026-09-17,Pago,0.00,11,8,72.7,Não
+1623,João Moraes,Muay Thai,T18,Branca,145.00,2026-10-20,2026-10-18,Pago,0.00,11,9,81.8,Sim
+1630,Otávio Dias,Jiu-jitsu,T05,Amarela,140.00,2026-10-07,,Atrasado,2.80,9,8,88.9,Sim
+1632,Leonardo Duarte,Jiu-jitsu,T07,Verde,145.00,2026-11-25,,Em aberto,0.00,7,4,57.1,Não
+1639,Daniel Lopes Figueiredo,Jiu-jitsu,T01,Laranja,125.00,2026-09-17,2026-09-17,Pago,0.00,15,11,73.3,Não
+1641,Daniela Barbosa,Jiu-jitsu,T11,Cinza,160.00,2026-11-10,,Em aberto,0.00,15,8,53.3,Não
+1642,Samuel Martins,Karatê,T01,Cinza,130.00,2026-10-10,,Atrasado,2.60,8,7,87.5,Sim
+1643,Elisa Ribeiro Reis,Muay Thai,T08,Azul,125.00,2026-10-17,2026-10-05,Pago,0.00,11,5,45.5,Não
+1645,Mirela Reis,Judô,T16,Amarela,140.00,2026-10-12,2026-10-08,Pago,0.00,18,11,61.1,Não
+1652,Gabriela Borges Borges,Karatê,T10,Amarela,100.00,2026-10-17,2026-10-21,Pago,0.00,17,11,64.7,Não
+1653,Valentina Teixeira Moreira,Judô,T09,Branca,110.00,2026-10-10,,Atrasado,2.20,17,13,76.5,Sim
+1654,Ana Sousa Ramos,Jiu-jitsu,T14,Cinza,120.00,2026-11-15,,Em aberto,0.00,12,11,91.7,Sim
+1655,Sofia Oliveira,Jiu-jitsu,T01,Branca,120.00,2026-11-07,2026-10-30,Pago,0.00,11,9,81.8,Sim
+1657,Vinícius Carvalho,Jiu-jitsu,T07,Branca,130.00,2026-10-10,2026-09-27,Pago,0.00,13,13,100.0,Sim
+1661,Paula Silva Cunha,Jiu-jitsu,T05,Amarela,120.00,2026-10-28,,Atrasado,2.40,15,9,60.0,Não
+1662,Rafaela Lopes,Muay Thai,T16,Amarela,145.00,2026-10-05,2026-10-11,Pago,0.00,14,12,85.7,Sim
+1668,Pedro Duarte,Jiu-jitsu,T10,Branca,195.00,2026-10-28,2026-10-17,Pago,0.00,16,10,62.5,Não
+1670,Sofia Amaral,Muay Thai,T13,Verde,120.00,2026-11-17,,Em aberto,0.00,16,6,37.5,Não
+1677,Helena Coelho,Muay Thai,T10,Branca,110.00,2026-11-17,,Em aberto,0.00,11,5,45.5,Não
+1679,Daniel Ferreira Gonçalves,Muay Thai,T01,Amarela,130.00,2026-10-20,2026-10-11,Pago,0.00,10,6,60.0,Não
+1682,Valentina Figueiredo,Jiu-jitsu,T13,Branca,110.00,2026-10-15,,Atrasado,2.20,10,6,60.0,Não
+1686,Pedro Duarte Figueiredo,Jiu-jitsu,T03,Laranja,180.00,2026-11-12,,Em aberto,0.00,17,12,70.6,Não
+1689,Gustavo Moraes,Judô,T01,Amarela,120.00,2026-11-22,2026-10-29,Pago,0.00,9,8,88.9,Sim
+1691,Sofia Nogueira,Jiu-jitsu,T16,Amarela,130.00,2026-10-17,2026-10-13,Pago,0.00,12,7,58.3,Não
+1693,Manuela Carvalho Vieira,Karatê,T11,Cinza,120.00,2026-10-28,2026-10-25,Pago,0.00,8,5,62.5,Não
+1699,Vitória Teixeira,Judô,T03,Cinza,85.00,2026-11-07,,Em aberto,0.00,10,9,90.0,Sim
+1701,Diego Amaral,Muay Thai,T04,Azul,120.00,2026-10-07,,Atrasado,2.40,9,7,77.8,Sim
+1702,Natália Borges Xavier,Jiu-jitsu,T12,Amarela,100.00,2026-10-12,,Atrasado,2.00,16,12,75.0,Sim
+1709,Otávio Coelho,Muay Thai,T18,Laranja,130.00,2026-10-25,2026-10-26,Pago,0.00,11,8,72.7,Não
+1711,Ricardo Cardoso,Muay Thai,T16,Branca,120.00,2026-10-25,2026-10-31,Pago,0.00,7,5,71.4,Não
+1712,Fernanda Melo,Muay Thai,T08,Verde,150.00,2026-10-17,2026-10-15,Pago,0.00,14,10,71.4,Não
+1713,Samuel Mendes,Judô,T09,Cinza,210.00,2026-11-22,,Em aberto,0.00,8,6,75.0,Sim
+1715,Natália Marques,Jiu-jitsu,T15,Roxa,150.00,2026-10-17,,Atrasado,3.00,16,12,75.0,Sim
+1724,Pedro Lima,Karatê,T09,Laranja,180.00,2026-09-10,2026-09-13,Pago,0.00,17,9,52.9,Não
+1725,Gabriela Nogueira,Jiu-jitsu,T13,Verde,115.00,2026-10-17,2026-10-14,Pago,0.00,9,8,88.9,Sim
+1726,Elaine Moreira,Jiu-jitsu,T01,Amarela,120.00,2026-11-25,,Em aberto,0.00,8,4,50.0,Não
+1727,Renata Teixeira,Judô,T14,Branca,115.00,2026-11-25,2026-11-02,Pago,0.00,18,8,44.4,Não
+1735,Rafaela Batista Reis,Muay Thai,T08,Branca,130.00,2026-10-22,,Atrasado,2.60,15,15,100.0,Sim
+1739,Mariana Silva,Judô,T07,Branca,120.00,2026-11-25,,Em aberto,0.00,11,6,54.5,Não
+1740,Ricardo Dias,Jiu-jitsu,T10,Cinza,95.00,2026-10-28,,Atrasado,1.90,10,7,70.0,Não
+1742,Manuela Moreira,Jiu-jitsu,T11,Branca,145.00,2026-10-28,,Atrasado,2.90,7,3,42.9,Não
+1744,Manuela Ribeiro Martins,Karatê,T04,Verde,120.00,2026-11-25,,Em aberto,0.00,11,8,72.7,Não
+1750,Beatriz Teixeira Reis,Jiu-jitsu,T18,Branca,175.00,2026-11-28,2026-10-29,Pago,0.00,9,7,77.8,Sim
+1751,Ricardo Dias Figueiredo,Judô,T06,Branca,120.00,2026-10-20,,Atrasado,2.40,9,5,55.6,Não
+1755,Paula Amaral,Muay Thai,T05,Azul,85.00,2026-11-12,,Em aberto,0.00,17,13,76.5,Sim
+1756,Bruno Lopes,Muay Thai,T15,Branca,145.00,2026-09-28,2026-09-20,Pago,0.00,7,7,100.0,Sim
+1757,Gabriela Moraes,Judô,T14,Cinza,110.00,2026-10-12,,Atrasado,2.20,15,13,86.7,Sim
+1758,Gabriela Monteiro,Judô,T13,Amarela,100.00,2026-11-17,,Em aberto,0.00,9,4,44.4,Não
+1760,Paula Almeida,Judô,T03,Amarela,195.00,2026-11-10,,Em aberto,0.00,10,9,90.0,Sim
+1761,Rafaela Ramos,Judô,T04,Marrom,125.00,2026-11-25,,Em aberto,0.00,11,6,54.5,Não
+1762,Felipe Melo,Jiu-jitsu,T14,Azul,175.00,2026-10-28,2026-10-19,Pago,0.00,18,17,94.4,Sim
+1766,Matheus Gomes,Jiu-jitsu,T18,Branca,120.00,2026-10-05,,Atrasado,2.40,17,16,94.1,Sim
+1770,Rafael Vieira,Muay Thai,T12,Branca,120.00,2026-11-17,,Em aberto,0.00,11,6,54.5,Não
+1771,Bruno Ferreira Sousa,Jiu-jitsu,T11,Branca,145.00,2026-10-25,2026-10-15,Pago,0.00,15,7,46.7,Não
+1774,César Campos,Muay Thai,T14,Branca,140.00,2026-10-05,2026-10-03,Pago,0.00,10,9,90.0,Sim
+1778,Paula Gomes Teixeira,Karatê,T03,Roxa,140.00,2026-10-17,,Atrasado,2.80,9,4,44.4,Não
+1780,Caio Silva Martins,Jiu-jitsu,T05,Cinza,180.00,2026-11-10,,Em aberto,0.00,13,6,46.2,Não
+1781,Paula Lopes,Jiu-jitsu,T08,Laranja,125.00,2026-10-22,2026-10-21,Pago,0.00,17,7,41.2,Não
+1784,Ricardo Dias,Jiu-jitsu,T02,Amarela,110.00,2026-10-22,2026-10-12,Pago,0.00,16,12,75.0,Sim
+1787,Rafael Batista Xavier,Muay Thai,T06,Branca,115.00,2026-11-07,,Em aberto,0.00,11,9,81.8,Sim
+1788,Leonardo Mendes,Judô,T14,Azul,150.00,2026-10-28,2026-10-28,Pago,0.00,12,9,75.0,Sim
+1790,Daniel Andrade Melo,Jiu-jitsu,T05,Laranja,150.00,2026-11-12,,Em aberto,0.00,17,15,88.2,Sim
+1791,Larissa Campos,Jiu-jitsu,T18,Azul,115.00,2026-10-28,,Atrasado,2.30,13,10,76.9,Sim
+1794,Fernanda Coelho,Jiu-jitsu,T17,Branca,125.00,2026-10-07,2026-10-10,Pago,0.00,9,8,88.9,Sim
+1796,Eduardo Campos,Muay Thai,T05,Azul,125.00,2026-10-07,2026-10-08,Pago,0.00,11,7,63.6,Não
+1804,Vitória Vieira,Jiu-jitsu,T16,Marrom,110.00,2026-09-05,2026-09-10,Pago,0.00,15,13,86.7,Sim
+1811,Vinícius Figueiredo,Jiu-jitsu,T12,Verde,140.00,2026-10-10,2026-09-29,Pago,0.00,8,7,87.5,Sim
+1812,Daniela Amaral,Judô,T13,Cinza,130.00,2026-11-15,,Em aberto,0.00,15,10,66.7,Não
+1815,Vitória Sousa,Judô,T02,Azul,120.00,2026-11-05,,Em aberto,0.00,8,6,75.0,Sim
+1817,Caio Freitas,Jiu-jitsu,T08,Branca,125.00,2026-10-22,,Atrasado,2.50,17,13,76.5,Sim
+1820,Helena Campos Reis,Jiu-jitsu,T16,Amarela,120.00,2026-10-10,,Atrasado,2.40,16,9,56.2,Não
+1821,Igor Costa,Jiu-jitsu,T02,Branca,125.00,2026-10-05,,Atrasado,2.50,11,10,90.9,Sim
+1828,Renata Nogueira,Jiu-jitsu,T07,Amarela,160.00,2026-10-17,,Atrasado,3.20,11,7,63.6,Não
+1831,Natália Gonçalves,Jiu-jitsu,T11,Roxa,100.00,2026-11-25,,Em aberto,0.00,13,10,76.9,Sim
+1833,Paula Soares,Muay Thai,T16,Marrom,110.00,2026-10-07,2026-10-02,Pago,0.00,12,5,41.7,Não
+1837,Elaine Reis,Jiu-jitsu,T05,Branca,145.00,2026-10-28,2026-10-15,Pago,0.00,15,11,73.3,Não
+1838,Samuel Rocha,Muay Thai,T14,Branca,120.00,2026-10-22,,Atrasado,2.40,7,5,71.4,Não
+1845,Pedro Moura Lopes,Jiu-jitsu,T01,Laranja,160.00,2026-11-15,2026-11-02,Pago,0.00,8,8,100.0,Sim
+1846,Gustavo Oliveira,Judô,T06,Laranja,115.00,2026-10-25,,Atrasado,2.30,12,8,66.7,Não
+1847,Marcelo Sousa,Jiu-jitsu,T17,Verde,145.00,2026-10-05,2026-10-04,Pago,0.00,8,2,25.0,Não
+1854,Fernanda Santos,Muay Thai,T15,Verde,120.00,2026-09-05,2026-09-12,Pago,0.00,9,7,77.8,Sim
+1858,Gustavo Amaral,Karatê,T03,Roxa,110.00,2026-10-07,2026-10-09,Pago,0.00,12,7,58.3,Não
+1862,Mariana Batista,Muay Thai,T03,Branca,150.00,2026-11-25,,Em aberto,0.00,17,13,76.5,Sim
+1864,Manuela Cunha,Judô,T12,Branca,100.00,2026-10-05,2026-09-26,Pago,0.00,16,15,93.8,Sim
+1865,Vitória Gonçalves Fonseca,Jiu-jitsu,T18,Amarela,130.00,2026-10-12,2026-10-06,Pago,0.00,18,13,72.2,Não
+1871,Ana Cardoso,Judô,T14,Branca,95.00,2026-10-17,2026-10-17,Pago,0.00,12,9,75.0,Sim
+1873,Daniela Santos,Judô,T09,Verde,120.00,2026-10-12,2026-10-04,Pago,0.00,12,2,16.7,Não
+1875,Lucas Moura,Jiu-jitsu,T17,Verde,130.00,2026-10-05,2026-10-03,Pago,0.00,8,5,62.5,Não
+1876,Pedro Vieira Lima,Jiu-jitsu,T09,Cinza,120.00,2026-10-15,2026-10-22,Pago,0.00,15,12,80.0,Sim
+1877,Júlia Costa,Muay Thai,T04,Branca,145.00,2026-11-20,,Em aberto,0.00,15,13,86.7,Sim
+1879,Samuel Lopes,Muay Thai,T02,Verde,195.00,2026-11-12,2026-10-28,Pago,0.00,13,10,76.9,Sim
+1880,Wesley Castro,Jiu-jitsu,T15,Branca,100.00,2026-10-17,,Atrasado,2.00,15,11,73.3,Não
+1882,Matheus Gomes,Judô,T04,Azul,120.00,2026-10-15,2026-10-14,Pago,0.00,18,17,94.4,Sim
+1883,Samuel Mendes Silva,Karatê,T06,Branca,100.00,2026-11-10,,Em aberto,0.00,7,3,42.9,Não
+1887,Ana Rodrigues,Muay Thai,T13,Branca,120.00,2026-09-12,2026-08-30,Pago,0.00,12,10,83.3,Sim
+1888,Bruno Pereira,Jiu-jitsu,T12,Azul,100.00,2026-09-15,2026-09-02,Pago,0.00,8,6,75.0,Sim
+1897,Caio Ferreira Santos,Jiu-jitsu,T03,Cinza,130.00,2026-11-22,,Em aberto,0.00,9,5,55.6,Não
+1898,Mariana Barbosa,Muay Thai,T07,Azul,110.00,2026-11-07,,Em aberto,0.00,15,10,66.7,Não
+1899,Ricardo Machado,Judô,T16,Branca,110.00,2026-10-12,2026-09-30,Pago,0.00,12,7,58.3,Não
+1902,Daniela Gomes,Muay Thai,T10,Cinza,130.00,2026-10-07,,Atrasado,2.60,13,12,92.3,Sim
+1903,Lucas Carvalho,Jiu-jitsu,T16,Cinza,120.00,2026-10-07,,Atrasado,2.40,10,8,80.0,Sim
+1910,Helena Moura,Jiu-jitsu,T14,Branca,110.00,2026-11-15,2026-10-29,Pago,0.00,16,13,81.2,Sim
+1914,Elaine Gomes Coelho,Jiu-jitsu,T14,Marrom,140.00,2026-10-22,2026-10-24,Pago,0.00,15,11,73.3,Não
+1921,João Almeida Marques,Jiu-jitsu,T16,Azul,175.00,2026-10-10,2026-10-14,Pago,0.00,13,7,53.8,Não
+1922,Renata Melo Carvalho,Muay Thai,T11,Amarela,120.00,2026-10-05,2026-10-02,Pago,0.00,9,8,88.9,Sim
+1929,Ricardo Vieira Gonçalves,Muay Thai,T17,Branca,145.00,2026-11-10,,Em aberto,0.00,17,12,70.6,Não
+1930,João Melo,Jiu-jitsu,T01,Amarela,160.00,2026-11-20,,Em aberto,0.00,10,6,60.0,Não
+1931,Larissa Cardoso,Jiu-jitsu,T01,Verde,145.00,2026-10-07,2026-10-07,Pago,0.00,18,10,55.6,Não
+1942,Eduardo Soares Vieira,Muay Thai,T07,Verde,120.00,2026-10-10,2026-10-05,Pago,0.00,18,13,72.2,Não
+1946,Mirela Gonçalves,Jiu-jitsu,T03,Azul,110.00,2026-11-28,2026-10-29,Pago,0.00,18,15,83.3,Sim
+1950,Otávio Lopes Andrade,Jiu-jitsu,T13,Verde,110.00,2026-10-07,,Atrasado,2.20,12,7,58.3,Não
+1951,Vinícius Nogueira,Muay Thai,T05,Verde,110.00,2026-10-12,2026-10-10,Pago,0.00,15,13,86.7,Sim
+1953,Thiago Moreira,Jiu-jitsu,T09,Verde,120.00,2026-10-07,2026-10-02,Pago,0.00,13,9,69.2,Não
+1959,Ana Costa,Judô,T16,Branca,110.00,2026-11-22,,Em aberto,0.00,8,7,87.5,Sim
+1963,Elisa Amaral,Judô,T17,Laranja,175.00,2026-10-17,,Atrasado,3.50,17,11,64.7,Não
+1970,Matheus Duarte,Judô,T10,Azul,120.00,2026-10-07,,Atrasado,2.40,18,10,55.6,Não
+1976,Thiago Barbosa,Jiu-jitsu,T03,Cinza,125.00,2026-11-17,2026-11-02,Pago,0.00,13,12,92.3,Sim
+1977,César Coelho,Jiu-jitsu,T18,Amarela,145.00,2026-10-25,2026-10-16,Pago,0.00,17,12,70.6,Não
+1984,Ana Almeida,Karatê,T05,Azul,125.00,2026-10-07,,Atrasado,2.50,14,10,71.4,Não
+1985,Manuela Marques,Jiu-jitsu,T04,Cinza,115.00,2026-10-07,2026-10-14,Pago,0.00,14,11,78.6,Sim
+1987,Pedro Martins,Jiu-jitsu,T02,Verde,145.00,2026-11-15,,Em aberto,0.00,15,8,53.3,Não
+1988,Isabela Ramos,Jiu-jitsu,T07,Branca,145.00,2026-10-05,2026-09-29,Pago,0.00,15,13,86.7,Sim
+2001,Rafaela Pinto Marques,Judô,T17,Branca,145.00,2026-10-28,2026-10-27,Pago,0.00,16,12,75.0,Sim
+2008,Isabela Rodrigues,Jiu-jitsu,T16,Branca,120.00,2026-10-07,,Atrasado,2.40,9,7,77.8,Sim
+2011,Heloísa Barbosa Coelho,Jiu-jitsu,T04,Branca,150.00,2026-11-07,,Em aberto,0.00,12,7,58.3,Não
+2017,Otávio Reis,Jiu-jitsu,T16,Branca,130.00,2026-10-07,,Atrasado,2.60,16,9,56.2,Não
+2018,Bruno Nascimento,Judô,T14,Laranja,110.00,2026-11-12,,Em aberto,0.00,15,12,80.0,Sim
+2019,Caio Melo,Muay Thai,T02,Laranja,95.00,2026-10-20,2026-10-09,Pago,0.00,9,6,66.7,Não
+2023,Camila Freitas,Jiu-jitsu,T14,Laranja,100.00,2026-10-10,2026-10-04,Pago,0.00,8,7,87.5,Sim
+2027,André Moraes,Jiu-jitsu,T01,Verde,125.00,2026-11-20,2026-10-29,Pago,0.00,16,12,75.0,Sim
+2029,César Moraes,Jiu-jitsu,T06,Azul,145.00,2026-10-20,,Atrasado,2.90,15,8,53.3,Não
+2030,Matheus Santos,Jiu-jitsu,T13,Verde,195.00,2026-10-28,,Atrasado,3.90,14,8,57.1,Não
+2032,André Pereira,Muay Thai,T11,Branca,115.00,2026-11-22,,Em aberto,0.00,11,7,63.6,Não
+2038,Lucas Melo,Jiu-jitsu,T14,Amarela,110.00,2026-11-22,,Em aberto,0.00,13,10,76.9,Sim
+2047,Daniela Lima,Jiu-jitsu,T16,Branca,145.00,2026-10-28,,Atrasado,2.90,10,9,90.0,Sim
+2049,Valentina Ferreira Moura,Judô,T14,Verde,175.00,2026-10-22,,Atrasado,3.50,17,15,88.2,Sim
+2056,Samuel Borges,Muay Thai,T04,Roxa,180.00,2026-11-20,,Em aberto,0.00,16,12,75.0,Sim
+2059,Diego Ferreira Sousa,Muay Thai,T17,Amarela,110.00,2026-10-10,,Atrasado,2.20,18,16,88.9,Sim
+2060,Heloísa Andrade,Jiu-jitsu,T16,Laranja,120.00,2026-10-25,,Atrasado,2.40,7,4,57.1,Não
+2066,Larissa Sousa,Jiu-jitsu,T17,Azul,100.00,2026-10-12,2026-10-04,Pago,0.00,10,3,30.0,Não
+2068,Diego Gomes,Jiu-jitsu,T16,Azul,120.00,2026-10-05,,Atrasado,2.40,7,5,71.4,Não
+2074,Eduardo Mendes Lima,Muay Thai,T01,Branca,120.00,2026-10-12,,Atrasado,2.40,10,8,80.0,Sim
+2078,Fernanda Dias,Judô,T04,Laranja,140.00,2026-10-22,2026-10-17,Pago,0.00,16,10,62.5,Não
+2084,Heloísa Silva,Jiu-jitsu,T11,Amarela,115.00,2026-10-25,,Atrasado,2.30,15,12,80.0,Sim
+2086,Igor Fonseca,Muay Thai,T17,Roxa,150.00,2026-10-28,2026-10-26,Pago,0.00,12,9,75.0,Sim
+2092,Sofia Cardoso,Muay Thai,T02,Verde,120.00,2026-11-25,,Em aberto,0.00,17,13,76.5,Sim
+2096,Helena Andrade,Judô,T01,Branca,140.00,2026-09-10,,Atrasado,2.80,18,12,66.7,Não
+2097,Manuela Ramos,Jiu-jitsu,T18,Amarela,120.00,2026-10-12,,Atrasado,2.40,14,11,78.6,Sim
+2103,Larissa Marques,Muay Thai,T01,Amarela,120.00,2026-10-25,2026-10-17,Pago,0.00,13,5,38.5,Não
+2104,Gabriela Castro Borges,Muay Thai,T15,Azul,120.00,2026-11-22,,Em aberto,0.00,18,15,83.3,Sim
+2109,Yasmin Vieira,Jiu-jitsu,T16,Cinza,120.00,2026-10-17,2026-10-07,Pago,0.00,8,6,75.0,Sim
+2111,Valentina Nascimento,Jiu-jitsu,T09,Verde,175.00,2026-10-15,2026-10-16,Pago,0.00,12,9,75.0,Sim
+2112,Igor Lopes,Muay Thai,T06,Branca,180.00,2026-09-22,,Atrasado,3.60,11,9,81.8,Sim
+2113,Natália Costa,Muay Thai,T02,Amarela,140.00,2026-11-10,,Em aberto,0.00,12,9,75.0,Sim
+2117,João Cardoso,Judô,T09,Cinza,115.00,2026-10-17,2026-10-12,Pago,0.00,9,6,66.7,Não
+2120,Pedro Nogueira,Muay Thai,T13,Laranja,120.00,2026-10-22,,Atrasado,2.40,7,6,85.7,Sim
+2121,Fernanda Medeiros,Jiu-jitsu,T12,Amarela,130.00,2026-10-12,,Atrasado,2.60,16,12,75.0,Sim
+2125,Júlia Pinto,Judô,T05,Roxa,115.00,2026-10-25,,Atrasado,2.30,16,11,68.8,Não
+2126,Camila Marques,Judô,T08,Amarela,120.00,2026-10-05,2026-10-07,Pago,0.00,17,12,70.6,Não
+2130,Lucas Mendes,Jiu-jitsu,T03,Branca,160.00,2026-10-22,,Atrasado,3.20,13,6,46.2,Não
+2132,Isabela Marques Gomes,Judô,T13,Amarela,125.00,2026-10-10,,Atrasado,2.50,14,13,92.9,Sim
+2139,Daniel Vieira Duarte,Muay Thai,T15,Amarela,100.00,2026-10-28,2026-10-15,Pago,0.00,9,7,77.8,Sim
+2143,Elaine Pereira Coelho,Karatê,T11,Roxa,145.00,2026-10-17,2026-10-22,Pago,0.00,12,11,91.7,Sim
+2145,Leonardo Reis,Judô,T10,Laranja,145.00,2026-10-10,2026-09-28,Pago,0.00,18,11,61.1,Não
+2153,Otávio Amaral,Judô,T12,Verde,160.00,2026-10-28,2026-10-25,Pago,0.00,13,12,92.3,Sim
+2155,Fernanda Figueiredo,Jiu-jitsu,T15,Laranja,210.00,2026-10-28,,Atrasado,4.20,7,4,57.1,Não
+2157,Ana Batista,Muay Thai,T07,Branca,160.00,2026-10-10,,Atrasado,3.20,13,10,76.9,Sim
+2158,Isabela Martins Sousa,Jiu-jitsu,T09,Azul,150.00,2026-10-17,2026-10-19,Pago,0.00,17,14,82.4,Sim
+2165,Igor Ramos,Judô,T03,Cinza,125.00,2026-10-05,,Atrasado,2.50,17,12,70.6,Não
+2166,Camila Reis,Jiu-jitsu,T14,Branca,195.00,2026-11-07,,Em aberto,0.00,16,11,68.8,Não
+2167,Gustavo Batista,Jiu-jitsu,T07,Branca,195.00,2026-10-05,,Atrasado,3.90,15,13,86.7,Sim
+2169,Gabriel Melo Pinto,Muay Thai,T15,Roxa,180.00,2026-10-05,2026-09-25,Pago,0.00,18,15,83.3,Sim
+2175,Yasmin Fonseca Figueiredo,Judô,T06,Amarela,115.00,2026-11-17,2026-10-28,Pago,0.00,12,8,66.7,Não
+2176,Elisa Soares,Jiu-jitsu,T04,Branca,140.00,2026-10-22,,Atrasado,2.80,11,4,36.4,Não
+2177,Manuela Almeida,Muay Thai,T07,Laranja,120.00,2026-10-15,2026-10-14,Pago,0.00,15,12,80.0,Sim
+2181,Luana Cunha,Judô,T13,Laranja,150.00,2026-11-22,2026-10-29,Pago,0.00,13,11,84.6,Sim
+2188,Helena Cardoso Machado,Muay Thai,T15,Laranja,175.00,2026-10-15,,Atrasado,3.50,16,14,87.5,Sim
+2191,Yasmin Moraes,Jiu-jitsu,T06,Cinza,150.00,2026-10-20,2026-10-17,Pago,0.00,8,5,62.5,Não
+2192,Manuela Nascimento Rodrigues,Muay Thai,T09,Cinza,110.00,2026-10-28,2026-11-02,Pago,0.00,13,13,100.0,Sim
+2193,Eduardo Campos,Jiu-jitsu,T13,Roxa,130.00,2026-10-17,,Atrasado,2.60,9,7,77.8,Sim
+2194,Paula Soares,Jiu-jitsu,T15,Verde,175.00,2026-10-25,2026-10-29,Pago,0.00,12,10,83.3,Sim
+2196,César Amaral Campos,Judô,T10,Marrom,150.00,2026-11-25,,Em aberto,0.00,7,5,71.4,Não
+2198,João Dias Moura,Jiu-jitsu,T16,Verde,120.00,2026-10-15,,Atrasado,2.40,13,12,92.3,Sim
+2205,Igor Machado,Muay Thai,T07,Cinza,130.00,2026-10-25,2026-10-30,Pago,0.00,11,7,63.6,Não
+2209,Igor Ribeiro,Jiu-jitsu,T18,Cinza,140.00,2026-10-17,2026-10-08,Pago,0.00,16,14,87.5,Sim
+2216,Mirela Sousa,Jiu-jitsu,T03,Branca,100.00,2026-10-12,2026-10-02,Pago,0.00,15,14,93.3,Sim
+2219,Caio Carvalho,Muay Thai,T01,Branca,145.00,2026-10-22,,Atrasado,2.90,12,7,58.3,Não
+2225,Helena Silva,Karatê,T02,Verde,150.00,2026-11-07,2026-10-29,Pago,0.00,9,7,77.8,Sim
+2227,Felipe Almeida,Karatê,T11,Laranja,120.00,2026-11-10,,Em aberto,0.00,18,13,72.2,Não
+2228,Gustavo Gonçalves,Jiu-jitsu,T15,Branca,120.00,2026-10-25,,Atrasado,2.40,12,9,75.0,Sim
+2229,Elaine Cardoso,Muay Thai,T14,Laranja,140.00,2026-10-10,2026-10-08,Pago,0.00,13,8,61.5,Não
+2231,Igor Almeida Freitas,Karatê,T02,Azul,145.00,2026-10-17,2026-10-20,Pago,0.00,14,10,71.4,Não
+2232,Leonardo Gonçalves Soares,Muay Thai,T05,Amarela,115.00,2026-10-07,2026-10-14,Pago,0.00,8,6,75.0,Sim
+2235,Yasmin Borges,Muay Thai,T04,Laranja,160.00,2026-10-15,2026-10-21,Pago,0.00,7,4,57.1,Não
+2236,André Ramos Barbosa,Judô,T10,Marrom,130.00,2026-10-17,2026-10-09,Pago,0.00,12,9,75.0,Sim
+2237,Daniel Carvalho Borges,Karatê,T13,Amarela,100.00,2026-10-20,2026-10-10,Pago,0.00,9,7,77.8,Sim
+2240,Bruno Melo,Karatê,T11,Cinza,140.00,2026-10-20,,Atrasado,2.80,17,9,52.9,Não
+2247,Ana Lopes Barros,Jiu-jitsu,T07,Azul,160.00,2026-11-25,,Em aberto,0.00,17,17,100.0,Sim
+2248,Camila Dias,Judô,T17,Branca,125.00,2026-11-17,,Em aberto,0.00,10,8,80.0,Sim
+2251,Caio Fonseca,Jiu-jitsu,T16,Azul,130.00,2026-11-15,,Em aberto,0.00,10,9,90.0,Sim
+2258,Yasmin Vieira,Jiu-jitsu,T15,Marrom,160.00,2026-09-10,2026-09-02,Pago,0.00,13,6,46.2,Não
+2260,Yasmin Lima Marques,Karatê,T14,Verde,130.00,2026-11-20,2026-10-31,Pago,0.00,17,16,94.1,Sim
+2262,Heloísa Pereira,Muay Thai,T09,Cinza,175.00,2026-10-10,,Atrasado,3.50,7,4,57.1,Não
+2264,Thiago Soares Monteiro,Muay Thai,T08,Branca,130.00,2026-09-05,2026-09-09,Pago,0.00,16,10,62.5,Não
+2268,Wesley Ferreira,Jiu-jitsu,T10,Amarela,180.00,2026-10-07,,Atrasado,3.60,10,8,80.0,Sim
+2271,Renata Amaral,Judô,T06,Branca,100.00,2026-10-12,2026-10-15,Pago,0.00,9,4,44.4,Não
+2278,André Batista,Muay Thai,T13,Branca,145.00,2026-11-15,,Em aberto,0.00,13,11,84.6,Sim
+2282,Manuela Barros,Jiu-jitsu,T10,Branca,140.00,2026-10-25,,Atrasado,2.80,7,5,71.4,Não
+2283,Renata Gomes Marques,Jiu-jitsu,T16,Branca,130.00,2026-10-10,2026-10-17,Pago,0.00,7,4,57.1,Não
+2290,Bruno Ramos,Jiu-jitsu,T03,Amarela,130.00,2026-11-15,2026-10-28,Pago,0.00,8,5,62.5,Não
+2293,Heloísa Rocha,Muay Thai,T06,Cinza,160.00,2026-10-05,,Atrasado,3.20,18,12,66.7,Não
+2297,Ricardo Castro Pinto,Muay Thai,T13,Azul,100.00,2026-09-20,2026-09-20,Pago,0.00,16,9,56.2,Não
+2303,Daniela Duarte,Muay Thai,T14,Amarela,115.00,2026-11-07,,Em aberto,0.00,10,9,90.0,Sim
+2305,Beatriz Soares,Karatê,T07,Amarela,120.00,2026-10-22,,Atrasado,2.40,12,10,83.3,Sim
+2308,Sofia Lopes Barros,Jiu-jitsu,T02,Verde,85.00,2026-11-10,2026-11-01,Pago,0.00,8,3,37.5,Não
+2310,Helena Gonçalves,Muay Thai,T17,Marrom,110.00,2026-10-07,2026-09-26,Pago,0.00,14,6,42.9,Não
+2311,Manuela Rodrigues,Karatê,T13,Laranja,150.00,2026-11-10,,Em aberto,0.00,16,13,81.2,Sim
+2312,Vitória Batista,Muay Thai,T03,Branca,120.00,2026-09-15,,Atrasado,2.40,7,4,57.1,Não
+2313,Valentina Cardoso,Muay Thai,T16,Verde,100.00,2026-09-05,,Atrasado,2.00,17,9,52.9,Não
+2320,Matheus Soares,Muay Thai,T12,Amarela,120.00,2026-10-05,,Atrasado,2.40,16,14,87.5,Sim
+2323,Wesley Campos,Jiu-jitsu,T13,Branca,130.00,2026-10-17,2026-10-07,Pago,0.00,13,7,53.8,Não
+2325,Renata Lima Gonçalves,Judô,T13,Branca,120.00,2026-11-05,,Em aberto,0.00,12,7,58.3,Não
+2326,Matheus Batista,Muay Thai,T13,Branca,150.00,2026-10-10,,Atrasado,3.00,13,8,61.5,Não
+2329,Marcelo Amaral,Muay Thai,T09,Amarela,120.00,2026-11-05,,Em aberto,0.00,16,15,93.8,Sim
+2333,Júlia Pinto Cunha,Jiu-jitsu,T07,Azul,180.00,2026-09-25,2026-09-29,Pago,0.00,13,11,84.6,Sim
+2340,Eduardo Cunha,Judô,T14,Laranja,195.00,2026-10-28,2026-10-25,Pago,0.00,14,12,85.7,Sim
+2344,Wesley Carvalho Soares,Muay Thai,T13,Cinza,140.00,2026-10-17,2026-10-22,Pago,0.00,18,6,33.3,Não
+2348,Sofia Figueiredo,Jiu-jitsu,T01,Branca,115.00,2026-11-15,,Em aberto,0.00,18,17,94.4,Sim
+2352,Yasmin Sousa,Jiu-jitsu,T13,Branca,130.00,2026-10-07,2026-09-26,Pago,0.00,12,7,58.3,Não
+2354,Júlia Melo,Karatê,T15,Cinza,85.00,2026-10-28,2026-10-28,Pago,0.00,17,10,58.8,Não
+2361,Yasmin Castro,Judô,T07,Branca,100.00,2026-10-05,2026-09-25,Pago,0.00,17,11,64.7,Não
+2365,Diego Gomes,Judô,T15,Branca,150.00,2026-11-07,2026-11-01,Pago,0.00,10,7,70.0,Não
+2367,Paula Monteiro,Judô,T12,Amarela,115.00,2026-11-25,,Em aberto,0.00,9,6,66.7,Não
+2370,Samuel Castro,Muay Thai,T09,Verde,145.00,2026-10-22,2026-10-17,Pago,0.00,11,10,90.9,Sim
+2376,Leonardo Castro,Muay Thai,T09,Laranja,95.00,2026-11-25,,Em aberto,0.00,7,5,71.4,Não
+2383,André Monteiro,Muay Thai,T10,Branca,120.00,2026-11-28,2026-10-28,Pago,0.00,8,4,50.0,Não
+2384,Wesley Carvalho,Jiu-jitsu,T04,Marrom,120.00,2026-10-20,,Atrasado,2.40,17,14,82.4,Sim
+2386,Camila Marques Amaral,Jiu-jitsu,T04,Roxa,145.00,2026-10-22,2026-10-29,Pago,0.00,12,10,83.3,Sim
+2387,Larissa Fonseca,Muay Thai,T17,Amarela,100.00,2026-10-07,,Atrasado,2.00,12,9,75.0,Sim
+2389,Paula Dias,Judô,T08,Laranja,120.00,2026-11-20,2026-10-31,Pago,0.00,11,9,81.8,Sim
+2392,Diego Amaral,Muay Thai,T01,Cinza,145.00,2026-11-15,,Em aberto,0.00,14,12,85.7,Sim
+2404,Beatriz Silva,Jiu-jitsu,T10,Branca,110.00,2026-10-12,2026-10-08,Pago,0.00,10,8,80.0,Sim
+2408,Sofia Melo,Muay Thai,T10,Laranja,150.00,2026-10-25,2026-10-18,Pago,0.00,8,6,75.0,Sim
+2412,Pedro Barbosa,Jiu-jitsu,T14,Cinza,150.00,2026-10-05,2026-09-26,Pago,0.00,15,14,93.3,Sim
+2416,Pedro Castro Gonçalves,Jiu-jitsu,T15,Branca,150.00,2026-10-28,,Atrasado,3.00,10,6,60.0,Não
+2417,Manuela Moura,Muay Thai,T03,Laranja,95.00,2026-09-10,2026-09-04,Pago,0.00,18,11,61.1,Não
+2423,Caio Nogueira,Muay Thai,T18,Verde,150.00,2026-11-22,,Em aberto,0.00,10,9,90.0,Sim
+2424,César Melo Santos,Jiu-jitsu,T03,Cinza,160.00,2026-10-07,2026-10-07,Pago,0.00,17,11,64.7,Não
+2425,Thiago Borges,Jiu-jitsu,T13,Roxa,160.00,2026-11-20,,Em aberto,0.00,16,14,87.5,Sim
+2427,Igor Teixeira,Judô,T03,Cinza,180.00,2026-10-25,2026-10-18,Pago,0.00,8,7,87.5,Sim
+2429,Leonardo Castro,Muay Thai,T13,Branca,110.00,2026-11-22,,Em aberto,0.00,15,11,73.3,Não
+2435,Camila Moura Teixeira,Muay Thai,T09,Marrom,130.00,2026-10-28,2026-10-20,Pago,0.00,10,10,100.0,Sim
+2436,Manuela Nogueira,Muay Thai,T10,Azul,120.00,2026-09-07,2026-09-10,Pago,0.00,13,4,30.8,Não
+2439,Thiago Barbosa,Jiu-jitsu,T11,Amarela,110.00,2026-10-07,2026-10-02,Pago,0.00,8,6,75.0,Sim
+2440,André Pereira Xavier,Judô,T17,Verde,150.00,2026-10-17,2026-10-08,Pago,0.00,16,14,87.5,Sim
+2442,Wesley Rocha,Judô,T04,Amarela,160.00,2026-11-05,,Em aberto,0.00,9,8,88.9,Sim
+2444,Daniel Andrade,Muay Thai,T08,Verde,120.00,2026-11-05,,Em aberto,0.00,9,5,55.6,Não
+2447,Samuel Ribeiro Machado,Jiu-jitsu,T14,Verde,120.00,2026-10-05,2026-10-02,Pago,0.00,16,13,81.2,Sim
+2454,Daniel Lopes,Muay Thai,T11,Branca,145.00,2026-10-25,,Atrasado,2.90,17,13,76.5,Sim
+2460,Felipe Lopes,Jiu-jitsu,T02,Cinza,160.00,2026-10-20,2026-10-10,Pago,0.00,13,11,84.6,Sim
+2463,Júlia Dias Nogueira,Muay Thai,T02,Cinza,120.00,2026-10-25,2026-10-20,Pago,0.00,15,8,53.3,Não
+2469,Rafaela Ferreira,Jiu-jitsu,T01,Branca,140.00,2026-11-25,2026-11-01,Pago,0.00,17,10,58.8,Não
+2473,Elaine Pinto,Muay Thai,T18,Verde,110.00,2026-10-15,2026-10-03,Pago,0.00,11,9,81.8,Sim
+2474,Wesley Sousa,Judô,T05,Azul,150.00,2026-10-10,2026-10-16,Pago,0.00,16,9,56.2,Não
+2475,Yasmin Marques Gomes,Muay Thai,T08,Azul,120.00,2026-10-28,2026-10-27,Pago,0.00,16,7,43.8,Não
+2477,Fábio Dias,Jiu-jitsu,T05,Marrom,145.00,2026-10-10,2026-10-07,Pago,0.00,11,7,63.6,Não
+2478,Thiago Barbosa Barbosa,Jiu-jitsu,T18,Branca,175.00,2026-10-10,,Atrasado,3.50,8,6,75.0,Sim
+2480,Wesley Machado,Jiu-jitsu,T10,Branca,120.00,2026-09-22,2026-09-12,Pago,0.00,16,11,68.8,Não
+2483,Camila Ramos Cardoso,Jiu-jitsu,T06,Branca,175.00,2026-10-22,2026-10-28,Pago,0.00,18,12,66.7,Não
+2490,Samuel Figueiredo,Jiu-jitsu,T05,Verde,120.00,2026-11-07,,Em aberto,0.00,9,9,100.0,Sim
+2491,Luana Pinto Andrade,Muay Thai,T13,Cinza,150.00,2026-11-10,,Em aberto,0.00,8,6,75.0,Sim
+2498,Lucas Batista,Muay Thai,T11,Branca,115.00,2026-10-22,2026-10-27,Pago,0.00,12,7,58.3,Não
+2505,Luana Figueiredo,Muay Thai,T13,Verde,110.00,2026-10-07,2026-10-13,Pago,0.00,14,9,64.3,Não
+2509,Helena Castro,Karatê,T01,Branca,145.00,2026-10-22,,Atrasado,2.90,13,10,76.9,Sim
+2513,Matheus Moraes,Jiu-jitsu,T07,Branca,120.00,2026-11-12,2026-11-02,Pago,0.00,12,8,66.7,Não
+2514,Isabela Mendes,Muay Thai,T02,Amarela,115.00,2026-11-25,2026-10-30,Pago,0.00,7,5,71.4,Não
+2521,Marcelo Monteiro,Jiu-jitsu,T14,Verde,120.00,2026-10-25,,Atrasado,2.40,11,7,63.6,Não
+2525,Fernanda Moreira,Jiu-jitsu,T13,Amarela,85.00,2026-10-17,2026-10-07,Pago,0.00,12,5,41.7,Não
+2531,Diego Rocha,Jiu-jitsu,T13,Branca,100.00,2026-10-25,2026-10-19,Pago,0.00,15,12,80.0,Sim
+2532,Daniel Batista,Judô,T09,Branca,145.00,2026-10-15,,Atrasado,2.90,15,12,80.0,Sim
+2533,Marcelo Barbosa,Jiu-jitsu,T11,Roxa,130.00,2026-10-25,,Atrasado,2.60,9,9,100.0,Sim
+2534,Samuel Silva Marques,Jiu-jitsu,T09,Branca,145.00,2026-10-28,,Atrasado,2.90,8,4,50.0,Não
+2541,Vitória Pereira Campos,Muay Thai,T03,Amarela,140.00,2026-10-28,2026-11-02,Pago,0.00,9,6,66.7,Não
+2542,Elaine Barbosa,Jiu-jitsu,T09,Cinza,120.00,2026-11-20,2026-11-01,Pago,0.00,10,8,80.0,Sim
+2550,João Pinto,Judô,T06,Branca,175.00,2026-10-05,,Atrasado,3.50,12,8,66.7,Não
+2558,Valentina Lopes,Muay Thai,T01,Amarela,145.00,2026-11-28,,Em aberto,0.00,7,5,71.4,Não
+2559,Samuel Castro,Jiu-jitsu,T01,Branca,150.00,2026-11-05,,Em aberto,0.00,17,14,82.4,Sim
+2560,Luana Silva,Judô,T05,Branca,110.00,2026-11-10,2026-10-31,Pago,0.00,11,4,36.4,Não
+2567,Mariana Reis Cunha,Judô,T07,Roxa,100.00,2026-11-12,2026-10-31,Pago,0.00,15,12,80.0,Sim
+2569,Daniel Costa Costa,Judô,T01,Amarela,145.00,2026-10-20,,Atrasado,2.90,14,4,28.6,Não
+2578,Elaine Castro,Jiu-jitsu,T09,Laranja,120.00,2026-11-05,,Em aberto,0.00,8,5,62.5,Não
+2583,Felipe Pinto,Judô,T15,Verde,195.00,2026-11-10,2026-10-29,Pago,0.00,10,9,90.0,Sim
+2585,Caio Costa,Judô,T04,Laranja,85.00,2026-10-25,,Atrasado,1.70,18,14,77.8,Sim
+2588,Ana Monteiro Costa,Muay Thai,T13,Marrom,130.00,2026-10-07,2026-09-25,Pago,0.00,17,14,82.4,Sim
+2594,Thiago Melo,Muay Thai,T02,Laranja,115.00,2026-09-07,2026-09-07,Pago,0.00,11,9,81.8,Sim
+2600,Mirela Lopes,Muay Thai,T07,Amarela,115.00,2026-11-07,,Em aberto,0.00,15,9,60.0,Não
+2608,Fernanda Xavier Santos,Jiu-jitsu,T14,Amarela,180.00,2026-11-17,,Em aberto,0.00,8,5,62.5,Não
+2610,Gustavo Vieira,Jiu-jitsu,T13,Branca,160.00,2026-10-10,,Atrasado,3.20,18,11,61.1,Não
+2611,Gustavo Batista,Muay Thai,T03,Laranja,140.00,2026-10-28,2026-10-30,Pago,0.00,10,8,80.0,Sim
+2613,Luana Freitas Carvalho,Judô,T07,Branca,145.00,2026-11-25,,Em aberto,0.00,15,7,46.7,Não
+2615,Marcelo Campos,Jiu-jitsu,T15,Azul,125.00,2026-11-15,,Em aberto,0.00,16,13,81.2,Sim
+2617,Fernanda Ribeiro Teixeira,Jiu-jitsu,T09,Verde,130.00,2026-10-15,,Atrasado,2.60,10,9,90.0,Sim
+2619,Fábio Barros Figueiredo,Muay Thai,T15,Branca,145.00,2026-10-05,2026-10-01,Pago,0.00,12,9,75.0,Sim
+2623,Luana Borges Ferreira,Judô,T18,Amarela,195.00,2026-10-28,2026-10-25,Pago,0.00,18,10,55.6,Não
+2626,Fábio Andrade,Judô,T14,Branca,110.00,2026-11-28,2026-11-01,Pago,0.00,18,10,55.6,Não
+2627,Isabela Sousa,Jiu-jitsu,T18,Roxa,175.00,2026-11-25,2026-10-31,Pago,0.00,15,6,40.0,Não
+2632,Mirela Martins,Jiu-jitsu,T05,Branca,100.00,2026-10-25,,Atrasado,2.00,18,16,88.9,Sim
+2636,Luana Marques Dias,Karatê,T01,Cinza,115.00,2026-10-15,2026-10-02,Pago,0.00,12,8,66.7,Não
+2637,Renata Sousa,Jiu-jitsu,T03,Azul,115.00,2026-10-05,,Atrasado,2.30,9,9,100.0,Sim
+2644,Gustavo Araújo,Muay Thai,T03,Azul,180.00,2026-09-10,2026-09-15,Pago,0.00,10,5,50.0,Não
+2646,João Freitas,Karatê,T14,Verde,120.00,2026-10-15,,Atrasado,2.40,13,9,69.2,Não
+2650,Renata Reis,Karatê,T09,Cinza,120.00,2026-11-22,,Em aberto,0.00,8,4,50.0,Não
+2658,Ana Soares,Jiu-jitsu,T09,Branca,110.00,2026-11-25,2026-10-31,Pago,0.00,13,9,69.2,Não
+2661,Felipe Rocha,Muay Thai,T13,Verde,110.00,2026-11-28,,Em aberto,0.00,15,10,66.7,Não
+2662,Daniela Coelho Moreira,Muay Thai,T13,Branca,180.00,2026-10-28,2026-11-02,Pago,0.00,16,13,81.2,Sim
+2663,Beatriz Gomes Martins,Karatê,T08,Azul,130.00,2026-09-20,,Atrasado,2.60,9,6,66.7,Não
+2664,Pedro Lopes Barros,Karatê,T02,Branca,145.00,2026-10-05,2026-09-24,Pago,0.00,11,9,81.8,Sim
+2665,Diego Moura,Jiu-jitsu,T02,Amarela,145.00,2026-10-28,2026-10-19,Pago,0.00,15,7,46.7,Não
+2667,Eduardo Barros,Jiu-jitsu,T14,Roxa,125.00,2026-09-10,,Atrasado,2.50,16,9,56.2,Não
+2673,Daniel Pereira,Jiu-jitsu,T04,Cinza,150.00,2026-10-15,2026-10-04,Pago,0.00,16,14,87.5,Sim
+2680,Gustavo Pinto,Muay Thai,T14,Laranja,120.00,2026-11-12,2026-10-30,Pago,0.00,10,8,80.0,Sim
+2684,Eduardo Moraes,Jiu-jitsu,T03,Cinza,130.00,2026-09-28,,Atrasado,2.60,9,7,77.8,Sim
+2685,Gabriel Mendes,Jiu-jitsu,T04,Branca,145.00,2026-10-12,,Atrasado,2.90,15,6,40.0,Não
+2691,Beatriz Gomes,Jiu-jitsu,T04,Cinza,145.00,2026-11-28,,Em aberto,0.00,7,7,100.0,Sim
+2692,Rafaela Nascimento Andrade,Jiu-jitsu,T10,Cinza,115.00,2026-10-28,2026-11-02,Pago,0.00,10,7,70.0,Não
+2694,Júlia Oliveira,Judô,T10,Branca,115.00,2026-10-28,2026-10-23,Pago,0.00,16,14,87.5,Sim
+2698,Sofia Moura,Muay Thai,T18,Branca,115.00,2026-10-15,2026-10-16,Pago,0.00,7,6,85.7,Sim
+2702,César Medeiros,Judô,T14,Amarela,145.00,2026-09-12,2026-09-11,Pago,0.00,18,16,88.9,Sim
+2703,Otávio Sousa,Muay Thai,T06,Branca,150.00,2026-10-10,2026-10-02,Pago,0.00,8,4,50.0,Não
+2709,Valentina Pinto Rocha,Jiu-jitsu,T17,Laranja,100.00,2026-11-25,,Em aberto,0.00,8,7,87.5,Sim
+2712,Thiago Martins Medeiros,Karatê,T16,Laranja,120.00,2026-11-20,,Em aberto,0.00,15,12,80.0,Sim
+2713,Júlia Moraes,Judô,T07,Azul,145.00,2026-10-20,,Atrasado,2.90,15,12,80.0,Sim
+2720,Júlia Marques,Jiu-jitsu,T14,Amarela,85.00,2026-09-20,2026-09-12,Pago,0.00,15,10,66.7,Não
+2724,Beatriz Silva,Jiu-jitsu,T06,Branca,145.00,2026-09-28,,Atrasado,2.90,17,12,70.6,Não
+2726,Natália Reis Figueiredo,Jiu-jitsu,T04,Laranja,160.00,2026-10-07,2026-10-04,Pago,0.00,16,15,93.8,Sim
+2728,Felipe Batista Coelho,Muay Thai,T02,Branca,160.00,2026-10-20,2026-10-22,Pago,0.00,8,4,50.0,Não
+2729,Júlia Campos,Jiu-jitsu,T04,Azul,145.00,2026-10-28,2026-10-17,Pago,0.00,9,7,77.8,Sim
+2735,Daniela Gomes,Judô,T15,Verde,195.00,2026-11-12,2026-10-30,Pago,0.00,13,8,61.5,Não
+2739,Manuela Nogueira,Muay Thai,T15,Amarela,180.00,2026-10-20,,Atrasado,3.60,12,12,100.0,Sim
+2746,Ana Medeiros,Jiu-jitsu,T09,Marrom,150.00,2026-11-17,2026-11-02,Pago,0.00,9,7,77.8,Sim
+2750,André Moraes,Judô,T17,Amarela,120.00,2026-11-12,,Em aberto,0.00,16,8,50.0,Não
+2752,Sofia Cardoso Cardoso,Muay Thai,T05,Branca,180.00,2026-09-15,2026-09-12,Pago,0.00,17,8,47.1,Não
+2753,Elaine Monteiro Monteiro,Karatê,T06,Amarela,125.00,2026-11-07,2026-10-26,Pago,0.00,9,5,55.6,Não
+2754,Gabriela Barros Duarte,Muay Thai,T12,Verde,110.00,2026-10-15,,Atrasado,2.20,14,8,57.1,Não
+2760,Rafael Costa,Jiu-jitsu,T09,Branca,140.00,2026-10-25,2026-10-26,Pago,0.00,8,4,50.0,Não
+2761,Lucas Almeida Campos,Jiu-jitsu,T15,Verde,110.00,2026-11-12,2026-10-30,Pago,0.00,16,16,100.0,Sim
+2763,Paula Martins Araújo,Muay Thai,T09,Cinza,140.00,2026-10-20,,Atrasado,2.80,14,9,64.3,Não
+2765,Rafaela Duarte Gonçalves,Judô,T03,Azul,120.00,2026-10-07,2026-10-08,Pago,0.00,11,9,81.8,Sim
+2766,Paula Melo,Jiu-jitsu,T14,Azul,150.00,2026-10-05,2026-10-01,Pago,0.00,12,10,83.3,Sim
+2772,Lucas Teixeira,Muay Thai,T01,Azul,120.00,2026-10-28,,Atrasado,2.40,9,8,88.9,Sim
+2778,Isabela Reis,Muay Thai,T06,Cinza,125.00,2026-10-22,2026-10-26,Pago,0.00,9,7,77.8,Sim
+2779,Sofia Lima,Jiu-jitsu,T12,Laranja,100.00,2026-09-12,2026-09-19,Pago,0.00,13,8,61.5,Não
+2785,Ana Sousa,Jiu-jitsu,T12,Azul,140.00,2026-09-22,,Atrasado,2.80,18,15,83.3,Sim
+2788,Wesley Campos Barbosa,Jiu-jitsu,T18,Branca,120.00,2026-10-12,,Atrasado,2.40,13,12,92.3,Sim
+2791,Elisa Ramos,Jiu-jitsu,T04,Amarela,150.00,2026-10-12,,Atrasado,3.00,13,11,84.6,Sim
+2792,Otávio Vieira Barros,Muay Thai,T06,Cinza,110.00,2026-10-17,2026-10-21,Pago,0.00,16,8,50.0,Não
+2796,Matheus Ferreira Campos,Karatê,T10,Branca,120.00,2026-10-28,2026-10-24,Pago,0.00,18,15,83.3,Sim
+2798,André Marques,Muay Thai,T10,Branca,120.00,2026-10-15,,Atrasado,2.40,13,6,46.2,Não
+2800,Otávio Gomes Lima,Jiu-jitsu,T04,Roxa,100.00,2026-10-10,,Atrasado,2.00,17,11,64.7,Não
+2801,Otávio Xavier,Muay Thai,T06,Verde,145.00,2026-10-15,2026-10-02,Pago,0.00,11,9,81.8,Sim
+2803,Beatriz Freitas,Muay Thai,T13,Cinza,110.00,2026-10-05,,Atrasado,2.20,11,6,54.5,Não
+2805,Larissa Gonçalves,Muay Thai,T06,Roxa,85.00,2026-10-17,2026-10-06,Pago,0.00,14,8,57.1,Não
+2812,Fernanda Vieira,Muay Thai,T17,Cinza,120.00,2026-10-15,,Atrasado,2.40,18,14,77.8,Sim
+2819,Eduardo Batista Marques,Judô,T11,Amarela,150.00,2026-11-15,,Em aberto,0.00,9,8,88.9,Sim
+2820,Manuela Freitas,Jiu-jitsu,T09,Laranja,150.00,2026-10-17,,Atrasado,3.00,14,11,78.6,Sim
+2824,Gabriela Barbosa,Jiu-jitsu,T11,Amarela,130.00,2026-10-15,2026-10-12,Pago,0.00,18,8,44.4,Não
+2825,Thiago Figueiredo,Muay Thai,T15,Azul,145.00,2026-11-12,,Em aberto,0.00,9,7,77.8,Sim
+2826,Mariana Rocha,Jiu-jitsu,T08,Amarela,140.00,2026-10-07,,Atrasado,2.80,14,10,71.4,Não
+2828,Wesley Reis Fonseca,Jiu-jitsu,T17,Cinza,120.00,2026-11-25,,Em aberto,0.00,13,11,84.6,Sim
+2831,Júlia Cardoso Campos,Muay Thai,T13,Marrom,130.00,2026-10-12,2026-10-04,Pago,0.00,18,16,88.9,Sim
+2839,Gustavo Duarte,Jiu-jitsu,T02,Amarela,150.00,2026-10-17,,Atrasado,3.00,16,11,68.8,Não
+2843,João Almeida,Judô,T12,Laranja,145.00,2026-10-17,2026-10-04,Pago,0.00,8,6,75.0,Sim
+2844,Rafael Moraes,Muay Thai,T04,Azul,175.00,2026-10-28,,Atrasado,3.50,14,8,57.1,Não
+2850,Beatriz Moura Ribeiro,Judô,T09,Amarela,130.00,2026-11-28,,Em aberto,0.00,13,11,84.6,Sim
+2851,Valentina Dias,Karatê,T01,Cinza,100.00,2026-10-05,,Atrasado,2.00,10,9,90.0,Sim
+2853,Luana Cunha,Muay Thai,T18,Cinza,95.00,2026-11-20,,Em aberto,0.00,18,14,77.8,Sim
+2860,Heloísa Nascimento Teixeira,Muay Thai,T12,Branca,110.00,2026-11-17,,Em aberto,0.00,17,11,64.7,Não
+2867,Vinícius Gonçalves,Muay Thai,T15,Laranja,150.00,2026-11-22,,Em aberto,0.00,14,5,35.7,Não
+2874,Samuel Costa Barros,Jiu-jitsu,T08,Marrom,130.00,2026-11-25,,Em aberto,0.00,18,16,88.9,Sim
+2887,Eduardo Cunha Batista,Jiu-jitsu,T16,Cinza,100.00,2026-10-22,,Atrasado,2.00,7,6,85.7,Sim
+2891,Wesley Santos,Jiu-jitsu,T09,Cinza,130.00,2026-10-12,2026-10-04,Pago,0.00,15,9,60.0,Não
+2895,Fábio Medeiros Silva,Muay Thai,T02,Cinza,120.00,2026-10-20,,Atrasado,2.40,8,8,100.0,Sim
+2896,Isabela Silva,Karatê,T18,Roxa,115.00,2026-10-05,,Atrasado,2.30,10,7,70.0,Não
+2898,Larissa Lima,Karatê,T06,Verde,110.00,2026-10-12,,Atrasado,2.20,8,7,87.5,Sim
+2901,Vitória Melo,Muay Thai,T12,Amarela,175.00,2026-10-15,2026-10-14,Pago,0.00,18,15,83.3,Sim
+2905,Rafael Santos Teixeira,Jiu-jitsu,T10,Cinza,120.00,2026-10-25,2026-10-13,Pago,0.00,12,7,58.3,Não
+2907,Sofia Soares,Jiu-jitsu,T14,Branca,100.00,2026-10-10,2026-10-04,Pago,0.00,11,10,90.9,Sim
+2908,Wesley Costa,Jiu-jitsu,T06,Branca,150.00,2026-10-15,,Atrasado,3.00,15,13,86.7,Sim
+2909,Igor Costa,Muay Thai,T06,Laranja,115.00,2026-11-28,2026-11-02,Pago,0.00,12,10,83.3,Sim
+2913,Leonardo Figueiredo,Judô,T05,Branca,145.00,2026-10-10,2026-10-01,Pago,0.00,10,4,40.0,Não
+2914,Beatriz Dias,Muay Thai,T13,Branca,115.00,2026-09-10,2026-09-09,Pago,0.00,17,10,58.8,Não
+2918,Marcelo Costa Soares,Muay Thai,T10,Verde,145.00,2026-10-17,2026-10-24,Pago,0.00,8,6,75.0,Sim
+2920,Bruno Dias,Jiu-jitsu,T06,Cinza,150.00,2026-11-28,,Em aberto,0.00,7,5,71.4,Não
+2923,Manuela Barros,Jiu-jitsu,T11,Verde,85.00,2026-11-20,,Em aberto,0.00,9,6,66.7,Não
+2929,Matheus Borges,Muay Thai,T16,Roxa,150.00,2026-11-20,,Em aberto,0.00,11,9,81.8,Sim
+2930,Gabriel Batista,Muay Thai,T13,Marrom,130.00,2026-10-25,2026-10-16,Pago,0.00,10,8,80.0,Sim
+2931,Thiago Fonseca,Jiu-jitsu,T17,Amarela,125.00,2026-11-17,,Em aberto,0.00,12,8,66.7,Não
+2938,Elaine Oliveira,Jiu-jitsu,T13,Amarela,95.00,2026-10-25,,Atrasado,1.90,12,10,83.3,Sim
+2942,Fernanda Monteiro,Judô,T18,Branca,140.00,2026-10-22,2026-10-24,Pago,0.00,18,11,61.1,Não
+2943,Eduardo Borges Silva,Judô,T06,Amarela,125.00,2026-09-22,2026-09-13,Pago,0.00,17,10,58.8,Não
+2946,Larissa Moura,Jiu-jitsu,T06,Cinza,195.00,2026-11-22,2026-11-01,Pago,0.00,12,8,66.7,Não
+2947,Valentina Santos,Judô,T13,Verde,150.00,2026-11-22,,Em aberto,0.00,9,8,88.9,Sim
+2949,Natália Silva,Judô,T12,Azul,145.00,2026-10-28,2026-10-28,Pago,0.00,9,7,77.8,Sim
+2955,Pedro Sousa,Jiu-jitsu,T09,Marrom,120.00,2026-09-05,,Atrasado,2.40,8,5,62.5,Não
+2956,Paula Barros,Judô,T08,Verde,160.00,2026-11-07,2026-10-31,Pago,0.00,10,9,90.0,Sim
+2959,Mariana Martins,Muay Thai,T04,Branca,175.00,2026-11-20,,Em aberto,0.00,18,11,61.1,Não
+2960,Camila Cunha,Muay Thai,T16,Amarela,130.00,2026-11-25,2026-11-02,Pago,0.00,18,16,88.9,Sim
+2964,Manuela Melo,Muay Thai,T03,Cinza,150.00,2026-10-28,,Atrasado,3.00,18,17,94.4,Sim
+2965,Renata Campos Rodrigues,Jiu-jitsu,T07,Azul,125.00,2026-10-25,,Atrasado,2.50,14,11,78.6,Sim
+2966,Fernanda Amaral,Karatê,T16,Amarela,110.00,2026-11-05,2026-11-02,Pago,0.00,15,12,80.0,Sim
+2969,Eduardo Moraes,Muay Thai,T18,Azul,145.00,2026-09-20,2026-09-24,Pago,0.00,13,11,84.6,Sim
+2970,Ana Lima Moreira,Muay Thai,T04,Branca,120.00,2026-11-28,2026-11-02,Pago,0.00,15,9,60.0,Não
+2974,Natália Amaral,Karatê,T11,Azul,120.00,2026-10-28,2026-10-23,Pago,0.00,13,9,69.2,Não
+2976,Yasmin Pereira,Judô,T16,Cinza,120.00,2026-10-28,2026-10-18,Pago,0.00,13,8,61.5,Não
+2978,Luana Moraes Freitas,Judô,T09,Cinza,130.00,2026-10-28,,Atrasado,2.60,15,12,80.0,Sim
+2979,Rafaela Barbosa Reis,Muay Thai,T05,Marrom,125.00,2026-10-25,2026-10-30,Pago,0.00,9,7,77.8,Sim
+2983,Daniel Lima Medeiros,Jiu-jitsu,T16,Amarela,120.00,2026-10-22,2026-10-19,Pago,0.00,9,8,88.9,Sim
+2984,Beatriz Lima,Jiu-jitsu,T18,Azul,175.00,2026-10-12,,Atrasado,3.50,14,8,57.1,Não
+2985,Júlia Moura,Jiu-jitsu,T16,Laranja,110.00,2026-11-22,,Em aberto,0.00,7,7,100.0,Sim
+2988,Eduardo Teixeira,Muay Thai,T15,Amarela,95.00,2026-11-17,2026-10-31,Pago,0.00,11,7,63.6,Não
+2991,Helena Nascimento Almeida,Jiu-jitsu,T02,Amarela,175.00,2026-10-25,2026-10-23,Pago,0.00,7,6,85.7,Sim
+2998,Diego Cardoso,Muay Thai,T01,Branca,175.00,2026-11-15,,Em aberto,0.00,11,7,63.6,Não
+3002,Diego Teixeira,Jiu-jitsu,T10,Branca,130.00,2026-11-07,,Em aberto,0.00,13,12,92.3,Sim
+3006,Renata Gonçalves,Jiu-jitsu,T07,Branca,125.00,2026-10-15,2026-10-06,Pago,0.00,13,9,69.2,Não
+3007,Rafael Reis,Muay Thai,T10,Cinza,195.00,2026-10-17,,Atrasado,3.90,16,12,75.0,Sim
+3009,Isabela Gonçalves,Judô,T03,Amarela,130.00,2026-11-05,,Em aberto,0.00,12,11,91.7,Sim
+3016,Renata Moreira Martins,Muay Thai,T17,Azul,120.00,2026-10-28,2026-11-01,Pago,0.00,12,9,75.0,Sim
+3017,Lucas Barbosa,Judô,T16,Branca,120.00,2026-09-22,,Atrasado,2.40,16,13,81.2,Sim
+3019,Matheus Cunha,Jiu-jitsu,T07,Cinza,95.00,2026-10-28,2026-10-15,Pago,0.00,9,6,66.7,Não
+3020,Elaine Rodrigues,Judô,T18,Cinza,150.00,2026-10-28,,Atrasado,3.00,18,16,88.9,Sim
+3021,Sofia Ribeiro,Muay Thai,T04,Roxa,130.00,2026-10-28,2026-10-17,Pago,0.00,17,9,52.9,Não
+3025,Gabriela Duarte,Jiu-jitsu,T07,Verde,130.00,2026-10-20,2026-10-21,Pago,0.00,9,6,66.7,Não
+3028,Heloísa Martins,Jiu-jitsu,T03,Cinza,100.00,2026-11-22,,Em aberto,0.00,8,5,62.5,Não
+3029,Larissa Mendes,Judô,T09,Roxa,120.00,2026-11-17,,Em aberto,0.00,17,16,94.1,Sim
+3031,Heloísa Figueiredo Figueiredo,Jiu-jitsu,T01,Amarela,145.00,2026-10-15,,Atrasado,2.90,18,14,77.8,Sim
+3032,Leonardo Pinto Ribeiro,Jiu-jitsu,T14,Laranja,130.00,2026-11-12,2026-11-02,Pago,0.00,12,11,91.7,Sim
+3040,Igor Monteiro,Muay Thai,T18,Laranja,110.00,2026-10-17,2026-10-08,Pago,0.00,7,5,71.4,Não
+3041,Eduardo Reis,Judô,T06,Branca,125.00,2026-10-10,,Atrasado,2.50,9,7,77.8,Sim
+3048,Lucas Moraes,Jiu-jitsu,T17,Branca,110.00,2026-11-20,2026-10-31,Pago,0.00,18,14,77.8,Sim
+3049,Valentina Costa,Karatê,T11,Verde,115.00,2026-11-25,,Em aberto,0.00,7,6,85.7,Sim
+3052,Camila Nascimento,Judô,T18,Amarela,145.00,2026-10-05,2026-09-29,Pago,0.00,8,7,87.5,Sim
+3055,Marcelo Almeida,Jiu-jitsu,T14,Marrom,110.00,2026-10-15,,Atrasado,2.20,13,6,46.2,Não
+3058,Paula Santos Soares,Jiu-jitsu,T18,Laranja,120.00,2026-11-20,,Em aberto,0.00,12,10,83.3,Sim
+3065,Otávio Carvalho Costa,Judô,T15,Branca,175.00,2026-11-10,,Em aberto,0.00,9,6,66.7,Não
+3068,Mirela Oliveira,Jiu-jitsu,T13,Amarela,115.00,2026-09-07,2026-09-07,Pago,0.00,8,5,62.5,Não
+3074,Diego Araújo Batista,Muay Thai,T10,Amarela,100.00,2026-10-20,2026-10-24,Pago,0.00,11,7,63.6,Não
+3081,Daniel Melo,Muay Thai,T05,Branca,150.00,2026-11-20,,Em aberto,0.00,15,9,60.0,Não
+3083,Rafael Ferreira,Karatê,T05,Verde,210.00,2026-10-10,2026-10-12,Pago,0.00,12,6,50.0,Não
+3085,Wesley Nogueira,Jiu-jitsu,T09,Cinza,180.00,2026-11-05,2026-11-02,Pago,0.00,8,5,62.5,Não
+3089,Renata Duarte,Karatê,T15,Branca,110.00,2026-10-12,2026-10-16,Pago,0.00,11,8,72.7,Não
+3092,Renata Araújo,Muay Thai,T02,Azul,110.00,2026-10-12,2026-10-06,Pago,0.00,14,11,78.6,Sim
+3099,Sofia Nogueira Ramos,Jiu-jitsu,T12,Branca,180.00,2026-10-28,2026-10-28,Pago,0.00,10,7,70.0,Não
+3101,João Nascimento,Muay Thai,T15,Amarela,140.00,2026-11-07,,Em aberto,0.00,8,5,62.5,Não
+3103,César Araújo Moreira,Jiu-jitsu,T10,Verde,95.00,2026-10-20,,Atrasado,1.90,16,13,81.2,Sim
+3104,Diego Moreira Fonseca,Jiu-jitsu,T02,Amarela,120.00,2026-10-20,2026-10-13,Pago,0.00,15,9,60.0,Não
+3105,Fábio Lopes,Jiu-jitsu,T13,Branca,150.00,2026-09-15,2026-09-13,Pago,0.00,11,7,63.6,Não
+3107,Diego Nascimento Barros,Jiu-jitsu,T17,Azul,120.00,2026-10-20,2026-10-17,Pago,0.00,8,5,62.5,Não
+3114,Paula Monteiro,Jiu-jitsu,T07,Cinza,210.00,2026-11-15,,Em aberto,0.00,11,10,90.9,Sim
+3118,Vinícius Cunha,Jiu-jitsu,T07,Branca,210.00,2026-11-25,2026-11-01,Pago,0.00,14,8,57.1,Não
+3124,Rafaela Costa,Jiu-jitsu,T10,Azul,120.00,2026-10-10,,Atrasado,2.40,8,4,50.0,Não
+3126,Rafaela Almeida,Muay Thai,T06,Verde,140.00,2026-11-05,,Em aberto,0.00,10,7,70.0,Não
+3127,Vinícius Moura Moreira,Jiu-jitsu,T16,Laranja,130.00,2026-10-05,2026-09-26,Pago,0.00,9,8,88.9,Sim
+3129,Matheus Martins,Muay Thai,T18,Branca,85.00,2026-10-22,,Atrasado,1.70,11,6,54.5,Não
+3133,Elaine Freitas,Muay Thai,T05,Amarela,130.00,2026-10-28,2026-10-17,Pago,0.00,14,10,71.4,Não
+3135,Pedro Costa Campos,Judô,T15,Laranja,140.00,2026-11-12,2026-10-30,Pago,0.00,18,11,61.1,Não
+3137,César Santos,Judô,T15,Cinza,120.00,2026-10-25,,Atrasado,2.40,14,7,50.0,Não
+3143,Bruno Moraes,Jiu-jitsu,T18,Azul,145.00,2026-10-12,2026-10-02,Pago,0.00,12,7,58.3,Não
+3144,João Oliveira,Muay Thai,T13,Laranja,120.00,2026-10-05,2026-10-05,Pago,0.00,15,11,73.3,Não
+3148,Felipe Castro,Jiu-jitsu,T12,Branca,160.00,2026-10-05,2026-10-06,Pago,0.00,17,12,70.6,Não
+3152,Paula Costa,Jiu-jitsu,T16,Verde,130.00,2026-09-20,2026-09-15,Pago,0.00,17,10,58.8,Não
+3155,Ana Araújo Vieira,Jiu-jitsu,T04,Branca,85.00,2026-11-20,2026-11-01,Pago,0.00,13,8,61.5,Não
+3156,Igor Moraes,Jiu-jitsu,T14,Azul,95.00,2026-10-25,,Atrasado,1.90,7,5,71.4,Não
+3158,Rafaela Vieira,Muay Thai,T07,Verde,145.00,2026-09-22,2026-09-17,Pago,0.00,7,5,71.4,Não
+3162,Pedro Xavier,Muay Thai,T14,Cinza,160.00,2026-11-17,,Em aberto,0.00,17,11,64.7,Não
+3164,Elisa Sousa,Jiu-jitsu,T06,Verde,130.00,2026-10-15,2026-10-12,Pago,0.00,11,10,90.9,Sim
+3165,Bruno Machado,Jiu-jitsu,T05,Amarela,130.00,2026-10-20,,Atrasado,2.60,7,3,42.9,Não
+3172,Gabriela Dias Araújo,Judô,T05,Roxa,175.00,2026-11-28,,Em aberto,0.00,11,9,81.8,Sim
+3178,Thiago Araújo,Jiu-jitsu,T16,Cinza,125.00,2026-10-25,2026-10-28,Pago,0.00,8,6,75.0,Sim
+3179,Luana Nascimento,Muay Thai,T17,Azul,120.00,2026-10-12,2026-10-09,Pago,0.00,18,14,77.8,Sim
+3187,Felipe Dias,Jiu-jitsu,T06,Laranja,150.00,2026-11-22,,Em aberto,0.00,13,10,76.9,Sim
+3193,João Barros,Jiu-jitsu,T17,Marrom,140.00,2026-10-17,2026-10-10,Pago,0.00,10,9,90.0,Sim
+3199,Helena Medeiros Fonseca,Muay Thai,T07,Branca,195.00,2026-10-17,2026-10-24,Pago,0.00,9,8,88.9,Sim
+3206,Camila Ramos,Jiu-jitsu,T02,Amarela,140.00,2026-10-10,,Atrasado,2.80,9,5,55.6,Não
+3207,Otávio Reis,Muay Thai,T10,Verde,145.00,2026-11-17,,Em aberto,0.00,15,12,80.0,Sim
+3209,Rafael Nascimento,Jiu-jitsu,T02,Branca,130.00,2026-10-12,,Atrasado,2.60,15,12,80.0,Sim
+3211,Igor Almeida,Jiu-jitsu,T06,Verde,130.00,2026-10-05,2026-09-22,Pago,0.00,7,5,71.4,Não
+3213,Otávio Ramos,Jiu-jitsu,T01,Branca,120.00,2026-11-05,2026-11-01,Pago,0.00,12,10,83.3,Sim
+3216,Ricardo Vieira,Muay Thai,T13,Branca,120.00,2026-10-22,2026-10-23,Pago,0.00,8,8,100.0,Sim
+3217,Gabriel Moraes,Jiu-jitsu,T17,Cinza,160.00,2026-10-25,2026-10-23,Pago,0.00,7,4,57.1,Não
+3219,Felipe Fonseca Medeiros,Judô,T16,Verde,145.00,2026-11-22,,Em aberto,0.00,16,11,68.8,Não
+3220,Elisa Sousa,Muay Thai,T04,Amarela,125.00,2026-10-28,,Atrasado,2.50,16,14,87.5,Sim
+3221,Helena Figueiredo,Jiu-jitsu,T02,Branca,140.00,2026-10-12,2026-10-05,Pago,0.00,18,17,94.4,Sim
+3222,Sofia Cardoso Amaral,Jiu-jitsu,T18,Amarela,120.00,2026-11-28,,Em aberto,0.00,8,7,87.5,Sim
+3223,Valentina Moura,Judô,T13,Verde,210.00,2026-10-17,,Atrasado,4.20,11,8,72.7,Não
+3224,Elaine Araújo Gonçalves,Judô,T07,Branca,160.00,2026-10-28,,Atrasado,3.20,18,16,88.9,Sim
+3225,Daniela Gonçalves,Jiu-jitsu,T13,Roxa,150.00,2026-10-25,2026-10-31,Pago,0.00,17,11,64.7,Não
+3226,Wesley Nascimento,Karatê,T06,Laranja,150.00,2026-10-20,2026-10-14,Pago,0.00,16,13,81.2,Sim
+3230,Thiago Sousa Moura,Jiu-jitsu,T16,Verde,100.00,2026-10-25,,Atrasado,2.00,17,17,100.0,Sim
+3233,Eduardo Costa,Muay Thai,T09,Branca,125.00,2026-11-25,,Em aberto,0.00,7,3,42.9,Não
+3236,Vinícius Vieira,Judô,T14,Verde,145.00,2026-10-07,,Atrasado,2.90,11,8,72.7,Não
+3238,Fábio Rodrigues Mendes,Jiu-jitsu,T03,Laranja,140.00,2026-10-12,,Atrasado,2.80,18,9,50.0,Não
+3239,Rafael Pereira,Muay Thai,T11,Laranja,115.00,2026-11-25,,Em aberto,0.00,8,6,75.0,Sim
+3246,Diego Vieira,Judô,T09,Azul,160.00,2026-11-20,,Em aberto,0.00,14,10,71.4,Não
+3253,Júlia Nascimento Freitas,Muay Thai,T03,Verde,110.00,2026-11-28,,Em aberto,0.00,13,13,100.0,Sim
+3257,Fernanda Rocha,Jiu-jitsu,T18,Branca,130.00,2026-10-22,2026-10-29,Pago,0.00,10,7,70.0,Não
+3260,Thiago Rodrigues,Jiu-jitsu,T03,Amarela,110.00,2026-10-05,2026-10-08,Pago,0.00,10,7,70.0,Não
+3268,Leonardo Machado,Muay Thai,T01,Roxa,175.00,2026-09-25,2026-09-17,Pago,0.00,8,5,62.5,Não
+3269,Renata Monteiro,Jiu-jitsu,T13,Laranja,110.00,2026-09-17,,Atrasado,2.20,16,15,93.8,Sim
+3273,Bruno Araújo,Karatê,T04,Azul,110.00,2026-10-05,,Atrasado,2.20,14,11,78.6,Sim
+3279,Valentina Almeida,Karatê,T18,Amarela,120.00,2026-10-22,,Atrasado,2.40,8,7,87.5,Sim
+3283,Daniela Xavier,Jiu-jitsu,T15,Cinza,145.00,2026-11-12,,Em aberto,0.00,9,9,100.0,Sim
+3284,Paula Barros,Muay Thai,T08,Marrom,210.00,2026-11-07,,Em aberto,0.00,10,6,60.0,Não
+3288,Elisa Campos Gonçalves,Karatê,T11,Laranja,120.00,2026-10-12,2026-10-01,Pago,0.00,16,9,56.2,Não
+3296,Vinícius Fonseca,Karatê,T13,Verde,175.00,2026-10-07,,Atrasado,3.50,9,8,88.9,Sim
+3298,Pedro Gomes Oliveira,Muay Thai,T03,Laranja,140.00,2026-10-28,2026-10-19,Pago,0.00,11,10,90.9,Sim
+3304,Wesley Batista,Muay Thai,T11,Verde,160.00,2026-11-07,,Em aberto,0.00,14,6,42.9,Não
+3306,Paula Moreira,Jiu-jitsu,T03,Laranja,115.00,2026-10-15,,Atrasado,2.30,10,9,90.0,Sim
+3309,Heloísa Sousa Silva,Jiu-jitsu,T18,Azul,145.00,2026-10-25,2026-10-15,Pago,0.00,12,8,66.7,Não
+3311,Otávio Sousa,Jiu-jitsu,T12,Cinza,120.00,2026-10-22,2026-10-26,Pago,0.00,18,14,77.8,Sim
+3315,Paula Duarte,Jiu-jitsu,T10,Cinza,100.00,2026-11-25,,Em aberto,0.00,15,13,86.7,Sim
+3319,Fábio Pereira Almeida,Jiu-jitsu,T11,Cinza,115.00,2026-10-25,2026-10-19,Pago,0.00,9,7,77.8,Sim
+3321,Larissa Oliveira Freitas,Muay Thai,T02,Amarela,150.00,2026-10-28,2026-10-31,Pago,0.00,8,4,50.0,Não
+3322,Larissa Mendes,Judô,T06,Azul,115.00,2026-11-10,,Em aberto,0.00,15,13,86.7,Sim
+3324,Júlia Araújo,Judô,T11,Cinza,120.00,2026-10-15,,Atrasado,2.40,9,4,44.4,Não
+3328,Samuel Coelho,Muay Thai,T16,Azul,180.00,2026-10-05,2026-10-09,Pago,0.00,7,5,71.4,Não
+3329,Paula Martins,Jiu-jitsu,T15,Roxa,150.00,2026-10-05,,Atrasado,3.00,14,9,64.3,Não
+3331,Valentina Moura,Muay Thai,T16,Azul,125.00,2026-10-10,2026-10-05,Pago,0.00,16,14,87.5,Sim
+3334,Ricardo Dias,Jiu-jitsu,T13,Amarela,120.00,2026-11-20,,Em aberto,0.00,18,16,88.9,Sim
+3335,Gabriel Pereira Cunha,Jiu-jitsu,T18,Amarela,150.00,2026-09-28,2026-09-15,Pago,0.00,14,10,71.4,Não
+3341,Caio Castro,Jiu-jitsu,T08,Amarela,180.00,2026-10-25,2026-10-21,Pago,0.00,15,11,73.3,Não
+3347,Leonardo Medeiros Cardoso,Muay Thai,T18,Marrom,130.00,2026-10-15,2026-10-21,Pago,0.00,10,10,100.0,Sim
+3348,Camila Vieira,Judô,T08,Amarela,100.00,2026-11-10,,Em aberto,0.00,14,13,92.9,Sim
+3351,Júlia Figueiredo,Muay Thai,T16,Verde,130.00,2026-11-15,,Em aberto,0.00,11,9,81.8,Sim
+3354,Sofia Dias,Jiu-jitsu,T08,Branca,160.00,2026-11-25,,Em aberto,0.00,8,7,87.5,Sim
+3355,Fernanda Borges,Jiu-jitsu,T07,Cinza,95.00,2026-10-20,2026-10-15,Pago,0.00,15,14,93.3,Sim
+3358,Gabriela Freitas,Karatê,T03,Cinza,150.00,2026-10-15,,Atrasado,3.00,13,7,53.8,Não
+3361,Manuela Silva,Muay Thai,T07,Laranja,125.00,2026-10-25,,Atrasado,2.50,16,9,56.2,Não
+3367,Natália Araújo,Judô,T04,Laranja,130.00,2026-10-15,2026-10-20,Pago,0.00,8,7,87.5,Sim
+3368,Rafael Medeiros,Muay Thai,T11,Cinza,210.00,2026-11-15,,Em aberto,0.00,16,12,75.0,Sim
+3369,Daniela Freitas,Judô,T01,Branca,120.00,2026-10-17,,Atrasado,2.40,14,9,64.3,Não
+3376,Luana Campos,Judô,T07,Laranja,100.00,2026-10-28,2026-10-24,Pago,0.00,11,10,90.9,Sim
+3378,Camila Barros,Jiu-jitsu,T13,Branca,110.00,2026-10-22,,Atrasado,2.20,12,10,83.3,Sim
+3379,Samuel Rocha Teixeira,Judô,T04,Cinza,145.00,2026-10-12,2026-10-16,Pago,0.00,15,7,46.7,Não
+3380,Thiago Nogueira Machado,Jiu-jitsu,T01,Amarela,110.00,2026-10-05,2026-10-12,Pago,0.00,16,11,68.8,Não
+3384,Paula Gomes Dias,Judô,T13,Laranja,100.00,2026-10-10,,Atrasado,2.00,16,15,93.8,Sim
+3385,Caio Gomes Amaral,Muay Thai,T04,Branca,160.00,2026-09-10,2026-09-12,Pago,0.00,10,6,60.0,Não
+3386,Sofia Costa,Judô,T11,Marrom,150.00,2026-11-22,2026-10-29,Pago,0.00,10,4,40.0,Não
+3387,Sofia Nascimento,Muay Thai,T14,Verde,125.00,2026-10-10,,Atrasado,2.50,11,6,54.5,Não
+3389,Lucas Teixeira,Jiu-jitsu,T17,Verde,110.00,2026-11-28,,Em aberto,0.00,12,6,50.0,Não
+3396,Ana Moreira,Muay Thai,T09,Laranja,125.00,2026-11-20,,Em aberto,0.00,11,6,54.5,Não
+3397,Renata Duarte,Jiu-jitsu,T04,Azul,115.00,2026-10-05,,Atrasado,2.30,12,10,83.3,Sim
+3401,Ana Melo Teixeira,Jiu-jitsu,T18,Cinza,180.00,2026-10-25,,Atrasado,3.60,10,8,80.0,Sim
+3402,Gabriela Medeiros,Judô,T15,Roxa,100.00,2026-11-25,,Em aberto,0.00,9,7,77.8,Sim
+3409,André Gonçalves,Judô,T17,Branca,145.00,2026-10-05,2026-09-25,Pago,0.00,9,7,77.8,Sim
+3410,Fábio Borges,Muay Thai,T06,Cinza,100.00,2026-09-17,2026-09-18,Pago,0.00,18,11,61.1,Não
+3411,Beatriz Silva,Muay Thai,T10,Azul,130.00,2026-10-12,2026-10-06,Pago,0.00,7,4,57.1,Não
+3414,Otávio Almeida Coelho,Jiu-jitsu,T12,Amarela,110.00,2026-09-10,2026-09-13,Pago,0.00,9,9,100.0,Sim
+3416,Fernanda Medeiros,Jiu-jitsu,T01,Verde,160.00,2026-10-05,2026-09-27,Pago,0.00,11,7,63.6,Não
+3418,César Pereira,Muay Thai,T17,Azul,120.00,2026-10-05,2026-09-23,Pago,0.00,11,10,90.9,Sim
+3420,Júlia Freitas Monteiro,Muay Thai,T09,Cinza,110.00,2026-10-15,,Atrasado,2.20,18,11,61.1,Não
+3421,Paula Ramos,Jiu-jitsu,T10,Marrom,110.00,2026-10-17,,Atrasado,2.20,13,9,69.2,Não
+3422,Heloísa Pinto,Karatê,T01,Branca,130.00,2026-11-28,2026-11-01,Pago,0.00,12,11,91.7,Sim
+3425,Thiago Ferreira,Jiu-jitsu,T06,Branca,145.00,2026-10-12,2026-10-09,Pago,0.00,8,7,87.5,Sim
+3426,Caio Gomes Moreira,Jiu-jitsu,T07,Laranja,145.00,2026-10-05,2026-10-01,Pago,0.00,18,9,50.0,Não
+3433,Daniel Mendes,Jiu-jitsu,T08,Amarela,130.00,2026-10-25,2026-10-13,Pago,0.00,13,9,69.2,Não
+3439,Gabriela Castro,Jiu-jitsu,T05,Branca,150.00,2026-11-05,,Em aberto,0.00,15,11,73.3,Não
+3446,Eduardo Dias,Muay Thai,T02,Amarela,120.00,2026-10-10,,Atrasado,2.40,10,10,100.0,Sim
+3454,Gabriela Reis,Jiu-jitsu,T07,Amarela,115.00,2026-10-05,2026-09-29,Pago,0.00,8,7,87.5,Sim
+3456,Lucas Barbosa Soares,Jiu-jitsu,T04,Azul,125.00,2026-10-12,2026-10-04,Pago,0.00,17,15,88.2,Sim
+3458,Camila Figueiredo,Muay Thai,T12,Branca,140.00,2026-10-05,2026-10-03,Pago,0.00,10,7,70.0,Não
+3460,Daniel Nogueira,Judô,T18,Branca,100.00,2026-11-22,,Em aberto,0.00,11,8,72.7,Não
+3467,Vinícius Batista,Karatê,T05,Branca,110.00,2026-09-20,,Atrasado,2.20,10,8,80.0,Sim
+3468,Paula Martins,Muay Thai,T03,Branca,130.00,2026-10-22,2026-10-18,Pago,0.00,16,11,68.8,Não
+3469,Bruno Rodrigues,Muay Thai,T17,Branca,130.00,2026-11-22,,Em aberto,0.00,12,9,75.0,Sim
+3470,Beatriz Silva,Jiu-jitsu,T04,Amarela,100.00,2026-11-10,2026-10-31,Pago,0.00,9,8,88.9,Sim
+3472,Fábio Monteiro,Karatê,T12,Laranja,140.00,2026-11-15,,Em aberto,0.00,10,9,90.0,Sim
+3473,César Gonçalves,Muay Thai,T10,Cinza,150.00,2026-10-12,,Atrasado,3.00,12,4,33.3,Não
+3480,Gustavo Fonseca,Jiu-jitsu,T11,Cinza,110.00,2026-10-12,,Atrasado,2.20,9,8,88.9,Sim
+3483,Daniela Teixeira,Jiu-jitsu,T14,Marrom,115.00,2026-10-07,,Atrasado,2.30,14,12,85.7,Sim
+3497,Samuel Cunha,Muay Thai,T12,Laranja,145.00,2026-10-17,2026-10-20,Pago,0.00,9,7,77.8,Sim
+3503,Sofia Moraes,Judô,T01,Azul,120.00,2026-11-12,2026-10-31,Pago,0.00,11,7,63.6,Não
+3509,Fernanda Cardoso,Muay Thai,T16,Cinza,150.00,2026-11-22,,Em aberto,0.00,16,7,43.8,Não
+3511,Rafaela Marques,Muay Thai,T11,Azul,145.00,2026-10-17,,Atrasado,2.90,7,3,42.9,Não
+3512,Leonardo Figueiredo,Muay Thai,T02,Roxa,120.00,2026-09-15,2026-09-18,Pago,0.00,16,14,87.5,Sim
+3513,Matheus Rocha,Jiu-jitsu,T13,Verde,195.00,2026-10-20,2026-10-17,Pago,0.00,10,9,90.0,Sim
+3514,Helena Oliveira Nogueira,Muay Thai,T04,Laranja,85.00,2026-10-15,2026-10-19,Pago,0.00,9,7,77.8,Sim
+3515,Thiago Soares,Jiu-jitsu,T12,Laranja,120.00,2026-10-15,2026-10-05,Pago,0.00,8,4,50.0,Não
+3523,Leonardo Andrade Pinto,Judô,T14,Branca,160.00,2026-11-28,,Em aberto,0.00,10,6,60.0,Não
+3524,Beatriz Santos,Judô,T05,Cinza,150.00,2026-10-25,2026-10-31,Pago,0.00,8,6,75.0,Sim
+3530,Daniel Santos,Muay Thai,T18,Branca,120.00,2026-09-10,2026-09-07,Pago,0.00,11,9,81.8,Sim
+3532,Lucas Costa Ribeiro,Muay Thai,T13,Laranja,120.00,2026-10-25,2026-10-23,Pago,0.00,11,10,90.9,Sim
+3533,Ana Martins,Muay Thai,T07,Verde,120.00,2026-10-15,2026-10-08,Pago,0.00,12,6,50.0,Não
+3540,Lucas Medeiros Mendes,Judô,T16,Cinza,145.00,2026-10-17,2026-10-22,Pago,0.00,9,5,55.6,Não
+3547,Valentina Andrade,Muay Thai,T17,Roxa,180.00,2026-11-07,2026-11-02,Pago,0.00,12,10,83.3,Sim
+3548,Gabriel Moreira Lopes,Jiu-jitsu,T09,Branca,125.00,2026-11-22,2026-10-29,Pago,0.00,9,6,66.7,Não
+3549,Lucas Melo,Judô,T09,Cinza,125.00,2026-11-28,,Em aberto,0.00,16,13,81.2,Sim
+3551,Ricardo Campos,Muay Thai,T02,Laranja,130.00,2026-10-07,2026-09-24,Pago,0.00,14,11,78.6,Sim
+3553,Felipe Gonçalves Lopes,Muay Thai,T06,Cinza,130.00,2026-10-20,2026-10-07,Pago,0.00,8,5,62.5,Não
+3560,Isabela Moraes,Jiu-jitsu,T03,Verde,120.00,2026-10-20,2026-10-23,Pago,0.00,10,5,50.0,Não
+3563,Bruno Rocha Andrade,Jiu-jitsu,T12,Cinza,160.00,2026-10-25,2026-10-20,Pago,0.00,11,9,81.8,Sim
+3565,Elisa Castro,Muay Thai,T03,Amarela,120.00,2026-10-28,2026-10-15,Pago,0.00,10,7,70.0,Não
+3567,Rafaela Nascimento,Muay Thai,T08,Branca,110.00,2026-10-07,,Atrasado,2.20,11,7,63.6,Não
+3568,Igor Borges Lopes,Muay Thai,T05,Laranja,140.00,2026-11-17,,Em aberto,0.00,11,6,54.5,Não
+3570,Gabriela Ferreira Medeiros,Jiu-jitsu,T02,Branca,115.00,2026-10-05,2026-10-03,Pago,0.00,15,9,60.0,Não
+3572,Gabriela Castro,Jiu-jitsu,T18,Cinza,120.00,2026-10-25,,Atrasado,2.40,11,8,72.7,Não
+3578,Elaine Fonseca,Judô,T13,Branca,110.00,2026-11-22,,Em aberto,0.00,7,3,42.9,Não
+3579,Beatriz Gomes,Jiu-jitsu,T14,Cinza,120.00,2026-10-07,,Atrasado,2.40,16,13,81.2,Sim
+3585,Leonardo Cunha,Judô,T12,Azul,150.00,2026-11-17,,Em aberto,0.00,9,6,66.7,Não
+3592,João Cardoso,Karatê,T15,Azul,150.00,2026-10-05,2026-10-07,Pago,0.00,15,8,53.3,Não
+3593,Mariana Gomes,Muay Thai,T10,Branca,150.00,2026-10-20,,Atrasado,3.00,7,4,57.1,Não
+3595,Mariana Fonseca,Muay Thai,T13,Amarela,95.00,2026-11-25,,Em aberto,0.00,14,7,50.0,Não
+3598,Vitória Marques Cunha,Muay Thai,T12,Amarela,145.00,2026-10-15,,Atrasado,2.90,14,9,64.3,Não
+3600,Caio Andrade,Judô,T07,Laranja,125.00,2026-11-25,,Em aberto,0.00,7,5,71.4,Não
+3603,Thiago Nogueira,Jiu-jitsu,T05,Cinza,120.00,2026-11-25,,Em aberto,0.00,15,10,66.7,Não
+3605,Igor Barros,Jiu-jitsu,T17,Branca,85.00,2026-10-10,,Atrasado,1.70,8,4,50.0,Não
+3609,Fábio Sousa,Jiu-jitsu,T18,Cinza,150.00,2026-11-20,,Em aberto,0.00,12,8,66.7,Não
+3610,Lucas Ribeiro Borges,Jiu-jitsu,T01,Amarela,150.00,2026-10-07,,Atrasado,3.00,16,14,87.5,Sim
+3619,Otávio Soares,Jiu-jitsu,T01,Branca,110.00,2026-11-17,,Em aberto,0.00,13,9,69.2,Não
+3620,Felipe Carvalho Moreira,Jiu-jitsu,T02,Verde,95.00,2026-11-12,2026-11-01,Pago,0.00,13,10,76.9,Sim
+3624,Yasmin Almeida,Jiu-jitsu,T16,Azul,110.00,2026-10-20,,Atrasado,2.20,14,10,71.4,Não
+3630,Manuela Monteiro Duarte,Jiu-jitsu,T02,Branca,160.00,2026-09-05,2026-09-01,Pago,0.00,8,7,87.5,Sim
+3633,Diego Vieira Borges,Jiu-jitsu,T14,Branca,145.00,2026-10-10,2026-10-02,Pago,0.00,15,6,40.0,Não
+3635,Vitória Araújo,Jiu-jitsu,T15,Laranja,110.00,2026-10-22,2026-10-15,Pago,0.00,7,5,71.4,Não
+3639,Samuel Reis,Judô,T10,Laranja,120.00,2026-11-05,,Em aberto,0.00,14,7,50.0,Não
+3642,André Borges,Jiu-jitsu,T07,Laranja,100.00,2026-11-05,,Em aberto,0.00,8,5,62.5,Não
+3643,Larissa Lima Barros,Jiu-jitsu,T14,Cinza,145.00,2026-10-28,,Atrasado,2.90,8,6,75.0,Sim
+3645,Leonardo Batista Sousa,Muay Thai,T05,Laranja,140.00,2026-10-17,2026-10-17,Pago,0.00,12,7,58.3,Não
+3646,Natália Nascimento,Muay Thai,T02,Branca,110.00,2026-09-20,,Atrasado,2.20,7,3,42.9,Não
+3652,Igor Freitas,Jiu-jitsu,T07,Amarela,145.00,2026-10-10,2026-09-28,Pago,0.00,8,6,75.0,Sim
+3654,Eduardo Almeida,Jiu-jitsu,T02,Cinza,120.00,2026-11-17,,Em aberto,0.00,14,13,92.9,Sim
+3661,Camila Amaral,Karatê,T03,Amarela,115.00,2026-10-22,,Atrasado,2.30,14,11,78.6,Sim
+3663,Fábio Rocha,Jiu-jitsu,T12,Branca,120.00,2026-10-07,,Atrasado,2.40,8,6,75.0,Sim
+3666,Luana Nascimento,Judô,T03,Verde,145.00,2026-11-10,,Em aberto,0.00,7,7,100.0,Sim
+3668,André Duarte Araújo,Muay Thai,T18,Branca,150.00,2026-11-28,2026-10-28,Pago,0.00,16,12,75.0,Sim
+3670,Gabriel Teixeira,Jiu-jitsu,T10,Amarela,100.00,2026-10-22,2026-10-22,Pago,0.00,7,7,100.0,Sim
+3671,Fernanda Marques,Jiu-jitsu,T18,Branca,95.00,2026-10-20,2026-10-11,Pago,0.00,14,6,42.9,Não
+3672,Beatriz Sousa,Karatê,T04,Branca,120.00,2026-11-05,,Em aberto,0.00,11,10,90.9,Sim
+3676,Leonardo Ferreira,Muay Thai,T01,Cinza,160.00,2026-11-28,,Em aberto,0.00,18,16,88.9,Sim
+3679,Gustavo Castro Nascimento,Jiu-jitsu,T08,Branca,130.00,2026-11-12,,Em aberto,0.00,10,7,70.0,Não
+3685,Marcelo Gomes,Jiu-jitsu,T01,Branca,120.00,2026-10-20,,Atrasado,2.40,11,6,54.5,Não
+3692,Gustavo Marques,Muay Thai,T18,Roxa,110.00,2026-11-20,,Em aberto,0.00,13,9,69.2,Não
+3698,Daniel Moura,Muay Thai,T09,Branca,145.00,2026-11-07,,Em aberto,0.00,15,12,80.0,Sim
+3699,Igor Xavier Mendes,Jiu-jitsu,T10,Amarela,160.00,2026-11-05,2026-10-31,Pago,0.00,18,8,44.4,Não
+3703,Rafaela Moraes,Jiu-jitsu,T17,Laranja,125.00,2026-11-10,,Em aberto,0.00,7,4,57.1,Não
+3705,Caio Melo Martins,Jiu-jitsu,T16,Cinza,145.00,2026-10-15,2026-10-15,Pago,0.00,13,11,84.6,Sim
+3711,Heloísa Marques Santos,Muay Thai,T01,Verde,150.00,2026-10-12,2026-09-29,Pago,0.00,16,12,75.0,Sim
+3713,Eduardo Campos,Muay Thai,T02,Roxa,100.00,2026-11-25,,Em aberto,0.00,8,5,62.5,Não
+3714,Larissa Oliveira,Karatê,T13,Amarela,120.00,2026-10-20,,Atrasado,2.40,18,16,88.9,Sim
+3716,Gabriel Ramos,Jiu-jitsu,T01,Cinza,160.00,2026-10-15,2026-10-13,Pago,0.00,9,3,33.3,Não
+3717,André Soares,Jiu-jitsu,T14,Amarela,150.00,2026-11-17,,Em aberto,0.00,17,15,88.2,Sim
+3719,Samuel Ribeiro,Muay Thai,T01,Amarela,145.00,2026-10-05,,Atrasado,2.90,14,13,92.9,Sim
+3725,Vitória Gomes Medeiros,Muay Thai,T05,Verde,100.00,2026-10-07,2026-09-28,Pago,0.00,14,13,92.9,Sim
+3727,Pedro Figueiredo,Jiu-jitsu,T03,Verde,110.00,2026-10-28,2026-10-31,Pago,0.00,14,14,100.0,Sim
+3733,Pedro Castro Martins,Jiu-jitsu,T07,Branca,100.00,2026-11-07,2026-10-31,Pago,0.00,7,6,85.7,Sim
+3736,Larissa Figueiredo,Muay Thai,T18,Branca,130.00,2026-10-15,,Atrasado,2.60,10,3,30.0,Não
+3752,Natália Lopes,Muay Thai,T10,Cinza,120.00,2026-10-28,,Atrasado,2.40,12,7,58.3,Não
+3755,Larissa Rocha Barbosa,Jiu-jitsu,T08,Marrom,120.00,2026-10-22,,Atrasado,2.40,11,6,54.5,Não
+3763,Bruno Oliveira,Judô,T02,Branca,160.00,2026-11-10,2026-11-02,Pago,0.00,17,14,82.4,Sim
+3765,Lucas Rocha,Jiu-jitsu,T15,Amarela,100.00,2026-11-22,,Em aberto,0.00,13,6,46.2,Não
+3770,Gustavo Amaral,Jiu-jitsu,T02,Branca,115.00,2026-10-07,,Atrasado,2.30,12,9,75.0,Sim
+3771,Renata Batista,Jiu-jitsu,T06,Amarela,150.00,2026-10-20,2026-10-27,Pago,0.00,9,7,77.8,Sim
+3772,João Soares,Karatê,T07,Cinza,150.00,2026-10-10,2026-09-28,Pago,0.00,15,10,66.7,Não
+3778,Bruno Marques Reis,Karatê,T05,Branca,175.00,2026-10-15,2026-10-20,Pago,0.00,14,12,85.7,Sim
+3780,Mariana Gonçalves,Karatê,T18,Roxa,210.00,2026-10-07,2026-09-28,Pago,0.00,16,7,43.8,Não
+3784,Daniel Almeida,Karatê,T15,Azul,140.00,2026-09-15,,Atrasado,2.80,13,11,84.6,Sim
+3785,Isabela Soares Melo,Jiu-jitsu,T07,Laranja,130.00,2026-11-25,,Em aberto,0.00,9,7,77.8,Sim
+3786,Valentina Ribeiro,Judô,T02,Branca,160.00,2026-10-05,,Atrasado,3.20,13,10,76.9,Sim
+3788,Daniela Lopes,Judô,T03,Branca,180.00,2026-10-28,2026-10-26,Pago,0.00,11,8,72.7,Não
+3791,Yasmin Costa,Muay Thai,T05,Amarela,110.00,2026-10-05,2026-09-30,Pago,0.00,12,5,41.7,Não
+3798,Valentina Vieira Pinto,Muay Thai,T02,Branca,150.00,2026-10-17,2026-10-24,Pago,0.00,12,6,50.0,Não
+3806,Matheus Araújo,Jiu-jitsu,T17,Amarela,100.00,2026-10-12,2026-10-04,Pago,0.00,12,11,91.7,Sim
+3809,Gabriel Monteiro Ribeiro,Jiu-jitsu,T06,Cinza,100.00,2026-11-17,,Em aberto,0.00,11,7,63.6,Não
+3810,Gabriel Coelho,Jiu-jitsu,T11,Branca,160.00,2026-10-17,,Atrasado,3.20,18,17,94.4,Sim
+3811,Mariana Barros,Jiu-jitsu,T12,Cinza,150.00,2026-11-20,,Em aberto,0.00,13,8,61.5,Não
+3815,Mirela Batista,Muay Thai,T17,Cinza,130.00,2026-10-10,2026-10-10,Pago,0.00,11,9,81.8,Sim
+3816,Helena Moura,Muay Thai,T18,Verde,145.00,2026-10-10,2026-10-12,Pago,0.00,15,12,80.0,Sim
+3822,Wesley Nogueira,Jiu-jitsu,T05,Cinza,110.00,2026-11-07,,Em aberto,0.00,16,15,93.8,Sim
+3823,César Moura Coelho,Jiu-jitsu,T12,Laranja,100.00,2026-11-17,,Em aberto,0.00,15,14,93.3,Sim
+3827,Ricardo Almeida Pinto,Jiu-jitsu,T14,Azul,120.00,2026-11-05,,Em aberto,0.00,17,11,64.7,Não
+3838,Elaine Araújo,Jiu-jitsu,T16,Branca,175.00,2026-11-07,,Em aberto,0.00,15,11,73.3,Não
+3845,Rafaela Castro,Jiu-jitsu,T08,Laranja,100.00,2026-10-28,2026-10-23,Pago,0.00,16,12,75.0,Sim
+3847,Larissa Nascimento Moreira,Jiu-jitsu,T03,Cinza,145.00,2026-11-25,,Em aberto,0.00,8,6,75.0,Sim
+3848,Bruno Silva Batista,Muay Thai,T11,Verde,110.00,2026-11-10,,Em aberto,0.00,10,6,60.0,Não
+3849,João Andrade,Muay Thai,T09,Amarela,175.00,2026-11-28,2026-10-29,Pago,0.00,16,9,56.2,Não
+3851,Vinícius Coelho,Jiu-jitsu,T18,Branca,120.00,2026-11-25,,Em aberto,0.00,9,8,88.9,Sim
+3852,Caio Rodrigues,Jiu-jitsu,T01,Amarela,100.00,2026-11-25,,Em aberto,0.00,12,9,75.0,Sim
+3863,Larissa Freitas,Muay Thai,T07,Marrom,100.00,2026-10-25,2026-10-17,Pago,0.00,11,6,54.5,Não
+3865,Helena Moura,Jiu-jitsu,T12,Roxa,120.00,2026-10-28,2026-10-29,Pago,0.00,15,12,80.0,Sim
+3867,Samuel Xavier Barbosa,Muay Thai,T09,Branca,120.00,2026-10-15,2026-10-22,Pago,0.00,14,11,78.6,Sim
+3868,Ricardo Fonseca,Jiu-jitsu,T03,Cinza,120.00,2026-10-10,2026-10-07,Pago,0.00,7,6,85.7,Sim
+3875,Wesley Moura,Muay Thai,T02,Azul,120.00,2026-10-10,2026-10-08,Pago,0.00,15,8,53.3,Não
+3876,Mirela Campos Ribeiro,Jiu-jitsu,T14,Cinza,85.00,2026-11-15,2026-10-31,Pago,0.00,8,5,62.5,Não
+3877,Caio Moura,Jiu-jitsu,T15,Azul,145.00,2026-11-22,2026-10-30,Pago,0.00,17,15,88.2,Sim
+3881,Lucas Duarte,Judô,T14,Verde,120.00,2026-10-05,2026-09-29,Pago,0.00,16,13,81.2,Sim
+3882,Sofia Machado,Karatê,T06,Azul,210.00,2026-11-17,,Em aberto,0.00,10,8,80.0,Sim
+3885,Otávio Lima,Muay Thai,T03,Branca,100.00,2026-11-10,,Em aberto,0.00,12,8,66.7,Não
+3886,Eduardo Ferreira Almeida,Muay Thai,T10,Amarela,145.00,2026-10-07,2026-10-02,Pago,0.00,14,10,71.4,Não
+3887,Wesley Cardoso,Jiu-jitsu,T02,Verde,130.00,2026-10-07,2026-10-01,Pago,0.00,9,8,88.9,Sim
+3892,Ana Lima,Judô,T01,Azul,195.00,2026-11-25,,Em aberto,0.00,16,13,81.2,Sim
+3893,Renata Gonçalves Rocha,Jiu-jitsu,T09,Laranja,145.00,2026-11-15,,Em aberto,0.00,17,12,70.6,Não
+3897,Valentina Almeida,Muay Thai,T05,Laranja,150.00,2026-10-10,2026-10-11,Pago,0.00,14,12,85.7,Sim
+3899,Samuel Fonseca,Judô,T01,Branca,175.00,2026-10-17,,Atrasado,3.50,15,9,60.0,Não
+3906,Vitória Machado,Jiu-jitsu,T11,Azul,100.00,2026-10-05,,Atrasado,2.00,13,7,53.8,Não
+3909,Natália Machado Dias,Jiu-jitsu,T06,Laranja,95.00,2026-10-17,,Atrasado,1.90,12,10,83.3,Sim
+3910,Fábio Ribeiro,Jiu-jitsu,T05,Verde,120.00,2026-09-17,,Atrasado,2.40,16,13,81.2,Sim
+3911,André Duarte,Jiu-jitsu,T14,Amarela,120.00,2026-11-20,,Em aberto,0.00,18,14,77.8,Sim
+3913,Natália Machado Campos,Muay Thai,T18,Branca,195.00,2026-10-12,,Atrasado,3.90,10,7,70.0,Não
+3914,Yasmin Batista,Jiu-jitsu,T03,Branca,175.00,2026-09-10,2026-08-30,Pago,0.00,8,8,100.0,Sim
+3921,Marcelo Campos Batista,Karatê,T06,Verde,140.00,2026-11-12,,Em aberto,0.00,7,6,85.7,Sim
+3922,Luana Rodrigues,Karatê,T03,Amarela,110.00,2026-11-28,,Em aberto,0.00,14,12,85.7,Sim
+3929,Helena Cardoso,Muay Thai,T13,Branca,145.00,2026-11-15,,Em aberto,0.00,12,7,58.3,Não
+3930,Marcelo Marques,Jiu-jitsu,T01,Amarela,100.00,2026-11-20,,Em aberto,0.00,14,8,57.1,Não
+3932,Samuel Castro,Jiu-jitsu,T01,Cinza,210.00,2026-11-05,,Em aberto,0.00,12,11,91.7,Sim
+3936,Daniel Rodrigues,Judô,T10,Roxa,150.00,2026-10-22,2026-10-11,Pago,0.00,18,13,72.2,Não
+3937,João Pinto,Muay Thai,T15,Branca,110.00,2026-11-22,2026-11-02,Pago,0.00,17,7,41.2,Não
+3940,Fábio Almeida,Jiu-jitsu,T14,Branca,140.00,2026-10-15,,Atrasado,2.80,7,4,57.1,Não
+3944,Caio Pinto,Jiu-jitsu,T01,Verde,150.00,2026-10-28,2026-10-18,Pago,0.00,16,11,68.8,Não
+3946,Valentina Gonçalves Barros,Jiu-jitsu,T03,Laranja,120.00,2026-10-20,2026-10-07,Pago,0.00,14,9,64.3,Não
+3952,Otávio Moraes,Jiu-jitsu,T16,Amarela,160.00,2026-10-25,,Atrasado,3.20,10,7,70.0,Não
+3953,Lucas Martins,Judô,T03,Verde,140.00,2026-09-22,2026-09-24,Pago,0.00,16,13,81.2,Sim
+3954,Diego Xavier,Muay Thai,T06,Azul,130.00,2026-10-15,2026-10-05,Pago,0.00,12,10,83.3,Sim
+3957,Vinícius Duarte,Jiu-jitsu,T06,Amarela,110.00,2026-11-12,,Em aberto,0.00,18,16,88.9,Sim
+3964,Camila Fonseca Batista,Karatê,T04,Amarela,100.00,2026-09-10,2026-08-29,Pago,0.00,12,11,91.7,Sim
+3971,Gabriel Moraes Gomes,Muay Thai,T09,Branca,180.00,2026-11-15,,Em aberto,0.00,10,6,60.0,Não
+3978,Elaine Figueiredo,Jiu-jitsu,T14,Azul,115.00,2026-10-15,,Atrasado,2.30,11,9,81.8,Sim
+3982,Helena Barros,Jiu-jitsu,T07,Amarela,145.00,2026-10-22,2026-10-15,Pago,0.00,9,4,44.4,Não
+3984,Sofia Melo,Jiu-jitsu,T18,Amarela,160.00,2026-10-12,2026-09-30,Pago,0.00,8,7,87.5,Sim
+3990,Larissa Martins,Muay Thai,T10,Branca,175.00,2026-11-20,,Em aberto,0.00,11,7,63.6,Não
+3994,Eduardo Duarte,Muay Thai,T15,Branca,100.00,2026-11-28,,Em aberto,0.00,12,5,41.7,Não
+3995,Thiago Amaral,Karatê,T14,Branca,110.00,2026-11-05,,Em aberto,0.00,7,4,57.1,Não
+4001,Luana Sousa Machado,Judô,T04,Amarela,120.00,2026-09-12,2026-09-18,Pago,0.00,16,7,43.8,Não
+4004,Leonardo Ferreira Soares,Jiu-jitsu,T04,Branca,120.00,2026-11-10,,Em aberto,0.00,8,7,87.5,Sim
+4005,Vinícius Batista,Judô,T01,Azul,120.00,2026-11-22,,Em aberto,0.00,7,4,57.1,Não
+4012,Isabela Pereira,Muay Thai,T13,Verde,140.00,2026-10-05,2026-10-07,Pago,0.00,18,15,83.3,Sim
+4014,Luana Lima Rodrigues,Jiu-jitsu,T07,Branca,95.00,2026-10-20,2026-10-24,Pago,0.00,17,11,64.7,Não
+4015,Sofia Mendes,Karatê,T14,Branca,150.00,2026-11-07,,Em aberto,0.00,11,8,72.7,Não
+4018,Renata Monteiro,Jiu-jitsu,T05,Branca,100.00,2026-11-20,2026-11-01,Pago,0.00,17,13,76.5,Sim
+4024,Gabriel Dias,Muay Thai,T02,Branca,120.00,2026-10-07,,Atrasado,2.40,17,13,76.5,Sim
+4028,Rafaela Ramos Amaral,Judô,T09,Branca,120.00,2026-10-20,2026-10-13,Pago,0.00,8,5,62.5,Não
+4030,Diego Costa,Judô,T02,Branca,120.00,2026-10-05,2026-10-05,Pago,0.00,13,10,76.9,Sim
+4032,Gabriel Soares,Muay Thai,T18,Cinza,195.00,2026-10-12,,Atrasado,3.90,15,12,80.0,Sim
+4035,Igor Marques,Karatê,T15,Verde,100.00,2026-11-17,2026-10-30,Pago,0.00,18,11,61.1,Não
+4037,Lucas Rodrigues,Jiu-jitsu,T08,Cinza,115.00,2026-11-22,,Em aberto,0.00,9,5,55.6,Não
+4038,Ricardo Teixeira,Jiu-jitsu,T06,Verde,110.00,2026-10-15,2026-10-08,Pago,0.00,17,7,41.2,Não
+4039,Diego Cardoso,Judô,T10,Branca,130.00,2026-10-20,2026-10-14,Pago,0.00,8,7,87.5,Sim
+4040,Júlia Silva,Muay Thai,T14,Amarela,160.00,2026-11-10,,Em aberto,0.00,11,11,100.0,Sim
+4042,Luana Figueiredo,Jiu-jitsu,T06,Cinza,130.00,2026-11-28,2026-11-01,Pago,0.00,13,9,69.2,Não
+4043,Helena Ribeiro,Jiu-jitsu,T17,Branca,95.00,2026-10-25,,Atrasado,1.90,18,16,88.9,Sim
+4044,Gabriela Amaral,Jiu-jitsu,T15,Azul,115.00,2026-10-22,,Atrasado,2.30,12,10,83.3,Sim
+4045,Isabela Silva Rocha,Muay Thai,T15,Branca,130.00,2026-10-17,,Atrasado,2.60,16,12,75.0,Sim
+4049,Mariana Borges,Muay Thai,T16,Azul,145.00,2026-10-20,2026-10-09,Pago,0.00,12,9,75.0,Sim
+4056,Heloísa Barbosa,Judô,T01,Laranja,210.00,2026-09-10,2026-09-04,Pago,0.00,11,4,36.4,Não
+4059,Gabriel Campos,Jiu-jitsu,T16,Branca,150.00,2026-11-12,,Em aberto,0.00,16,14,87.5,Sim
+4063,Matheus Fonseca Oliveira,Judô,T02,Branca,180.00,2026-11-12,,Em aberto,0.00,15,13,86.7,Sim
+4066,Paula Costa Duarte,Jiu-jitsu,T02,Verde,110.00,2026-09-28,2026-09-18,Pago,0.00,13,12,92.3,Sim
+4069,Heloísa Santos,Karatê,T06,Laranja,110.00,2026-09-20,2026-09-19,Pago,0.00,15,11,73.3,Não
+4075,Pedro Moraes,Jiu-jitsu,T11,Amarela,120.00,2026-10-05,,Atrasado,2.40,9,4,44.4,Não
+4076,Valentina Araújo,Jiu-jitsu,T15,Branca,110.00,2026-10-15,,Atrasado,2.20,12,10,83.3,Sim
+4078,Helena Dias Costa,Jiu-jitsu,T11,Amarela,175.00,2026-11-07,,Em aberto,0.00,15,12,80.0,Sim
+4084,Isabela Pereira,Jiu-jitsu,T06,Laranja,120.00,2026-11-22,,Em aberto,0.00,15,12,80.0,Sim
+4086,Isabela Ribeiro,Judô,T01,Branca,130.00,2026-10-20,2026-10-16,Pago,0.00,12,10,83.3,Sim
+4093,Lucas Monteiro Dias,Karatê,T16,Branca,145.00,2026-11-17,,Em aberto,0.00,17,14,82.4,Sim
+4100,Yasmin Moraes,Muay Thai,T01,Cinza,130.00,2026-11-07,,Em aberto,0.00,18,14,77.8,Sim
+4101,Larissa Rodrigues,Muay Thai,T08,Branca,120.00,2026-10-20,2026-10-09,Pago,0.00,13,12,92.3,Sim
+4103,Lucas Amaral Andrade,Jiu-jitsu,T11,Azul,125.00,2026-10-07,2026-10-05,Pago,0.00,18,9,50.0,Não
+4105,Lucas Figueiredo,Jiu-jitsu,T18,Amarela,145.00,2026-10-17,2026-10-10,Pago,0.00,13,11,84.6,Sim
+4111,César Batista,Muay Thai,T17,Amarela,160.00,2026-11-20,,Em aberto,0.00,14,11,78.6,Sim
+4115,Rafaela Cardoso,Jiu-jitsu,T02,Cinza,160.00,2026-11-10,,Em aberto,0.00,11,8,72.7,Não
+4117,Beatriz Duarte,Jiu-jitsu,T04,Cinza,120.00,2026-09-10,,Atrasado,2.40,11,9,81.8,Sim
+4119,Elaine Santos,Jiu-jitsu,T16,Branca,115.00,2026-10-12,2026-10-09,Pago,0.00,17,14,82.4,Sim
+4127,Matheus Castro Pereira,Muay Thai,T11,Roxa,160.00,2026-10-25,,Atrasado,3.20,17,15,88.2,Sim
+4128,Rafael Oliveira Rocha,Muay Thai,T05,Verde,150.00,2026-10-22,2026-10-25,Pago,0.00,17,14,82.4,Sim
+4129,Daniela Moraes,Judô,T14,Amarela,125.00,2026-11-20,,Em aberto,0.00,7,7,100.0,Sim
+4132,Thiago Batista,Judô,T04,Laranja,120.00,2026-10-07,2026-10-04,Pago,0.00,14,8,57.1,Não
+4136,Elisa Marques,Muay Thai,T12,Azul,120.00,2026-10-25,2026-10-14,Pago,0.00,12,12,100.0,Sim
+4137,Marcelo Santos,Muay Thai,T04,Branca,160.00,2026-10-28,2026-10-24,Pago,0.00,10,4,40.0,Não
+4139,Rafaela Nogueira,Jiu-jitsu,T11,Cinza,120.00,2026-11-20,,Em aberto,0.00,9,4,44.4,Não
+4140,Otávio Campos Freitas,Jiu-jitsu,T15,Laranja,95.00,2026-11-17,2026-11-01,Pago,0.00,12,5,41.7,Não
+4142,Renata Nogueira,Muay Thai,T10,Azul,120.00,2026-09-15,2026-09-13,Pago,0.00,12,6,50.0,Não
+4148,Pedro Moraes,Muay Thai,T03,Branca,150.00,2026-10-07,2026-09-27,Pago,0.00,18,7,38.9,Não
+4150,Sofia Rodrigues,Judô,T17,Laranja,150.00,2026-10-20,2026-10-08,Pago,0.00,7,6,85.7,Sim
+4151,Otávio Vieira,Muay Thai,T04,Branca,145.00,2026-11-17,,Em aberto,0.00,18,13,72.2,Não
+4154,Heloísa Moraes Pereira,Judô,T09,Branca,130.00,2026-10-20,2026-10-10,Pago,0.00,16,13,81.2,Sim
+4164,Valentina Silva,Muay Thai,T06,Cinza,195.00,2026-10-22,2026-10-26,Pago,0.00,10,3,30.0,Não
+4167,Heloísa Lopes,Jiu-jitsu,T17,Amarela,120.00,2026-10-28,2026-11-01,Pago,0.00,7,6,85.7,Sim
+4173,João Teixeira Lima,Judô,T14,Cinza,150.00,2026-10-12,2026-10-19,Pago,0.00,13,11,84.6,Sim
+4175,Sofia Moura,Jiu-jitsu,T11,Amarela,110.00,2026-11-10,,Em aberto,0.00,17,10,58.8,Não
+4178,Diego Barbosa,Muay Thai,T03,Azul,175.00,2026-10-22,2026-10-22,Pago,0.00,15,11,73.3,Não
+4181,Matheus Moreira,Muay Thai,T02,Branca,150.00,2026-10-07,2026-10-05,Pago,0.00,9,8,88.9,Sim
+4183,Matheus Nascimento,Judô,T09,Verde,150.00,2026-10-25,,Atrasado,3.00,12,10,83.3,Sim
+4184,Manuela Ribeiro Nogueira,Muay Thai,T16,Amarela,160.00,2026-11-07,,Em aberto,0.00,11,3,27.3,Não
+4185,Rafaela Cunha,Judô,T18,Marrom,130.00,2026-10-05,2026-10-03,Pago,0.00,13,10,76.9,Sim
+4192,André Costa,Muay Thai,T15,Cinza,175.00,2026-11-15,,Em aberto,0.00,10,7,70.0,Não
+4197,Heloísa Andrade,Muay Thai,T06,Branca,140.00,2026-10-12,,Atrasado,2.80,10,7,70.0,Não
+4200,Leonardo Araújo,Muay Thai,T09,Cinza,95.00,2026-10-25,2026-10-22,Pago,0.00,18,12,66.7,Não
+4202,Thiago Mendes,Jiu-jitsu,T03,Cinza,125.00,2026-10-15,,Atrasado,2.50,9,8,88.9,Sim
+4203,Larissa Martins,Jiu-jitsu,T11,Marrom,150.00,2026-10-25,2026-10-18,Pago,0.00,8,4,50.0,Não
+4210,Rafael Barros,Muay Thai,T18,Amarela,130.00,2026-09-28,2026-10-04,Pago,0.00,13,10,76.9,Sim
+4214,Felipe Campos,Muay Thai,T03,Roxa,130.00,2026-11-20,,Em aberto,0.00,7,5,71.4,Não
+4216,Yasmin Reis,Muay Thai,T16,Branca,145.00,2026-11-05,2026-10-27,Pago,0.00,7,5,71.4,Não
+4217,Yasmin Coelho Almeida,Judô,T14,Laranja,120.00,2026-10-22,2026-10-13,Pago,0.00,9,7,77.8,Sim
+4218,Valentina Andrade Castro,Jiu-jitsu,T07,Amarela,120.00,2026-11-07,,Em aberto,0.00,11,8,72.7,Não
+4225,Helena Cardoso,Jiu-jitsu,T17,Azul,120.00,2026-11-05,,Em aberto,0.00,12,7,58.3,Não
+4231,Yasmin Barbosa,Jiu-jitsu,T08,Branca,160.00,2026-10-05,,Atrasado,3.20,7,6,85.7,Sim
+4232,Isabela Nascimento,Muay Thai,T02,Branca,150.00,2026-10-05,2026-10-07,Pago,0.00,13,11,84.6,Sim
+4234,Fernanda Ribeiro,Jiu-jitsu,T14,Laranja,120.00,2026-11-10,,Em aberto,0.00,10,8,80.0,Sim
+4235,Vitória Ribeiro Rocha,Karatê,T12,Amarela,100.00,2026-10-22,2026-10-09,Pago,0.00,8,5,62.5,Não
+4237,Elaine Mendes Monteiro,Jiu-jitsu,T08,Branca,160.00,2026-11-25,,Em aberto,0.00,15,9,60.0,Não
+4244,Thiago Martins,Muay Thai,T05,Laranja,145.00,2026-10-25,2026-10-28,Pago,0.00,15,12,80.0,Sim
+4245,Heloísa Machado,Jiu-jitsu,T06,Cinza,180.00,2026-10-05,2026-10-06,Pago,0.00,15,12,80.0,Sim
+4251,Elaine Machado,Muay Thai,T02,Amarela,160.00,2026-10-17,,Atrasado,3.20,13,8,61.5,Não
+4252,Isabela Moreira Borges,Muay Thai,T02,Laranja,100.00,2026-10-15,2026-10-04,Pago,0.00,11,8,72.7,Não
+4258,Daniela Fonseca,Jiu-jitsu,T11,Cinza,180.00,2026-09-22,,Atrasado,3.60,10,10,100.0,Sim
+4259,André Nogueira,Judô,T17,Branca,130.00,2026-11-22,,Em aberto,0.00,11,10,90.9,Sim
+4263,Luana Vieira Duarte,Jiu-jitsu,T02,Azul,120.00,2026-10-07,2026-10-04,Pago,0.00,16,15,93.8,Sim
+4264,Larissa Soares,Jiu-jitsu,T06,Laranja,150.00,2026-10-20,,Atrasado,3.00,9,8,88.9,Sim
+4266,Ricardo Barros,Jiu-jitsu,T16,Branca,150.00,2026-11-28,,Em aberto,0.00,15,12,80.0,Sim
+4267,Wesley Amaral Moreira,Jiu-jitsu,T08,Cinza,175.00,2026-10-22,2026-10-21,Pago,0.00,7,6,85.7,Sim
+4268,André Freitas Melo,Jiu-jitsu,T16,Roxa,150.00,2026-11-28,,Em aberto,0.00,7,3,42.9,Não
+4273,Rafaela Rocha Xavier,Muay Thai,T01,Roxa,175.00,2026-11-17,2026-11-01,Pago,0.00,11,3,27.3,Não
+4280,Manuela Pereira Fonseca,Jiu-jitsu,T09,Amarela,120.00,2026-10-17,,Atrasado,2.40,15,13,86.7,Sim
+4281,Yasmin Barros,Muay Thai,T06,Verde,110.00,2026-10-28,,Atrasado,2.20,14,7,50.0,Não
+4282,Felipe Figueiredo,Jiu-jitsu,T17,Verde,125.00,2026-10-05,,Atrasado,2.50,17,9,52.9,Não
+4293,Natália Xavier,Jiu-jitsu,T05,Amarela,95.00,2026-11-22,2026-11-01,Pago,0.00,7,6,85.7,Sim
+4294,Igor Pereira,Jiu-jitsu,T02,Laranja,150.00,2026-11-12,,Em aberto,0.00,14,8,57.1,Não
+4300,Elaine Oliveira,Jiu-jitsu,T18,Amarela,140.00,2026-10-17,2026-10-23,Pago,0.00,8,5,62.5,Não
+4306,Daniela Machado,Muay Thai,T17,Branca,120.00,2026-10-17,2026-10-14,Pago,0.00,18,17,94.4,Sim
+4308,Mirela Barros,Jiu-jitsu,T01,Branca,110.00,2026-10-28,2026-10-29,Pago,0.00,14,9,64.3,Não
+4311,André Monteiro,Judô,T16,Laranja,100.00,2026-09-05,2026-08-27,Pago,0.00,8,5,62.5,Não
+4313,Fernanda Batista,Muay Thai,T11,Roxa,145.00,2026-10-12,,Atrasado,2.90,7,6,85.7,Sim
+4315,Natália Monteiro Moreira,Jiu-jitsu,T01,Azul,100.00,2026-10-12,2026-10-15,Pago,0.00,11,8,72.7,Não
+4319,Daniela Vieira Ramos,Jiu-jitsu,T18,Amarela,115.00,2026-10-22,,Atrasado,2.30,18,6,33.3,Não
+4322,João Moreira Martins,Jiu-jitsu,T10,Verde,150.00,2026-11-17,,Em aberto,0.00,11,7,63.6,Não
+4328,Matheus Moraes,Karatê,T14,Amarela,110.00,2026-10-17,,Atrasado,2.20,16,8,50.0,Não
+4334,Helena Vieira,Muay Thai,T15,Verde,140.00,2026-10-28,2026-10-18,Pago,0.00,9,6,66.7,Não
+4336,Gustavo Oliveira Martins,Jiu-jitsu,T14,Branca,180.00,2026-11-22,2026-10-29,Pago,0.00,18,12,66.7,Não
+4338,Leonardo Ramos,Judô,T08,Amarela,210.00,2026-10-15,,Atrasado,4.20,14,8,57.1,Não
+4344,Isabela Moura,Muay Thai,T10,Branca,180.00,2026-10-28,,Atrasado,3.60,8,7,87.5,Sim
+4346,Fernanda Borges,Jiu-jitsu,T09,Roxa,110.00,2026-10-07,,Atrasado,2.20,10,9,90.0,Sim
+4347,Isabela Figueiredo,Jiu-jitsu,T07,Verde,95.00,2026-10-10,,Atrasado,1.90,8,8,100.0,Sim
+4354,Manuela Monteiro,Muay Thai,T06,Amarela,175.00,2026-11-07,,Em aberto,0.00,11,4,36.4,Não
+4356,Luana Melo Batista,Judô,T04,Branca,150.00,2026-10-07,,Atrasado,3.00,13,10,76.9,Sim
+4357,Gabriel Barbosa,Muay Thai,T15,Laranja,195.00,2026-10-25,2026-10-23,Pago,0.00,18,9,50.0,Não
+4358,Gabriel Rodrigues Reis,Judô,T16,Laranja,125.00,2026-10-20,,Atrasado,2.50,11,10,90.9,Sim
+4364,Heloísa Amaral,Karatê,T07,Amarela,175.00,2026-11-17,,Em aberto,0.00,17,13,76.5,Sim
+4367,Júlia Teixeira Soares,Muay Thai,T04,Branca,120.00,2026-11-17,,Em aberto,0.00,9,8,88.9,Sim
+4368,João Borges,Karatê,T05,Branca,145.00,2026-10-07,2026-10-13,Pago,0.00,17,14,82.4,Sim
+4375,Samuel Moraes,Jiu-jitsu,T08,Laranja,100.00,2026-11-20,,Em aberto,0.00,14,10,71.4,Não
+4376,Heloísa Nogueira,Judô,T06,Branca,110.00,2026-10-12,,Atrasado,2.20,15,7,46.7,Não
+4382,Helena Xavier,Jiu-jitsu,T17,Azul,140.00,2026-11-17,,Em aberto,0.00,11,3,27.3,Não
+4384,Gabriela Costa,Jiu-jitsu,T01,Amarela,110.00,2026-10-20,2026-10-26,Pago,0.00,11,4,36.4,Não
+4386,Larissa Monteiro Moraes,Jiu-jitsu,T14,Amarela,120.00,2026-11-07,,Em aberto,0.00,9,8,88.9,Sim
+4392,Samuel Batista,Muay Thai,T14,Branca,120.00,2026-11-05,,Em aberto,0.00,7,6,85.7,Sim
+4393,Isabela Gonçalves,Muay Thai,T14,Cinza,120.00,2026-10-15,2026-10-18,Pago,0.00,16,14,87.5,Sim
+4396,Fábio Martins,Jiu-jitsu,T16,Branca,100.00,2026-11-20,,Em aberto,0.00,9,7,77.8,Sim
+4403,Fábio Melo,Jiu-jitsu,T08,Laranja,120.00,2026-11-25,2026-10-31,Pago,0.00,18,11,61.1,Não
+4410,Caio Coelho,Jiu-jitsu,T06,Branca,145.00,2026-10-28,2026-10-26,Pago,0.00,16,16,100.0,Sim
+4411,Leonardo Cunha,Karatê,T18,Amarela,180.00,2026-10-07,2026-10-13,Pago,0.00,9,8,88.9,Sim
+4415,Renata Xavier,Muay Thai,T12,Amarela,115.00,2026-10-05,,Atrasado,2.30,13,8,61.5,Não
+4417,Larissa Duarte,Jiu-jitsu,T11,Azul,120.00,2026-10-12,,Atrasado,2.40,14,11,78.6,Sim
+4418,Vinícius Lopes Monteiro,Karatê,T13,Azul,150.00,2026-11-25,2026-10-31,Pago,0.00,17,12,70.6,Não
+4420,Samuel Soares Andrade,Jiu-jitsu,T15,Branca,150.00,2026-11-17,,Em aberto,0.00,8,7,87.5,Sim
+4427,Helena Rodrigues Figueiredo,Jiu-jitsu,T07,Branca,145.00,2026-11-28,,Em aberto,0.00,14,9,64.3,Não
+4429,Júlia Gomes,Muay Thai,T07,Verde,110.00,2026-11-22,2026-10-28,Pago,0.00,12,5,41.7,Não
+4432,Sofia Vieira,Jiu-jitsu,T04,Amarela,110.00,2026-10-15,2026-10-18,Pago,0.00,11,7,63.6,Não
+4433,Ana Mendes,Muay Thai,T03,Laranja,145.00,2026-09-22,,Atrasado,2.90,17,8,47.1,Não
+4439,Mariana Coelho,Jiu-jitsu,T10,Amarela,145.00,2026-11-20,,Em aberto,0.00,10,3,30.0,Não
+4448,André Rodrigues Figueiredo,Jiu-jitsu,T04,Marrom,145.00,2026-11-22,,Em aberto,0.00,10,8,80.0,Sim
+4449,Vitória Pinto,Karatê,T17,Branca,120.00,2026-10-10,,Atrasado,2.40,9,8,88.9,Sim
+4450,Daniela Vieira,Jiu-jitsu,T16,Branca,100.00,2026-10-05,,Atrasado,2.00,11,5,45.5,Não
+4451,Leonardo Teixeira,Judô,T16,Azul,120.00,2026-11-07,,Em aberto,0.00,8,5,62.5,Não
+4453,Gabriela Castro,Jiu-jitsu,T11,Branca,145.00,2026-10-05,,Atrasado,2.90,18,11,61.1,Não
+4455,Samuel Amaral,Judô,T08,Amarela,120.00,2026-10-05,2026-09-26,Pago,0.00,16,8,50.0,Não
+4459,Thiago Melo,Jiu-jitsu,T16,Branca,95.00,2026-11-10,,Em aberto,0.00,10,7,70.0,Não
+4460,Fernanda Teixeira,Judô,T16,Amarela,175.00,2026-09-12,2026-09-15,Pago,0.00,12,6,50.0,Não
+4462,Fábio Teixeira,Karatê,T04,Cinza,120.00,2026-10-12,2026-10-13,Pago,0.00,8,5,62.5,Não
+4466,Felipe Moura Ramos,Muay Thai,T11,Amarela,120.00,2026-10-10,2026-10-06,Pago,0.00,13,12,92.3,Sim
+4470,Caio Xavier,Jiu-jitsu,T14,Branca,210.00,2026-09-10,2026-08-30,Pago,0.00,14,12,85.7,Sim
+4474,Beatriz Freitas,Jiu-jitsu,T13,Laranja,145.00,2026-09-05,2026-09-06,Pago,0.00,16,15,93.8,Sim
+4478,Mirela Dias,Muay Thai,T09,Laranja,120.00,2026-10-17,,Atrasado,2.40,12,9,75.0,Sim
+4482,Lucas Fonseca,Jiu-jitsu,T15,Branca,175.00,2026-10-10,,Atrasado,3.50,9,7,77.8,Sim
+4484,Wesley Campos Dias,Jiu-jitsu,T07,Roxa,120.00,2026-10-07,,Atrasado,2.40,17,11,64.7,Não
+4485,Yasmin Barbosa,Jiu-jitsu,T18,Verde,210.00,2026-10-05,2026-09-27,Pago,0.00,8,7,87.5,Sim
+4486,Valentina Araújo,Muay Thai,T02,Amarela,110.00,2026-10-07,2026-09-30,Pago,0.00,8,7,87.5,Sim
+4487,Paula Pinto,Jiu-jitsu,T04,Roxa,100.00,2026-10-15,2026-10-22,Pago,0.00,14,3,21.4,Não
+4488,Felipe Santos Martins,Muay Thai,T02,Amarela,175.00,2026-09-20,2026-09-21,Pago,0.00,12,7,58.3,Não
+2009,Ana Xavier,Jiu-jitsu,T01,Verde,150.00,2026-10-20,,Atrasado,3.00,13,11,84.6,Sim
+4500,Elisa Gonçalves Xavier,Jiu-jitsu,T12,Branca,100.00,2026-11-15,,Em aberto,0.00,12,7,58.3,Não
+4502,Fábio Oliveira,Muay Thai,T02,Branca,120.00,2026-11-22,,Em aberto,0.00,7,4,57.1,Não
+4504,Ricardo Reis,Muay Thai,T01,Cinza,115.00,2026-10-15,,Atrasado,2.30,16,14,87.5,Sim
+4505,Ana Lopes Campos,Jiu-jitsu,T18,Branca,160.00,2026-10-25,2026-10-15,Pago,0.00,17,13,76.5,Sim
+4506,Caio Vieira,Jiu-jitsu,T04,Amarela,120.00,2026-10-10,2026-10-09,Pago,0.00,17,9,52.9,Não
+4511,Yasmin Araújo,Jiu-jitsu,T10,Branca,100.00,2026-10-15,,Atrasado,2.00,15,12,80.0,Sim
+4515,Yasmin Moura,Jiu-jitsu,T11,Azul,120.00,2026-09-15,2026-09-08,Pago,0.00,10,7,70.0,Não
+4516,Luana Silva,Judô,T18,Cinza,120.00,2026-10-15,,Atrasado,2.40,17,15,88.2,Sim
+4517,Matheus Campos Silva,Muay Thai,T12,Verde,115.00,2026-10-05,2026-10-01,Pago,0.00,17,12,70.6,Não
+4519,Beatriz Medeiros Teixeira,Judô,T13,Branca,125.00,2026-09-25,,Atrasado,2.50,18,16,88.9,Sim
+4522,Paula Araújo,Jiu-jitsu,T16,Cinza,125.00,2026-10-05,2026-10-07,Pago,0.00,7,3,42.9,Não
+4524,Lucas Lopes,Karatê,T09,Azul,130.00,2026-10-20,2026-10-22,Pago,0.00,13,12,92.3,Sim
+4525,Helena Fonseca,Muay Thai,T15,Amarela,95.00,2026-10-20,2026-10-16,Pago,0.00,9,9,100.0,Sim
+4531,Rafael Nogueira Lima,Jiu-jitsu,T05,Verde,125.00,2026-10-05,,Atrasado,2.50,17,14,82.4,Sim
+4532,Fernanda Moura,Muay Thai,T18,Amarela,120.00,2026-09-05,2026-08-23,Pago,0.00,10,9,90.0,Sim
+4533,Daniel Silva Barbosa,Judô,T06,Branca,115.00,2026-10-10,,Atrasado,2.30,7,5,71.4,Não
+4534,Renata Nogueira,Jiu-jitsu,T17,Branca,130.00,2026-11-05,,Em aberto,0.00,9,7,77.8,Sim
+4539,Camila Castro Barbosa,Jiu-jitsu,T17,Amarela,115.00,2026-10-28,2026-10-15,Pago,0.00,7,3,42.9,Não
+4540,Luana Amaral Vieira,Muay Thai,T11,Verde,145.00,2026-10-05,2026-10-04,Pago,0.00,10,7,70.0,Não
+4541,Pedro Barros Lopes,Jiu-jitsu,T13,Amarela,120.00,2026-10-07,,Atrasado,2.40,12,9,75.0,Sim
+4548,Fernanda Costa Moura,Judô,T05,Amarela,160.00,2026-10-05,2026-09-27,Pago,0.00,15,13,86.7,Sim
+4555,Gabriel Rodrigues,Jiu-jitsu,T12,Roxa,110.00,2026-10-25,,Atrasado,2.20,10,9,90.0,Sim
+4558,Manuela Freitas,Muay Thai,T02,Cinza,175.00,2026-11-17,,Em aberto,0.00,8,6,75.0,Sim
+4560,Leonardo Moreira,Jiu-jitsu,T07,Branca,120.00,2026-10-28,2026-11-02,Pago,0.00,14,7,50.0,Não
+4564,Samuel Marques,Jiu-jitsu,T03,Branca,100.00,2026-11-12,,Em aberto,0.00,8,5,62.5,Não
+4566,Matheus Ribeiro,Jiu-jitsu,T05,Verde,140.00,2026-11-07,,Em aberto,0.00,10,6,60.0,Não
+4567,Ricardo Ferreira,Muay Thai,T18,Laranja,100.00,2026-11-05,2026-10-23,Pago,0.00,13,8,61.5,Não
+4574,Lucas Castro Marques,Jiu-jitsu,T01,Branca,110.00,2026-11-05,,Em aberto,0.00,7,6,85.7,Sim
+4579,Gabriela Cunha,Muay Thai,T06,Azul,120.00,2026-10-20,2026-10-21,Pago,0.00,7,5,71.4,Não
+4582,Felipe Lopes,Karatê,T16,Verde,100.00,2026-09-07,2026-08-25,Pago,0.00,15,10,66.7,Não
+4588,Valentina Rocha,Muay Thai,T12,Branca,120.00,2026-10-28,2026-10-21,Pago,0.00,15,12,80.0,Sim
+4591,Daniel Almeida,Muay Thai,T16,Laranja,160.00,2026-10-25,2026-10-22,Pago,0.00,18,16,88.9,Sim
+4597,Mariana Almeida,Muay Thai,T18,Amarela,210.00,2026-11-07,,Em aberto,0.00,14,12,85.7,Sim
+4603,Matheus Figueiredo,Judô,T04,Branca,160.00,2026-10-12,2026-10-10,Pago,0.00,15,12,80.0,Sim
+4609,Valentina Cunha,Muay Thai,T10,Laranja,180.00,2026-10-22,,Atrasado,3.60,10,9,90.0,Sim
+4614,Fernanda Duarte,Karatê,T11,Amarela,175.00,2026-11-12,2026-10-30,Pago,0.00,18,17,94.4,Sim
+4615,Vinícius Sousa,Jiu-jitsu,T04,Laranja,140.00,2026-11-12,,Em aberto,0.00,16,8,50.0,Não
+4618,Elisa Amaral,Jiu-jitsu,T02,Azul,120.00,2026-11-22,,Em aberto,0.00,18,15,83.3,Sim
+4625,Rafael Soares,Muay Thai,T16,Cinza,145.00,2026-10-22,,Atrasado,2.90,17,7,41.2,Não
+4632,Vitória Gomes,Muay Thai,T15,Branca,195.00,2026-10-25,2026-10-12,Pago,0.00,17,12,70.6,Não
+4633,César Machado,Judô,T01,Branca,210.00,2026-11-17,,Em aberto,0.00,13,8,61.5,Não
+4637,Heloísa Xavier,Jiu-jitsu,T17,Amarela,95.00,2026-10-10,,Atrasado,1.90,12,7,58.3,Não
+4639,Júlia Xavier,Jiu-jitsu,T14,Branca,130.00,2026-09-05,2026-09-06,Pago,0.00,11,8,72.7,Não
+4640,Igor Martins,Judô,T05,Branca,130.00,2026-11-20,2026-10-31,Pago,0.00,12,12,100.0,Sim
+4646,Daniel Fonseca,Karatê,T15,Cinza,120.00,2026-10-28,,Atrasado,2.40,13,7,53.8,Não
+4647,André Pinto Marques,Jiu-jitsu,T15,Azul,120.00,2026-10-20,,Atrasado,2.40,17,6,35.3,Não
+4651,Igor Monteiro Nascimento,Jiu-jitsu,T13,Amarela,110.00,2026-10-25,2026-10-13,Pago,0.00,17,11,64.7,Não
+4655,Daniel Rocha,Jiu-jitsu,T06,Roxa,100.00,2026-11-07,,Em aberto,0.00,9,6,66.7,Não
+4662,Rafael Moreira,Judô,T07,Cinza,175.00,2026-11-05,,Em aberto,0.00,13,8,61.5,Não
+4666,Wesley Santos,Jiu-jitsu,T16,Marrom,195.00,2026-10-07,2026-10-14,Pago,0.00,18,17,94.4,Sim
+4669,Rafael Campos,Muay Thai,T10,Branca,125.00,2026-11-22,,Em aberto,0.00,18,10,55.6,Não
+4671,Yasmin Duarte Marques,Jiu-jitsu,T04,Amarela,150.00,2026-10-20,,Atrasado,3.00,8,6,75.0,Sim
+4672,Otávio Marques,Muay Thai,T03,Branca,130.00,2026-09-15,2026-09-08,Pago,0.00,15,13,86.7,Sim
+4679,Felipe Rodrigues Cardoso,Jiu-jitsu,T17,Amarela,145.00,2026-10-20,2026-10-09,Pago,0.00,11,11,100.0,Sim
+4686,Fernanda Araújo,Judô,T15,Branca,180.00,2026-09-28,,Atrasado,3.60,12,10,83.3,Sim
+4692,Gustavo Vieira,Jiu-jitsu,T02,Branca,115.00,2026-11-07,,Em aberto,0.00,8,6,75.0,Sim
+4693,Daniela Duarte,Jiu-jitsu,T10,Azul,160.00,2026-10-22,2026-10-24,Pago,0.00,13,9,69.2,Não
+4695,Larissa Martins,Judô,T08,Branca,115.00,2026-10-15,2026-10-18,Pago,0.00,13,10,76.9,Sim
+4696,Leonardo Castro,Muay Thai,T16,Amarela,110.00,2026-11-10,,Em aberto,0.00,9,6,66.7,Não
+4703,Mariana Gomes,Jiu-jitsu,T02,Cinza,160.00,2026-11-12,,Em aberto,0.00,8,5,62.5,Não
+4705,Diego Almeida,Jiu-jitsu,T04,Branca,120.00,2026-10-07,,Atrasado,2.40,8,7,87.5,Sim
+4712,Gabriel Marques,Judô,T18,Branca,150.00,2026-11-07,,Em aberto,0.00,8,6,75.0,Sim
+4713,Daniel Monteiro Ferreira,Jiu-jitsu,T04,Azul,120.00,2026-10-12,,Atrasado,2.40,10,6,60.0,Não
+4720,Vinícius Rodrigues Pereira,Judô,T04,Branca,130.00,2026-10-28,,Atrasado,2.60,10,6,60.0,Não
+4721,Otávio Machado,Muay Thai,T12,Laranja,95.00,2026-10-12,2026-10-04,Pago,0.00,17,8,47.1,Não
+4723,Igor Nogueira,Karatê,T13,Branca,85.00,2026-09-10,,Atrasado,1.70,11,8,72.7,Não
+4724,Camila Dias Barros,Jiu-jitsu,T03,Branca,140.00,2026-11-05,,Em aberto,0.00,14,10,71.4,Não
+4730,Thiago Gomes Campos,Jiu-jitsu,T14,Branca,120.00,2026-11-15,,Em aberto,0.00,12,5,41.7,Não
+4734,Daniela Martins,Karatê,T01,Laranja,115.00,2026-10-10,2026-09-28,Pago,0.00,11,10,90.9,Sim
+4735,Fábio Costa Gonçalves,Jiu-jitsu,T16,Roxa,125.00,2026-11-17,,Em aberto,0.00,8,3,37.5,Não
+4739,Valentina Dias,Jiu-jitsu,T06,Amarela,120.00,2026-11-20,,Em aberto,0.00,17,11,64.7,Não
+4746,Pedro Araújo,Jiu-jitsu,T17,Laranja,195.00,2026-10-22,2026-10-19,Pago,0.00,14,11,78.6,Sim
+4747,Heloísa Medeiros,Judô,T04,Laranja,145.00,2026-10-05,,Atrasado,2.90,9,8,88.9,Sim
+4749,César Coelho,Jiu-jitsu,T11,Branca,120.00,2026-09-10,2026-09-11,Pago,0.00,17,5,29.4,Não
+4751,Daniela Gomes,Judô,T12,Cinza,130.00,2026-11-25,,Em aberto,0.00,10,7,70.0,Não
+4752,Yasmin Nogueira Moraes,Muay Thai,T01,Branca,140.00,2026-10-10,,Atrasado,2.80,17,13,76.5,Sim
+4754,Mariana Sousa,Jiu-jitsu,T09,Cinza,175.00,2026-10-10,2026-10-01,Pago,0.00,18,16,88.9,Sim
+4757,Daniela Amaral Pereira,Muay Thai,T06,Amarela,145.00,2026-10-25,,Atrasado,2.90,7,5,71.4,Não
+4761,Rafaela Ribeiro Duarte,Muay Thai,T07,Azul,125.00,2026-11-10,,Em aberto,0.00,15,12,80.0,Sim
+4762,Isabela Gonçalves,Jiu-jitsu,T15,Roxa,140.00,2026-11-20,,Em aberto,0.00,10,5,50.0,Não
+4766,Renata Machado Figueiredo,Judô,T18,Azul,130.00,2026-10-22,2026-10-16,Pago,0.00,10,8,80.0,Sim
+4767,César Melo,Judô,T11,Branca,115.00,2026-10-28,,Atrasado,2.30,16,10,62.5,Não
+4771,Thiago Cunha,Jiu-jitsu,T02,Amarela,110.00,2026-11-12,,Em aberto,0.00,16,11,68.8,Não
+4772,Gabriela Medeiros,Judô,T09,Branca,210.00,2026-09-25,2026-09-24,Pago,0.00,9,6,66.7,Não
+4776,Yasmin Moura,Judô,T05,Laranja,120.00,2026-10-05,,Atrasado,2.40,18,15,83.3,Sim
+4778,Wesley Freitas,Muay Thai,T09,Branca,125.00,2026-11-28,,Em aberto,0.00,14,8,57.1,Não
+4780,Samuel Ribeiro,Judô,T15,Laranja,195.00,2026-10-15,2026-10-19,Pago,0.00,7,5,71.4,Não
+4781,Isabela Rocha,Jiu-jitsu,T13,Roxa,125.00,2026-11-07,,Em aberto,0.00,12,10,83.3,Sim
+4783,Heloísa Dias,Karatê,T08,Cinza,130.00,2026-09-10,2026-09-11,Pago,0.00,11,6,54.5,Não
+4785,Daniela Moreira Cardoso,Muay Thai,T02,Laranja,150.00,2026-11-05,,Em aberto,0.00,12,8,66.7,Não
+4790,Rafaela Pereira,Muay Thai,T09,Cinza,160.00,2026-11-25,,Em aberto,0.00,18,7,38.9,Não
+4792,Valentina Araújo,Jiu-jitsu,T12,Azul,120.00,2026-10-07,2026-10-14,Pago,0.00,10,8,80.0,Sim
+4798,Ana Figueiredo Castro,Judô,T02,Branca,175.00,2026-11-12,2026-10-31,Pago,0.00,10,4,40.0,Não
+4801,Heloísa Lima Pereira,Judô,T11,Roxa,145.00,2026-10-15,2026-10-13,Pago,0.00,14,11,78.6,Sim
+4802,Paula Costa,Jiu-jitsu,T15,Branca,100.00,2026-10-12,,Atrasado,2.00,12,10,83.3,Sim
+4803,Larissa Fonseca,Jiu-jitsu,T06,Verde,130.00,2026-10-17,,Atrasado,2.60,8,6,75.0,Sim
+4804,Matheus Teixeira Castro,Judô,T01,Amarela,150.00,2026-11-17,,Em aberto,0.00,17,5,29.4,Não
+4808,Júlia Pereira,Muay Thai,T08,Amarela,120.00,2026-11-22,,Em aberto,0.00,15,11,73.3,Não
+4809,Manuela Rocha Santos,Judô,T01,Branca,110.00,2026-11-28,,Em aberto,0.00,16,11,68.8,Não
+4816,Felipe Figueiredo,Muay Thai,T16,Verde,125.00,2026-10-15,,Atrasado,2.50,11,10,90.9,Sim
+4818,Gustavo Reis,Karatê,T04,Laranja,150.00,2026-11-15,2026-11-02,Pago,0.00,11,4,36.4,Não
+4819,Júlia Mendes,Judô,T18,Laranja,145.00,2026-11-28,2026-10-30,Pago,0.00,14,12,85.7,Sim
+4825,Marcelo Ferreira Costa,Judô,T07,Laranja,150.00,2026-10-05,2026-09-25,Pago,0.00,10,8,80.0,Sim
+4828,Camila Marques,Jiu-jitsu,T04,Branca,115.00,2026-11-12,,Em aberto,0.00,8,5,62.5,Não
+4831,Rafael Mendes Fonseca,Jiu-jitsu,T15,Azul,160.00,2026-11-07,,Em aberto,0.00,7,4,57.1,Não
+4833,Júlia Cunha,Jiu-jitsu,T11,Branca,115.00,2026-11-22,2026-11-01,Pago,0.00,11,5,45.5,Não
+4840,Igor Monteiro,Muay Thai,T12,Marrom,130.00,2026-10-12,,Atrasado,2.60,7,4,57.1,Não
+4842,Matheus Lopes,Judô,T09,Branca,110.00,2026-11-17,,Em aberto,0.00,14,8,57.1,Não
+4844,Elisa Ferreira,Jiu-jitsu,T15,Branca,120.00,2026-11-28,,Em aberto,0.00,14,9,64.3,Não
+4853,Rafaela Araújo,Jiu-jitsu,T03,Amarela,120.00,2026-11-12,,Em aberto,0.00,13,8,61.5,Não
+4855,Vitória Melo,Jiu-jitsu,T02,Laranja,85.00,2026-09-20,,Atrasado,1.70,9,5,55.6,Não
+4856,Paula Borges,Muay Thai,T04,Amarela,175.00,2026-10-10,2026-09-29,Pago,0.00,8,5,62.5,Não
+4863,Daniela Nogueira,Jiu-jitsu,T10,Branca,95.00,2026-11-15,,Em aberto,0.00,12,10,83.3,Sim
+4864,Diego Monteiro Castro,Jiu-jitsu,T16,Amarela,115.00,2026-10-12,2026-10-11,Pago,0.00,8,6,75.0,Sim
+4871,Leonardo Barros,Karatê,T01,Laranja,145.00,2026-10-25,2026-11-01,Pago,0.00,13,9,69.2,Não
+4874,Fábio Castro,Muay Thai,T07,Roxa,145.00,2026-11-17,,Em aberto,0.00,8,3,37.5,Não
+4876,Gustavo Monteiro,Karatê,T12,Branca,145.00,2026-10-17,,Atrasado,2.90,12,11,91.7,Sim
+4883,Pedro Lima Castro,Judô,T14,Cinza,150.00,2026-10-25,2026-10-22,Pago,0.00,7,3,42.9,Não
+4886,Gabriela Freitas,Muay Thai,T02,Branca,125.00,2026-09-22,,Atrasado,2.50,16,12,75.0,Sim
+4893,Luana Ramos Moura,Jiu-jitsu,T14,Roxa,175.00,2026-11-05,,Em aberto,0.00,13,9,69.2,Não
+4902,Samuel Andrade,Muay Thai,T01,Amarela,150.00,2026-09-07,2026-08-26,Pago,0.00,12,8,66.7,Não
+4903,Caio Lopes,Judô,T12,Cinza,130.00,2026-10-05,,Atrasado,2.60,12,11,91.7,Sim
+4907,Mirela Rodrigues Moreira,Jiu-jitsu,T07,Azul,120.00,2026-10-25,2026-10-22,Pago,0.00,16,8,50.0,Não
+4908,Felipe Costa,Judô,T07,Roxa,120.00,2026-10-22,2026-10-29,Pago,0.00,15,12,80.0,Sim
+4909,Igor Carvalho,Muay Thai,T04,Branca,145.00,2026-10-28,,Atrasado,2.90,7,7,100.0,Sim
+4916,Samuel Barros,Muay Thai,T02,Branca,110.00,2026-11-28,,Em aberto,0.00,7,6,85.7,Sim
+4918,Heloísa Teixeira,Muay Thai,T14,Marrom,110.00,2026-10-25,,Atrasado,2.20,11,9,81.8,Sim
+4920,Lucas Medeiros,Jiu-jitsu,T01,Branca,125.00,2026-11-05,,Em aberto,0.00,17,14,82.4,Sim
+4926,Wesley Pinto,Jiu-jitsu,T08,Marrom,150.00,2026-10-05,2026-09-23,Pago,0.00,7,5,71.4,Não
+4927,Daniela Duarte Nascimento,Jiu-jitsu,T03,Branca,110.00,2026-10-22,2026-10-24,Pago,0.00,9,9,100.0,Sim
+4928,Renata Barros Figueiredo,Muay Thai,T06,Amarela,120.00,2026-10-17,2026-10-16,Pago,0.00,9,4,44.4,Não
+4929,Rafaela Lima,Jiu-jitsu,T06,Verde,145.00,2026-10-10,2026-09-28,Pago,0.00,14,9,64.3,Não
+4930,Fábio Borges,Judô,T01,Roxa,175.00,2026-10-17,2026-10-12,Pago,0.00,10,9,90.0,Sim
+4933,Ana Gomes Marques,Jiu-jitsu,T18,Marrom,145.00,2026-10-28,,Atrasado,2.90,11,10,90.9,Sim
+4934,Fábio Amaral,Karatê,T07,Branca,160.00,2026-10-28,2026-10-18,Pago,0.00,12,8,66.7,Não
+4935,Fábio Santos Martins,Karatê,T15,Branca,130.00,2026-10-10,2026-10-07,Pago,0.00,12,7,58.3,Não
+4937,Caio Reis,Jiu-jitsu,T17,Laranja,150.00,2026-10-20,,Atrasado,3.00,11,5,45.5,Não
+4939,Heloísa Figueiredo Borges,Muay Thai,T10,Branca,175.00,2026-10-17,,Atrasado,3.50,14,14,100.0,Sim
+4940,Heloísa Pinto,Jiu-jitsu,T02,Amarela,130.00,2026-11-20,,Em aberto,0.00,18,15,83.3,Sim
+4947,Fernanda Rocha,Muay Thai,T01,Branca,100.00,2026-11-07,,Em aberto,0.00,10,7,70.0,Não
+4950,André Pereira Araújo,Judô,T09,Laranja,175.00,2026-10-15,2026-10-19,Pago,0.00,17,12,70.6,Não
+4951,Natália Lima,Jiu-jitsu,T09,Verde,110.00,2026-11-15,,Em aberto,0.00,9,6,66.7,Não
+4952,Ana Borges,Jiu-jitsu,T07,Amarela,120.00,2026-09-15,,Atrasado,2.40,16,8,50.0,Não
+4960,Sofia Andrade Gonçalves,Jiu-jitsu,T18,Branca,150.00,2026-10-17,2026-10-04,Pago,0.00,14,12,85.7,Sim
+4962,Helena Cardoso,Judô,T10,Verde,120.00,2026-10-15,2026-10-10,Pago,0.00,17,11,64.7,Não
+4963,Elaine Dias,Jiu-jitsu,T14,Verde,150.00,2026-10-12,2026-10-15,Pago,0.00,16,10,62.5,Não
+4964,Thiago Cardoso,Judô,T10,Branca,150.00,2026-11-28,2026-11-01,Pago,0.00,15,7,46.7,Não
+4968,Valentina Andrade,Judô,T05,Verde,110.00,2026-10-25,,Atrasado,2.20,13,11,84.6,Sim
+4970,Gabriel Ramos Monteiro,Muay Thai,T13,Branca,120.00,2026-10-12,,Atrasado,2.40,17,6,35.3,Não
+4976,Wesley Almeida,Jiu-jitsu,T16,Cinza,145.00,2026-10-10,2026-10-09,Pago,0.00,7,5,71.4,Não
+4982,Fernanda Barros,Jiu-jitsu,T01,Laranja,145.00,2026-09-05,2026-09-09,Pago,0.00,13,8,61.5,Não
+4988,Elaine Araújo Freitas,Jiu-jitsu,T05,Branca,140.00,2026-10-25,2026-10-26,Pago,0.00,7,5,71.4,Não
+4989,Otávio Moraes,Jiu-jitsu,T18,Branca,95.00,2026-10-17,2026-10-19,Pago,0.00,13,10,76.9,Sim
+4992,Caio Duarte Martins,Muay Thai,T05,Amarela,95.00,2026-10-17,,Atrasado,1.90,17,13,76.5,Sim
+4995,Renata Dias,Muay Thai,T12,Cinza,110.00,2026-09-25,2026-09-13,Pago,0.00,18,12,66.7,Não
+4997,Renata Borges Rodrigues,Judô,T17,Laranja,120.00,2026-10-05,,Atrasado,2.40,7,4,57.1,Não
+5003,Vinícius Pereira,Judô,T16,Branca,175.00,2026-11-12,,Em aberto,0.00,16,13,81.2,Sim
+5005,Igor Rodrigues,Muay Thai,T09,Branca,140.00,2026-10-07,,Atrasado,2.80,16,10,62.5,Não
+5007,Caio Silva,Jiu-jitsu,T17,Branca,110.00,2026-10-22,2026-10-24,Pago,0.00,14,13,92.9,Sim
+5016,Yasmin Campos,Judô,T06,Branca,120.00,2026-10-07,,Atrasado,2.40,8,3,37.5,Não
+5020,Heloísa Teixeira,Jiu-jitsu,T10,Laranja,140.00,2026-11-28,2026-11-02,Pago,0.00,10,9,90.0,Sim
+5022,Elisa Nascimento,Jiu-jitsu,T10,Laranja,120.00,2026-10-12,2026-10-15,Pago,0.00,13,10,76.9,Sim
+5029,Renata Figueiredo,Jiu-jitsu,T05,Laranja,175.00,2026-10-17,2026-10-22,Pago,0.00,18,13,72.2,Não
+5031,Rafaela Teixeira Xavier,Jiu-jitsu,T11,Verde,100.00,2026-10-22,2026-10-24,Pago,0.00,16,9,56.2,Não
+5032,Valentina Rodrigues,Muay Thai,T18,Branca,100.00,2026-10-28,2026-11-02,Pago,0.00,16,14,87.5,Sim
+5045,Wesley Reis,Judô,T10,Branca,145.00,2026-09-28,2026-09-26,Pago,0.00,16,12,75.0,Sim
+5051,Isabela Santos,Jiu-jitsu,T11,Verde,160.00,2026-11-12,2026-11-02,Pago,0.00,9,4,44.4,Não
+5058,Rafael Batista,Judô,T08,Azul,130.00,2026-11-15,,Em aberto,0.00,13,11,84.6,Sim
+5060,Larissa Nascimento,Jiu-jitsu,T09,Azul,180.00,2026-11-28,,Em aberto,0.00,16,11,68.8,Não
+5062,Camila Batista,Jiu-jitsu,T02,Verde,130.00,2026-10-05,,Atrasado,2.60,8,6,75.0,Sim
+5068,André Melo,Jiu-jitsu,T01,Laranja,175.00,2026-11-05,,Em aberto,0.00,17,10,58.8,Não
+5075,César Moura,Judô,T11,Verde,100.00,2026-10-12,,Atrasado,2.00,15,13,86.7,Sim
+5078,Elaine Gonçalves,Judô,T03,Amarela,130.00,2026-11-22,2026-11-01,Pago,0.00,11,7,63.6,Não
+5079,Diego Barros,Muay Thai,T05,Azul,120.00,2026-10-22,2026-10-15,Pago,0.00,9,7,77.8,Sim
+5082,Pedro Lima,Jiu-jitsu,T12,Branca,85.00,2026-11-28,2026-11-02,Pago,0.00,16,12,75.0,Sim
+5089,Igor Martins Pereira,Muay Thai,T11,Cinza,145.00,2026-09-17,2026-09-24,Pago,0.00,18,12,66.7,Não
+5092,Eduardo Silva,Jiu-jitsu,T03,Cinza,110.00,2026-10-28,2026-10-20,Pago,0.00,17,16,94.1,Sim
+5099,Caio Batista,Jiu-jitsu,T17,Roxa,160.00,2026-10-25,,Atrasado,3.20,9,7,77.8,Sim
+5100,Camila Oliveira,Muay Thai,T09,Branca,140.00,2026-10-07,2026-09-30,Pago,0.00,11,6,54.5,Não
+5101,Larissa Mendes,Jiu-jitsu,T17,Amarela,145.00,2026-10-10,,Atrasado,2.90,18,10,55.6,Não
+5103,Natália Xavier,Judô,T05,Cinza,110.00,2026-10-17,,Atrasado,2.20,11,8,72.7,Não
+5106,Matheus Castro,Muay Thai,T13,Branca,160.00,2026-10-25,2026-10-18,Pago,0.00,9,5,55.6,Não
+5112,Fábio Gomes,Jiu-jitsu,T18,Branca,130.00,2026-10-05,,Atrasado,2.60,7,5,71.4,Não
+5116,César Cunha Barros,Muay Thai,T11,Branca,95.00,2026-10-07,2026-09-28,Pago,0.00,14,12,85.7,Sim
+5120,Paula Ribeiro Almeida,Jiu-jitsu,T03,Azul,125.00,2026-09-07,2026-08-26,Pago,0.00,9,6,66.7,Não
+5124,Marcelo Moraes,Jiu-jitsu,T06,Cinza,85.00,2026-10-05,2026-09-25,Pago,0.00,15,14,93.3,Sim
+5126,Rafaela Rodrigues,Jiu-jitsu,T03,Laranja,100.00,2026-11-17,2026-10-29,Pago,0.00,7,6,85.7,Sim
+5130,Ricardo Silva,Jiu-jitsu,T04,Laranja,95.00,2026-10-05,,Atrasado,1.90,12,9,75.0,Sim
+5132,Yasmin Fonseca,Jiu-jitsu,T02,Branca,130.00,2026-11-07,,Em aberto,0.00,8,7,87.5,Sim
+5134,Bruno Reis,Muay Thai,T06,Amarela,110.00,2026-10-17,2026-10-24,Pago,0.00,15,8,53.3,Não
+5136,César Cardoso,Jiu-jitsu,T14,Verde,100.00,2026-11-10,,Em aberto,0.00,9,8,88.9,Sim
+5140,André Moura Batista,Judô,T08,Laranja,110.00,2026-10-28,,Atrasado,2.20,12,8,66.7,Não
+5144,Heloísa Moreira,Muay Thai,T08,Amarela,85.00,2026-09-07,,Atrasado,1.70,14,8,57.1,Não
+5145,Otávio Pinto Xavier,Jiu-jitsu,T02,Laranja,120.00,2026-10-28,2026-10-20,Pago,0.00,12,11,91.7,Sim
+5148,João Coelho,Jiu-jitsu,T13,Branca,140.00,2026-10-07,,Atrasado,2.80,8,8,100.0,Sim
+5152,Heloísa Nogueira,Judô,T07,Branca,180.00,2026-09-22,2026-09-22,Pago,0.00,12,8,66.7,Não
+5156,Valentina Marques,Karatê,T08,Amarela,180.00,2026-11-07,,Em aberto,0.00,8,7,87.5,Sim
+5159,Daniel Coelho,Jiu-jitsu,T17,Laranja,130.00,2026-11-25,,Em aberto,0.00,14,10,71.4,Não
+5165,Marcelo Santos,Muay Thai,T11,Amarela,145.00,2026-11-28,2026-11-01,Pago,0.00,10,8,80.0,Sim
+5167,Bruno Castro,Jiu-jitsu,T14,Branca,160.00,2026-10-20,2026-10-24,Pago,0.00,7,7,100.0,Sim
+5169,Heloísa Duarte Vieira,Jiu-jitsu,T06,Azul,140.00,2026-11-20,2026-10-30,Pago,0.00,15,14,93.3,Sim
+5173,Isabela Ramos,Jiu-jitsu,T05,Branca,85.00,2026-11-17,2026-10-31,Pago,0.00,10,9,90.0,Sim
+5174,Ana Freitas,Jiu-jitsu,T06,Branca,120.00,2026-10-25,,Atrasado,2.40,13,13,100.0,Sim
+5176,Leonardo Melo,Muay Thai,T11,Amarela,145.00,2026-10-28,,Atrasado,2.90,10,9,90.0,Sim
+5180,Samuel Xavier Ferreira,Muay Thai,T12,Branca,150.00,2026-10-10,2026-09-27,Pago,0.00,18,7,38.9,Não
+5186,Rafaela Cardoso,Jiu-jitsu,T07,Verde,125.00,2026-09-10,2026-09-04,Pago,0.00,16,14,87.5,Sim
+5190,Beatriz Gomes,Jiu-jitsu,T08,Amarela,110.00,2026-11-28,,Em aberto,0.00,7,5,71.4,Não
+5192,Eduardo Barbosa,Muay Thai,T05,Cinza,115.00,2026-10-22,,Atrasado,2.30,10,7,70.0,Não
+5193,Felipe Machado Silva,Jiu-jitsu,T08,Branca,115.00,2026-10-22,2026-10-15,Pago,0.00,13,10,76.9,Sim
+5200,Eduardo Batista,Judô,T05,Branca,130.00,2026-11-10,,Em aberto,0.00,7,4,57.1,Não
+5203,Wesley Cardoso,Jiu-jitsu,T14,Roxa,120.00,2026-09-05,2026-08-28,Pago,0.00,12,8,66.7,Não
+5204,Fábio Barbosa,Jiu-jitsu,T10,Verde,145.00,2026-10-25,2026-10-23,Pago,0.00,13,12,92.3,Sim
+5206,Samuel Rocha,Jiu-jitsu,T01,Branca,175.00,2026-09-10,2026-09-07,Pago,0.00,10,9,90.0,Sim
+5208,Paula Gonçalves,Karatê,T06,Branca,130.00,2026-10-22,,Atrasado,2.60,12,8,66.7,Não
+5212,Samuel Cardoso Campos,Muay Thai,T07,Amarela,175.00,2026-10-05,2026-10-07,Pago,0.00,16,9,56.2,Não
+5213,Daniel Teixeira Moraes,Jiu-jitsu,T17,Amarela,150.00,2026-10-10,2026-09-27,Pago,0.00,8,7,87.5,Sim
+5215,João Moraes,Jiu-jitsu,T07,Cinza,110.00,2026-10-12,2026-10-13,Pago,0.00,12,7,58.3,Não
+5216,Renata Pinto,Judô,T13,Laranja,120.00,2026-10-17,,Atrasado,2.40,16,11,68.8,Não
+5219,Yasmin Monteiro Sousa,Jiu-jitsu,T15,Verde,115.00,2026-10-05,2026-09-27,Pago,0.00,12,6,50.0,Não
+5220,Samuel Pinto Medeiros,Judô,T11,Amarela,85.00,2026-11-12,,Em aberto,0.00,10,8,80.0,Sim
+5221,Marcelo Batista Barbosa,Jiu-jitsu,T05,Verde,175.00,2026-09-17,2026-09-17,Pago,0.00,15,9,60.0,Não
+5222,Caio Martins,Judô,T12,Branca,110.00,2026-10-17,,Atrasado,2.20,10,8,80.0,Sim
+5225,Renata Barros,Judô,T07,Branca,140.00,2026-10-20,,Atrasado,2.80,13,8,61.5,Não
+5227,Matheus Melo,Muay Thai,T01,Amarela,145.00,2026-10-28,,Atrasado,2.90,13,8,61.5,Não
+5233,Rafael Ferreira Sousa,Jiu-jitsu,T16,Laranja,130.00,2026-09-20,2026-09-12,Pago,0.00,9,9,100.0,Sim
+5234,Rafael Moreira Dias,Judô,T11,Verde,110.00,2026-10-22,2026-10-19,Pago,0.00,10,9,90.0,Sim
+5236,Helena Gomes,Muay Thai,T01,Branca,150.00,2026-10-15,,Atrasado,3.00,11,9,81.8,Sim
+5239,Paula Soares,Jiu-jitsu,T16,Cinza,95.00,2026-10-28,2026-10-15,Pago,0.00,9,7,77.8,Sim
+5247,Lucas Borges,Muay Thai,T12,Laranja,160.00,2026-10-05,,Atrasado,3.20,12,8,66.7,Não
+5251,Paula Oliveira,Muay Thai,T02,Azul,110.00,2026-11-12,,Em aberto,0.00,11,9,81.8,Sim
+5253,Fábio Martins,Muay Thai,T17,Amarela,110.00,2026-10-05,2026-10-02,Pago,0.00,16,6,37.5,Não
+5257,Lucas Figueiredo,Karatê,T16,Amarela,95.00,2026-11-28,,Em aberto,0.00,11,10,90.9,Sim
+5258,Diego Melo,Jiu-jitsu,T11,Laranja,120.00,2026-10-17,2026-10-05,Pago,0.00,17,13,76.5,Sim
+5265,Samuel Ferreira,Karatê,T16,Laranja,150.00,2026-10-20,,Atrasado,3.00,12,7,58.3,Não
+5266,Ricardo Almeida,Karatê,T18,Branca,110.00,2026-10-20,2026-10-07,Pago,0.00,8,5,62.5,Não
+5270,Mariana Moreira,Jiu-jitsu,T18,Amarela,115.00,2026-11-28,,Em aberto,0.00,12,10,83.3,Sim
+5276,Manuela Nogueira,Judô,T05,Cinza,145.00,2026-10-15,2026-10-15,Pago,0.00,9,7,77.8,Sim
+5283,Leonardo Sousa Silva,Muay Thai,T12,Azul,160.00,2026-10-22,2026-10-21,Pago,0.00,9,6,66.7,Não
+5290,Felipe Vieira,Muay Thai,T14,Branca,115.00,2026-09-15,2026-09-16,Pago,0.00,18,17,94.4,Sim
+5293,Elaine Moraes,Jiu-jitsu,T07,Verde,145.00,2026-11-05,,Em aberto,0.00,17,13,76.5,Sim
+5297,Luana Andrade,Jiu-jitsu,T14,Verde,140.00,2026-11-12,,Em aberto,0.00,16,13,81.2,Sim
+5299,Wesley Moraes,Jiu-jitsu,T02,Cinza,150.00,2026-10-25,,Atrasado,3.00,9,9,100.0,Sim
+5305,Paula Barbosa,Jiu-jitsu,T16,Branca,145.00,2026-10-22,2026-10-15,Pago,0.00,13,11,84.6,Sim
+5312,Bruno Freitas Moura,Jiu-jitsu,T13,Laranja,175.00,2026-11-15,,Em aberto,0.00,10,10,100.0,Sim
+5313,Rafael Costa,Jiu-jitsu,T05,Roxa,125.00,2026-10-25,2026-10-19,Pago,0.00,15,12,80.0,Sim
+5314,Felipe Dias,Muay Thai,T13,Branca,130.00,2026-10-07,2026-10-04,Pago,0.00,18,14,77.8,Sim
+5321,André Batista Freitas,Muay Thai,T05,Amarela,95.00,2026-10-10,2026-10-01,Pago,0.00,18,11,61.1,Não
+5324,Mariana Araújo,Muay Thai,T10,Branca,115.00,2026-11-22,,Em aberto,0.00,7,4,57.1,Não
+5326,Daniela Andrade,Jiu-jitsu,T13,Branca,145.00,2026-10-25,2026-10-14,Pago,0.00,9,4,44.4,Não
+5327,Leonardo Nogueira,Muay Thai,T05,Cinza,120.00,2026-11-25,2026-10-31,Pago,0.00,10,7,70.0,Não
+5328,Mirela Moraes Lima,Jiu-jitsu,T17,Verde,100.00,2026-11-22,2026-10-28,Pago,0.00,12,9,75.0,Sim
+5331,Helena Moura Araújo,Jiu-jitsu,T03,Branca,120.00,2026-10-22,,Atrasado,2.40,17,13,76.5,Sim
+5332,Helena Ferreira,Karatê,T02,Branca,130.00,2026-11-07,2026-11-01,Pago,0.00,9,7,77.8,Sim
+5334,Daniel Martins Carvalho,Muay Thai,T04,Verde,85.00,2026-11-17,2026-10-28,Pago,0.00,18,13,72.2,Não
+5338,Vitória Duarte,Karatê,T03,Branca,150.00,2026-10-28,2026-10-19,Pago,0.00,12,7,58.3,Não
+5339,Camila Nogueira,Jiu-jitsu,T11,Amarela,120.00,2026-10-05,2026-10-05,Pago,0.00,10,9,90.0,Sim
+5340,Mariana Ribeiro,Muay Thai,T09,Amarela,110.00,2026-11-12,,Em aberto,0.00,18,16,88.9,Sim
+5349,Ricardo Campos,Judô,T01,Branca,115.00,2026-10-17,2026-10-14,Pago,0.00,17,14,82.4,Sim
+5354,Heloísa Cunha,Jiu-jitsu,T17,Azul,120.00,2026-10-07,,Atrasado,2.40,11,8,72.7,Não
+5358,Wesley Costa,Jiu-jitsu,T08,Cinza,95.00,2026-11-22,,Em aberto,0.00,16,12,75.0,Sim
+5362,Beatriz Ramos,Jiu-jitsu,T17,Cinza,145.00,2026-11-15,,Em aberto,0.00,12,6,50.0,Não
+5364,Renata Coelho,Muay Thai,T08,Cinza,110.00,2026-10-17,2026-10-07,Pago,0.00,14,12,85.7,Sim
+5365,Diego Carvalho,Jiu-jitsu,T09,Branca,150.00,2026-10-28,2026-10-31,Pago,0.00,17,14,82.4,Sim
+5366,Elisa Nascimento,Muay Thai,T12,Verde,150.00,2026-10-15,,Atrasado,3.00,13,6,46.2,Não
+5368,Renata Coelho,Muay Thai,T04,Roxa,125.00,2026-10-07,2026-09-29,Pago,0.00,13,10,76.9,Sim
+5371,Rafael Costa Moraes,Jiu-jitsu,T05,Branca,145.00,2026-10-07,,Atrasado,2.90,11,6,54.5,Não
+5373,Sofia Araújo Moreira,Muay Thai,T13,Cinza,160.00,2026-11-25,,Em aberto,0.00,17,12,70.6,Não
+5379,Valentina Gomes,Muay Thai,T05,Amarela,125.00,2026-11-20,,Em aberto,0.00,10,7,70.0,Não
+5380,Valentina Moreira,Muay Thai,T09,Branca,115.00,2026-10-20,,Atrasado,2.30,9,7,77.8,Sim
+5386,Elisa Mendes,Jiu-jitsu,T01,Laranja,145.00,2026-09-17,2026-09-11,Pago,0.00,8,6,75.0,Sim
+5393,Camila Martins,Judô,T01,Laranja,160.00,2026-11-10,,Em aberto,0.00,12,5,41.7,Não
+5395,Rafael Ribeiro,Muay Thai,T02,Marrom,140.00,2026-11-15,,Em aberto,0.00,9,8,88.9,Sim
+5397,Camila Vieira,Muay Thai,T02,Branca,150.00,2026-10-15,2026-10-03,Pago,0.00,17,13,76.5,Sim
+5400,Vinícius Mendes,Judô,T05,Azul,110.00,2026-10-05,,Atrasado,2.20,7,5,71.4,Não
+5402,Daniela Nogueira,Jiu-jitsu,T15,Marrom,160.00,2026-10-28,,Atrasado,3.20,12,10,83.3,Sim
+5403,Manuela Melo,Jiu-jitsu,T10,Amarela,120.00,2026-11-22,,Em aberto,0.00,16,10,62.5,Não
+5420,Elisa Martins,Karatê,T02,Verde,115.00,2026-10-15,2026-10-17,Pago,0.00,12,10,83.3,Sim
+5423,Yasmin Cardoso,Jiu-jitsu,T04,Azul,125.00,2026-10-05,2026-10-03,Pago,0.00,7,7,100.0,Sim
+5424,Larissa Andrade Cunha,Muay Thai,T16,Branca,120.00,2026-10-05,2026-10-09,Pago,0.00,11,10,90.9,Sim
+5425,Fábio Costa,Jiu-jitsu,T12,Amarela,120.00,2026-11-20,,Em aberto,0.00,7,4,57.1,Não
+5431,Fernanda Medeiros,Judô,T13,Branca,125.00,2026-09-12,2026-09-05,Pago,0.00,11,8,72.7,Não
+5434,Eduardo Castro,Muay Thai,T15,Laranja,210.00,2026-11-22,,Em aberto,0.00,9,7,77.8,Sim
+5437,Larissa Coelho,Karatê,T03,Verde,145.00,2026-11-10,,Em aberto,0.00,14,11,78.6,Sim
+5441,Rafael Nascimento,Jiu-jitsu,T16,Amarela,145.00,2026-11-17,,Em aberto,0.00,15,11,73.3,Não

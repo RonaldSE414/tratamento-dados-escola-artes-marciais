@@ -1,0 +1,11 @@
+TRATAMENTO DA BASE DA ESCOLA - DADOS FICTÍCIOS
+Data do teste: 02/11/2026
+Registros lidos: 1652
+Registros aproveitados: 1484
+Registros com algum campo corrigido: 878
+Correções de campos: 1259
+Registros rejeitados: 168
+Mensalidades pagas: 721
+Mensalidades em aberto: 376
+Mensalidades atrasadas: 387
+Multa e frequência mínima são regras provisórias usadas apenas no teste.
