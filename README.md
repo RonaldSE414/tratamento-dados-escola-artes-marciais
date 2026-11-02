@@ -6,7 +6,7 @@ A escola ainda não tem uma base digital. Por isso, usamos **dados fictícios** 
 
 ## Arquivos
 
-- `Escola_Artes_Marciais_Colab.ipynb`: notebook com o código em células.
+- `Escola_Artes_Marciais_Colab.ipynb`: notebook com o código.
 - `Base_Escola.csv`: dados usados no teste.
 - `dados_tratados.csv`: registros aproveitados depois do tratamento.
 - `correcoes.csv`: alterações nos campos.
