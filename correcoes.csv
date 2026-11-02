@@ -1,0 +1,1260 @@
+﻿linha,id_aluno,campo,antes,depois
+4,507,vencimento,17/10/2026,2026-10-17
+7,513,modalidade,muay thai,Muay Thai
+7,513,turma,t01,T01
+7,513,faixa_atual,amarela,Amarela
+8,514,faixa_atual,verde,Verde
+9,515,valor_mensalidade,"R$ 130,00",130.00
+9,515,vencimento,22/10/2026,2026-10-22
+14,536,nome,  LEONARDO COSTA  ,Leonardo Costa
+14,536,valor_mensalidade,"R$ 125,00",125.00
+15,540,nome,  CÉSAR ALMEIDA BATISTA  ,César Almeida Batista
+15,540,valor_mensalidade,"R$ 85,00",85.00
+16,541,turma,t15,T15
+21,554,turma,t16,T16
+21,554,vencimento,22/10/2026,2026-10-22
+21,554,data_pagamento,11/10/2026,2026-10-11
+22,556,turma,t15,T15
+23,558,data_pagamento,02/11/2026,2026-11-02
+24,565,modalidade, Karatê ,Karatê
+28,580,modalidade, Judô ,Judô
+29,587,faixa_atual,laranja,Laranja
+30,590,nome,  FERNANDA DUARTE  ,Fernanda Duarte
+30,590,turma,t02,T02
+31,592,turma,t13,T13
+35,603,faixa_atual,branca,Branca
+36,610,modalidade, Judô ,Judô
+36,610,vencimento,15/10/2026,2026-10-15
+37,614,modalidade, Jiu-jitsu ,Jiu-jitsu
+37,614,valor_mensalidade,"R$ 115,00",115.00
+39,623,nome,  RENATA FREITAS SOUSA  ,Renata Freitas Sousa
+39,623,vencimento,22/10/2026,2026-10-22
+40,627,valor_mensalidade,"R$ 150,00",150.00
+41,631,data_pagamento,06/10/2026,2026-10-06
+45,644,modalidade, Judô ,Judô
+45,644,faixa_atual,amarela,Amarela
+45,644,valor_mensalidade,"R$ 130,00",130.00
+46,646,data_pagamento,05/10/2026,2026-10-05
+47,652,nome,Elaine   Marques,Elaine Marques
+47,652,faixa_atual,cinza,Cinza
+51,664,valor_mensalidade,"R$ 150,00",150.00
+51,664,vencimento,10/10/2026,2026-10-10
+52,666,turma,t10,T10
+54,670,vencimento,05/10/2026,2026-10-05
+57,679,modalidade, Judô ,Judô
+57,679,faixa_atual,laranja,Laranja
+58,682,valor_mensalidade,"R$ 145,00",145.00
+60,686,valor_mensalidade,"R$ 140,00",140.00
+60,686,vencimento,12/11/2026,2026-11-12
+61,692,valor_mensalidade,"R$ 110,00",110.00
+63,698,nome,  EDUARDO ANDRADE  ,Eduardo Andrade
+66,714,nome,Elisa   Lopes   Borges,Elisa Lopes Borges
+67,718,valor_mensalidade,"R$ 115,00",115.00
+68,725,turma,t06,T06
+69,729,turma,t13,T13
+73,734,turma,t06,T06
+77,744,nome,Samuel   Coelho,Samuel Coelho
+77,744,turma,t06,T06
+79,746,nome,  MARCELO CAMPOS  ,Marcelo Campos
+82,756,nome,  LARISSA BORGES NOGUEIRA  ,Larissa Borges Nogueira
+83,757,vencimento,05/11/2026,2026-11-05
+90,783,modalidade, Judô ,Judô
+90,783,valor_mensalidade,"R$ 150,00",150.00
+90,783,data_pagamento,22/10/2026,2026-10-22
+91,785,nome,      VITÓRIA   GONÇALVES      ,Vitória Gonçalves
+91,785,valor_mensalidade,"R$ 160,00",160.00
+92,788,nome,  GABRIEL BARROS  ,Gabriel Barros
+96,810,nome,  YASMIN GONÇALVES BORGES  ,Yasmin Gonçalves Borges
+98,820,modalidade,jiu jitsu,Jiu-jitsu
+99,826,nome,  SAMUEL RAMOS  ,Samuel Ramos
+100,829,vencimento,28/11/2026,2026-11-28
+101,830,nome,  IGOR GONÇALVES  ,Igor Gonçalves
+102,833,nome,Vitória   Cardoso   Silva,Vitória Cardoso Silva
+102,833,data_pagamento,25/10/2026,2026-10-25
+103,837,valor_mensalidade,"R$ 120,00",120.00
+109,857,vencimento,20/10/2026,2026-10-20
+110,860,vencimento,05/10/2026,2026-10-05
+111,864,nome,  CAIO BARROS FONSECA  ,Caio Barros Fonseca
+113,866,modalidade,karate,Karatê
+113,866,valor_mensalidade,"R$ 120,00",120.00
+114,870,faixa_atual,verde,Verde
+115,871,modalidade,muay thai,Muay Thai
+117,873,modalidade,karate,Karatê
+120,884,modalidade,jiu jitsu,Jiu-jitsu
+120,884,turma,t02,T02
+128,901,data_pagamento,25/09/2026,2026-09-25
+131,914,faixa_atual,branca,Branca
+131,914,valor_mensalidade,"R$ 115,00",115.00
+132,920,nome,  LUANA AMARAL  ,Luana Amaral
+132,920,turma,t08,T08
+133,924,valor_mensalidade,"R$ 150,00",150.00
+134,925,turma,t02,T02
+140,939,modalidade,judo,Judô
+141,940,nome,  IGOR DUARTE  ,Igor Duarte
+141,940,faixa_atual,roxa,Roxa
+148,963,nome,  MANUELA ROCHA  ,Manuela Rocha
+148,963,faixa_atual,branca,Branca
+149,966,valor_mensalidade,"R$ 125,00",125.00
+150,972,faixa_atual,laranja,Laranja
+151,973,modalidade, Jiu-jitsu ,Jiu-jitsu
+151,973,faixa_atual,roxa,Roxa
+151,973,valor_mensalidade,"R$ 145,00",145.00
+154,983,faixa_atual,cinza,Cinza
+155,990,turma,t18,T18
+155,990,valor_mensalidade,"R$ 125,00",125.00
+163,1010,nome,Bruno   Vieira,Bruno Vieira
+164,1011,modalidade,jiu jitsu,Jiu-jitsu
+164,1011,turma,t08,T08
+167,1022,modalidade, Judô ,Judô
+169,1031,turma,t06,T06
+171,1035,modalidade, Jiu-jitsu ,Jiu-jitsu
+172,1042,nome,  THIAGO MELO  ,Thiago Melo
+172,1042,valor_mensalidade,"R$ 210,00",210.00
+174,1050,turma,t07,T07
+174,1050,valor_mensalidade,"R$ 175,00",175.00
+178,1070,turma,t08,T08
+178,1070,valor_mensalidade,"R$ 115,00",115.00
+182,1083,modalidade,muay thai,Muay Thai
+182,1083,valor_mensalidade,"R$ 175,00",175.00
+183,1087,turma,t09,T09
+183,1087,vencimento,20/10/2026,2026-10-20
+184,1089,vencimento,07/11/2026,2026-11-07
+186,1093,faixa_atual,azul,Azul
+186,1093,valor_mensalidade,"R$ 140,00",140.00
+187,1099,modalidade, Karatê ,Karatê
+188,1100,nome,  SAMUEL FIGUEIREDO  ,Samuel Figueiredo
+189,1102,data_pagamento,19/10/2026,2026-10-19
+190,1105,nome,  GABRIEL FREITAS  ,Gabriel Freitas
+190,1105,modalidade, Jiu-jitsu ,Jiu-jitsu
+191,1111,turma,t08,T08
+193,1120,valor_mensalidade,"R$ 110,00",110.00
+194,1126,modalidade,jiu jitsu,Jiu-jitsu
+194,1126,vencimento,05/11/2026,2026-11-05
+196,1129,vencimento,22/11/2026,2026-11-22
+197,1132,modalidade,muay thai,Muay Thai
+198,1133,valor_mensalidade,"R$ 145,00",145.00
+200,1136,faixa_atual,branca,Branca
+201,1137,vencimento,05/10/2026,2026-10-05
+202,1143,faixa_atual,amarela,Amarela
+204,1150,valor_mensalidade,"R$ 195,00",195.00
+205,1152,nome,Daniela   Lima   Ferreira,Daniela Lima Ferreira
+205,1152,turma,t01,T01
+206,1159,faixa_atual,branca,Branca
+207,1163,modalidade,muay thai,Muay Thai
+208,1165,modalidade,muay thai,Muay Thai
+209,1169,faixa_atual,branca,Branca
+210,1173,modalidade, Karatê ,Karatê
+213,1183,faixa_atual,cinza,Cinza
+214,1189,nome,  IGOR MOREIRA  ,Igor Moreira
+214,1189,vencimento,17/10/2026,2026-10-17
+215,1193,nome,  VINÍCIUS MENDES REIS  ,Vinícius Mendes Reis
+215,1193,turma,t17,T17
+216,1194,modalidade,muay thai,Muay Thai
+218,1199,nome,  JOÃO MORAES  ,João Moraes
+218,1199,vencimento,22/10/2026,2026-10-22
+219,1206,faixa_atual,branca,Branca
+222,1215,turma,t07,T07
+225,1220,modalidade, Jiu-jitsu ,Jiu-jitsu
+225,1220,valor_mensalidade,"R$ 145,00",145.00
+225,1220,data_pagamento,19/10/2026,2026-10-19
+228,1229,turma,t13,T13
+228,1229,valor_mensalidade,"R$ 100,00",100.00
+229,1230,turma,t14,T14
+230,1236,modalidade,jiu jitsu,Jiu-jitsu
+230,1236,valor_mensalidade,"R$ 115,00",115.00
+231,1239,faixa_atual,cinza,Cinza
+235,1255,turma,t10,T10
+235,1255,vencimento,05/11/2026,2026-11-05
+238,1260,turma,t11,T11
+239,1267,nome,  LUCAS ARAÚJO  ,Lucas Araújo
+239,1267,turma,t06,T06
+240,1269,nome,Otávio   Campos,Otávio Campos
+243,1279,nome,Matheus   Reis,Matheus Reis
+244,1283,nome,  MARIANA DUARTE  ,Mariana Duarte
+244,1283,turma,t18,T18
+245,1289,nome,Mariana   Castro,Mariana Castro
+246,1296,valor_mensalidade,"R$ 120,00",120.00
+247,1302,valor_mensalidade,"R$ 100,00",100.00
+248,1303,valor_mensalidade,"R$ 120,00",120.00
+248,1303,data_pagamento,29/09/2026,2026-09-29
+252,1314,nome,  FÁBIO MONTEIRO  ,Fábio Monteiro
+253,1321,faixa_atual,cinza,Cinza
+254,1322,faixa_atual,branca,Branca
+256,1331,valor_mensalidade,"R$ 110,00",110.00
+256,1331,vencimento,07/11/2026,2026-11-07
+257,1333,modalidade, Muay Thai ,Muay Thai
+261,1354,modalidade, Jiu-jitsu ,Jiu-jitsu
+261,1354,faixa_atual,amarela,Amarela
+263,1358,nome,  ISABELA REIS  ,Isabela Reis
+265,1366,nome,  FELIPE CARDOSO  ,Felipe Cardoso
+265,1366,vencimento,15/11/2026,2026-11-15
+267,1374,faixa_atual,branca,Branca
+270,1380,modalidade,judo,Judô
+271,1382,nome,  RAFAEL MEDEIROS  ,Rafael Medeiros
+272,1384,turma,t11,T11
+272,1384,valor_mensalidade,"R$ 120,00",120.00
+272,1384,vencimento,25/10/2026,2026-10-25
+274,1389,vencimento,05/11/2026,2026-11-05
+278,1401,vencimento,20/11/2026,2026-11-20
+279,1404,valor_mensalidade,"R$ 210,00",210.00
+281,1412,vencimento,20/10/2026,2026-10-20
+286,1425,vencimento,07/11/2026,2026-11-07
+287,1427,modalidade,jiu jitsu,Jiu-jitsu
+288,1431,modalidade,muay thai,Muay Thai
+291,1435,modalidade, Judô ,Judô
+291,1435,valor_mensalidade,"R$ 130,00",130.00
+292,1438,nome,  CAMILA DIAS MOREIRA  ,Camila Dias Moreira
+295,1449,modalidade,muay thai,Muay Thai
+296,1456,nome,Pedro   Nascimento   Ferreira,Pedro Nascimento Ferreira
+299,1467,vencimento,28/10/2026,2026-10-28
+300,1471,modalidade,muay thai,Muay Thai
+302,1476,turma,t10,T10
+306,1487,nome,Thiago   Barbosa,Thiago Barbosa
+306,1487,valor_mensalidade,"R$ 125,00",125.00
+307,1490,modalidade, Jiu-jitsu ,Jiu-jitsu
+307,1490,valor_mensalidade,"R$ 110,00",110.00
+310,1499,data_pagamento,04/10/2026,2026-10-04
+311,1501,turma,t06,T06
+312,1503,nome,Mirela   Rocha,Mirela Rocha
+312,1503,valor_mensalidade,"R$ 125,00",125.00
+313,1505,nome,  JÚLIA ROCHA  ,Júlia Rocha
+313,1505,modalidade, Karatê ,Karatê
+313,1505,faixa_atual,amarela,Amarela
+314,1507,nome,  LUCAS LIMA  ,Lucas Lima
+315,1508,data_pagamento,12/10/2026,2026-10-12
+317,1510,modalidade,judo,Judô
+317,1510,faixa_atual,branca,Branca
+318,1511,turma,t03,T03
+322,1525,valor_mensalidade,"R$ 210,00",210.00
+323,1526,nome,  EDUARDO OLIVEIRA  ,Eduardo Oliveira
+323,1526,faixa_atual,branca,Branca
+326,1541,nome,Beatriz   Araújo,Beatriz Araújo
+327,1543,faixa_atual,laranja,Laranja
+327,1543,vencimento,05/10/2026,2026-10-05
+327,1543,data_pagamento,11/10/2026,2026-10-11
+328,1549,nome,  DIEGO FIGUEIREDO  ,Diego Figueiredo
+328,1549,vencimento,05/10/2026,2026-10-05
+330,1551,data_pagamento,01/11/2026,2026-11-01
+332,1555,valor_mensalidade,"R$ 100,00",100.00
+333,1556,nome,  BRUNO LIMA ANDRADE  ,Bruno Lima Andrade
+333,1556,modalidade,muay thai,Muay Thai
+334,1558,valor_mensalidade,"R$ 110,00",110.00
+336,1568,vencimento,20/10/2026,2026-10-20
+338,1576,faixa_atual,roxa,Roxa
+339,1582,vencimento,10/10/2026,2026-10-10
+343,1587,turma,t12,T12
+345,1595,faixa_atual,verde,Verde
+346,1596,modalidade,karate,Karatê
+346,1596,valor_mensalidade,"R$ 95,00",95.00
+348,1600,turma,t03,T03
+349,1603,nome,Ana   Moraes,Ana Moraes
+351,1605,modalidade, Jiu-jitsu ,Jiu-jitsu
+352,1606,modalidade, Jiu-jitsu ,Jiu-jitsu
+352,1606,valor_mensalidade,"R$ 120,00",120.00
+353,1613,valor_mensalidade,"R$ 145,00",145.00
+355,1623,nome,  JOÃO MORAES  ,João Moraes
+355,1623,data_pagamento,18/10/2026,2026-10-18
+357,1632,nome,  LEONARDO DUARTE  ,Leonardo Duarte
+360,1641,nome,  DANIELA BARBOSA  ,Daniela Barbosa
+360,1641,turma,t11,T11
+361,1642,valor_mensalidade,"R$ 130,00",130.00
+362,1643,valor_mensalidade,"R$ 125,00",125.00
+363,1645,valor_mensalidade,"R$ 140,00",140.00
+364,1652,nome,      GABRIELA   BORGES   BORGES      ,Gabriela Borges Borges
+369,1661,faixa_atual,amarela,Amarela
+370,1662,turma,t16,T16
+371,1668,nome,Pedro   Duarte,Pedro Duarte
+371,1668,modalidade, Jiu-jitsu ,Jiu-jitsu
+379,1689,modalidade, Judô ,Judô
+380,1691,data_pagamento,13/10/2026,2026-10-13
+381,1693,faixa_atual,cinza,Cinza
+382,1699,valor_mensalidade,"R$ 85,00",85.00
+384,1702,vencimento,12/10/2026,2026-10-12
+387,1712,turma,t08,T08
+388,1713,modalidade, Judô ,Judô
+388,1713,turma,t09,T09
+388,1713,valor_mensalidade,"R$ 210,00",210.00
+389,1715,valor_mensalidade,"R$ 150,00",150.00
+392,1725,data_pagamento,14/10/2026,2026-10-14
+393,1726,vencimento,25/11/2026,2026-11-25
+396,1735,valor_mensalidade,"R$ 130,00",130.00
+396,1735,vencimento,22/10/2026,2026-10-22
+398,1740,turma,t10,T10
+399,1742,faixa_atual,branca,Branca
+405,1756,faixa_atual,branca,Branca
+407,1758,modalidade, Judô ,Judô
+407,1758,valor_mensalidade,"R$ 100,00",100.00
+408,1760,nome,Paula   Almeida,Paula Almeida
+408,1760,turma,t03,T03
+409,1761,modalidade,judo,Judô
+410,1762,turma,t14,T14
+412,1770,turma,t12,T12
+414,1774,vencimento,05/10/2026,2026-10-05
+416,1780,nome,  CAIO SILVA MARTINS  ,Caio Silva Martins
+416,1780,turma,t05,T05
+416,1780,valor_mensalidade,"R$ 180,00",180.00
+416,1780,vencimento,10/11/2026,2026-11-10
+417,1781,modalidade,jiu jitsu,Jiu-jitsu
+417,1781,valor_mensalidade,"R$ 125,00",125.00
+418,1784,turma,t02,T02
+418,1784,faixa_atual,amarela,Amarela
+420,1788,modalidade, Judô ,Judô
+422,1790,nome,Daniel   Andrade   Melo,Daniel Andrade Melo
+422,1790,valor_mensalidade,"R$ 150,00",150.00
+428,1811,valor_mensalidade,"R$ 140,00",140.00
+430,1815,nome,  VITÓRIA SOUSA  ,Vitória Sousa
+430,1815,modalidade,judo,Judô
+432,1820,nome,  HELENA CAMPOS REIS  ,Helena Campos Reis
+432,1820,modalidade, Jiu-jitsu ,Jiu-jitsu
+434,1828,nome,Renata   Nogueira,Renata Nogueira
+434,1828,vencimento,17/10/2026,2026-10-17
+435,1831,modalidade,jiu jitsu,Jiu-jitsu
+435,1831,valor_mensalidade,"R$ 100,00",100.00
+435,1831,vencimento,25/11/2026,2026-11-25
+437,1837,data_pagamento,15/10/2026,2026-10-15
+440,1845,faixa_atual,laranja,Laranja
+441,1846,turma,t06,T06
+446,1864,vencimento,05/10/2026,2026-10-05
+447,1865,nome,  VITÓRIA GONÇALVES FONSECA  ,Vitória Gonçalves Fonseca
+448,1871,modalidade, Judô ,Judô
+449,1873,modalidade, Judô ,Judô
+449,1873,turma,t09,T09
+449,1873,faixa_atual,verde,Verde
+454,1880,faixa_atual,branca,Branca
+454,1880,vencimento,17/10/2026,2026-10-17
+455,1882,nome,  MATHEUS GOMES  ,Matheus Gomes
+458,1888,modalidade,jiu jitsu,Jiu-jitsu
+461,1898,turma,t07,T07
+462,1899,turma,t16,T16
+462,1899,valor_mensalidade,"R$ 110,00",110.00
+464,1903,valor_mensalidade,"R$ 120,00",120.00
+465,1910,nome,  HELENA MOURA  ,Helena Moura
+465,1910,valor_mensalidade,"R$ 110,00",110.00
+466,1914,vencimento,22/10/2026,2026-10-22
+468,1922,valor_mensalidade,"R$ 120,00",120.00
+470,1930,faixa_atual,amarela,Amarela
+471,1931,nome,  LARISSA CARDOSO  ,Larissa Cardoso
+471,1931,data_pagamento,07/10/2026,2026-10-07
+473,1942,nome,  EDUARDO SOARES VIEIRA  ,Eduardo Soares Vieira
+475,1950,vencimento,07/10/2026,2026-10-07
+476,1951,nome,  VINÍCIUS NOGUEIRA  ,Vinícius Nogueira
+476,1951,modalidade, Muay Thai ,Muay Thai
+477,1953,nome,  THIAGO MOREIRA  ,Thiago Moreira
+477,1953,turma,t09,T09
+478,1959,nome,Ana   Costa,Ana Costa
+478,1959,modalidade, Judô ,Judô
+479,1963,nome,  ELISA AMARAL  ,Elisa Amaral
+483,1984,vencimento,07/10/2026,2026-10-07
+488,2001,modalidade, judo ,Judô
+488,2001,turma,t17,T17
+489,2008,vencimento,07/10/2026,2026-10-07
+491,2011,valor_mensalidade,"R$ 150,00",150.00
+492,2017,nome,  OTÁVIO REIS  ,Otávio Reis
+493,2018,nome,  BRUNO NASCIMENTO  ,Bruno Nascimento
+495,2023,vencimento,10/10/2026,2026-10-10
+497,2029,modalidade,jiu jitsu,Jiu-jitsu
+497,2029,turma,t06,T06
+498,2030,valor_mensalidade,"R$ 195,00",195.00
+499,2032,nome,  ANDRÉ PEREIRA  ,André Pereira
+503,2049,valor_mensalidade,"R$ 175,00",175.00
+504,2056,nome,Samuel   Borges,Samuel Borges
+504,2056,turma,t04,T04
+505,2059,nome,      DIEGO   FERREIRA   SOUSA      ,Diego Ferreira Sousa
+506,2060,nome,  HELOÍSA ANDRADE  ,Heloísa Andrade
+506,2060,turma,t16,T16
+510,2078,faixa_atual,laranja,Laranja
+520,2109,turma,t16,T16
+521,2111,modalidade,jiu jitsu,Jiu-jitsu
+521,2111,turma,t09,T09
+521,2111,vencimento,15/10/2026,2026-10-15
+522,2112,turma,t06,T06
+522,2112,valor_mensalidade,"R$ 180,00",180.00
+523,2113,modalidade, Muay Thai ,Muay Thai
+523,2113,valor_mensalidade,"R$ 140,00",140.00
+525,2120,nome,Pedro   Nogueira,Pedro Nogueira
+525,2120,turma,t13,T13
+526,2121,nome,Fernanda   Medeiros,Fernanda Medeiros
+527,2125,vencimento,25/10/2026,2026-10-25
+528,2126,nome,Camila   Marques,Camila Marques
+528,2126,modalidade, Judô ,Judô
+528,2126,valor_mensalidade,"R$ 120,00",120.00
+529,2130,nome,  LUCAS MENDES  ,Lucas Mendes
+529,2130,modalidade, Jiu-jitsu ,Jiu-jitsu
+531,2139,valor_mensalidade,"R$ 100,00",100.00
+536,2155,modalidade,jiu jitsu,Jiu-jitsu
+537,2157,nome,Ana   Batista,Ana Batista
+537,2157,valor_mensalidade,"R$ 160,00",160.00
+538,2158,nome,Isabela   Martins   Sousa,Isabela Martins Sousa
+538,2158,modalidade,jiu jitsu,Jiu-jitsu
+538,2158,data_pagamento,19/10/2026,2026-10-19
+539,2165,nome,  IGOR RAMOS  ,Igor Ramos
+539,2165,turma,t03,T03
+539,2165,valor_mensalidade,"R$ 125,00",125.00
+539,2165,vencimento,05/10/2026,2026-10-05
+541,2167,turma,t07,T07
+544,2176,valor_mensalidade,"R$ 140,00",140.00
+545,2177,modalidade, Muay Thai ,Muay Thai
+545,2177,data_pagamento,14/10/2026,2026-10-14
+546,2181,valor_mensalidade,"R$ 150,00",150.00
+548,2191,valor_mensalidade,"R$ 150,00",150.00
+550,2193,valor_mensalidade,"R$ 130,00",130.00
+551,2194,data_pagamento,29/10/2026,2026-10-29
+552,2196,vencimento,25/11/2026,2026-11-25
+554,2205,nome,Igor   Machado,Igor Machado
+556,2216,valor_mensalidade,"R$ 100,00",100.00
+558,2225,valor_mensalidade,"R$ 150,00",150.00
+559,2227,turma,t11,T11
+559,2227,valor_mensalidade,"R$ 120,00",120.00
+562,2231,valor_mensalidade,"R$ 145,00",145.00
+563,2232,valor_mensalidade,"R$ 115,00",115.00
+564,2235,turma,t04,T04
+565,2236,valor_mensalidade,"R$ 130,00",130.00
+566,2237,nome,  DANIEL CARVALHO BORGES  ,Daniel Carvalho Borges
+566,2237,data_pagamento,10/10/2026,2026-10-10
+567,2240,valor_mensalidade,"R$ 140,00",140.00
+567,2240,vencimento,20/10/2026,2026-10-20
+568,2247,nome,Ana   Lopes   Barros,Ana Lopes Barros
+568,2247,vencimento,25/11/2026,2026-11-25
+571,2258,turma,t15,T15
+572,2260,nome,  YASMIN LIMA MARQUES  ,Yasmin Lima Marques
+572,2260,data_pagamento,31/10/2026,2026-10-31
+573,2262,nome,  HELOÍSA PEREIRA  ,Heloísa Pereira
+573,2262,vencimento,10/10/2026,2026-10-10
+576,2271,modalidade, Judô ,Judô
+578,2282,turma,t10,T10
+579,2283,vencimento,10/10/2026,2026-10-10
+580,2290,modalidade,jiu jitsu,Jiu-jitsu
+581,2293,modalidade, Muay Thai ,Muay Thai
+584,2303,valor_mensalidade,"R$ 115,00",115.00
+587,2310,modalidade,muay thai,Muay Thai
+588,2311,modalidade,karate,Karatê
+590,2313,nome,Valentina   Cardoso,Valentina Cardoso
+590,2313,faixa_atual,verde,Verde
+590,2313,valor_mensalidade,"R$ 100,00",100.00
+591,2320,valor_mensalidade,"R$ 120,00",120.00
+593,2325,valor_mensalidade,"R$ 120,00",120.00
+594,2326,turma,t13,T13
+597,2340,modalidade,judo,Judô
+597,2340,faixa_atual,laranja,Laranja
+599,2344,vencimento,17/10/2026,2026-10-17
+600,2348,modalidade, Jiu-jitsu ,Jiu-jitsu
+602,2354,valor_mensalidade,"R$ 85,00",85.00
+602,2354,vencimento,28/10/2026,2026-10-28
+602,2354,data_pagamento,28/10/2026,2026-10-28
+603,2361,valor_mensalidade,"R$ 100,00",100.00
+606,2370,turma,t09,T09
+606,2370,valor_mensalidade,"R$ 145,00",145.00
+608,2383,nome,André   Monteiro,André Monteiro
+608,2383,turma,t10,T10
+608,2383,valor_mensalidade,"R$ 120,00",120.00
+609,2384,nome,  WESLEY CARVALHO  ,Wesley Carvalho
+616,2404,turma,t10,T10
+619,2416,valor_mensalidade,"R$ 150,00",150.00
+621,2423,valor_mensalidade,"R$ 150,00",150.00
+623,2425,turma,t13,T13
+624,2427,turma,t03,T03
+625,2429,nome,  LEONARDO CASTRO  ,Leonardo Castro
+626,2435,modalidade,muay thai,Muay Thai
+627,2436,nome,  MANUELA NOGUEIRA  ,Manuela Nogueira
+629,2439,modalidade, Jiu-jitsu ,Jiu-jitsu
+631,2442,modalidade, Judô ,Judô
+633,2447,modalidade,jiu jitsu,Jiu-jitsu
+634,2454,nome,  DANIEL LOPES  ,Daniel Lopes
+634,2454,valor_mensalidade,"R$ 145,00",145.00
+636,2463,nome,Júlia   Dias   Nogueira,Júlia Dias Nogueira
+637,2469,modalidade,jiu jitsu,Jiu-jitsu
+639,2474,valor_mensalidade,"R$ 150,00",150.00
+641,2477,nome,  FÁBIO DIAS  ,Fábio Dias
+641,2477,modalidade,jiu jitsu,Jiu-jitsu
+643,2480,modalidade, Jiu-jitsu ,Jiu-jitsu
+643,2480,data_pagamento,12/09/2026,2026-09-12
+644,2483,modalidade, jiu jitsu ,Jiu-jitsu
+644,2483,vencimento,22/10/2026,2026-10-22
+645,2490,nome,  SAMUEL FIGUEIREDO  ,Samuel Figueiredo
+648,2505,nome,  LUANA FIGUEIREDO  ,Luana Figueiredo
+651,2514,modalidade, Muay Thai ,Muay Thai
+652,2521,turma,t14,T14
+652,2521,vencimento,25/10/2026,2026-10-25
+653,2525,turma,t13,T13
+653,2525,valor_mensalidade,"R$ 85,00",85.00
+656,2533,faixa_atual,roxa,Roxa
+658,2541,vencimento,28/10/2026,2026-10-28
+659,2542,valor_mensalidade,"R$ 120,00",120.00
+659,2542,data_pagamento,01/11/2026,2026-11-01
+665,2560,data_pagamento,31/10/2026,2026-10-31
+667,2569,modalidade,judo,Judô
+672,2585,valor_mensalidade,"R$ 85,00",85.00
+674,2594,nome,Thiago   Melo,Thiago Melo
+674,2594,modalidade,muay thai,Muay Thai
+674,2594,data_pagamento,07/09/2026,2026-09-07
+675,2600,nome,  MIRELA LOPES  ,Mirela Lopes
+677,2608,modalidade, Jiu-jitsu ,Jiu-jitsu
+677,2608,vencimento,17/11/2026,2026-11-17
+680,2613,modalidade,judo,Judô
+680,2613,turma,t07,T07
+680,2613,faixa_atual,branca,Branca
+680,2613,valor_mensalidade,"R$ 145,00",145.00
+681,2615,modalidade, Jiu-jitsu ,Jiu-jitsu
+681,2615,valor_mensalidade,"R$ 125,00",125.00
+684,2623,nome,  LUANA BORGES FERREIRA  ,Luana Borges Ferreira
+685,2626,nome,Fábio   Andrade,Fábio Andrade
+691,2637,turma,t03,T03
+694,2650,nome,  RENATA REIS  ,Renata Reis
+698,2662,nome,Daniela   Coelho   Moreira,Daniela Coelho Moreira
+699,2663,modalidade, Karatê ,Karatê
+700,2664,faixa_atual,branca,Branca
+700,2664,valor_mensalidade,"R$ 145,00",145.00
+700,2664,vencimento,05/10/2026,2026-10-05
+702,2667,modalidade,jiu jitsu,Jiu-jitsu
+705,2680,turma,t14,T14
+707,2685,nome,Gabriel   Mendes,Gabriel Mendes
+709,2692,nome,  RAFAELA NASCIMENTO ANDRADE  ,Rafaela Nascimento Andrade
+709,2692,data_pagamento,02/11/2026,2026-11-02
+711,2698,faixa_atual,branca,Branca
+712,2702,nome,  CÉSAR MEDEIROS  ,César Medeiros
+712,2702,modalidade,judo,Judô
+712,2702,turma,t14,T14
+712,2702,faixa_atual,amarela,Amarela
+712,2702,vencimento,12/09/2026,2026-09-12
+714,2709,nome,Valentina   Pinto   Rocha,Valentina Pinto Rocha
+714,2709,modalidade, Jiu-jitsu ,Jiu-jitsu
+715,2712,faixa_atual,laranja,Laranja
+715,2712,vencimento,20/11/2026,2026-11-20
+718,2724,vencimento,28/09/2026,2026-09-28
+720,2728,nome,  FELIPE BATISTA COELHO  ,Felipe Batista Coelho
+722,2735,vencimento,12/11/2026,2026-11-12
+725,2746,modalidade, Jiu-jitsu ,Jiu-jitsu
+726,2750,nome,  ANDRÉ MORAES  ,André Moraes
+726,2750,faixa_atual,amarela,Amarela
+728,2753,turma,t06,T06
+729,2754,valor_mensalidade,"R$ 110,00",110.00
+730,2760,nome,  RAFAEL COSTA  ,Rafael Costa
+731,2761,vencimento,12/11/2026,2026-11-12
+732,2763,vencimento,20/10/2026,2026-10-20
+733,2765,nome,  RAFAELA DUARTE GONÇALVES  ,Rafaela Duarte Gonçalves
+735,2772,vencimento,28/10/2026,2026-10-28
+736,2778,valor_mensalidade,"R$ 125,00",125.00
+736,2778,data_pagamento,26/10/2026,2026-10-26
+741,2792,vencimento,17/10/2026,2026-10-17
+742,2796,faixa_atual,branca,Branca
+743,2798,valor_mensalidade,"R$ 120,00",120.00
+746,2803,modalidade,muay thai,Muay Thai
+748,2812,turma,t17,T17
+752,2825,faixa_atual,azul,Azul
+753,2826,valor_mensalidade,"R$ 140,00",140.00
+754,2828,modalidade,jiu jitsu,Jiu-jitsu
+755,2831,vencimento,12/10/2026,2026-10-12
+757,2839,vencimento,17/10/2026,2026-10-17
+758,2843,valor_mensalidade,"R$ 145,00",145.00
+761,2851,modalidade,karate,Karatê
+761,2851,turma,t01,T01
+763,2853,nome,  LUANA CUNHA  ,Luana Cunha
+764,2860,modalidade, Muay Thai ,Muay Thai
+767,2874,nome,  SAMUEL COSTA BARROS  ,Samuel Costa Barros
+771,2891,nome,  WESLEY SANTOS  ,Wesley Santos
+773,2896,vencimento,05/10/2026,2026-10-05
+774,2898,nome,Larissa   Lima,Larissa Lima
+779,2909,valor_mensalidade,"R$ 115,00",115.00
+779,2909,data_pagamento,02/11/2026,2026-11-02
+780,2913,nome,  LEONARDO FIGUEIREDO  ,Leonardo Figueiredo
+782,2918,nome,  MARCELO COSTA SOARES  ,Marcelo Costa Soares
+782,2918,valor_mensalidade,"R$ 145,00",145.00
+783,2920,modalidade,jiu jitsu,Jiu-jitsu
+786,2929,nome,  MATHEUS BORGES  ,Matheus Borges
+787,2930,turma,t13,T13
+787,2930,vencimento,25/10/2026,2026-10-25
+792,2946,modalidade,jiu jitsu,Jiu-jitsu
+792,2946,turma,t06,T06
+793,2947,modalidade, judo ,Judô
+794,2949,turma,t12,T12
+795,2955,modalidade,jiu jitsu,Jiu-jitsu
+795,2955,faixa_atual,marrom,Marrom
+795,2955,vencimento,05/09/2026,2026-09-05
+796,2956,faixa_atual,verde,Verde
+797,2959,nome,Mariana   Martins,Mariana Martins
+797,2959,valor_mensalidade,"R$ 175,00",175.00
+798,2960,modalidade,muay thai,Muay Thai
+798,2960,data_pagamento,02/11/2026,2026-11-02
+801,2966,nome,Fernanda   Amaral,Fernanda Amaral
+803,2970,modalidade, muay thai ,Muay Thai
+803,2970,faixa_atual,branca,Branca
+804,2974,modalidade, Karatê ,Karatê
+804,2974,turma,t11,T11
+806,2978,valor_mensalidade,"R$ 130,00",130.00
+807,2979,nome,  RAFAELA BARBOSA REIS  ,Rafaela Barbosa Reis
+807,2979,turma,t05,T05
+808,2983,nome,  DANIEL LIMA MEDEIROS  ,Daniel Lima Medeiros
+808,2983,modalidade,jiu jitsu,Jiu-jitsu
+809,2984,turma,t18,T18
+810,2985,nome,  JÚLIA MOURA  ,Júlia Moura
+810,2985,turma,t16,T16
+811,2988,turma,t15,T15
+813,2991,data_pagamento,23/10/2026,2026-10-23
+814,2998,modalidade,muay thai,Muay Thai
+815,3002,turma,t10,T10
+817,3006,valor_mensalidade,"R$ 125,00",125.00
+818,3007,modalidade,muay thai,Muay Thai
+818,3007,faixa_atual,cinza,Cinza
+819,3009,modalidade, Judô ,Judô
+820,3016,nome,Renata   Moreira   Martins,Renata Moreira Martins
+820,3016,faixa_atual,azul,Azul
+821,3017,modalidade,judo,Judô
+821,3017,vencimento,22/09/2026,2026-09-22
+824,3020,valor_mensalidade,"R$ 150,00",150.00
+825,3021,turma,t04,T04
+825,3021,data_pagamento,17/10/2026,2026-10-17
+826,3025,nome,      GABRIELA   DUARTE      ,Gabriela Duarte
+826,3025,modalidade, Jiu-jitsu ,Jiu-jitsu
+828,3029,valor_mensalidade,"R$ 120,00",120.00
+832,3040,faixa_atual,laranja,Laranja
+833,3041,modalidade,judo,Judô
+836,3052,faixa_atual,amarela,Amarela
+836,3052,valor_mensalidade,"R$ 145,00",145.00
+836,3052,vencimento,05/10/2026,2026-10-05
+837,3055,nome,  MARCELO ALMEIDA  ,Marcelo Almeida
+839,3065,faixa_atual,branca,Branca
+840,3068,modalidade,jiu jitsu,Jiu-jitsu
+843,3083,turma,t05,T05
+844,3085,valor_mensalidade,"R$ 180,00",180.00
+845,3089,nome,  RENATA DUARTE  ,Renata Duarte
+846,3092,nome,Renata   Araújo,Renata Araújo
+846,3092,modalidade,muay thai,Muay Thai
+850,3103,faixa_atual,verde,Verde
+853,3107,modalidade,jiu jitsu,Jiu-jitsu
+853,3107,valor_mensalidade,"R$ 120,00",120.00
+854,3114,faixa_atual,cinza,Cinza
+854,3114,valor_mensalidade,"R$ 210,00",210.00
+858,3126,nome,Rafaela   Almeida,Rafaela Almeida
+858,3126,modalidade, Muay Thai ,Muay Thai
+859,3127,turma,t16,T16
+859,3127,valor_mensalidade,"R$ 130,00",130.00
+860,3129,nome,  MATHEUS MARTINS  ,Matheus Martins
+860,3129,modalidade,muay thai,Muay Thai
+862,3135,nome,  PEDRO COSTA CAMPOS  ,Pedro Costa Campos
+864,3143,vencimento,12/10/2026,2026-10-12
+866,3148,valor_mensalidade,"R$ 160,00",160.00
+867,3152,nome,  PAULA COSTA  ,Paula Costa
+867,3152,turma,t16,T16
+867,3152,valor_mensalidade,"R$ 130,00",130.00
+868,3155,turma,t04,T04
+868,3155,vencimento,20/11/2026,2026-11-20
+871,3158,nome,  RAFAELA VIEIRA  ,Rafaela Vieira
+872,3162,faixa_atual,cinza,Cinza
+877,3179,turma,t17,T17
+877,3179,vencimento,12/10/2026,2026-10-12
+879,3187,valor_mensalidade,"R$ 150,00",150.00
+879,3187,vencimento,22/11/2026,2026-11-22
+881,3199,valor_mensalidade,"R$ 195,00",195.00
+882,3206,modalidade,jiu jitsu,Jiu-jitsu
+882,3206,faixa_atual,amarela,Amarela
+882,3206,valor_mensalidade,"R$ 140,00",140.00
+883,3207,nome,  OTÁVIO REIS  ,Otávio Reis
+883,3207,turma,t10,T10
+885,3211,nome,  IGOR ALMEIDA  ,Igor Almeida
+885,3211,valor_mensalidade,"R$ 130,00",130.00
+886,3213,modalidade,jiu jitsu,Jiu-jitsu
+887,3216,modalidade, Muay Thai ,Muay Thai
+887,3216,turma,t13,T13
+888,3217,nome,Gabriel   Moraes,Gabriel Moraes
+888,3217,valor_mensalidade,"R$ 160,00",160.00
+889,3219,modalidade, Judô ,Judô
+889,3219,turma,t16,T16
+889,3219,vencimento,22/11/2026,2026-11-22
+890,3220,turma,t04,T04
+894,3224,valor_mensalidade,"R$ 160,00",160.00
+896,3226,modalidade, Karatê ,Karatê
+896,3226,valor_mensalidade,"R$ 150,00",150.00
+897,3230,nome,  THIAGO SOUSA MOURA  ,Thiago Sousa Moura
+899,3236,nome,  VINÍCIUS VIEIRA  ,Vinícius Vieira
+900,3238,nome,  FÁBIO RODRIGUES MENDES  ,Fábio Rodrigues Mendes
+900,3238,valor_mensalidade,"R$ 140,00",140.00
+901,3239,turma,t11,T11
+901,3239,valor_mensalidade,"R$ 115,00",115.00
+902,3246,valor_mensalidade,"R$ 160,00",160.00
+904,3257,nome,  FERNANDA ROCHA  ,Fernanda Rocha
+904,3257,data_pagamento,29/10/2026,2026-10-29
+905,3260,nome,  THIAGO RODRIGUES  ,Thiago Rodrigues
+908,3269,valor_mensalidade,"R$ 110,00",110.00
+911,3283,modalidade, Jiu-jitsu ,Jiu-jitsu
+913,3288,valor_mensalidade,"R$ 120,00",120.00
+915,3296,vencimento,07/10/2026,2026-10-07
+917,3304,turma,t11,T11
+917,3304,valor_mensalidade,"R$ 160,00",160.00
+918,3306,nome,  PAULA MOREIRA  ,Paula Moreira
+919,3309,faixa_atual,azul,Azul
+919,3309,valor_mensalidade,"R$ 145,00",145.00
+920,3311,vencimento,22/10/2026,2026-10-22
+922,3319,faixa_atual,cinza,Cinza
+923,3321,turma,t02,T02
+924,3322,nome,  LARISSA MENDES  ,Larissa Mendes
+924,3322,vencimento,10/11/2026,2026-11-10
+926,3328,valor_mensalidade,"R$ 180,00",180.00
+930,3335,faixa_atual,amarela,Amarela
+931,3341,nome,  CAIO CASTRO  ,Caio Castro
+931,3341,faixa_atual,amarela,Amarela
+932,3347,faixa_atual,marrom,Marrom
+933,3348,turma,t08,T08
+933,3348,valor_mensalidade,"R$ 100,00",100.00
+934,3351,turma,t16,T16
+935,3354,modalidade,jiu jitsu,Jiu-jitsu
+935,3354,valor_mensalidade,"R$ 160,00",160.00
+935,3354,vencimento,25/11/2026,2026-11-25
+936,3355,nome,  FERNANDA BORGES  ,Fernanda Borges
+936,3355,turma,t07,T07
+939,3361,nome,Manuela   Silva,Manuela Silva
+940,3367,modalidade,judo,Judô
+940,3367,valor_mensalidade,"R$ 130,00",130.00
+942,3369,valor_mensalidade,"R$ 120,00",120.00
+943,3376,nome,  LUANA CAMPOS  ,Luana Campos
+943,3376,modalidade,judo,Judô
+943,3376,turma,t07,T07
+945,3379,modalidade, Judô ,Judô
+945,3379,turma,t04,T04
+946,3380,turma,t01,T01
+947,3384,faixa_atual,laranja,Laranja
+947,3384,valor_mensalidade,"R$ 100,00",100.00
+953,3397,turma,t04,T04
+954,3401,modalidade,jiu jitsu,Jiu-jitsu
+955,3402,modalidade,judo,Judô
+956,3409,nome,  ANDRÉ GONÇALVES  ,André Gonçalves
+956,3409,data_pagamento,25/09/2026,2026-09-25
+957,3410,nome,  FÁBIO BORGES  ,Fábio Borges
+958,3411,vencimento,12/10/2026,2026-10-12
+960,3414,modalidade,jiu jitsu,Jiu-jitsu
+960,3414,vencimento,10/09/2026,2026-09-10
+960,3414,data_pagamento,13/09/2026,2026-09-13
+962,3418,nome,César   Pereira,César Pereira
+962,3418,valor_mensalidade,"R$ 120,00",120.00
+962,3418,data_pagamento,23/09/2026,2026-09-23
+963,3420,modalidade,muay thai,Muay Thai
+964,3421,turma,t10,T10
+965,3422,nome,Heloísa   Pinto,Heloísa Pinto
+965,3422,modalidade,karate,Karatê
+966,3425,turma,t06,T06
+966,3425,vencimento,12/10/2026,2026-10-12
+967,3426,valor_mensalidade,"R$ 145,00",145.00
+969,3439,valor_mensalidade,"R$ 150,00",150.00
+970,3446,nome,  EDUARDO DIAS  ,Eduardo Dias
+972,3454,modalidade, Jiu-jitsu ,Jiu-jitsu
+972,3454,turma,t07,T07
+973,3456,turma,t04,T04
+975,3460,valor_mensalidade,"R$ 100,00",100.00
+976,3467,vencimento,20/09/2026,2026-09-20
+978,3469,vencimento,22/11/2026,2026-11-22
+985,3497,modalidade,muay thai,Muay Thai
+985,3497,turma,t12,T12
+985,3497,data_pagamento,20/10/2026,2026-10-20
+988,3511,vencimento,17/10/2026,2026-10-17
+990,3513,vencimento,20/10/2026,2026-10-20
+994,3523,modalidade,judo,Judô
+995,3524,modalidade, judo ,Judô
+996,3530,nome,  DANIEL SANTOS  ,Daniel Santos
+997,3532,modalidade,muay thai,Muay Thai
+997,3532,turma,t13,T13
+997,3532,data_pagamento,23/10/2026,2026-10-23
+999,3540,nome,  LUCAS MEDEIROS MENDES  ,Lucas Medeiros Mendes
+999,3540,turma,t16,T16
+1000,3547,nome,  VALENTINA ANDRADE  ,Valentina Andrade
+1000,3547,modalidade,muay thai,Muay Thai
+1002,3549,vencimento,28/11/2026,2026-11-28
+1003,3551,nome,Ricardo   Campos,Ricardo Campos
+1003,3551,faixa_atual,laranja,Laranja
+1003,3551,valor_mensalidade,"R$ 130,00",130.00
+1004,3553,modalidade,muay thai,Muay Thai
+1006,3563,modalidade,jiu jitsu,Jiu-jitsu
+1010,3568,modalidade,muay thai,Muay Thai
+1013,3578,modalidade, Judô ,Judô
+1018,3593,modalidade,muay thai,Muay Thai
+1020,3598,faixa_atual,amarela,Amarela
+1025,3610,nome,  LUCAS RIBEIRO BORGES  ,Lucas Ribeiro Borges
+1025,3610,modalidade, Jiu-jitsu ,Jiu-jitsu
+1029,3624,nome,  YASMIN ALMEIDA  ,Yasmin Almeida
+1031,3633,faixa_atual,branca,Branca
+1031,3633,data_pagamento,02/10/2026,2026-10-02
+1033,3639,faixa_atual,laranja,Laranja
+1034,3642,turma,t07,T07
+1035,3643,nome,  LARISSA LIMA BARROS  ,Larissa Lima Barros
+1035,3643,modalidade, Jiu-jitsu ,Jiu-jitsu
+1035,3643,valor_mensalidade,"R$ 145,00",145.00
+1037,3645,faixa_atual,laranja,Laranja
+1040,3654,modalidade, Jiu-jitsu ,Jiu-jitsu
+1041,3661,modalidade,karate,Karatê
+1043,3666,valor_mensalidade,"R$ 145,00",145.00
+1044,3668,nome,  ANDRÉ DUARTE ARAÚJO  ,André Duarte Araújo
+1044,3668,faixa_atual,branca,Branca
+1044,3668,valor_mensalidade,"R$ 150,00",150.00
+1045,3670,valor_mensalidade,"R$ 100,00",100.00
+1046,3671,modalidade,jiu jitsu,Jiu-jitsu
+1046,3671,turma,t18,T18
+1049,3679,modalidade,jiu jitsu,Jiu-jitsu
+1052,3698,nome,  DANIEL MOURA  ,Daniel Moura
+1053,3699,valor_mensalidade,"R$ 160,00",160.00
+1054,3703,modalidade,jiu jitsu,Jiu-jitsu
+1055,3705,turma,t16,T16
+1055,3705,data_pagamento,15/10/2026,2026-10-15
+1056,3711,turma,t01,T01
+1056,3711,valor_mensalidade,"R$ 150,00",150.00
+1058,3714,nome,Larissa   Oliveira,Larissa Oliveira
+1058,3714,turma,t13,T13
+1058,3714,vencimento,20/10/2026,2026-10-20
+1060,3717,turma,t14,T14
+1061,3719,modalidade, Muay Thai ,Muay Thai
+1061,3719,vencimento,05/10/2026,2026-10-05
+1064,3727,nome,Pedro   Figueiredo,Pedro Figueiredo
+1064,3727,turma,t03,T03
+1065,3733,nome,  PEDRO CASTRO MARTINS  ,Pedro Castro Martins
+1065,3733,turma,t07,T07
+1065,3733,vencimento,07/11/2026,2026-11-07
+1069,3752,valor_mensalidade,"R$ 120,00",120.00
+1073,3763,vencimento,10/11/2026,2026-11-10
+1076,3770,vencimento,07/10/2026,2026-10-07
+1077,3771,nome,      RENATA   BATISTA      ,Renata Batista
+1078,3772,faixa_atual,cinza,Cinza
+1078,3772,valor_mensalidade,"R$ 150,00",150.00
+1080,3780,valor_mensalidade,"R$ 210,00",210.00
+1081,3784,nome,  DANIEL ALMEIDA  ,Daniel Almeida
+1082,3785,modalidade, Jiu-jitsu ,Jiu-jitsu
+1083,3786,vencimento,05/10/2026,2026-10-05
+1084,3788,vencimento,28/10/2026,2026-10-28
+1086,3798,valor_mensalidade,"R$ 150,00",150.00
+1088,3806,nome,  MATHEUS ARAÚJO  ,Matheus Araújo
+1088,3806,valor_mensalidade,"R$ 100,00",100.00
+1090,3810,turma,t11,T11
+1091,3811,nome,      MARIANA   BARROS      ,Mariana Barros
+1093,3816,nome,  HELENA MOURA  ,Helena Moura
+1095,3823,turma,t12,T12
+1096,3827,modalidade, Jiu-jitsu ,Jiu-jitsu
+1096,3827,turma,t14,T14
+1101,3847,nome,Larissa   Nascimento   Moreira,Larissa Nascimento Moreira
+1101,3847,modalidade, Jiu-jitsu ,Jiu-jitsu
+1101,3847,turma,t03,T03
+1101,3847,valor_mensalidade,"R$ 145,00",145.00
+1102,3848,nome,  BRUNO SILVA BATISTA  ,Bruno Silva Batista
+1104,3851,turma,t18,T18
+1105,3852,nome,Caio   Rodrigues,Caio Rodrigues
+1105,3852,modalidade,jiu jitsu,Jiu-jitsu
+1105,3852,valor_mensalidade,"R$ 100,00",100.00
+1109,3865,nome,Helena   Moura,Helena Moura
+1111,3868,faixa_atual,cinza,Cinza
+1111,3868,data_pagamento,07/10/2026,2026-10-07
+1113,3876,nome,  MIRELA CAMPOS RIBEIRO  ,Mirela Campos Ribeiro
+1115,3881,nome,  LUCAS DUARTE  ,Lucas Duarte
+1117,3885,vencimento,10/11/2026,2026-11-10
+1118,3886,nome,Eduardo   Ferreira   Almeida,Eduardo Ferreira Almeida
+1118,3886,vencimento,07/10/2026,2026-10-07
+1125,3906,modalidade,jiu jitsu,Jiu-jitsu
+1128,3911,vencimento,20/11/2026,2026-11-20
+1129,3913,vencimento,12/10/2026,2026-10-12
+1130,3914,vencimento,10/09/2026,2026-09-10
+1130,3914,data_pagamento,30/08/2026,2026-08-30
+1133,3929,turma,t13,T13
+1133,3929,faixa_atual,branca,Branca
+1136,3936,valor_mensalidade,"R$ 150,00",150.00
+1137,3937,turma,t15,T15
+1138,3940,turma,t14,T14
+1140,3946,turma,t03,T03
+1140,3946,vencimento,20/10/2026,2026-10-20
+1141,3952,nome,Otávio   Moraes,Otávio Moraes
+1141,3952,vencimento,25/10/2026,2026-10-25
+1142,3953,turma,t03,T03
+1143,3954,nome,Diego   Xavier,Diego Xavier
+1144,3957,faixa_atual,amarela,Amarela
+1145,3964,nome,Camila   Fonseca   Batista,Camila Fonseca Batista
+1148,3978,valor_mensalidade,"R$ 115,00",115.00
+1149,3982,vencimento,22/10/2026,2026-10-22
+1150,3984,nome,  SOFIA MELO  ,Sofia Melo
+1154,4001,nome,  LUANA SOUSA MACHADO  ,Luana Sousa Machado
+1154,4001,modalidade,judo,Judô
+1154,4001,vencimento,12/09/2026,2026-09-12
+1158,4014,modalidade, Jiu-jitsu ,Jiu-jitsu
+1160,4018,turma,t05,T05
+1161,4024,nome,Gabriel   Dias,Gabriel Dias
+1161,4024,vencimento,07/10/2026,2026-10-07
+1162,4028,nome,  RAFAELA RAMOS AMARAL  ,Rafaela Ramos Amaral
+1163,4030,turma,t02,T02
+1163,4030,data_pagamento,05/10/2026,2026-10-05
+1165,4032,turma,t18,T18
+1166,4035,nome,  IGOR MARQUES  ,Igor Marques
+1167,4037,faixa_atual,cinza,Cinza
+1171,4042,nome,  LUANA FIGUEIREDO  ,Luana Figueiredo
+1171,4042,turma,t06,T06
+1172,4043,nome,      HELENA   RIBEIRO      ,Helena Ribeiro
+1177,4056,valor_mensalidade,"R$ 210,00",210.00
+1177,4056,vencimento,10/09/2026,2026-09-10
+1178,4059,nome,  GABRIEL CAMPOS  ,Gabriel Campos
+1179,4063,turma,t02,T02
+1180,4066,nome,Paula   Costa   Duarte,Paula Costa Duarte
+1182,4075,valor_mensalidade,"R$ 120,00",120.00
+1183,4076,nome,  VALENTINA ARAÚJO  ,Valentina Araújo
+1184,4078,turma,t11,T11
+1184,4078,faixa_atual,amarela,Amarela
+1185,4084,nome,  ISABELA PEREIRA  ,Isabela Pereira
+1186,4086,faixa_atual,branca,Branca
+1186,4086,data_pagamento,16/10/2026,2026-10-16
+1187,4093,nome,  LUCAS MONTEIRO DIAS  ,Lucas Monteiro Dias
+1187,4093,turma,t16,T16
+1188,4100,faixa_atual,cinza,Cinza
+1188,4100,valor_mensalidade,"R$ 130,00",130.00
+1191,4105,faixa_atual,amarela,Amarela
+1191,4105,data_pagamento,10/10/2026,2026-10-10
+1193,4115,modalidade,jiu jitsu,Jiu-jitsu
+1193,4115,valor_mensalidade,"R$ 160,00",160.00
+1194,4117,faixa_atual,cinza,Cinza
+1195,4119,valor_mensalidade,"R$ 115,00",115.00
+1195,4119,data_pagamento,09/10/2026,2026-10-09
+1197,4127,faixa_atual,roxa,Roxa
+1198,4128,modalidade, muay thai ,Muay Thai
+1199,4129,valor_mensalidade,"R$ 125,00",125.00
+1200,4132,modalidade,judo,Judô
+1200,4132,valor_mensalidade,"R$ 120,00",120.00
+1202,4137,valor_mensalidade,"R$ 160,00",160.00
+1203,4139,modalidade,jiu jitsu,Jiu-jitsu
+1203,4139,valor_mensalidade,"R$ 120,00",120.00
+1204,4140,nome,  OTÁVIO CAMPOS FREITAS  ,Otávio Campos Freitas
+1204,4140,vencimento,17/11/2026,2026-11-17
+1206,4142,faixa_atual,azul,Azul
+1206,4142,valor_mensalidade,"R$ 120,00",120.00
+1207,4148,valor_mensalidade,"R$ 150,00",150.00
+1208,4150,turma,t17,T17
+1209,4151,valor_mensalidade,"R$ 145,00",145.00
+1212,4164,valor_mensalidade,"R$ 195,00",195.00
+1212,4164,vencimento,22/10/2026,2026-10-22
+1213,4167,valor_mensalidade,"R$ 120,00",120.00
+1214,4173,modalidade,judo,Judô
+1214,4173,turma,t14,T14
+1214,4173,valor_mensalidade,"R$ 150,00",150.00
+1216,4178,faixa_atual,azul,Azul
+1216,4178,valor_mensalidade,"R$ 175,00",175.00
+1217,4181,faixa_atual,branca,Branca
+1218,4183,faixa_atual,verde,Verde
+1220,4185,faixa_atual,marrom,Marrom
+1220,4185,valor_mensalidade,"R$ 130,00",130.00
+1227,4210,valor_mensalidade,"R$ 130,00",130.00
+1228,4214,valor_mensalidade,"R$ 130,00",130.00
+1228,4214,vencimento,20/11/2026,2026-11-20
+1230,4217,nome,  YASMIN COELHO ALMEIDA  ,Yasmin Coelho Almeida
+1230,4217,faixa_atual,laranja,Laranja
+1230,4217,valor_mensalidade,"R$ 120,00",120.00
+1230,4217,vencimento,22/10/2026,2026-10-22
+1231,4218,nome,  VALENTINA ANDRADE CASTRO  ,Valentina Andrade Castro
+1231,4218,modalidade,jiu jitsu,Jiu-jitsu
+1232,4225,nome,  HELENA CARDOSO  ,Helena Cardoso
+1232,4225,valor_mensalidade,"R$ 120,00",120.00
+1235,4231,nome,Yasmin   Barbosa,Yasmin Barbosa
+1238,4235,nome,  VITÓRIA RIBEIRO ROCHA  ,Vitória Ribeiro Rocha
+1240,4237,modalidade,jiu jitsu,Jiu-jitsu
+1248,4264,valor_mensalidade,"R$ 150,00",150.00
+1250,4267,nome,  WESLEY AMARAL MOREIRA  ,Wesley Amaral Moreira
+1250,4267,modalidade, jiu jitsu ,Jiu-jitsu
+1250,4267,turma,t08,T08
+1251,4268,faixa_atual,roxa,Roxa
+1253,4273,modalidade,muay thai,Muay Thai
+1253,4273,valor_mensalidade,"R$ 175,00",175.00
+1253,4273,data_pagamento,01/11/2026,2026-11-01
+1254,4280,valor_mensalidade,"R$ 120,00",120.00
+1259,4294,valor_mensalidade,"R$ 150,00",150.00
+1260,4300,nome,      ELAINE   OLIVEIRA      ,Elaine Oliveira
+1260,4300,modalidade, Jiu-jitsu ,Jiu-jitsu
+1262,4308,nome,  MIRELA BARROS  ,Mirela Barros
+1262,4308,valor_mensalidade,"R$ 110,00",110.00
+1267,4319,modalidade,jiu jitsu,Jiu-jitsu
+1268,4322,modalidade,jiu jitsu,Jiu-jitsu
+1269,4328,valor_mensalidade,"R$ 110,00",110.00
+1269,4328,vencimento,17/10/2026,2026-10-17
+1270,4334,turma,t15,T15
+1270,4334,valor_mensalidade,"R$ 140,00",140.00
+1272,4338,nome,Leonardo   Ramos,Leonardo Ramos
+1272,4338,turma,t08,T08
+1273,4344,nome,Isabela   Moura,Isabela Moura
+1275,4347,faixa_atual,verde,Verde
+1276,4354,modalidade,muay thai,Muay Thai
+1276,4354,valor_mensalidade,"R$ 175,00",175.00
+1278,4357,turma,t15,T15
+1279,4358,modalidade,judo,Judô
+1279,4358,faixa_atual,laranja,Laranja
+1280,4364,modalidade, Karatê ,Karatê
+1282,4368,vencimento,07/10/2026,2026-10-07
+1283,4375,faixa_atual,laranja,Laranja
+1287,4384,turma,t01,T01
+1290,4393,data_pagamento,18/10/2026,2026-10-18
+1291,4396,turma,t16,T16
+1292,4403,nome,  FÁBIO MELO  ,Fábio Melo
+1293,4410,turma,t06,T06
+1293,4410,valor_mensalidade,"R$ 145,00",145.00
+1294,4411,turma,t18,T18
+1296,4417,faixa_atual,azul,Azul
+1297,4418,nome,  VINÍCIUS LOPES MONTEIRO  ,Vinícius Lopes Monteiro
+1297,4418,vencimento,25/11/2026,2026-11-25
+1298,4420,faixa_atual,branca,Branca
+1298,4420,valor_mensalidade,"R$ 150,00",150.00
+1303,4439,turma,t10,T10
+1305,4448,faixa_atual,marrom,Marrom
+1306,4449,valor_mensalidade,"R$ 120,00",120.00
+1306,4449,vencimento,10/10/2026,2026-10-10
+1308,4451,nome,  LEONARDO TEIXEIRA  ,Leonardo Teixeira
+1309,4453,turma,t11,T11
+1310,4455,nome,  SAMUEL AMARAL  ,Samuel Amaral
+1313,4460,faixa_atual,amarela,Amarela
+1314,4462,nome,  FÁBIO TEIXEIRA  ,Fábio Teixeira
+1314,4462,vencimento,12/10/2026,2026-10-12
+1316,4470,vencimento,10/09/2026,2026-09-10
+1319,4478,nome,  MIRELA DIAS  ,Mirela Dias
+1321,4482,modalidade,jiu jitsu,Jiu-jitsu
+1321,4482,valor_mensalidade,"R$ 175,00",175.00
+1322,4484,valor_mensalidade,"R$ 120,00",120.00
+1323,4485,turma,t18,T18
+1325,4487,vencimento,15/10/2026,2026-10-15
+1326,4488,modalidade, Muay Thai ,Muay Thai
+1327,2009,turma,t01,T01
+1329,4500,turma,t12,T12
+1331,4502,nome,  FÁBIO OLIVEIRA  ,Fábio Oliveira
+1331,4502,vencimento,22/11/2026,2026-11-22
+1332,4504,turma,t01,T01
+1333,4505,modalidade,jiu jitsu,Jiu-jitsu
+1337,4511,modalidade,jiu jitsu,Jiu-jitsu
+1337,4511,turma,t10,T10
+1339,4516,modalidade, Judô ,Judô
+1341,4519,modalidade, Judô ,Judô
+1344,4525,data_pagamento,16/10/2026,2026-10-16
+1345,4531,valor_mensalidade,"R$ 125,00",125.00
+1346,4532,nome,  FERNANDA MOURA  ,Fernanda Moura
+1351,4540,modalidade,muay thai,Muay Thai
+1351,4540,data_pagamento,04/10/2026,2026-10-04
+1352,4541,faixa_atual,amarela,Amarela
+1352,4541,vencimento,07/10/2026,2026-10-07
+1353,4548,turma,t05,T05
+1353,4548,valor_mensalidade,"R$ 160,00",160.00
+1353,4548,vencimento,05/10/2026,2026-10-05
+1354,4555,modalidade,jiu jitsu,Jiu-jitsu
+1357,4560,nome,  LEONARDO MOREIRA  ,Leonardo Moreira
+1359,4566,valor_mensalidade,"R$ 140,00",140.00
+1361,4574,nome,Lucas   Castro   Marques,Lucas Castro Marques
+1363,4579,modalidade, Muay Thai ,Muay Thai
+1363,4579,valor_mensalidade,"R$ 120,00",120.00
+1366,4588,nome,  VALENTINA ROCHA  ,Valentina Rocha
+1366,4588,modalidade, Muay Thai ,Muay Thai
+1367,4591,nome,Daniel   Almeida,Daniel Almeida
+1369,4603,nome,  MATHEUS FIGUEIREDO  ,Matheus Figueiredo
+1369,4603,modalidade, Judô ,Judô
+1370,4609,vencimento,22/10/2026,2026-10-22
+1373,4615,valor_mensalidade,"R$ 140,00",140.00
+1376,4625,nome,  RAFAEL SOARES  ,Rafael Soares
+1376,4625,modalidade, Muay Thai ,Muay Thai
+1377,4632,nome,      VITÓRIA   GOMES      ,Vitória Gomes
+1381,4639,vencimento,05/09/2026,2026-09-05
+1382,4640,nome,Igor   Martins,Igor Martins
+1382,4640,turma,t05,T05
+1383,4646,modalidade, Karatê ,Karatê
+1384,4647,nome,      ANDRÉ   PINTO   MARQUES      ,André Pinto Marques
+1385,4651,modalidade,jiu jitsu,Jiu-jitsu
+1385,4651,vencimento,25/10/2026,2026-10-25
+1385,4651,data_pagamento,13/10/2026,2026-10-13
+1386,4655,valor_mensalidade,"R$ 100,00",100.00
+1386,4655,vencimento,07/11/2026,2026-11-07
+1388,4666,nome,  WESLEY SANTOS  ,Wesley Santos
+1388,4666,turma,t16,T16
+1390,4671,modalidade,jiu jitsu,Jiu-jitsu
+1391,4672,modalidade,muay thai,Muay Thai
+1393,4686,faixa_atual,branca,Branca
+1393,4686,valor_mensalidade,"R$ 180,00",180.00
+1394,4692,valor_mensalidade,"R$ 115,00",115.00
+1395,4693,valor_mensalidade,"R$ 160,00",160.00
+1396,4695,nome,  LARISSA MARTINS  ,Larissa Martins
+1398,4703,valor_mensalidade,"R$ 160,00",160.00
+1399,4705,modalidade,jiu jitsu,Jiu-jitsu
+1399,4705,faixa_atual,branca,Branca
+1403,4721,vencimento,12/10/2026,2026-10-12
+1404,4723,faixa_atual,branca,Branca
+1406,4730,modalidade, Jiu-jitsu ,Jiu-jitsu
+1410,4746,nome,Pedro   Araújo,Pedro Araújo
+1410,4746,valor_mensalidade,"R$ 195,00",195.00
+1414,4752,nome,Yasmin   Nogueira   Moraes,Yasmin Nogueira Moraes
+1416,4757,nome,  DANIELA AMARAL PEREIRA  ,Daniela Amaral Pereira
+1416,4757,valor_mensalidade,"R$ 145,00",145.00
+1418,4761,vencimento,10/11/2026,2026-11-10
+1419,4762,nome,  ISABELA GONÇALVES  ,Isabela Gonçalves
+1421,4767,nome,César   Melo,César Melo
+1422,4771,modalidade,jiu jitsu,Jiu-jitsu
+1424,4776,turma,t05,T05
+1424,4776,faixa_atual,laranja,Laranja
+1425,4778,valor_mensalidade,"R$ 125,00",125.00
+1425,4778,vencimento,28/11/2026,2026-11-28
+1426,4780,nome,Samuel   Ribeiro,Samuel Ribeiro
+1427,4781,faixa_atual,roxa,Roxa
+1428,4783,vencimento,10/09/2026,2026-09-10
+1428,4783,data_pagamento,11/09/2026,2026-09-11
+1433,4792,faixa_atual,azul,Azul
+1434,4798,data_pagamento,31/10/2026,2026-10-31
+1435,4801,valor_mensalidade,"R$ 145,00",145.00
+1437,4803,modalidade,jiu jitsu,Jiu-jitsu
+1438,4804,modalidade,judo,Judô
+1438,4804,turma,t01,T01
+1440,4808,modalidade, Muay Thai ,Muay Thai
+1440,4808,vencimento,22/11/2026,2026-11-22
+1441,4809,nome,  MANUELA ROCHA SANTOS  ,Manuela Rocha Santos
+1443,4818,faixa_atual,laranja,Laranja
+1443,4818,valor_mensalidade,"R$ 150,00",150.00
+1444,4819,modalidade, Judô ,Judô
+1446,4828,faixa_atual,branca,Branca
+1447,4831,modalidade,jiu jitsu,Jiu-jitsu
+1447,4831,turma,t15,T15
+1448,4833,modalidade,jiu jitsu,Jiu-jitsu
+1449,4840,faixa_atual,marrom,Marrom
+1450,4842,turma,t09,T09
+1454,4853,faixa_atual,amarela,Amarela
+1455,4855,turma,t02,T02
+1455,4855,faixa_atual,laranja,Laranja
+1456,4856,nome,      PAULA   BORGES      ,Paula Borges
+1456,4856,modalidade, Muay Thai ,Muay Thai
+1456,4856,valor_mensalidade,"R$ 175,00",175.00
+1462,4876,vencimento,17/10/2026,2026-10-17
+1463,4883,nome,  PEDRO LIMA CASTRO  ,Pedro Lima Castro
+1463,4883,turma,t14,T14
+1463,4883,faixa_atual,cinza,Cinza
+1467,4902,turma,t01,T01
+1472,4916,nome,  SAMUEL BARROS  ,Samuel Barros
+1472,4916,modalidade,muay thai,Muay Thai
+1473,4918,turma,t14,T14
+1473,4918,faixa_atual,marrom,Marrom
+1475,4926,valor_mensalidade,"R$ 150,00",150.00
+1476,4927,nome,  DANIELA DUARTE NASCIMENTO  ,Daniela Duarte Nascimento
+1476,4927,modalidade,jiu jitsu,Jiu-jitsu
+1476,4927,faixa_atual,branca,Branca
+1477,4928,turma,t06,T06
+1478,4929,valor_mensalidade,"R$ 145,00",145.00
+1479,4930,vencimento,17/10/2026,2026-10-17
+1480,4933,nome,Ana   Gomes   Marques,Ana Gomes Marques
+1480,4933,valor_mensalidade,"R$ 145,00",145.00
+1481,4934,nome,  FÁBIO AMARAL  ,Fábio Amaral
+1482,4935,turma,t15,T15
+1482,4935,vencimento,10/10/2026,2026-10-10
+1483,4937,valor_mensalidade,"R$ 150,00",150.00
+1485,4939,modalidade,muay thai,Muay Thai
+1490,4952,modalidade, Jiu-jitsu ,Jiu-jitsu
+1492,4960,faixa_atual,branca,Branca
+1495,4963,vencimento,12/10/2026,2026-10-12
+1496,4964,valor_mensalidade,"R$ 150,00",150.00
+1496,4964,data_pagamento,01/11/2026,2026-11-01
+1498,4970,turma,t13,T13
+1498,4970,vencimento,12/10/2026,2026-10-12
+1500,4982,turma,t01,T01
+1500,4982,valor_mensalidade,"R$ 145,00",145.00
+1503,4992,valor_mensalidade,"R$ 95,00",95.00
+1504,4995,valor_mensalidade,"R$ 110,00",110.00
+1505,4997,nome,  RENATA BORGES RODRIGUES  ,Renata Borges Rodrigues
+1505,4997,modalidade,judo,Judô
+1511,5016,nome,Yasmin   Campos,Yasmin Campos
+1512,5020,nome,  HELOÍSA TEIXEIRA  ,Heloísa Teixeira
+1512,5020,vencimento,28/11/2026,2026-11-28
+1516,5032,modalidade, Muay Thai ,Muay Thai
+1516,5032,valor_mensalidade,"R$ 100,00",100.00
+1519,5051,valor_mensalidade,"R$ 160,00",160.00
+1519,5051,vencimento,12/11/2026,2026-11-12
+1521,5058,valor_mensalidade,"R$ 130,00",130.00
+1524,5068,modalidade, Jiu-jitsu ,Jiu-jitsu
+1524,5068,turma,t01,T01
+1524,5068,valor_mensalidade,"R$ 175,00",175.00
+1526,5078,data_pagamento,01/11/2026,2026-11-01
+1527,5079,modalidade, Muay Thai ,Muay Thai
+1530,5092,faixa_atual,cinza,Cinza
+1530,5092,data_pagamento,20/10/2026,2026-10-20
+1531,5099,nome,  CAIO BATISTA  ,Caio Batista
+1532,5100,modalidade,muay thai,Muay Thai
+1532,5100,valor_mensalidade,"R$ 140,00",140.00
+1533,5101,valor_mensalidade,"R$ 145,00",145.00
+1534,5103,nome,  NATÁLIA XAVIER  ,Natália Xavier
+1534,5103,modalidade, Judô ,Judô
+1534,5103,faixa_atual,cinza,Cinza
+1534,5103,vencimento,17/10/2026,2026-10-17
+1535,5106,modalidade, Muay Thai ,Muay Thai
+1536,5112,faixa_atual,branca,Branca
+1537,5116,nome,  CÉSAR CUNHA BARROS  ,César Cunha Barros
+1537,5116,modalidade, Muay Thai ,Muay Thai
+1541,5126,nome,  RAFAELA RODRIGUES  ,Rafaela Rodrigues
+1543,5130,faixa_atual,laranja,Laranja
+1546,5134,modalidade,muay thai,Muay Thai
+1546,5134,data_pagamento,24/10/2026,2026-10-24
+1547,5136,nome,  CÉSAR CARDOSO  ,César Cardoso
+1548,5140,turma,t08,T08
+1549,5144,modalidade, Muay Thai ,Muay Thai
+1551,5148,modalidade, Jiu-jitsu ,Jiu-jitsu
+1552,5152,turma,t07,T07
+1552,5152,valor_mensalidade,"R$ 180,00",180.00
+1556,5159,faixa_atual,laranja,Laranja
+1557,5165,turma,t11,T11
+1558,5167,data_pagamento,24/10/2026,2026-10-24
+1562,5176,faixa_atual,amarela,Amarela
+1563,5180,turma,t12,T12
+1564,5186,turma,t07,T07
+1567,5192,faixa_atual,cinza,Cinza
+1570,5203,turma,t14,T14
+1570,5203,faixa_atual,roxa,Roxa
+1573,5208,valor_mensalidade,"R$ 130,00",130.00
+1576,5215,nome,  JOÃO MORAES  ,João Moraes
+1576,5215,modalidade, Jiu-jitsu ,Jiu-jitsu
+1577,5216,valor_mensalidade,"R$ 120,00",120.00
+1580,5220,nome,  SAMUEL PINTO MEDEIROS  ,Samuel Pinto Medeiros
+1580,5220,modalidade,judo,Judô
+1581,5221,data_pagamento,17/09/2026,2026-09-17
+1582,5222,turma,t12,T12
+1583,5225,valor_mensalidade,"R$ 140,00",140.00
+1585,5233,turma,t16,T16
+1585,5233,vencimento,20/09/2026,2026-09-20
+1590,5247,nome,  LUCAS BORGES  ,Lucas Borges
+1591,5251,nome,  PAULA OLIVEIRA  ,Paula Oliveira
+1593,5257,nome,  LUCAS FIGUEIREDO  ,Lucas Figueiredo
+1594,5258,nome,  DIEGO MELO  ,Diego Melo
+1596,5265,modalidade, Karatê ,Karatê
+1596,5265,valor_mensalidade,"R$ 150,00",150.00
+1597,5266,nome,Ricardo   Almeida,Ricardo Almeida
+1598,5270,nome,  MARIANA MOREIRA  ,Mariana Moreira
+1599,5276,faixa_atual,cinza,Cinza
+1600,5283,nome,  LEONARDO SOUSA SILVA  ,Leonardo Sousa Silva
+1600,5283,faixa_atual,azul,Azul
+1600,5283,data_pagamento,21/10/2026,2026-10-21
+1601,5290,turma,t14,T14
+1602,5293,vencimento,05/11/2026,2026-11-05
+1603,5297,modalidade,jiu jitsu,Jiu-jitsu
+1604,5299,nome,Wesley   Moraes,Wesley Moraes
+1605,5305,nome,Paula   Barbosa,Paula Barbosa
+1605,5305,faixa_atual,branca,Branca
+1606,5312,modalidade, Jiu-jitsu ,Jiu-jitsu
+1608,5314,nome,  FELIPE DIAS  ,Felipe Dias
+1611,5324,nome,Mariana   Araújo,Mariana Araújo
+1613,5326,nome,Daniela   Andrade,Daniela Andrade
+1614,5327,modalidade,muay thai,Muay Thai
+1618,5332,modalidade,karate,Karatê
+1618,5332,vencimento,07/11/2026,2026-11-07
+1621,5339,nome,  CAMILA NOGUEIRA  ,Camila Nogueira
+1621,5339,valor_mensalidade,"R$ 120,00",120.00
+1622,5340,turma,t09,T09
+1622,5340,valor_mensalidade,"R$ 110,00",110.00
+1622,5340,vencimento,12/11/2026,2026-11-12
+1624,5349,modalidade,judo,Judô
+1626,5354,modalidade,jiu jitsu,Jiu-jitsu
+1628,5362,turma,t17,T17
+1628,5362,valor_mensalidade,"R$ 145,00",145.00
+1629,5364,nome,  RENATA COELHO  ,Renata Coelho
+1629,5364,vencimento,17/10/2026,2026-10-17
+1630,5365,turma,t09,T09
+1630,5365,valor_mensalidade,"R$ 150,00",150.00
+1631,5366,valor_mensalidade,"R$ 150,00",150.00
+1634,5373,valor_mensalidade,"R$ 160,00",160.00
+1636,5380,modalidade, Muay Thai ,Muay Thai
+1637,5386,nome,  ELISA MENDES  ,Elisa Mendes
+1637,5386,turma,t01,T01
+1637,5386,valor_mensalidade,"R$ 145,00",145.00
+1638,5393,nome,  CAMILA MARTINS  ,Camila Martins
+1638,5393,valor_mensalidade,"R$ 160,00",160.00
+1638,5393,vencimento,10/11/2026,2026-11-10
+1639,5395,nome,  RAFAEL RIBEIRO  ,Rafael Ribeiro
+1639,5395,turma,t02,T02
+1640,5397,data_pagamento,03/10/2026,2026-10-03
+1641,5400,vencimento,05/10/2026,2026-10-05
+1643,5403,valor_mensalidade,"R$ 120,00",120.00
+1647,5423,nome,  YASMIN CARDOSO  ,Yasmin Cardoso
+1647,5423,valor_mensalidade,"R$ 125,00",125.00
+1647,5423,data_pagamento,03/10/2026,2026-10-03
+1648,5424,valor_mensalidade,"R$ 120,00",120.00
+1653,5441,nome,  RAFAEL NASCIMENTO  ,Rafael Nascimento
+1653,5441,vencimento,17/11/2026,2026-11-17
