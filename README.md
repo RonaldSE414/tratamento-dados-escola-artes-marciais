@@ -15,14 +15,6 @@ A escola ainda não tem uma base digital. Por isso, usamos **dados fictícios** 
 
 Os quatro últimos arquivos são criados na pasta `resultados` quando o notebook é executado.
 
-## Como executar
-
-1. Abra o [Google Colab](https://colab.research.google.com/).
-2. Em **Arquivo > Fazer upload de notebook**, selecione `Escola_Artes_Marciais_Colab.ipynb`.
-3. Na pasta lateral do Colab, envie `Base_Escola.csv`.
-4. Execute as células na ordem, clicando em ▶.
-5. Confira os arquivos criados na pasta `resultados`.
-
 ## Tratamento realizado
 
 - Remoção de espaços extras e padronização de nomes, modalidades e turmas.
