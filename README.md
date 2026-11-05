@@ -37,3 +37,10 @@ Os quatro últimos arquivos são criados na pasta `resultados` quando o notebook
 | Atrasadas | 387 |
 
 A data de referência do teste é **02/11/2026**. A multa de 2% e a frequência mínima de 75% são valores provisórios, ainda não confirmados com a escola. A frequência serve para apoiar a avaliação de graduação, sem trocar a faixa automaticamente.
+
+## Prompt utilizado para geração da base de dados
+
+A base de dados foi criada com auxílio de inteligência artificial, a partir das seguintes instruções resumidas:
+
+> Gere uma base de dados fictícia em CSV para uma escola de artes marciais, com 1.000 a 2.000 registros. Inclua informações dos alunos, modalidades, turmas, faixas, mensalidades, vencimentos, pagamentos e frequência. Utilize dados variados, com algumas inconsistências, duplicidades e campos vazios para testar a limpeza e o tratamento dos dados com Python e Pandas.
+
