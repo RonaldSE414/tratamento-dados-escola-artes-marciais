@@ -1,0 +1,1485 @@
+﻿id_aluno,nome,modalidade,id_turma,id_plano,faixa_atual
+503,Fernanda Fonseca,Jiu-jitsu,TUR-003,PLA-016,Cinza
+506,Otávio Andrade,Jiu-jitsu,TUR-001,PLA-003,Amarela
+507,André Araújo,Jiu-jitsu,TUR-016,PLA-014,Verde
+508,Samuel Xavier,Muay Thai,TUR-072,PLA-008,Cinza
+513,Elaine Dias,Muay Thai,TUR-055,PLA-003,Amarela
+514,Diego Oliveira,Muay Thai,TUR-055,PLA-007,Verde
+515,Wesley Teixeira,Muay Thai,TUR-069,PLA-008,Laranja
+517,Matheus Figueiredo,Judô,TUR-036,PLA-006,Laranja
+520,Manuela Machado,Muay Thai,TUR-059,PLA-008,Roxa
+526,Larissa Oliveira Lima,Muay Thai,TUR-072,PLA-009,Branca
+530,Gabriel Machado Xavier,Muay Thai,TUR-061,PLA-003,Verde
+536,Leonardo Costa,Muay Thai,TUR-069,PLA-007,Laranja
+540,César Almeida Batista,Jiu-jitsu,TUR-004,PLA-001,Branca
+541,Elisa Silva Monteiro,Muay Thai,TUR-069,PLA-014,Cinza
+543,Rafael Moura,Muay Thai,TUR-055,PLA-010,Branca
+552,Valentina Carvalho Soares,Muay Thai,TUR-062,PLA-011,Azul
+553,Matheus Ramos,Jiu-jitsu,TUR-009,PLA-011,Roxa
+554,Luana Monteiro Soares,Muay Thai,TUR-070,PLA-006,Verde
+556,Diego Moraes,Muay Thai,TUR-069,PLA-005,Laranja
+558,Igor Monteiro,Muay Thai,TUR-057,PLA-013,Laranja
+565,Matheus Teixeira,Karatê,TUR-046,PLA-006,Marrom
+571,Ricardo Araújo,Jiu-jitsu,TUR-009,PLA-009,Branca
+577,Fábio Teixeira,Muay Thai,TUR-060,PLA-003,Branca
+580,Beatriz Andrade Amaral,Judô,TUR-024,PLA-005,Amarela
+587,Felipe Figueiredo Almeida,Judô,TUR-035,PLA-012,Laranja
+590,Fernanda Duarte,Jiu-jitsu,TUR-002,PLA-006,Azul
+592,Larissa Cunha,Judô,TUR-031,PLA-002,Branca
+595,Thiago Almeida Borges,Jiu-jitsu,TUR-001,PLA-006,Cinza
+597,Mariana Teixeira Coelho,Muay Thai,TUR-057,PLA-006,Branca
+603,Wesley Soares,Karatê,TUR-049,PLA-011,Branca
+610,Elisa Moura Reis,Judô,TUR-035,PLA-004,Branca
+614,Felipe Freitas,Jiu-jitsu,TUR-018,PLA-005,Branca
+616,Matheus Moraes,Muay Thai,TUR-058,PLA-006,Branca
+623,Renata Freitas Sousa,Judô,TUR-033,PLA-010,Laranja
+627,Camila Amaral,Karatê,TUR-048,PLA-011,Cinza
+631,Ana Freitas,Jiu-jitsu,TUR-007,PLA-016,Amarela
+633,Vinícius Figueiredo,Jiu-jitsu,TUR-018,PLA-007,Cinza
+638,Samuel Cunha,Judô,TUR-029,PLA-012,Branca
+644,Valentina Araújo Gonçalves,Judô,TUR-022,PLA-008,Amarela
+646,Larissa Amaral Xavier,Jiu-jitsu,TUR-017,PLA-010,Amarela
+652,Elaine Marques,Jiu-jitsu,TUR-017,PLA-009,Cinza
+660,Elisa Fonseca,Karatê,TUR-042,PLA-008,Cinza
+664,Felipe Melo,Jiu-jitsu,TUR-017,PLA-011,Laranja
+666,Camila Martins,Judô,TUR-028,PLA-013,Laranja
+668,Ricardo Moraes,Jiu-jitsu,TUR-012,PLA-008,Roxa
+670,Daniel Gomes Ramos,Karatê,TUR-037,PLA-010,Amarela
+674,Rafaela Barros Xavier,Jiu-jitsu,TUR-013,PLA-011,Branca
+675,Rafaela Marques,Karatê,TUR-049,PLA-008,Amarela
+679,Yasmin Melo,Judô,TUR-036,PLA-004,Laranja
+682,Ricardo Campos Castro,Muay Thai,TUR-056,PLA-010,Branca
+684,Camila Gomes Ramos,Muay Thai,TUR-055,PLA-006,Marrom
+686,Gabriel Andrade,Muay Thai,TUR-068,PLA-009,Cinza
+692,Thiago Nascimento,Karatê,TUR-046,PLA-004,Laranja
+695,Samuel Martins,Muay Thai,TUR-055,PLA-005,Branca
+698,Eduardo Andrade,Muay Thai,TUR-059,PLA-003,Branca
+707,Ricardo Borges Duarte,Jiu-jitsu,TUR-006,PLA-005,Amarela
+714,Elisa Lopes Borges,Karatê,TUR-042,PLA-014,Amarela
+718,Camila Carvalho,Judô,TUR-019,PLA-005,Branca
+725,Beatriz Carvalho,Muay Thai,TUR-060,PLA-013,Verde
+729,Gabriela Carvalho,Jiu-jitsu,TUR-013,PLA-010,Branca
+732,Daniela Amaral,Karatê,TUR-052,PLA-003,Laranja
+733,Thiago Reis,Jiu-jitsu,TUR-009,PLA-005,Cinza
+734,Helena Figueiredo,Judô,TUR-024,PLA-004,Azul
+736,Helena Freitas,Jiu-jitsu,TUR-014,PLA-014,Azul
+737,Felipe Nogueira,Muay Thai,TUR-060,PLA-002,Branca
+740,João Amaral,Jiu-jitsu,TUR-006,PLA-004,Roxa
+744,Samuel Coelho,Muay Thai,TUR-060,PLA-012,Branca
+745,Elisa Ferreira Amaral,Jiu-jitsu,TUR-016,PLA-009,Branca
+746,Marcelo Campos,Jiu-jitsu,TUR-016,PLA-006,Branca
+748,Valentina Machado,Jiu-jitsu,TUR-013,PLA-010,Amarela
+756,Larissa Borges Nogueira,Jiu-jitsu,TUR-002,PLA-007,Amarela
+757,Gabriel Almeida,Jiu-jitsu,TUR-015,PLA-004,Branca
+758,Leonardo Rodrigues,Muay Thai,TUR-068,PLA-008,Branca
+764,Natália Silva,Jiu-jitsu,TUR-006,PLA-009,Roxa
+768,Isabela Ribeiro Pinto,Jiu-jitsu,TUR-008,PLA-010,Azul
+774,Felipe Costa,Judô,TUR-027,PLA-011,Cinza
+775,Elaine Lima Castro,Jiu-jitsu,TUR-008,PLA-012,Amarela
+776,Valentina Reis Moreira,Muay Thai,TUR-061,PLA-003,Cinza
+783,Helena Moreira Ferreira,Judô,TUR-022,PLA-011,Branca
+785,Vitória Gonçalves,Muay Thai,TUR-070,PLA-012,Branca
+788,Gabriel Barros,Jiu-jitsu,TUR-006,PLA-002,Cinza
+795,Renata Cardoso Oliveira,Muay Thai,TUR-070,PLA-004,Azul
+802,Felipe Machado,Judô,TUR-019,PLA-004,Marrom
+808,Yasmin Martins Marques,Judô,TUR-021,PLA-004,Verde
+810,Yasmin Gonçalves Borges,Jiu-jitsu,TUR-008,PLA-011,Cinza
+813,Thiago Almeida,Jiu-jitsu,TUR-016,PLA-002,Roxa
+820,Beatriz Teixeira,Jiu-jitsu,TUR-016,PLA-008,Branca
+826,Samuel Ramos,Jiu-jitsu,TUR-001,PLA-010,Roxa
+829,Pedro Teixeira,Jiu-jitsu,TUR-003,PLA-007,Branca
+830,Igor Gonçalves,Jiu-jitsu,TUR-007,PLA-016,Verde
+833,Vitória Cardoso Silva,Karatê,TUR-052,PLA-003,Branca
+837,Júlia Freitas Ramos,Judô,TUR-036,PLA-006,Amarela
+840,Elaine Moura Moreira,Jiu-jitsu,TUR-010,PLA-014,Branca
+847,Beatriz Andrade Fonseca,Jiu-jitsu,TUR-011,PLA-006,Branca
+853,Daniel Rocha,Muay Thai,TUR-069,PLA-006,Laranja
+854,Júlia Coelho,Muay Thai,TUR-069,PLA-006,Branca
+855,Marcelo Lopes,Judô,TUR-033,PLA-007,Amarela
+857,Marcelo Fonseca,Jiu-jitsu,TUR-001,PLA-010,Branca
+860,Valentina Silva,Karatê,TUR-051,PLA-010,Branca
+864,Caio Barros Fonseca,Jiu-jitsu,TUR-005,PLA-012,Cinza
+865,Elaine Gomes Martins,Muay Thai,TUR-067,PLA-008,Amarela
+866,Leonardo Ribeiro,Karatê,TUR-042,PLA-006,Branca
+870,Ricardo Araújo Sousa,Jiu-jitsu,TUR-016,PLA-010,Verde
+871,Eduardo Batista,Muay Thai,TUR-071,PLA-012,Verde
+872,Rafael Vieira,Jiu-jitsu,TUR-018,PLA-012,Branca
+873,Bruno Machado,Karatê,TUR-044,PLA-013,Verde
+883,Manuela Borges,Muay Thai,TUR-059,PLA-009,Branca
+884,Caio Teixeira Reis,Jiu-jitsu,TUR-002,PLA-012,Amarela
+887,Gustavo Mendes,Muay Thai,TUR-062,PLA-005,Laranja
+889,Natália Melo,Jiu-jitsu,TUR-015,PLA-006,Azul
+890,André Vieira,Muay Thai,TUR-066,PLA-008,Amarela
+893,Mirela Castro Oliveira,Muay Thai,TUR-068,PLA-005,Branca
+900,Otávio Andrade,Jiu-jitsu,TUR-016,PLA-008,Cinza
+901,Otávio Santos,Muay Thai,TUR-059,PLA-008,Marrom
+907,Sofia Xavier Santos,Karatê,TUR-052,PLA-010,Cinza
+913,Eduardo Rocha,Muay Thai,TUR-070,PLA-010,Azul
+914,Gabriela Xavier,Muay Thai,TUR-070,PLA-005,Branca
+920,Luana Amaral,Judô,TUR-026,PLA-011,Laranja
+924,Gabriela Machado,Jiu-jitsu,TUR-011,PLA-011,Branca
+925,Rafael Oliveira Marques,Muay Thai,TUR-056,PLA-004,Azul
+926,Marcelo Nogueira,Muay Thai,TUR-060,PLA-003,Amarela
+927,Fábio Duarte Araújo,Muay Thai,TUR-069,PLA-014,Laranja
+933,Lucas Gonçalves Vieira,Jiu-jitsu,TUR-001,PLA-005,Laranja
+937,Fábio Rodrigues,Jiu-jitsu,TUR-003,PLA-008,Cinza
+939,Mariana Martins,Judô,TUR-024,PLA-006,Cinza
+940,Igor Duarte,Jiu-jitsu,TUR-015,PLA-011,Roxa
+941,Gabriela Silva Lima,Jiu-jitsu,TUR-011,PLA-003,Amarela
+942,Renata Araújo Barros,Muay Thai,TUR-066,PLA-008,Branca
+946,Júlia Nogueira Machado,Jiu-jitsu,TUR-016,PLA-006,Cinza
+950,Bruno Sousa Moreira,Jiu-jitsu,TUR-014,PLA-015,Cinza
+956,Caio Dias,Muay Thai,TUR-065,PLA-009,Amarela
+962,Fernanda Duarte,Jiu-jitsu,TUR-016,PLA-002,Branca
+963,Manuela Rocha,Jiu-jitsu,TUR-009,PLA-005,Branca
+966,Isabela Silva,Muay Thai,TUR-070,PLA-007,Amarela
+972,Caio Castro,Jiu-jitsu,TUR-006,PLA-003,Laranja
+973,Yasmin Freitas,Jiu-jitsu,TUR-012,PLA-010,Roxa
+982,André Mendes,Jiu-jitsu,TUR-011,PLA-006,Branca
+983,Manuela Monteiro,Judô,TUR-031,PLA-004,Cinza
+990,Leonardo Ferreira,Jiu-jitsu,TUR-018,PLA-007,Laranja
+1003,Ricardo Moura,Karatê,TUR-040,PLA-011,Verde
+1006,Gabriel Ferreira,Muay Thai,TUR-056,PLA-006,Amarela
+1008,Lucas Freitas,Jiu-jitsu,TUR-014,PLA-004,Marrom
+1010,Bruno Vieira,Muay Thai,TUR-072,PLA-016,Verde
+1011,Camila Andrade Coelho,Jiu-jitsu,TUR-008,PLA-007,Cinza
+1018,Isabela Oliveira,Jiu-jitsu,TUR-015,PLA-010,Laranja
+1021,Lucas Costa,Jiu-jitsu,TUR-011,PLA-004,Verde
+1022,Mariana Martins,Judô,TUR-021,PLA-003,Amarela
+1031,Felipe Reis,Jiu-jitsu,TUR-006,PLA-004,Azul
+1033,Marcelo Marques,Jiu-jitsu,TUR-002,PLA-010,Branca
+1035,Vitória Almeida,Jiu-jitsu,TUR-013,PLA-005,Branca
+1042,Thiago Melo,Muay Thai,TUR-065,PLA-016,Verde
+1050,Gustavo Oliveira,Judô,TUR-025,PLA-013,Verde
+1057,Daniela Duarte,Jiu-jitsu,TUR-007,PLA-008,Branca
+1064,Helena Araújo,Judô,TUR-035,PLA-006,Branca
+1070,Larissa Moraes Nogueira,Jiu-jitsu,TUR-008,PLA-005,Branca
+1071,Natália Campos,Jiu-jitsu,TUR-003,PLA-004,Amarela
+1076,Mariana Andrade,Jiu-jitsu,TUR-014,PLA-003,Verde
+1083,Leonardo Silva,Muay Thai,TUR-069,PLA-013,Laranja
+1087,Larissa Vieira Melo,Muay Thai,TUR-063,PLA-006,Cinza
+1089,Vitória Castro Campos,Jiu-jitsu,TUR-007,PLA-002,Roxa
+1091,Fernanda Moraes,Jiu-jitsu,TUR-012,PLA-015,Branca
+1093,André Teixeira,Jiu-jitsu,TUR-010,PLA-009,Azul
+1099,Rafael Teixeira Gomes,Karatê,TUR-039,PLA-008,Laranja
+1100,Samuel Figueiredo,Jiu-jitsu,TUR-003,PLA-006,Branca
+1102,Otávio Lima Rodrigues,Judô,TUR-028,PLA-012,Amarela
+1105,Gabriel Freitas,Jiu-jitsu,TUR-012,PLA-003,Laranja
+1111,César Xavier Batista,Jiu-jitsu,TUR-008,PLA-002,Branca
+1114,Larissa Fonseca,Muay Thai,TUR-072,PLA-008,Laranja
+1120,Diego Freitas,Jiu-jitsu,TUR-001,PLA-004,Laranja
+1126,João Amaral,Jiu-jitsu,TUR-005,PLA-011,Amarela
+1129,Renata Campos,Jiu-jitsu,TUR-015,PLA-013,Amarela
+1132,Luana Nogueira,Muay Thai,TUR-065,PLA-006,Cinza
+1133,Gabriel Ramos Nogueira,Jiu-jitsu,TUR-003,PLA-010,Cinza
+1134,Elaine Pinto,Jiu-jitsu,TUR-003,PLA-009,Cinza
+1136,Elaine Vieira,Jiu-jitsu,TUR-016,PLA-001,Branca
+1137,Felipe Barbosa,Jiu-jitsu,TUR-004,PLA-008,Laranja
+1143,Renata Cardoso Rocha,Jiu-jitsu,TUR-009,PLA-010,Amarela
+1149,Leonardo Mendes,Jiu-jitsu,TUR-008,PLA-012,Roxa
+1150,João Marques Soares,Karatê,TUR-042,PLA-015,Cinza
+1152,Daniela Lima Ferreira,Jiu-jitsu,TUR-001,PLA-015,Amarela
+1159,Fábio Almeida,Karatê,TUR-044,PLA-011,Branca
+1163,Elaine Nogueira,Muay Thai,TUR-071,PLA-012,Amarela
+1165,Camila Nogueira,Muay Thai,TUR-068,PLA-013,Amarela
+1169,Marcelo Lopes,Jiu-jitsu,TUR-014,PLA-005,Branca
+1173,Otávio Sousa Costa,Karatê,TUR-045,PLA-006,Laranja
+1174,César Teixeira,Muay Thai,TUR-063,PLA-011,Branca
+1181,Rafaela Freitas Andrade,Muay Thai,TUR-059,PLA-006,Marrom
+1183,Eduardo Duarte,Judô,TUR-027,PLA-006,Cinza
+1189,Igor Moreira,Jiu-jitsu,TUR-016,PLA-007,Amarela
+1193,Vinícius Mendes Reis,Jiu-jitsu,TUR-017,PLA-006,Amarela
+1194,Valentina Barbosa,Muay Thai,TUR-064,PLA-006,Azul
+1197,Fábio Moura Medeiros,Muay Thai,TUR-056,PLA-003,Verde
+1199,João Moraes,Muay Thai,TUR-059,PLA-006,Roxa
+1206,Wesley Fonseca Melo,Muay Thai,TUR-057,PLA-014,Branca
+1210,Diego Silva Campos,Muay Thai,TUR-063,PLA-007,Amarela
+1212,Thiago Moreira,Muay Thai,TUR-062,PLA-012,Branca
+1215,Helena Araújo,Karatê,TUR-043,PLA-002,Amarela
+1220,Júlia Ramos,Jiu-jitsu,TUR-013,PLA-010,Roxa
+1222,Camila Lopes Pinto,Muay Thai,TUR-056,PLA-004,Laranja
+1225,Rafael Moura,Jiu-jitsu,TUR-001,PLA-013,Branca
+1229,Bruno Monteiro,Muay Thai,TUR-067,PLA-003,Branca
+1230,Rafael Barros,Jiu-jitsu,TUR-014,PLA-006,Amarela
+1236,Vitória Nascimento,Jiu-jitsu,TUR-009,PLA-005,Branca
+1239,Pedro Santos,Jiu-jitsu,TUR-007,PLA-011,Cinza
+1252,Gabriela Castro,Jiu-jitsu,TUR-001,PLA-013,Branca
+1255,Valentina Ramos,Jiu-jitsu,TUR-010,PLA-012,Amarela
+1257,Paula Araújo,Jiu-jitsu,TUR-014,PLA-007,Roxa
+1258,Luana Pereira,Jiu-jitsu,TUR-013,PLA-010,Branca
+1260,Paula Fonseca,Jiu-jitsu,TUR-011,PLA-003,Branca
+1267,Lucas Araújo,Judô,TUR-024,PLA-010,Cinza
+1269,Otávio Campos,Jiu-jitsu,TUR-009,PLA-010,Branca
+1270,Samuel Lima,Muay Thai,TUR-063,PLA-011,Amarela
+1279,Matheus Reis,Jiu-jitsu,TUR-015,PLA-004,Azul
+1283,Mariana Duarte,Judô,TUR-036,PLA-009,Branca
+1289,Mariana Castro,Karatê,TUR-043,PLA-004,Verde
+1296,Ana Carvalho,Karatê,TUR-043,PLA-006,Amarela
+1302,Valentina Fonseca Barros,Jiu-jitsu,TUR-018,PLA-003,Cinza
+1303,Mirela Ramos Carvalho,Muay Thai,TUR-062,PLA-006,Cinza
+1309,Mariana Araújo,Jiu-jitsu,TUR-012,PLA-007,Cinza
+1310,Ricardo Reis,Jiu-jitsu,TUR-006,PLA-010,Branca
+1311,Mariana Silva Freitas,Jiu-jitsu,TUR-002,PLA-010,Verde
+1314,Fábio Monteiro,Muay Thai,TUR-057,PLA-013,Cinza
+1321,Valentina Lopes,Judô,TUR-024,PLA-004,Cinza
+1322,Paula Campos Medeiros,Jiu-jitsu,TUR-003,PLA-004,Branca
+1328,Larissa Pereira Borges,Judô,TUR-019,PLA-015,Laranja
+1331,Renata Sousa,Jiu-jitsu,TUR-011,PLA-004,Azul
+1333,Fábio Gomes,Muay Thai,TUR-059,PLA-010,Amarela
+1335,Fernanda Cardoso,Jiu-jitsu,TUR-014,PLA-013,Laranja
+1341,Rafaela Carvalho Batista,Muay Thai,TUR-064,PLA-007,Branca
+1348,Beatriz Teixeira,Judô,TUR-027,PLA-011,Amarela
+1354,Daniela Gomes,Jiu-jitsu,TUR-007,PLA-010,Amarela
+1356,Otávio Reis,Jiu-jitsu,TUR-018,PLA-007,Branca
+1358,Isabela Reis,Jiu-jitsu,TUR-015,PLA-008,Branca
+1359,Beatriz Silva Ramos,Jiu-jitsu,TUR-007,PLA-009,Azul
+1366,Felipe Cardoso,Jiu-jitsu,TUR-002,PLA-004,Marrom
+1374,Elisa Barbosa,Muay Thai,TUR-061,PLA-014,Branca
+1378,Fábio Campos,Karatê,TUR-054,PLA-008,Branca
+1379,Caio Mendes,Jiu-jitsu,TUR-017,PLA-012,Amarela
+1380,Vitória Melo Costa,Judô,TUR-023,PLA-007,Cinza
+1382,Rafael Medeiros,Muay Thai,TUR-057,PLA-003,Verde
+1384,Luana Mendes,Jiu-jitsu,TUR-011,PLA-006,Amarela
+1388,Paula Andrade,Jiu-jitsu,TUR-002,PLA-011,Branca
+1389,Gabriel Campos,Karatê,TUR-052,PLA-006,Amarela
+1391,Larissa Cardoso Dias,Judô,TUR-034,PLA-005,Marrom
+1393,Gabriel Rocha Dias,Jiu-jitsu,TUR-015,PLA-002,Amarela
+1400,Yasmin Ribeiro,Muay Thai,TUR-072,PLA-005,Branca
+1401,Mirela Lopes Gomes,Jiu-jitsu,TUR-006,PLA-004,Laranja
+1404,Matheus Gonçalves,Jiu-jitsu,TUR-005,PLA-016,Verde
+1412,Rafael Rodrigues Santos,Jiu-jitsu,TUR-001,PLA-008,Azul
+1413,Renata Nascimento Ferreira,Jiu-jitsu,TUR-005,PLA-014,Amarela
+1415,Gabriela Freitas,Jiu-jitsu,TUR-007,PLA-003,Amarela
+1418,Caio Rocha Lima,Muay Thai,TUR-060,PLA-006,Roxa
+1424,Gustavo Martins,Muay Thai,TUR-068,PLA-001,Laranja
+1425,Renata Araújo,Jiu-jitsu,TUR-008,PLA-002,Azul
+1427,Paula Soares,Jiu-jitsu,TUR-011,PLA-003,Azul
+1431,Daniela Vieira,Muay Thai,TUR-066,PLA-009,Branca
+1432,Mirela Batista Gomes,Jiu-jitsu,TUR-006,PLA-013,Roxa
+1434,Camila Barbosa,Muay Thai,TUR-070,PLA-011,Azul
+1435,Camila Oliveira Cardoso,Judô,TUR-022,PLA-008,Amarela
+1438,Camila Dias Moreira,Muay Thai,TUR-072,PLA-007,Branca
+1442,Heloísa Nogueira,Jiu-jitsu,TUR-009,PLA-003,Branca
+1448,Fábio Ramos,Judô,TUR-025,PLA-010,Amarela
+1449,Larissa Moreira,Muay Thai,TUR-069,PLA-009,Azul
+1456,Pedro Nascimento Ferreira,Muay Thai,TUR-060,PLA-004,Verde
+1462,Diego Coelho,Jiu-jitsu,TUR-017,PLA-006,Amarela
+1463,Beatriz Santos,Jiu-jitsu,TUR-002,PLA-003,Branca
+1467,Luana Moura,Muay Thai,TUR-061,PLA-003,Azul
+1471,Vitória Moura,Muay Thai,TUR-066,PLA-004,Azul
+1475,Caio Soares,Karatê,TUR-046,PLA-013,Branca
+1476,Samuel Nascimento,Muay Thai,TUR-064,PLA-004,Amarela
+1485,Marcelo Oliveira,Jiu-jitsu,TUR-005,PLA-006,Amarela
+1487,Thiago Barbosa,Jiu-jitsu,TUR-011,PLA-007,Cinza
+1490,Marcelo Monteiro Melo,Jiu-jitsu,TUR-013,PLA-004,Azul
+1498,Rafael Santos,Jiu-jitsu,TUR-013,PLA-004,Laranja
+1499,Eduardo Santos,Jiu-jitsu,TUR-002,PLA-007,Branca
+1501,Elisa Xavier,Jiu-jitsu,TUR-006,PLA-003,Amarela
+1503,Mirela Rocha,Judô,TUR-026,PLA-007,Branca
+1505,Júlia Rocha,Karatê,TUR-052,PLA-009,Amarela
+1507,Lucas Lima,Judô,TUR-030,PLA-010,Laranja
+1508,João Marques Xavier,Jiu-jitsu,TUR-002,PLA-008,Laranja
+1509,Mariana Fonseca,Jiu-jitsu,TUR-013,PLA-008,Amarela
+1510,João Rocha,Judô,TUR-024,PLA-004,Branca
+1511,Bruno Sousa,Jiu-jitsu,TUR-003,PLA-006,Branca
+1521,Ana Ribeiro Monteiro,Judô,TUR-026,PLA-010,Branca
+1523,Leonardo Figueiredo Vieira,Karatê,TUR-054,PLA-006,Laranja
+1525,Vitória Machado,Judô,TUR-025,PLA-016,Branca
+1526,Eduardo Oliveira,Jiu-jitsu,TUR-013,PLA-005,Branca
+1537,Caio Gomes,Jiu-jitsu,TUR-005,PLA-016,Verde
+1541,Beatriz Araújo,Karatê,TUR-051,PLA-008,Branca
+1543,Fernanda Machado,Muay Thai,TUR-060,PLA-003,Laranja
+1549,Diego Figueiredo,Jiu-jitsu,TUR-010,PLA-013,Branca
+1550,Paula Rocha,Muay Thai,TUR-072,PLA-012,Branca
+1551,Natália Costa,Muay Thai,TUR-060,PLA-013,Cinza
+1555,Júlia Silva,Muay Thai,TUR-067,PLA-003,Amarela
+1556,Bruno Lima Andrade,Muay Thai,TUR-064,PLA-006,Amarela
+1558,Matheus Moraes,Jiu-jitsu,TUR-009,PLA-004,Branca
+1561,Diego Campos,Muay Thai,TUR-060,PLA-006,Laranja
+1568,Sofia Oliveira,Jiu-jitsu,TUR-018,PLA-012,Verde
+1570,João Lopes Ferreira,Judô,TUR-023,PLA-010,Laranja
+1576,Paula Barbosa Monteiro,Jiu-jitsu,TUR-007,PLA-013,Roxa
+1582,Eduardo Oliveira Teixeira,Jiu-jitsu,TUR-006,PLA-012,Marrom
+1584,Caio Carvalho,Muay Thai,TUR-066,PLA-002,Branca
+1585,Larissa Machado,Muay Thai,TUR-055,PLA-008,Verde
+1586,Pedro Soares,Muay Thai,TUR-058,PLA-005,Amarela
+1587,Gabriel Santos,Muay Thai,TUR-066,PLA-002,Amarela
+1595,Rafael Carvalho,Jiu-jitsu,TUR-013,PLA-012,Verde
+1596,Felipe Duarte Medeiros,Karatê,TUR-048,PLA-002,Amarela
+1600,Fábio Vieira,Judô,TUR-021,PLA-008,Branca
+1603,Ana Moraes,Jiu-jitsu,TUR-008,PLA-006,Verde
+1604,Rafaela Ramos,Judô,TUR-031,PLA-006,Branca
+1605,Matheus Moura,Jiu-jitsu,TUR-005,PLA-006,Azul
+1606,Diego Melo,Jiu-jitsu,TUR-001,PLA-006,Laranja
+1613,Renata Santos,Jiu-jitsu,TUR-009,PLA-010,Roxa
+1617,Gabriel Dias Lopes,Jiu-jitsu,TUR-002,PLA-008,Branca
+1623,João Moraes,Muay Thai,TUR-072,PLA-010,Branca
+1630,Otávio Dias,Jiu-jitsu,TUR-005,PLA-009,Amarela
+1632,Leonardo Duarte,Jiu-jitsu,TUR-007,PLA-010,Verde
+1639,Daniel Lopes Figueiredo,Jiu-jitsu,TUR-001,PLA-007,Laranja
+1641,Daniela Barbosa,Jiu-jitsu,TUR-011,PLA-012,Cinza
+1642,Samuel Martins,Karatê,TUR-037,PLA-008,Cinza
+1643,Elisa Ribeiro Reis,Muay Thai,TUR-062,PLA-007,Azul
+1645,Mirela Reis,Judô,TUR-034,PLA-009,Amarela
+1652,Gabriela Borges Borges,Karatê,TUR-046,PLA-003,Amarela
+1653,Valentina Teixeira Moreira,Judô,TUR-027,PLA-004,Branca
+1654,Ana Sousa Ramos,Jiu-jitsu,TUR-014,PLA-006,Cinza
+1655,Sofia Oliveira,Jiu-jitsu,TUR-001,PLA-006,Branca
+1657,Vinícius Carvalho,Jiu-jitsu,TUR-007,PLA-008,Branca
+1661,Paula Silva Cunha,Jiu-jitsu,TUR-005,PLA-006,Amarela
+1662,Rafaela Lopes,Muay Thai,TUR-070,PLA-010,Amarela
+1668,Pedro Duarte,Jiu-jitsu,TUR-010,PLA-015,Branca
+1670,Sofia Amaral,Muay Thai,TUR-067,PLA-006,Verde
+1677,Helena Coelho,Muay Thai,TUR-064,PLA-004,Branca
+1679,Daniel Ferreira Gonçalves,Muay Thai,TUR-055,PLA-008,Amarela
+1682,Valentina Figueiredo,Jiu-jitsu,TUR-013,PLA-004,Branca
+1686,Pedro Duarte Figueiredo,Jiu-jitsu,TUR-003,PLA-014,Laranja
+1689,Gustavo Moraes,Judô,TUR-019,PLA-006,Amarela
+1691,Sofia Nogueira,Jiu-jitsu,TUR-016,PLA-008,Amarela
+1693,Manuela Carvalho Vieira,Karatê,TUR-047,PLA-006,Cinza
+1699,Vitória Teixeira,Judô,TUR-021,PLA-001,Cinza
+1701,Diego Amaral,Muay Thai,TUR-058,PLA-006,Azul
+1702,Natália Borges Xavier,Jiu-jitsu,TUR-012,PLA-003,Amarela
+1709,Otávio Coelho,Muay Thai,TUR-072,PLA-008,Laranja
+1711,Ricardo Cardoso,Muay Thai,TUR-070,PLA-006,Branca
+1712,Fernanda Melo,Muay Thai,TUR-062,PLA-011,Verde
+1713,Samuel Mendes,Judô,TUR-027,PLA-016,Cinza
+1715,Natália Marques,Jiu-jitsu,TUR-015,PLA-011,Roxa
+1724,Pedro Lima,Karatê,TUR-045,PLA-014,Laranja
+1725,Gabriela Nogueira,Jiu-jitsu,TUR-013,PLA-005,Verde
+1726,Elaine Moreira,Jiu-jitsu,TUR-001,PLA-006,Amarela
+1727,Renata Teixeira,Judô,TUR-032,PLA-005,Branca
+1735,Rafaela Batista Reis,Muay Thai,TUR-062,PLA-008,Branca
+1739,Mariana Silva,Judô,TUR-025,PLA-006,Branca
+1740,Ricardo Dias,Jiu-jitsu,TUR-010,PLA-002,Cinza
+1742,Manuela Moreira,Jiu-jitsu,TUR-011,PLA-010,Branca
+1744,Manuela Ribeiro Martins,Karatê,TUR-040,PLA-006,Verde
+1750,Beatriz Teixeira Reis,Jiu-jitsu,TUR-018,PLA-013,Branca
+1751,Ricardo Dias Figueiredo,Judô,TUR-024,PLA-006,Branca
+1755,Paula Amaral,Muay Thai,TUR-059,PLA-001,Azul
+1756,Bruno Lopes,Muay Thai,TUR-069,PLA-010,Branca
+1757,Gabriela Moraes,Judô,TUR-032,PLA-004,Cinza
+1758,Gabriela Monteiro,Judô,TUR-031,PLA-003,Amarela
+1760,Paula Almeida,Judô,TUR-021,PLA-015,Amarela
+1761,Rafaela Ramos,Judô,TUR-022,PLA-007,Marrom
+1762,Felipe Melo,Jiu-jitsu,TUR-014,PLA-013,Azul
+1766,Matheus Gomes,Jiu-jitsu,TUR-018,PLA-006,Branca
+1770,Rafael Vieira,Muay Thai,TUR-066,PLA-006,Branca
+1771,Bruno Ferreira Sousa,Jiu-jitsu,TUR-011,PLA-010,Branca
+1774,César Campos,Muay Thai,TUR-068,PLA-009,Branca
+1778,Paula Gomes Teixeira,Karatê,TUR-039,PLA-009,Roxa
+1780,Caio Silva Martins,Jiu-jitsu,TUR-005,PLA-014,Cinza
+1781,Paula Lopes,Jiu-jitsu,TUR-008,PLA-007,Laranja
+1784,Ricardo Dias,Jiu-jitsu,TUR-002,PLA-004,Amarela
+1787,Rafael Batista Xavier,Muay Thai,TUR-060,PLA-005,Branca
+1788,Leonardo Mendes,Judô,TUR-032,PLA-011,Azul
+1790,Daniel Andrade Melo,Jiu-jitsu,TUR-005,PLA-011,Laranja
+1791,Larissa Campos,Jiu-jitsu,TUR-018,PLA-005,Azul
+1794,Fernanda Coelho,Jiu-jitsu,TUR-017,PLA-007,Branca
+1796,Eduardo Campos,Muay Thai,TUR-059,PLA-007,Azul
+1804,Vitória Vieira,Jiu-jitsu,TUR-016,PLA-004,Marrom
+1811,Vinícius Figueiredo,Jiu-jitsu,TUR-012,PLA-009,Verde
+1812,Daniela Amaral,Judô,TUR-031,PLA-008,Cinza
+1815,Vitória Sousa,Judô,TUR-020,PLA-006,Azul
+1817,Caio Freitas,Jiu-jitsu,TUR-008,PLA-007,Branca
+1820,Helena Campos Reis,Jiu-jitsu,TUR-016,PLA-006,Amarela
+1821,Igor Costa,Jiu-jitsu,TUR-002,PLA-007,Branca
+1828,Renata Nogueira,Jiu-jitsu,TUR-007,PLA-012,Amarela
+1831,Natália Gonçalves,Jiu-jitsu,TUR-011,PLA-003,Roxa
+1833,Paula Soares,Muay Thai,TUR-070,PLA-004,Marrom
+1837,Elaine Reis,Jiu-jitsu,TUR-005,PLA-010,Branca
+1838,Samuel Rocha,Muay Thai,TUR-068,PLA-006,Branca
+1845,Pedro Moura Lopes,Jiu-jitsu,TUR-001,PLA-012,Laranja
+1846,Gustavo Oliveira,Judô,TUR-024,PLA-005,Laranja
+1847,Marcelo Sousa,Jiu-jitsu,TUR-017,PLA-010,Verde
+1854,Fernanda Santos,Muay Thai,TUR-069,PLA-006,Verde
+1858,Gustavo Amaral,Karatê,TUR-039,PLA-004,Roxa
+1862,Mariana Batista,Muay Thai,TUR-057,PLA-011,Branca
+1864,Manuela Cunha,Judô,TUR-030,PLA-003,Branca
+1865,Vitória Gonçalves Fonseca,Jiu-jitsu,TUR-018,PLA-008,Amarela
+1871,Ana Cardoso,Judô,TUR-032,PLA-002,Branca
+1873,Daniela Santos,Judô,TUR-027,PLA-006,Verde
+1875,Lucas Moura,Jiu-jitsu,TUR-017,PLA-008,Verde
+1876,Pedro Vieira Lima,Jiu-jitsu,TUR-009,PLA-006,Cinza
+1877,Júlia Costa,Muay Thai,TUR-058,PLA-010,Branca
+1879,Samuel Lopes,Muay Thai,TUR-056,PLA-015,Verde
+1880,Wesley Castro,Jiu-jitsu,TUR-015,PLA-003,Branca
+1882,Matheus Gomes,Judô,TUR-022,PLA-006,Azul
+1883,Samuel Mendes Silva,Karatê,TUR-042,PLA-003,Branca
+1887,Ana Rodrigues,Muay Thai,TUR-067,PLA-006,Branca
+1888,Bruno Pereira,Jiu-jitsu,TUR-012,PLA-003,Azul
+1897,Caio Ferreira Santos,Jiu-jitsu,TUR-003,PLA-008,Cinza
+1898,Mariana Barbosa,Muay Thai,TUR-061,PLA-004,Azul
+1899,Ricardo Machado,Judô,TUR-034,PLA-004,Branca
+1902,Daniela Gomes,Muay Thai,TUR-064,PLA-008,Cinza
+1903,Lucas Carvalho,Jiu-jitsu,TUR-016,PLA-006,Cinza
+1910,Helena Moura,Jiu-jitsu,TUR-014,PLA-004,Branca
+1914,Elaine Gomes Coelho,Jiu-jitsu,TUR-014,PLA-009,Marrom
+1921,João Almeida Marques,Jiu-jitsu,TUR-016,PLA-013,Azul
+1922,Renata Melo Carvalho,Muay Thai,TUR-065,PLA-006,Amarela
+1929,Ricardo Vieira Gonçalves,Muay Thai,TUR-071,PLA-010,Branca
+1930,João Melo,Jiu-jitsu,TUR-001,PLA-012,Amarela
+1931,Larissa Cardoso,Jiu-jitsu,TUR-001,PLA-010,Verde
+1942,Eduardo Soares Vieira,Muay Thai,TUR-061,PLA-006,Verde
+1946,Mirela Gonçalves,Jiu-jitsu,TUR-003,PLA-004,Azul
+1950,Otávio Lopes Andrade,Jiu-jitsu,TUR-013,PLA-004,Verde
+1951,Vinícius Nogueira,Muay Thai,TUR-059,PLA-004,Verde
+1953,Thiago Moreira,Jiu-jitsu,TUR-009,PLA-006,Verde
+1959,Ana Costa,Judô,TUR-034,PLA-004,Branca
+1963,Elisa Amaral,Judô,TUR-035,PLA-013,Laranja
+1970,Matheus Duarte,Judô,TUR-028,PLA-006,Azul
+1976,Thiago Barbosa,Jiu-jitsu,TUR-003,PLA-007,Cinza
+1977,César Coelho,Jiu-jitsu,TUR-018,PLA-010,Amarela
+1984,Ana Almeida,Karatê,TUR-041,PLA-007,Azul
+1985,Manuela Marques,Jiu-jitsu,TUR-004,PLA-005,Cinza
+1987,Pedro Martins,Jiu-jitsu,TUR-002,PLA-010,Verde
+1988,Isabela Ramos,Jiu-jitsu,TUR-007,PLA-010,Branca
+2001,Rafaela Pinto Marques,Judô,TUR-035,PLA-010,Branca
+2008,Isabela Rodrigues,Jiu-jitsu,TUR-016,PLA-006,Branca
+2011,Heloísa Barbosa Coelho,Jiu-jitsu,TUR-004,PLA-011,Branca
+2017,Otávio Reis,Jiu-jitsu,TUR-016,PLA-008,Branca
+2018,Bruno Nascimento,Judô,TUR-032,PLA-004,Laranja
+2019,Caio Melo,Muay Thai,TUR-056,PLA-002,Laranja
+2023,Camila Freitas,Jiu-jitsu,TUR-014,PLA-003,Laranja
+2027,André Moraes,Jiu-jitsu,TUR-001,PLA-007,Verde
+2029,César Moraes,Jiu-jitsu,TUR-006,PLA-010,Azul
+2030,Matheus Santos,Jiu-jitsu,TUR-013,PLA-015,Verde
+2032,André Pereira,Muay Thai,TUR-065,PLA-005,Branca
+2038,Lucas Melo,Jiu-jitsu,TUR-014,PLA-004,Amarela
+2047,Daniela Lima,Jiu-jitsu,TUR-016,PLA-010,Branca
+2049,Valentina Ferreira Moura,Judô,TUR-032,PLA-013,Verde
+2056,Samuel Borges,Muay Thai,TUR-058,PLA-014,Roxa
+2059,Diego Ferreira Sousa,Muay Thai,TUR-071,PLA-004,Amarela
+2060,Heloísa Andrade,Jiu-jitsu,TUR-016,PLA-006,Laranja
+2066,Larissa Sousa,Jiu-jitsu,TUR-017,PLA-003,Azul
+2068,Diego Gomes,Jiu-jitsu,TUR-016,PLA-006,Azul
+2074,Eduardo Mendes Lima,Muay Thai,TUR-055,PLA-006,Branca
+2078,Fernanda Dias,Judô,TUR-022,PLA-009,Laranja
+2084,Heloísa Silva,Jiu-jitsu,TUR-011,PLA-005,Amarela
+2086,Igor Fonseca,Muay Thai,TUR-071,PLA-011,Roxa
+2092,Sofia Cardoso,Muay Thai,TUR-056,PLA-006,Verde
+2096,Helena Andrade,Judô,TUR-019,PLA-009,Branca
+2097,Manuela Ramos,Jiu-jitsu,TUR-018,PLA-006,Amarela
+2103,Larissa Marques,Muay Thai,TUR-055,PLA-006,Amarela
+2104,Gabriela Castro Borges,Muay Thai,TUR-069,PLA-006,Azul
+2109,Yasmin Vieira,Jiu-jitsu,TUR-016,PLA-006,Cinza
+2111,Valentina Nascimento,Jiu-jitsu,TUR-009,PLA-013,Verde
+2112,Igor Lopes,Muay Thai,TUR-060,PLA-014,Branca
+2113,Natália Costa,Muay Thai,TUR-056,PLA-009,Amarela
+2117,João Cardoso,Judô,TUR-027,PLA-005,Cinza
+2120,Pedro Nogueira,Muay Thai,TUR-067,PLA-006,Laranja
+2121,Fernanda Medeiros,Jiu-jitsu,TUR-012,PLA-008,Amarela
+2125,Júlia Pinto,Judô,TUR-023,PLA-005,Roxa
+2126,Camila Marques,Judô,TUR-026,PLA-006,Amarela
+2130,Lucas Mendes,Jiu-jitsu,TUR-003,PLA-012,Branca
+2132,Isabela Marques Gomes,Judô,TUR-031,PLA-007,Amarela
+2139,Daniel Vieira Duarte,Muay Thai,TUR-069,PLA-003,Amarela
+2143,Elaine Pereira Coelho,Karatê,TUR-047,PLA-010,Roxa
+2145,Leonardo Reis,Judô,TUR-028,PLA-010,Laranja
+2153,Otávio Amaral,Judô,TUR-030,PLA-012,Verde
+2155,Fernanda Figueiredo,Jiu-jitsu,TUR-015,PLA-016,Laranja
+2157,Ana Batista,Muay Thai,TUR-061,PLA-012,Branca
+2158,Isabela Martins Sousa,Jiu-jitsu,TUR-009,PLA-011,Azul
+2165,Igor Ramos,Judô,TUR-021,PLA-007,Cinza
+2166,Camila Reis,Jiu-jitsu,TUR-014,PLA-015,Branca
+2167,Gustavo Batista,Jiu-jitsu,TUR-007,PLA-015,Branca
+2169,Gabriel Melo Pinto,Muay Thai,TUR-069,PLA-014,Roxa
+2175,Yasmin Fonseca Figueiredo,Judô,TUR-024,PLA-005,Amarela
+2176,Elisa Soares,Jiu-jitsu,TUR-004,PLA-009,Branca
+2177,Manuela Almeida,Muay Thai,TUR-061,PLA-006,Laranja
+2181,Luana Cunha,Judô,TUR-031,PLA-011,Laranja
+2188,Helena Cardoso Machado,Muay Thai,TUR-069,PLA-013,Laranja
+2191,Yasmin Moraes,Jiu-jitsu,TUR-006,PLA-011,Cinza
+2192,Manuela Nascimento Rodrigues,Muay Thai,TUR-063,PLA-004,Cinza
+2193,Eduardo Campos,Jiu-jitsu,TUR-013,PLA-008,Roxa
+2194,Paula Soares,Jiu-jitsu,TUR-015,PLA-013,Verde
+2196,César Amaral Campos,Judô,TUR-028,PLA-011,Marrom
+2198,João Dias Moura,Jiu-jitsu,TUR-016,PLA-006,Verde
+2205,Igor Machado,Muay Thai,TUR-061,PLA-008,Cinza
+2209,Igor Ribeiro,Jiu-jitsu,TUR-018,PLA-009,Cinza
+2216,Mirela Sousa,Jiu-jitsu,TUR-003,PLA-003,Branca
+2219,Caio Carvalho,Muay Thai,TUR-055,PLA-010,Branca
+2225,Helena Silva,Karatê,TUR-038,PLA-011,Verde
+2227,Felipe Almeida,Karatê,TUR-047,PLA-006,Laranja
+2228,Gustavo Gonçalves,Jiu-jitsu,TUR-015,PLA-006,Branca
+2229,Elaine Cardoso,Muay Thai,TUR-068,PLA-009,Laranja
+2231,Igor Almeida Freitas,Karatê,TUR-038,PLA-010,Azul
+2232,Leonardo Gonçalves Soares,Muay Thai,TUR-059,PLA-005,Amarela
+2235,Yasmin Borges,Muay Thai,TUR-058,PLA-012,Laranja
+2236,André Ramos Barbosa,Judô,TUR-028,PLA-008,Marrom
+2237,Daniel Carvalho Borges,Karatê,TUR-049,PLA-003,Amarela
+2240,Bruno Melo,Karatê,TUR-047,PLA-009,Cinza
+2247,Ana Lopes Barros,Jiu-jitsu,TUR-007,PLA-012,Azul
+2248,Camila Dias,Judô,TUR-035,PLA-007,Branca
+2251,Caio Fonseca,Jiu-jitsu,TUR-016,PLA-008,Azul
+2258,Yasmin Vieira,Jiu-jitsu,TUR-015,PLA-012,Marrom
+2260,Yasmin Lima Marques,Karatê,TUR-050,PLA-008,Verde
+2262,Heloísa Pereira,Muay Thai,TUR-063,PLA-013,Cinza
+2264,Thiago Soares Monteiro,Muay Thai,TUR-062,PLA-008,Branca
+2268,Wesley Ferreira,Jiu-jitsu,TUR-010,PLA-014,Amarela
+2271,Renata Amaral,Judô,TUR-024,PLA-003,Branca
+2278,André Batista,Muay Thai,TUR-067,PLA-010,Branca
+2282,Manuela Barros,Jiu-jitsu,TUR-010,PLA-009,Branca
+2283,Renata Gomes Marques,Jiu-jitsu,TUR-016,PLA-008,Branca
+2290,Bruno Ramos,Jiu-jitsu,TUR-003,PLA-008,Amarela
+2293,Heloísa Rocha,Muay Thai,TUR-060,PLA-012,Cinza
+2297,Ricardo Castro Pinto,Muay Thai,TUR-067,PLA-003,Azul
+2303,Daniela Duarte,Muay Thai,TUR-068,PLA-005,Amarela
+2305,Beatriz Soares,Karatê,TUR-043,PLA-006,Amarela
+2308,Sofia Lopes Barros,Jiu-jitsu,TUR-002,PLA-001,Verde
+2310,Helena Gonçalves,Muay Thai,TUR-071,PLA-004,Marrom
+2311,Manuela Rodrigues,Karatê,TUR-049,PLA-011,Laranja
+2312,Vitória Batista,Muay Thai,TUR-057,PLA-006,Branca
+2313,Valentina Cardoso,Muay Thai,TUR-070,PLA-003,Verde
+2320,Matheus Soares,Muay Thai,TUR-066,PLA-006,Amarela
+2323,Wesley Campos,Jiu-jitsu,TUR-013,PLA-008,Branca
+2325,Renata Lima Gonçalves,Judô,TUR-031,PLA-006,Branca
+2326,Matheus Batista,Muay Thai,TUR-067,PLA-011,Branca
+2329,Marcelo Amaral,Muay Thai,TUR-063,PLA-006,Amarela
+2333,Júlia Pinto Cunha,Jiu-jitsu,TUR-007,PLA-014,Azul
+2340,Eduardo Cunha,Judô,TUR-032,PLA-015,Laranja
+2344,Wesley Carvalho Soares,Muay Thai,TUR-067,PLA-009,Cinza
+2348,Sofia Figueiredo,Jiu-jitsu,TUR-001,PLA-005,Branca
+2352,Yasmin Sousa,Jiu-jitsu,TUR-013,PLA-008,Branca
+2354,Júlia Melo,Karatê,TUR-051,PLA-001,Cinza
+2361,Yasmin Castro,Judô,TUR-025,PLA-003,Branca
+2365,Diego Gomes,Judô,TUR-033,PLA-011,Branca
+2367,Paula Monteiro,Judô,TUR-030,PLA-005,Amarela
+2370,Samuel Castro,Muay Thai,TUR-063,PLA-010,Verde
+2376,Leonardo Castro,Muay Thai,TUR-063,PLA-002,Laranja
+2383,André Monteiro,Muay Thai,TUR-064,PLA-006,Branca
+2384,Wesley Carvalho,Jiu-jitsu,TUR-004,PLA-006,Marrom
+2386,Camila Marques Amaral,Jiu-jitsu,TUR-004,PLA-010,Roxa
+2387,Larissa Fonseca,Muay Thai,TUR-071,PLA-003,Amarela
+2389,Paula Dias,Judô,TUR-026,PLA-006,Laranja
+2392,Diego Amaral,Muay Thai,TUR-055,PLA-010,Cinza
+2404,Beatriz Silva,Jiu-jitsu,TUR-010,PLA-004,Branca
+2408,Sofia Melo,Muay Thai,TUR-064,PLA-011,Laranja
+2412,Pedro Barbosa,Jiu-jitsu,TUR-014,PLA-011,Cinza
+2416,Pedro Castro Gonçalves,Jiu-jitsu,TUR-015,PLA-011,Branca
+2417,Manuela Moura,Muay Thai,TUR-057,PLA-002,Laranja
+2423,Caio Nogueira,Muay Thai,TUR-072,PLA-011,Verde
+2424,César Melo Santos,Jiu-jitsu,TUR-003,PLA-012,Cinza
+2425,Thiago Borges,Jiu-jitsu,TUR-013,PLA-012,Roxa
+2427,Igor Teixeira,Judô,TUR-021,PLA-014,Cinza
+2429,Leonardo Castro,Muay Thai,TUR-067,PLA-004,Branca
+2435,Camila Moura Teixeira,Muay Thai,TUR-063,PLA-008,Marrom
+2436,Manuela Nogueira,Muay Thai,TUR-064,PLA-006,Azul
+2439,Thiago Barbosa,Jiu-jitsu,TUR-011,PLA-004,Amarela
+2440,André Pereira Xavier,Judô,TUR-035,PLA-011,Verde
+2442,Wesley Rocha,Judô,TUR-022,PLA-012,Amarela
+2444,Daniel Andrade,Muay Thai,TUR-062,PLA-006,Verde
+2447,Samuel Ribeiro Machado,Jiu-jitsu,TUR-014,PLA-006,Verde
+2454,Daniel Lopes,Muay Thai,TUR-065,PLA-010,Branca
+2460,Felipe Lopes,Jiu-jitsu,TUR-002,PLA-012,Cinza
+2463,Júlia Dias Nogueira,Muay Thai,TUR-056,PLA-006,Cinza
+2469,Rafaela Ferreira,Jiu-jitsu,TUR-001,PLA-009,Branca
+2473,Elaine Pinto,Muay Thai,TUR-072,PLA-004,Verde
+2474,Wesley Sousa,Judô,TUR-023,PLA-011,Azul
+2475,Yasmin Marques Gomes,Muay Thai,TUR-062,PLA-006,Azul
+2477,Fábio Dias,Jiu-jitsu,TUR-005,PLA-010,Marrom
+2478,Thiago Barbosa Barbosa,Jiu-jitsu,TUR-018,PLA-013,Branca
+2480,Wesley Machado,Jiu-jitsu,TUR-010,PLA-006,Branca
+2483,Camila Ramos Cardoso,Jiu-jitsu,TUR-006,PLA-013,Branca
+2490,Samuel Figueiredo,Jiu-jitsu,TUR-005,PLA-006,Verde
+2491,Luana Pinto Andrade,Muay Thai,TUR-067,PLA-011,Cinza
+2498,Lucas Batista,Muay Thai,TUR-065,PLA-005,Branca
+2505,Luana Figueiredo,Muay Thai,TUR-067,PLA-004,Verde
+2509,Helena Castro,Karatê,TUR-037,PLA-010,Branca
+2513,Matheus Moraes,Jiu-jitsu,TUR-007,PLA-006,Branca
+2514,Isabela Mendes,Muay Thai,TUR-056,PLA-005,Amarela
+2521,Marcelo Monteiro,Jiu-jitsu,TUR-014,PLA-006,Verde
+2525,Fernanda Moreira,Jiu-jitsu,TUR-013,PLA-001,Amarela
+2531,Diego Rocha,Jiu-jitsu,TUR-013,PLA-003,Branca
+2532,Daniel Batista,Judô,TUR-027,PLA-010,Branca
+2533,Marcelo Barbosa,Jiu-jitsu,TUR-011,PLA-008,Roxa
+2534,Samuel Silva Marques,Jiu-jitsu,TUR-009,PLA-010,Branca
+2541,Vitória Pereira Campos,Muay Thai,TUR-057,PLA-009,Amarela
+2542,Elaine Barbosa,Jiu-jitsu,TUR-009,PLA-006,Cinza
+2550,João Pinto,Judô,TUR-024,PLA-013,Branca
+2558,Valentina Lopes,Muay Thai,TUR-055,PLA-010,Amarela
+2559,Samuel Castro,Jiu-jitsu,TUR-001,PLA-011,Branca
+2560,Luana Silva,Judô,TUR-023,PLA-004,Branca
+2567,Mariana Reis Cunha,Judô,TUR-025,PLA-003,Roxa
+2569,Daniel Costa Costa,Judô,TUR-019,PLA-010,Amarela
+2578,Elaine Castro,Jiu-jitsu,TUR-009,PLA-006,Laranja
+2583,Felipe Pinto,Judô,TUR-033,PLA-015,Verde
+2585,Caio Costa,Judô,TUR-022,PLA-001,Laranja
+2588,Ana Monteiro Costa,Muay Thai,TUR-067,PLA-008,Marrom
+2594,Thiago Melo,Muay Thai,TUR-056,PLA-005,Laranja
+2600,Mirela Lopes,Muay Thai,TUR-061,PLA-005,Amarela
+2608,Fernanda Xavier Santos,Jiu-jitsu,TUR-014,PLA-014,Amarela
+2610,Gustavo Vieira,Jiu-jitsu,TUR-013,PLA-012,Branca
+2611,Gustavo Batista,Muay Thai,TUR-057,PLA-009,Laranja
+2613,Luana Freitas Carvalho,Judô,TUR-025,PLA-010,Branca
+2615,Marcelo Campos,Jiu-jitsu,TUR-015,PLA-007,Azul
+2617,Fernanda Ribeiro Teixeira,Jiu-jitsu,TUR-009,PLA-008,Verde
+2619,Fábio Barros Figueiredo,Muay Thai,TUR-069,PLA-010,Branca
+2623,Luana Borges Ferreira,Judô,TUR-036,PLA-015,Amarela
+2626,Fábio Andrade,Judô,TUR-032,PLA-004,Branca
+2627,Isabela Sousa,Jiu-jitsu,TUR-018,PLA-013,Roxa
+2632,Mirela Martins,Jiu-jitsu,TUR-005,PLA-003,Branca
+2636,Luana Marques Dias,Karatê,TUR-037,PLA-005,Cinza
+2637,Renata Sousa,Jiu-jitsu,TUR-003,PLA-005,Azul
+2644,Gustavo Araújo,Muay Thai,TUR-057,PLA-014,Azul
+2646,João Freitas,Karatê,TUR-050,PLA-006,Verde
+2650,Renata Reis,Karatê,TUR-045,PLA-006,Cinza
+2658,Ana Soares,Jiu-jitsu,TUR-009,PLA-004,Branca
+2661,Felipe Rocha,Muay Thai,TUR-067,PLA-004,Verde
+2662,Daniela Coelho Moreira,Muay Thai,TUR-067,PLA-014,Branca
+2663,Beatriz Gomes Martins,Karatê,TUR-044,PLA-008,Azul
+2664,Pedro Lopes Barros,Karatê,TUR-038,PLA-010,Branca
+2665,Diego Moura,Jiu-jitsu,TUR-002,PLA-010,Amarela
+2667,Eduardo Barros,Jiu-jitsu,TUR-014,PLA-007,Roxa
+2673,Daniel Pereira,Jiu-jitsu,TUR-004,PLA-011,Cinza
+2680,Gustavo Pinto,Muay Thai,TUR-068,PLA-006,Laranja
+2684,Eduardo Moraes,Jiu-jitsu,TUR-003,PLA-008,Cinza
+2685,Gabriel Mendes,Jiu-jitsu,TUR-004,PLA-010,Branca
+2691,Beatriz Gomes,Jiu-jitsu,TUR-004,PLA-010,Cinza
+2692,Rafaela Nascimento Andrade,Jiu-jitsu,TUR-010,PLA-005,Cinza
+2694,Júlia Oliveira,Judô,TUR-028,PLA-005,Branca
+2698,Sofia Moura,Muay Thai,TUR-072,PLA-005,Branca
+2702,César Medeiros,Judô,TUR-032,PLA-010,Amarela
+2703,Otávio Sousa,Muay Thai,TUR-060,PLA-011,Branca
+2709,Valentina Pinto Rocha,Jiu-jitsu,TUR-017,PLA-003,Laranja
+2712,Thiago Martins Medeiros,Karatê,TUR-052,PLA-006,Laranja
+2713,Júlia Moraes,Judô,TUR-025,PLA-010,Azul
+2720,Júlia Marques,Jiu-jitsu,TUR-014,PLA-001,Amarela
+2724,Beatriz Silva,Jiu-jitsu,TUR-006,PLA-010,Branca
+2726,Natália Reis Figueiredo,Jiu-jitsu,TUR-004,PLA-012,Laranja
+2728,Felipe Batista Coelho,Muay Thai,TUR-056,PLA-012,Branca
+2729,Júlia Campos,Jiu-jitsu,TUR-004,PLA-010,Azul
+2735,Daniela Gomes,Judô,TUR-033,PLA-015,Verde
+2739,Manuela Nogueira,Muay Thai,TUR-069,PLA-014,Amarela
+2746,Ana Medeiros,Jiu-jitsu,TUR-009,PLA-011,Marrom
+2750,André Moraes,Judô,TUR-035,PLA-006,Amarela
+2752,Sofia Cardoso Cardoso,Muay Thai,TUR-059,PLA-014,Branca
+2753,Elaine Monteiro Monteiro,Karatê,TUR-042,PLA-007,Amarela
+2754,Gabriela Barros Duarte,Muay Thai,TUR-066,PLA-004,Verde
+2760,Rafael Costa,Jiu-jitsu,TUR-009,PLA-009,Branca
+2761,Lucas Almeida Campos,Jiu-jitsu,TUR-015,PLA-004,Verde
+2763,Paula Martins Araújo,Muay Thai,TUR-063,PLA-009,Cinza
+2765,Rafaela Duarte Gonçalves,Judô,TUR-021,PLA-006,Azul
+2766,Paula Melo,Jiu-jitsu,TUR-014,PLA-011,Azul
+2772,Lucas Teixeira,Muay Thai,TUR-055,PLA-006,Azul
+2778,Isabela Reis,Muay Thai,TUR-060,PLA-007,Cinza
+2779,Sofia Lima,Jiu-jitsu,TUR-012,PLA-003,Laranja
+2785,Ana Sousa,Jiu-jitsu,TUR-012,PLA-009,Azul
+2788,Wesley Campos Barbosa,Jiu-jitsu,TUR-018,PLA-006,Branca
+2791,Elisa Ramos,Jiu-jitsu,TUR-004,PLA-011,Amarela
+2792,Otávio Vieira Barros,Muay Thai,TUR-060,PLA-004,Cinza
+2796,Matheus Ferreira Campos,Karatê,TUR-046,PLA-006,Branca
+2798,André Marques,Muay Thai,TUR-064,PLA-006,Branca
+2800,Otávio Gomes Lima,Jiu-jitsu,TUR-004,PLA-003,Roxa
+2801,Otávio Xavier,Muay Thai,TUR-060,PLA-010,Verde
+2803,Beatriz Freitas,Muay Thai,TUR-067,PLA-004,Cinza
+2805,Larissa Gonçalves,Muay Thai,TUR-060,PLA-001,Roxa
+2812,Fernanda Vieira,Muay Thai,TUR-071,PLA-006,Cinza
+2819,Eduardo Batista Marques,Judô,TUR-029,PLA-011,Amarela
+2820,Manuela Freitas,Jiu-jitsu,TUR-009,PLA-011,Laranja
+2824,Gabriela Barbosa,Jiu-jitsu,TUR-011,PLA-008,Amarela
+2825,Thiago Figueiredo,Muay Thai,TUR-069,PLA-010,Azul
+2826,Mariana Rocha,Jiu-jitsu,TUR-008,PLA-009,Amarela
+2828,Wesley Reis Fonseca,Jiu-jitsu,TUR-017,PLA-006,Cinza
+2831,Júlia Cardoso Campos,Muay Thai,TUR-067,PLA-008,Marrom
+2839,Gustavo Duarte,Jiu-jitsu,TUR-002,PLA-011,Amarela
+2843,João Almeida,Judô,TUR-030,PLA-010,Laranja
+2844,Rafael Moraes,Muay Thai,TUR-058,PLA-013,Azul
+2850,Beatriz Moura Ribeiro,Judô,TUR-027,PLA-008,Amarela
+2851,Valentina Dias,Karatê,TUR-037,PLA-003,Cinza
+2853,Luana Cunha,Muay Thai,TUR-072,PLA-002,Cinza
+2860,Heloísa Nascimento Teixeira,Muay Thai,TUR-066,PLA-004,Branca
+2867,Vinícius Gonçalves,Muay Thai,TUR-069,PLA-011,Laranja
+2874,Samuel Costa Barros,Jiu-jitsu,TUR-008,PLA-008,Marrom
+2887,Eduardo Cunha Batista,Jiu-jitsu,TUR-016,PLA-003,Cinza
+2891,Wesley Santos,Jiu-jitsu,TUR-009,PLA-008,Cinza
+2895,Fábio Medeiros Silva,Muay Thai,TUR-056,PLA-006,Cinza
+2896,Isabela Silva,Karatê,TUR-054,PLA-005,Roxa
+2898,Larissa Lima,Karatê,TUR-042,PLA-004,Verde
+2901,Vitória Melo,Muay Thai,TUR-066,PLA-013,Amarela
+2905,Rafael Santos Teixeira,Jiu-jitsu,TUR-010,PLA-006,Cinza
+2907,Sofia Soares,Jiu-jitsu,TUR-014,PLA-003,Branca
+2908,Wesley Costa,Jiu-jitsu,TUR-006,PLA-011,Branca
+2909,Igor Costa,Muay Thai,TUR-060,PLA-005,Laranja
+2913,Leonardo Figueiredo,Judô,TUR-023,PLA-010,Branca
+2914,Beatriz Dias,Muay Thai,TUR-067,PLA-005,Branca
+2918,Marcelo Costa Soares,Muay Thai,TUR-064,PLA-010,Verde
+2920,Bruno Dias,Jiu-jitsu,TUR-006,PLA-011,Cinza
+2923,Manuela Barros,Jiu-jitsu,TUR-011,PLA-001,Verde
+2929,Matheus Borges,Muay Thai,TUR-070,PLA-011,Roxa
+2930,Gabriel Batista,Muay Thai,TUR-067,PLA-008,Marrom
+2931,Thiago Fonseca,Jiu-jitsu,TUR-017,PLA-007,Amarela
+2938,Elaine Oliveira,Jiu-jitsu,TUR-013,PLA-002,Amarela
+2942,Fernanda Monteiro,Judô,TUR-036,PLA-009,Branca
+2943,Eduardo Borges Silva,Judô,TUR-024,PLA-007,Amarela
+2946,Larissa Moura,Jiu-jitsu,TUR-006,PLA-015,Cinza
+2947,Valentina Santos,Judô,TUR-031,PLA-011,Verde
+2949,Natália Silva,Judô,TUR-030,PLA-010,Azul
+2955,Pedro Sousa,Jiu-jitsu,TUR-009,PLA-006,Marrom
+2956,Paula Barros,Judô,TUR-026,PLA-012,Verde
+2959,Mariana Martins,Muay Thai,TUR-058,PLA-013,Branca
+2960,Camila Cunha,Muay Thai,TUR-070,PLA-008,Amarela
+2964,Manuela Melo,Muay Thai,TUR-057,PLA-011,Cinza
+2965,Renata Campos Rodrigues,Jiu-jitsu,TUR-007,PLA-007,Azul
+2966,Fernanda Amaral,Karatê,TUR-052,PLA-004,Amarela
+2969,Eduardo Moraes,Muay Thai,TUR-072,PLA-010,Azul
+2970,Ana Lima Moreira,Muay Thai,TUR-058,PLA-006,Branca
+2974,Natália Amaral,Karatê,TUR-047,PLA-006,Azul
+2976,Yasmin Pereira,Judô,TUR-034,PLA-006,Cinza
+2978,Luana Moraes Freitas,Judô,TUR-027,PLA-008,Cinza
+2979,Rafaela Barbosa Reis,Muay Thai,TUR-059,PLA-007,Marrom
+2983,Daniel Lima Medeiros,Jiu-jitsu,TUR-016,PLA-006,Amarela
+2984,Beatriz Lima,Jiu-jitsu,TUR-018,PLA-013,Azul
+2985,Júlia Moura,Jiu-jitsu,TUR-016,PLA-004,Laranja
+2988,Eduardo Teixeira,Muay Thai,TUR-069,PLA-002,Amarela
+2991,Helena Nascimento Almeida,Jiu-jitsu,TUR-002,PLA-013,Amarela
+2998,Diego Cardoso,Muay Thai,TUR-055,PLA-013,Branca
+3002,Diego Teixeira,Jiu-jitsu,TUR-010,PLA-008,Branca
+3006,Renata Gonçalves,Jiu-jitsu,TUR-007,PLA-007,Branca
+3007,Rafael Reis,Muay Thai,TUR-064,PLA-015,Cinza
+3009,Isabela Gonçalves,Judô,TUR-021,PLA-008,Amarela
+3016,Renata Moreira Martins,Muay Thai,TUR-071,PLA-006,Azul
+3017,Lucas Barbosa,Judô,TUR-034,PLA-006,Branca
+3019,Matheus Cunha,Jiu-jitsu,TUR-007,PLA-002,Cinza
+3020,Elaine Rodrigues,Judô,TUR-036,PLA-011,Cinza
+3021,Sofia Ribeiro,Muay Thai,TUR-058,PLA-008,Roxa
+3025,Gabriela Duarte,Jiu-jitsu,TUR-007,PLA-008,Verde
+3028,Heloísa Martins,Jiu-jitsu,TUR-003,PLA-003,Cinza
+3029,Larissa Mendes,Judô,TUR-027,PLA-006,Roxa
+3031,Heloísa Figueiredo Figueiredo,Jiu-jitsu,TUR-001,PLA-010,Amarela
+3032,Leonardo Pinto Ribeiro,Jiu-jitsu,TUR-014,PLA-008,Laranja
+3040,Igor Monteiro,Muay Thai,TUR-072,PLA-004,Laranja
+3041,Eduardo Reis,Judô,TUR-024,PLA-007,Branca
+3048,Lucas Moraes,Jiu-jitsu,TUR-017,PLA-004,Branca
+3049,Valentina Costa,Karatê,TUR-047,PLA-005,Verde
+3052,Camila Nascimento,Judô,TUR-036,PLA-010,Amarela
+3055,Marcelo Almeida,Jiu-jitsu,TUR-014,PLA-004,Marrom
+3058,Paula Santos Soares,Jiu-jitsu,TUR-018,PLA-006,Laranja
+3065,Otávio Carvalho Costa,Judô,TUR-033,PLA-013,Branca
+3068,Mirela Oliveira,Jiu-jitsu,TUR-013,PLA-005,Amarela
+3074,Diego Araújo Batista,Muay Thai,TUR-064,PLA-003,Amarela
+3081,Daniel Melo,Muay Thai,TUR-059,PLA-011,Branca
+3083,Rafael Ferreira,Karatê,TUR-041,PLA-016,Verde
+3085,Wesley Nogueira,Jiu-jitsu,TUR-009,PLA-014,Cinza
+3089,Renata Duarte,Karatê,TUR-051,PLA-004,Branca
+3092,Renata Araújo,Muay Thai,TUR-056,PLA-004,Azul
+3099,Sofia Nogueira Ramos,Jiu-jitsu,TUR-012,PLA-014,Branca
+3101,João Nascimento,Muay Thai,TUR-069,PLA-009,Amarela
+3103,César Araújo Moreira,Jiu-jitsu,TUR-010,PLA-002,Verde
+3104,Diego Moreira Fonseca,Jiu-jitsu,TUR-002,PLA-006,Amarela
+3105,Fábio Lopes,Jiu-jitsu,TUR-013,PLA-011,Branca
+3107,Diego Nascimento Barros,Jiu-jitsu,TUR-017,PLA-006,Azul
+3114,Paula Monteiro,Jiu-jitsu,TUR-007,PLA-016,Cinza
+3118,Vinícius Cunha,Jiu-jitsu,TUR-007,PLA-016,Branca
+3124,Rafaela Costa,Jiu-jitsu,TUR-010,PLA-006,Azul
+3126,Rafaela Almeida,Muay Thai,TUR-060,PLA-009,Verde
+3127,Vinícius Moura Moreira,Jiu-jitsu,TUR-016,PLA-008,Laranja
+3129,Matheus Martins,Muay Thai,TUR-072,PLA-001,Branca
+3133,Elaine Freitas,Muay Thai,TUR-059,PLA-008,Amarela
+3135,Pedro Costa Campos,Judô,TUR-033,PLA-009,Laranja
+3137,César Santos,Judô,TUR-033,PLA-006,Cinza
+3143,Bruno Moraes,Jiu-jitsu,TUR-018,PLA-010,Azul
+3144,João Oliveira,Muay Thai,TUR-067,PLA-006,Laranja
+3148,Felipe Castro,Jiu-jitsu,TUR-012,PLA-012,Branca
+3152,Paula Costa,Jiu-jitsu,TUR-016,PLA-008,Verde
+3155,Ana Araújo Vieira,Jiu-jitsu,TUR-004,PLA-001,Branca
+3156,Igor Moraes,Jiu-jitsu,TUR-014,PLA-002,Azul
+3158,Rafaela Vieira,Muay Thai,TUR-061,PLA-010,Verde
+3162,Pedro Xavier,Muay Thai,TUR-068,PLA-012,Cinza
+3164,Elisa Sousa,Jiu-jitsu,TUR-006,PLA-008,Verde
+3165,Bruno Machado,Jiu-jitsu,TUR-005,PLA-008,Amarela
+3172,Gabriela Dias Araújo,Judô,TUR-023,PLA-013,Roxa
+3178,Thiago Araújo,Jiu-jitsu,TUR-016,PLA-007,Cinza
+3179,Luana Nascimento,Muay Thai,TUR-071,PLA-006,Azul
+3187,Felipe Dias,Jiu-jitsu,TUR-006,PLA-011,Laranja
+3193,João Barros,Jiu-jitsu,TUR-017,PLA-009,Marrom
+3199,Helena Medeiros Fonseca,Muay Thai,TUR-061,PLA-015,Branca
+3206,Camila Ramos,Jiu-jitsu,TUR-002,PLA-009,Amarela
+3207,Otávio Reis,Muay Thai,TUR-064,PLA-010,Verde
+3209,Rafael Nascimento,Jiu-jitsu,TUR-002,PLA-008,Branca
+3211,Igor Almeida,Jiu-jitsu,TUR-006,PLA-008,Verde
+3213,Otávio Ramos,Jiu-jitsu,TUR-001,PLA-006,Branca
+3216,Ricardo Vieira,Muay Thai,TUR-067,PLA-006,Branca
+3217,Gabriel Moraes,Jiu-jitsu,TUR-017,PLA-012,Cinza
+3219,Felipe Fonseca Medeiros,Judô,TUR-034,PLA-010,Verde
+3220,Elisa Sousa,Muay Thai,TUR-058,PLA-007,Amarela
+3221,Helena Figueiredo,Jiu-jitsu,TUR-002,PLA-009,Branca
+3222,Sofia Cardoso Amaral,Jiu-jitsu,TUR-018,PLA-006,Amarela
+3223,Valentina Moura,Judô,TUR-031,PLA-016,Verde
+3224,Elaine Araújo Gonçalves,Judô,TUR-025,PLA-012,Branca
+3225,Daniela Gonçalves,Jiu-jitsu,TUR-013,PLA-011,Roxa
+3226,Wesley Nascimento,Karatê,TUR-042,PLA-011,Laranja
+3230,Thiago Sousa Moura,Jiu-jitsu,TUR-016,PLA-003,Verde
+3233,Eduardo Costa,Muay Thai,TUR-063,PLA-007,Branca
+3236,Vinícius Vieira,Judô,TUR-032,PLA-010,Verde
+3238,Fábio Rodrigues Mendes,Jiu-jitsu,TUR-003,PLA-009,Laranja
+3239,Rafael Pereira,Muay Thai,TUR-065,PLA-005,Laranja
+3246,Diego Vieira,Judô,TUR-027,PLA-012,Azul
+3253,Júlia Nascimento Freitas,Muay Thai,TUR-057,PLA-004,Verde
+3257,Fernanda Rocha,Jiu-jitsu,TUR-018,PLA-008,Branca
+3260,Thiago Rodrigues,Jiu-jitsu,TUR-003,PLA-004,Amarela
+3268,Leonardo Machado,Muay Thai,TUR-055,PLA-013,Roxa
+3269,Renata Monteiro,Jiu-jitsu,TUR-013,PLA-004,Laranja
+3273,Bruno Araújo,Karatê,TUR-040,PLA-004,Azul
+3279,Valentina Almeida,Karatê,TUR-054,PLA-006,Amarela
+3283,Daniela Xavier,Jiu-jitsu,TUR-015,PLA-010,Cinza
+3284,Paula Barros,Muay Thai,TUR-062,PLA-016,Marrom
+3288,Elisa Campos Gonçalves,Karatê,TUR-047,PLA-006,Laranja
+3296,Vinícius Fonseca,Karatê,TUR-049,PLA-013,Verde
+3298,Pedro Gomes Oliveira,Muay Thai,TUR-057,PLA-009,Laranja
+3304,Wesley Batista,Muay Thai,TUR-065,PLA-012,Verde
+3306,Paula Moreira,Jiu-jitsu,TUR-003,PLA-005,Laranja
+3309,Heloísa Sousa Silva,Jiu-jitsu,TUR-018,PLA-010,Azul
+3311,Otávio Sousa,Jiu-jitsu,TUR-012,PLA-006,Cinza
+3315,Paula Duarte,Jiu-jitsu,TUR-010,PLA-003,Cinza
+3319,Fábio Pereira Almeida,Jiu-jitsu,TUR-011,PLA-005,Cinza
+3321,Larissa Oliveira Freitas,Muay Thai,TUR-056,PLA-011,Amarela
+3322,Larissa Mendes,Judô,TUR-024,PLA-005,Azul
+3324,Júlia Araújo,Judô,TUR-029,PLA-006,Cinza
+3328,Samuel Coelho,Muay Thai,TUR-070,PLA-014,Azul
+3329,Paula Martins,Jiu-jitsu,TUR-015,PLA-011,Roxa
+3331,Valentina Moura,Muay Thai,TUR-070,PLA-007,Azul
+3334,Ricardo Dias,Jiu-jitsu,TUR-013,PLA-006,Amarela
+3335,Gabriel Pereira Cunha,Jiu-jitsu,TUR-018,PLA-011,Amarela
+3341,Caio Castro,Jiu-jitsu,TUR-008,PLA-014,Amarela
+3347,Leonardo Medeiros Cardoso,Muay Thai,TUR-072,PLA-008,Marrom
+3348,Camila Vieira,Judô,TUR-026,PLA-003,Amarela
+3351,Júlia Figueiredo,Muay Thai,TUR-070,PLA-008,Verde
+3354,Sofia Dias,Jiu-jitsu,TUR-008,PLA-012,Branca
+3355,Fernanda Borges,Jiu-jitsu,TUR-007,PLA-002,Cinza
+3358,Gabriela Freitas,Karatê,TUR-039,PLA-011,Cinza
+3361,Manuela Silva,Muay Thai,TUR-061,PLA-007,Laranja
+3367,Natália Araújo,Judô,TUR-022,PLA-008,Laranja
+3368,Rafael Medeiros,Muay Thai,TUR-065,PLA-016,Cinza
+3369,Daniela Freitas,Judô,TUR-019,PLA-006,Branca
+3376,Luana Campos,Judô,TUR-025,PLA-003,Laranja
+3378,Camila Barros,Jiu-jitsu,TUR-013,PLA-004,Branca
+3379,Samuel Rocha Teixeira,Judô,TUR-022,PLA-010,Cinza
+3380,Thiago Nogueira Machado,Jiu-jitsu,TUR-001,PLA-004,Amarela
+3384,Paula Gomes Dias,Judô,TUR-031,PLA-003,Laranja
+3385,Caio Gomes Amaral,Muay Thai,TUR-058,PLA-012,Branca
+3386,Sofia Costa,Judô,TUR-029,PLA-011,Marrom
+3387,Sofia Nascimento,Muay Thai,TUR-068,PLA-007,Verde
+3389,Lucas Teixeira,Jiu-jitsu,TUR-017,PLA-004,Verde
+3396,Ana Moreira,Muay Thai,TUR-063,PLA-007,Laranja
+3397,Renata Duarte,Jiu-jitsu,TUR-004,PLA-005,Azul
+3401,Ana Melo Teixeira,Jiu-jitsu,TUR-018,PLA-014,Cinza
+3402,Gabriela Medeiros,Judô,TUR-033,PLA-003,Roxa
+3409,André Gonçalves,Judô,TUR-035,PLA-010,Branca
+3410,Fábio Borges,Muay Thai,TUR-060,PLA-003,Cinza
+3411,Beatriz Silva,Muay Thai,TUR-064,PLA-008,Azul
+3414,Otávio Almeida Coelho,Jiu-jitsu,TUR-012,PLA-004,Amarela
+3416,Fernanda Medeiros,Jiu-jitsu,TUR-001,PLA-012,Verde
+3418,César Pereira,Muay Thai,TUR-071,PLA-006,Azul
+3420,Júlia Freitas Monteiro,Muay Thai,TUR-063,PLA-004,Cinza
+3421,Paula Ramos,Jiu-jitsu,TUR-010,PLA-004,Marrom
+3422,Heloísa Pinto,Karatê,TUR-037,PLA-008,Branca
+3425,Thiago Ferreira,Jiu-jitsu,TUR-006,PLA-010,Branca
+3426,Caio Gomes Moreira,Jiu-jitsu,TUR-007,PLA-010,Laranja
+3433,Daniel Mendes,Jiu-jitsu,TUR-008,PLA-008,Amarela
+3439,Gabriela Castro,Jiu-jitsu,TUR-005,PLA-011,Branca
+3446,Eduardo Dias,Muay Thai,TUR-056,PLA-006,Amarela
+3454,Gabriela Reis,Jiu-jitsu,TUR-007,PLA-005,Amarela
+3456,Lucas Barbosa Soares,Jiu-jitsu,TUR-004,PLA-007,Azul
+3458,Camila Figueiredo,Muay Thai,TUR-066,PLA-009,Branca
+3460,Daniel Nogueira,Judô,TUR-036,PLA-003,Branca
+3467,Vinícius Batista,Karatê,TUR-041,PLA-004,Branca
+3468,Paula Martins,Muay Thai,TUR-057,PLA-008,Branca
+3469,Bruno Rodrigues,Muay Thai,TUR-071,PLA-008,Branca
+3470,Beatriz Silva,Jiu-jitsu,TUR-004,PLA-003,Amarela
+3472,Fábio Monteiro,Karatê,TUR-048,PLA-009,Laranja
+3473,César Gonçalves,Muay Thai,TUR-064,PLA-011,Cinza
+3480,Gustavo Fonseca,Jiu-jitsu,TUR-011,PLA-004,Cinza
+3483,Daniela Teixeira,Jiu-jitsu,TUR-014,PLA-005,Marrom
+3497,Samuel Cunha,Muay Thai,TUR-066,PLA-010,Laranja
+3503,Sofia Moraes,Judô,TUR-019,PLA-006,Azul
+3509,Fernanda Cardoso,Muay Thai,TUR-070,PLA-011,Cinza
+3511,Rafaela Marques,Muay Thai,TUR-065,PLA-010,Azul
+3512,Leonardo Figueiredo,Muay Thai,TUR-056,PLA-006,Roxa
+3513,Matheus Rocha,Jiu-jitsu,TUR-013,PLA-015,Verde
+3514,Helena Oliveira Nogueira,Muay Thai,TUR-058,PLA-001,Laranja
+3515,Thiago Soares,Jiu-jitsu,TUR-012,PLA-006,Laranja
+3523,Leonardo Andrade Pinto,Judô,TUR-032,PLA-012,Branca
+3524,Beatriz Santos,Judô,TUR-023,PLA-011,Cinza
+3530,Daniel Santos,Muay Thai,TUR-072,PLA-006,Branca
+3532,Lucas Costa Ribeiro,Muay Thai,TUR-067,PLA-006,Laranja
+3533,Ana Martins,Muay Thai,TUR-061,PLA-006,Verde
+3540,Lucas Medeiros Mendes,Judô,TUR-034,PLA-010,Cinza
+3547,Valentina Andrade,Muay Thai,TUR-071,PLA-014,Roxa
+3548,Gabriel Moreira Lopes,Jiu-jitsu,TUR-009,PLA-007,Branca
+3549,Lucas Melo,Judô,TUR-027,PLA-007,Cinza
+3551,Ricardo Campos,Muay Thai,TUR-056,PLA-008,Laranja
+3553,Felipe Gonçalves Lopes,Muay Thai,TUR-060,PLA-008,Cinza
+3560,Isabela Moraes,Jiu-jitsu,TUR-003,PLA-006,Verde
+3563,Bruno Rocha Andrade,Jiu-jitsu,TUR-012,PLA-012,Cinza
+3565,Elisa Castro,Muay Thai,TUR-057,PLA-006,Amarela
+3567,Rafaela Nascimento,Muay Thai,TUR-062,PLA-004,Branca
+3568,Igor Borges Lopes,Muay Thai,TUR-059,PLA-009,Laranja
+3570,Gabriela Ferreira Medeiros,Jiu-jitsu,TUR-002,PLA-005,Branca
+3572,Gabriela Castro,Jiu-jitsu,TUR-018,PLA-006,Cinza
+3578,Elaine Fonseca,Judô,TUR-031,PLA-004,Branca
+3579,Beatriz Gomes,Jiu-jitsu,TUR-014,PLA-006,Cinza
+3585,Leonardo Cunha,Judô,TUR-030,PLA-011,Azul
+3592,João Cardoso,Karatê,TUR-051,PLA-011,Azul
+3593,Mariana Gomes,Muay Thai,TUR-064,PLA-011,Branca
+3595,Mariana Fonseca,Muay Thai,TUR-067,PLA-002,Amarela
+3598,Vitória Marques Cunha,Muay Thai,TUR-066,PLA-010,Amarela
+3600,Caio Andrade,Judô,TUR-025,PLA-007,Laranja
+3603,Thiago Nogueira,Jiu-jitsu,TUR-005,PLA-006,Cinza
+3605,Igor Barros,Jiu-jitsu,TUR-017,PLA-001,Branca
+3609,Fábio Sousa,Jiu-jitsu,TUR-018,PLA-011,Cinza
+3610,Lucas Ribeiro Borges,Jiu-jitsu,TUR-001,PLA-011,Amarela
+3619,Otávio Soares,Jiu-jitsu,TUR-001,PLA-004,Branca
+3620,Felipe Carvalho Moreira,Jiu-jitsu,TUR-002,PLA-002,Verde
+3624,Yasmin Almeida,Jiu-jitsu,TUR-016,PLA-004,Azul
+3630,Manuela Monteiro Duarte,Jiu-jitsu,TUR-002,PLA-012,Branca
+3633,Diego Vieira Borges,Jiu-jitsu,TUR-014,PLA-010,Branca
+3635,Vitória Araújo,Jiu-jitsu,TUR-015,PLA-004,Laranja
+3639,Samuel Reis,Judô,TUR-028,PLA-006,Laranja
+3642,André Borges,Jiu-jitsu,TUR-007,PLA-003,Laranja
+3643,Larissa Lima Barros,Jiu-jitsu,TUR-014,PLA-010,Cinza
+3645,Leonardo Batista Sousa,Muay Thai,TUR-059,PLA-009,Laranja
+3646,Natália Nascimento,Muay Thai,TUR-056,PLA-004,Branca
+3652,Igor Freitas,Jiu-jitsu,TUR-007,PLA-010,Amarela
+3654,Eduardo Almeida,Jiu-jitsu,TUR-002,PLA-006,Cinza
+3661,Camila Amaral,Karatê,TUR-039,PLA-005,Amarela
+3663,Fábio Rocha,Jiu-jitsu,TUR-012,PLA-006,Branca
+3666,Luana Nascimento,Judô,TUR-021,PLA-010,Verde
+3668,André Duarte Araújo,Muay Thai,TUR-072,PLA-011,Branca
+3670,Gabriel Teixeira,Jiu-jitsu,TUR-010,PLA-003,Amarela
+3671,Fernanda Marques,Jiu-jitsu,TUR-018,PLA-002,Branca
+3672,Beatriz Sousa,Karatê,TUR-040,PLA-006,Branca
+3676,Leonardo Ferreira,Muay Thai,TUR-055,PLA-012,Cinza
+3679,Gustavo Castro Nascimento,Jiu-jitsu,TUR-008,PLA-008,Branca
+3685,Marcelo Gomes,Jiu-jitsu,TUR-001,PLA-006,Branca
+3692,Gustavo Marques,Muay Thai,TUR-072,PLA-004,Roxa
+3698,Daniel Moura,Muay Thai,TUR-063,PLA-010,Branca
+3699,Igor Xavier Mendes,Jiu-jitsu,TUR-010,PLA-012,Amarela
+3703,Rafaela Moraes,Jiu-jitsu,TUR-017,PLA-007,Laranja
+3705,Caio Melo Martins,Jiu-jitsu,TUR-016,PLA-010,Cinza
+3711,Heloísa Marques Santos,Muay Thai,TUR-055,PLA-011,Verde
+3713,Eduardo Campos,Muay Thai,TUR-056,PLA-003,Roxa
+3714,Larissa Oliveira,Karatê,TUR-049,PLA-006,Amarela
+3716,Gabriel Ramos,Jiu-jitsu,TUR-001,PLA-012,Cinza
+3717,André Soares,Jiu-jitsu,TUR-014,PLA-011,Amarela
+3719,Samuel Ribeiro,Muay Thai,TUR-055,PLA-010,Amarela
+3725,Vitória Gomes Medeiros,Muay Thai,TUR-059,PLA-003,Verde
+3727,Pedro Figueiredo,Jiu-jitsu,TUR-003,PLA-004,Verde
+3733,Pedro Castro Martins,Jiu-jitsu,TUR-007,PLA-003,Branca
+3736,Larissa Figueiredo,Muay Thai,TUR-072,PLA-008,Branca
+3752,Natália Lopes,Muay Thai,TUR-064,PLA-006,Cinza
+3755,Larissa Rocha Barbosa,Jiu-jitsu,TUR-008,PLA-006,Marrom
+3763,Bruno Oliveira,Judô,TUR-020,PLA-012,Branca
+3765,Lucas Rocha,Jiu-jitsu,TUR-015,PLA-003,Amarela
+3770,Gustavo Amaral,Jiu-jitsu,TUR-002,PLA-005,Branca
+3771,Renata Batista,Jiu-jitsu,TUR-006,PLA-011,Amarela
+3772,João Soares,Karatê,TUR-043,PLA-011,Cinza
+3778,Bruno Marques Reis,Karatê,TUR-041,PLA-013,Branca
+3780,Mariana Gonçalves,Karatê,TUR-054,PLA-016,Roxa
+3784,Daniel Almeida,Karatê,TUR-051,PLA-009,Azul
+3785,Isabela Soares Melo,Jiu-jitsu,TUR-007,PLA-008,Laranja
+3786,Valentina Ribeiro,Judô,TUR-020,PLA-012,Branca
+3788,Daniela Lopes,Judô,TUR-021,PLA-014,Branca
+3791,Yasmin Costa,Muay Thai,TUR-059,PLA-004,Amarela
+3798,Valentina Vieira Pinto,Muay Thai,TUR-056,PLA-011,Branca
+3806,Matheus Araújo,Jiu-jitsu,TUR-017,PLA-003,Amarela
+3809,Gabriel Monteiro Ribeiro,Jiu-jitsu,TUR-006,PLA-003,Cinza
+3810,Gabriel Coelho,Jiu-jitsu,TUR-011,PLA-012,Branca
+3811,Mariana Barros,Jiu-jitsu,TUR-012,PLA-011,Cinza
+3815,Mirela Batista,Muay Thai,TUR-071,PLA-008,Cinza
+3816,Helena Moura,Muay Thai,TUR-072,PLA-010,Verde
+3822,Wesley Nogueira,Jiu-jitsu,TUR-005,PLA-004,Cinza
+3823,César Moura Coelho,Jiu-jitsu,TUR-012,PLA-003,Laranja
+3827,Ricardo Almeida Pinto,Jiu-jitsu,TUR-014,PLA-006,Azul
+3838,Elaine Araújo,Jiu-jitsu,TUR-016,PLA-013,Branca
+3845,Rafaela Castro,Jiu-jitsu,TUR-008,PLA-003,Laranja
+3847,Larissa Nascimento Moreira,Jiu-jitsu,TUR-003,PLA-010,Cinza
+3848,Bruno Silva Batista,Muay Thai,TUR-065,PLA-004,Verde
+3849,João Andrade,Muay Thai,TUR-063,PLA-013,Amarela
+3851,Vinícius Coelho,Jiu-jitsu,TUR-018,PLA-006,Branca
+3852,Caio Rodrigues,Jiu-jitsu,TUR-001,PLA-003,Amarela
+3863,Larissa Freitas,Muay Thai,TUR-061,PLA-003,Marrom
+3865,Helena Moura,Jiu-jitsu,TUR-012,PLA-006,Roxa
+3867,Samuel Xavier Barbosa,Muay Thai,TUR-063,PLA-006,Branca
+3868,Ricardo Fonseca,Jiu-jitsu,TUR-003,PLA-006,Cinza
+3875,Wesley Moura,Muay Thai,TUR-056,PLA-006,Azul
+3876,Mirela Campos Ribeiro,Jiu-jitsu,TUR-014,PLA-001,Cinza
+3877,Caio Moura,Jiu-jitsu,TUR-015,PLA-010,Azul
+3881,Lucas Duarte,Judô,TUR-032,PLA-006,Verde
+3882,Sofia Machado,Karatê,TUR-042,PLA-016,Azul
+3885,Otávio Lima,Muay Thai,TUR-057,PLA-003,Branca
+3886,Eduardo Ferreira Almeida,Muay Thai,TUR-064,PLA-010,Amarela
+3887,Wesley Cardoso,Jiu-jitsu,TUR-002,PLA-008,Verde
+3892,Ana Lima,Judô,TUR-019,PLA-015,Azul
+3893,Renata Gonçalves Rocha,Jiu-jitsu,TUR-009,PLA-010,Laranja
+3897,Valentina Almeida,Muay Thai,TUR-059,PLA-011,Laranja
+3899,Samuel Fonseca,Judô,TUR-019,PLA-013,Branca
+3906,Vitória Machado,Jiu-jitsu,TUR-011,PLA-003,Azul
+3909,Natália Machado Dias,Jiu-jitsu,TUR-006,PLA-002,Laranja
+3910,Fábio Ribeiro,Jiu-jitsu,TUR-005,PLA-006,Verde
+3911,André Duarte,Jiu-jitsu,TUR-014,PLA-006,Amarela
+3913,Natália Machado Campos,Muay Thai,TUR-072,PLA-015,Branca
+3914,Yasmin Batista,Jiu-jitsu,TUR-003,PLA-013,Branca
+3921,Marcelo Campos Batista,Karatê,TUR-042,PLA-009,Verde
+3922,Luana Rodrigues,Karatê,TUR-039,PLA-004,Amarela
+3929,Helena Cardoso,Muay Thai,TUR-067,PLA-010,Branca
+3930,Marcelo Marques,Jiu-jitsu,TUR-001,PLA-003,Amarela
+3932,Samuel Castro,Jiu-jitsu,TUR-001,PLA-016,Cinza
+3936,Daniel Rodrigues,Judô,TUR-028,PLA-011,Roxa
+3937,João Pinto,Muay Thai,TUR-069,PLA-004,Branca
+3940,Fábio Almeida,Jiu-jitsu,TUR-014,PLA-009,Branca
+3944,Caio Pinto,Jiu-jitsu,TUR-001,PLA-011,Verde
+3946,Valentina Gonçalves Barros,Jiu-jitsu,TUR-003,PLA-006,Laranja
+3952,Otávio Moraes,Jiu-jitsu,TUR-016,PLA-012,Amarela
+3953,Lucas Martins,Judô,TUR-021,PLA-009,Verde
+3954,Diego Xavier,Muay Thai,TUR-060,PLA-008,Azul
+3957,Vinícius Duarte,Jiu-jitsu,TUR-006,PLA-004,Amarela
+3964,Camila Fonseca Batista,Karatê,TUR-040,PLA-003,Amarela
+3971,Gabriel Moraes Gomes,Muay Thai,TUR-063,PLA-014,Branca
+3978,Elaine Figueiredo,Jiu-jitsu,TUR-014,PLA-005,Azul
+3982,Helena Barros,Jiu-jitsu,TUR-007,PLA-010,Amarela
+3984,Sofia Melo,Jiu-jitsu,TUR-018,PLA-012,Amarela
+3990,Larissa Martins,Muay Thai,TUR-064,PLA-013,Branca
+3994,Eduardo Duarte,Muay Thai,TUR-069,PLA-003,Branca
+3995,Thiago Amaral,Karatê,TUR-050,PLA-004,Branca
+4001,Luana Sousa Machado,Judô,TUR-022,PLA-006,Amarela
+4004,Leonardo Ferreira Soares,Jiu-jitsu,TUR-004,PLA-006,Branca
+4005,Vinícius Batista,Judô,TUR-019,PLA-006,Azul
+4012,Isabela Pereira,Muay Thai,TUR-067,PLA-009,Verde
+4014,Luana Lima Rodrigues,Jiu-jitsu,TUR-007,PLA-002,Branca
+4015,Sofia Mendes,Karatê,TUR-050,PLA-011,Branca
+4018,Renata Monteiro,Jiu-jitsu,TUR-005,PLA-003,Branca
+4024,Gabriel Dias,Muay Thai,TUR-056,PLA-006,Branca
+4028,Rafaela Ramos Amaral,Judô,TUR-027,PLA-006,Branca
+4030,Diego Costa,Judô,TUR-020,PLA-006,Branca
+4032,Gabriel Soares,Muay Thai,TUR-072,PLA-015,Cinza
+4035,Igor Marques,Karatê,TUR-051,PLA-003,Verde
+4037,Lucas Rodrigues,Jiu-jitsu,TUR-008,PLA-005,Cinza
+4038,Ricardo Teixeira,Jiu-jitsu,TUR-006,PLA-004,Verde
+4039,Diego Cardoso,Judô,TUR-028,PLA-008,Branca
+4040,Júlia Silva,Muay Thai,TUR-068,PLA-012,Amarela
+4042,Luana Figueiredo,Jiu-jitsu,TUR-006,PLA-008,Cinza
+4043,Helena Ribeiro,Jiu-jitsu,TUR-017,PLA-002,Branca
+4044,Gabriela Amaral,Jiu-jitsu,TUR-015,PLA-005,Azul
+4045,Isabela Silva Rocha,Muay Thai,TUR-069,PLA-008,Branca
+4049,Mariana Borges,Muay Thai,TUR-070,PLA-010,Azul
+4056,Heloísa Barbosa,Judô,TUR-019,PLA-016,Laranja
+4059,Gabriel Campos,Jiu-jitsu,TUR-016,PLA-011,Branca
+4063,Matheus Fonseca Oliveira,Judô,TUR-020,PLA-014,Branca
+4066,Paula Costa Duarte,Jiu-jitsu,TUR-002,PLA-004,Verde
+4069,Heloísa Santos,Karatê,TUR-042,PLA-004,Laranja
+4075,Pedro Moraes,Jiu-jitsu,TUR-011,PLA-006,Amarela
+4076,Valentina Araújo,Jiu-jitsu,TUR-015,PLA-004,Branca
+4078,Helena Dias Costa,Jiu-jitsu,TUR-011,PLA-013,Amarela
+4084,Isabela Pereira,Jiu-jitsu,TUR-006,PLA-006,Laranja
+4086,Isabela Ribeiro,Judô,TUR-019,PLA-008,Branca
+4093,Lucas Monteiro Dias,Karatê,TUR-052,PLA-010,Branca
+4100,Yasmin Moraes,Muay Thai,TUR-055,PLA-008,Cinza
+4101,Larissa Rodrigues,Muay Thai,TUR-062,PLA-006,Branca
+4103,Lucas Amaral Andrade,Jiu-jitsu,TUR-011,PLA-007,Azul
+4105,Lucas Figueiredo,Jiu-jitsu,TUR-018,PLA-010,Amarela
+4111,César Batista,Muay Thai,TUR-071,PLA-012,Amarela
+4115,Rafaela Cardoso,Jiu-jitsu,TUR-002,PLA-012,Cinza
+4117,Beatriz Duarte,Jiu-jitsu,TUR-004,PLA-006,Cinza
+4119,Elaine Santos,Jiu-jitsu,TUR-016,PLA-005,Branca
+4127,Matheus Castro Pereira,Muay Thai,TUR-065,PLA-012,Roxa
+4128,Rafael Oliveira Rocha,Muay Thai,TUR-059,PLA-011,Verde
+4129,Daniela Moraes,Judô,TUR-032,PLA-007,Amarela
+4132,Thiago Batista,Judô,TUR-022,PLA-006,Laranja
+4136,Elisa Marques,Muay Thai,TUR-066,PLA-006,Azul
+4137,Marcelo Santos,Muay Thai,TUR-058,PLA-012,Branca
+4139,Rafaela Nogueira,Jiu-jitsu,TUR-011,PLA-006,Cinza
+4140,Otávio Campos Freitas,Jiu-jitsu,TUR-015,PLA-002,Laranja
+4142,Renata Nogueira,Muay Thai,TUR-064,PLA-006,Azul
+4148,Pedro Moraes,Muay Thai,TUR-057,PLA-011,Branca
+4150,Sofia Rodrigues,Judô,TUR-035,PLA-011,Laranja
+4151,Otávio Vieira,Muay Thai,TUR-058,PLA-010,Branca
+4154,Heloísa Moraes Pereira,Judô,TUR-027,PLA-008,Branca
+4164,Valentina Silva,Muay Thai,TUR-060,PLA-015,Cinza
+4167,Heloísa Lopes,Jiu-jitsu,TUR-017,PLA-006,Amarela
+4173,João Teixeira Lima,Judô,TUR-032,PLA-011,Cinza
+4175,Sofia Moura,Jiu-jitsu,TUR-011,PLA-004,Amarela
+4178,Diego Barbosa,Muay Thai,TUR-057,PLA-013,Azul
+4181,Matheus Moreira,Muay Thai,TUR-056,PLA-011,Branca
+4183,Matheus Nascimento,Judô,TUR-027,PLA-011,Verde
+4184,Manuela Ribeiro Nogueira,Muay Thai,TUR-070,PLA-012,Amarela
+4185,Rafaela Cunha,Judô,TUR-036,PLA-008,Marrom
+4192,André Costa,Muay Thai,TUR-069,PLA-013,Cinza
+4197,Heloísa Andrade,Muay Thai,TUR-060,PLA-009,Branca
+4200,Leonardo Araújo,Muay Thai,TUR-063,PLA-002,Cinza
+4202,Thiago Mendes,Jiu-jitsu,TUR-003,PLA-007,Cinza
+4203,Larissa Martins,Jiu-jitsu,TUR-011,PLA-011,Marrom
+4210,Rafael Barros,Muay Thai,TUR-072,PLA-008,Amarela
+4214,Felipe Campos,Muay Thai,TUR-057,PLA-008,Roxa
+4216,Yasmin Reis,Muay Thai,TUR-070,PLA-010,Branca
+4217,Yasmin Coelho Almeida,Judô,TUR-032,PLA-006,Laranja
+4218,Valentina Andrade Castro,Jiu-jitsu,TUR-007,PLA-006,Amarela
+4225,Helena Cardoso,Jiu-jitsu,TUR-017,PLA-006,Azul
+4231,Yasmin Barbosa,Jiu-jitsu,TUR-008,PLA-012,Branca
+4232,Isabela Nascimento,Muay Thai,TUR-056,PLA-011,Branca
+4234,Fernanda Ribeiro,Jiu-jitsu,TUR-014,PLA-006,Laranja
+4235,Vitória Ribeiro Rocha,Karatê,TUR-048,PLA-003,Amarela
+4237,Elaine Mendes Monteiro,Jiu-jitsu,TUR-008,PLA-012,Branca
+4244,Thiago Martins,Muay Thai,TUR-059,PLA-010,Laranja
+4245,Heloísa Machado,Jiu-jitsu,TUR-006,PLA-014,Cinza
+4251,Elaine Machado,Muay Thai,TUR-056,PLA-012,Amarela
+4252,Isabela Moreira Borges,Muay Thai,TUR-056,PLA-003,Laranja
+4258,Daniela Fonseca,Jiu-jitsu,TUR-011,PLA-014,Cinza
+4259,André Nogueira,Judô,TUR-035,PLA-008,Branca
+4263,Luana Vieira Duarte,Jiu-jitsu,TUR-002,PLA-006,Azul
+4264,Larissa Soares,Jiu-jitsu,TUR-006,PLA-011,Laranja
+4266,Ricardo Barros,Jiu-jitsu,TUR-016,PLA-011,Branca
+4267,Wesley Amaral Moreira,Jiu-jitsu,TUR-008,PLA-013,Cinza
+4268,André Freitas Melo,Jiu-jitsu,TUR-016,PLA-011,Roxa
+4273,Rafaela Rocha Xavier,Muay Thai,TUR-055,PLA-013,Roxa
+4280,Manuela Pereira Fonseca,Jiu-jitsu,TUR-009,PLA-006,Amarela
+4281,Yasmin Barros,Muay Thai,TUR-060,PLA-004,Verde
+4282,Felipe Figueiredo,Jiu-jitsu,TUR-017,PLA-007,Verde
+4293,Natália Xavier,Jiu-jitsu,TUR-005,PLA-002,Amarela
+4294,Igor Pereira,Jiu-jitsu,TUR-002,PLA-011,Laranja
+4300,Elaine Oliveira,Jiu-jitsu,TUR-018,PLA-009,Amarela
+4306,Daniela Machado,Muay Thai,TUR-071,PLA-006,Branca
+4308,Mirela Barros,Jiu-jitsu,TUR-001,PLA-004,Branca
+4311,André Monteiro,Judô,TUR-034,PLA-003,Laranja
+4313,Fernanda Batista,Muay Thai,TUR-065,PLA-010,Roxa
+4315,Natália Monteiro Moreira,Jiu-jitsu,TUR-001,PLA-003,Azul
+4319,Daniela Vieira Ramos,Jiu-jitsu,TUR-018,PLA-005,Amarela
+4322,João Moreira Martins,Jiu-jitsu,TUR-010,PLA-011,Verde
+4328,Matheus Moraes,Karatê,TUR-050,PLA-004,Amarela
+4334,Helena Vieira,Muay Thai,TUR-069,PLA-009,Verde
+4336,Gustavo Oliveira Martins,Jiu-jitsu,TUR-014,PLA-014,Branca
+4338,Leonardo Ramos,Judô,TUR-026,PLA-016,Amarela
+4344,Isabela Moura,Muay Thai,TUR-064,PLA-014,Branca
+4346,Fernanda Borges,Jiu-jitsu,TUR-009,PLA-004,Roxa
+4347,Isabela Figueiredo,Jiu-jitsu,TUR-007,PLA-002,Verde
+4354,Manuela Monteiro,Muay Thai,TUR-060,PLA-013,Amarela
+4356,Luana Melo Batista,Judô,TUR-022,PLA-011,Branca
+4357,Gabriel Barbosa,Muay Thai,TUR-069,PLA-015,Laranja
+4358,Gabriel Rodrigues Reis,Judô,TUR-034,PLA-007,Laranja
+4364,Heloísa Amaral,Karatê,TUR-043,PLA-013,Amarela
+4367,Júlia Teixeira Soares,Muay Thai,TUR-058,PLA-006,Branca
+4368,João Borges,Karatê,TUR-041,PLA-010,Branca
+4375,Samuel Moraes,Jiu-jitsu,TUR-008,PLA-003,Laranja
+4376,Heloísa Nogueira,Judô,TUR-024,PLA-004,Branca
+4382,Helena Xavier,Jiu-jitsu,TUR-017,PLA-009,Azul
+4384,Gabriela Costa,Jiu-jitsu,TUR-001,PLA-004,Amarela
+4386,Larissa Monteiro Moraes,Jiu-jitsu,TUR-014,PLA-006,Amarela
+4392,Samuel Batista,Muay Thai,TUR-068,PLA-006,Branca
+4393,Isabela Gonçalves,Muay Thai,TUR-068,PLA-006,Cinza
+4396,Fábio Martins,Jiu-jitsu,TUR-016,PLA-003,Branca
+4403,Fábio Melo,Jiu-jitsu,TUR-008,PLA-006,Laranja
+4410,Caio Coelho,Jiu-jitsu,TUR-006,PLA-010,Branca
+4411,Leonardo Cunha,Karatê,TUR-054,PLA-014,Amarela
+4415,Renata Xavier,Muay Thai,TUR-066,PLA-005,Amarela
+4417,Larissa Duarte,Jiu-jitsu,TUR-011,PLA-006,Azul
+4418,Vinícius Lopes Monteiro,Karatê,TUR-049,PLA-011,Azul
+4420,Samuel Soares Andrade,Jiu-jitsu,TUR-015,PLA-011,Branca
+4427,Helena Rodrigues Figueiredo,Jiu-jitsu,TUR-007,PLA-010,Branca
+4429,Júlia Gomes,Muay Thai,TUR-061,PLA-004,Verde
+4432,Sofia Vieira,Jiu-jitsu,TUR-004,PLA-004,Amarela
+4433,Ana Mendes,Muay Thai,TUR-057,PLA-010,Laranja
+4439,Mariana Coelho,Jiu-jitsu,TUR-010,PLA-010,Amarela
+4448,André Rodrigues Figueiredo,Jiu-jitsu,TUR-004,PLA-010,Marrom
+4449,Vitória Pinto,Karatê,TUR-053,PLA-006,Branca
+4450,Daniela Vieira,Jiu-jitsu,TUR-016,PLA-003,Branca
+4451,Leonardo Teixeira,Judô,TUR-034,PLA-006,Azul
+4453,Gabriela Castro,Jiu-jitsu,TUR-011,PLA-010,Branca
+4455,Samuel Amaral,Judô,TUR-026,PLA-006,Amarela
+4459,Thiago Melo,Jiu-jitsu,TUR-016,PLA-002,Branca
+4460,Fernanda Teixeira,Judô,TUR-034,PLA-013,Amarela
+4462,Fábio Teixeira,Karatê,TUR-040,PLA-006,Cinza
+4466,Felipe Moura Ramos,Muay Thai,TUR-065,PLA-006,Amarela
+4470,Caio Xavier,Jiu-jitsu,TUR-014,PLA-016,Branca
+4474,Beatriz Freitas,Jiu-jitsu,TUR-013,PLA-010,Laranja
+4478,Mirela Dias,Muay Thai,TUR-063,PLA-006,Laranja
+4482,Lucas Fonseca,Jiu-jitsu,TUR-015,PLA-013,Branca
+4484,Wesley Campos Dias,Jiu-jitsu,TUR-007,PLA-006,Roxa
+4485,Yasmin Barbosa,Jiu-jitsu,TUR-018,PLA-016,Verde
+4486,Valentina Araújo,Muay Thai,TUR-056,PLA-004,Amarela
+4487,Paula Pinto,Jiu-jitsu,TUR-004,PLA-003,Roxa
+4488,Felipe Santos Martins,Muay Thai,TUR-056,PLA-013,Amarela
+2009,Ana Xavier,Jiu-jitsu,TUR-001,PLA-011,Verde
+4500,Elisa Gonçalves Xavier,Jiu-jitsu,TUR-012,PLA-003,Branca
+4502,Fábio Oliveira,Muay Thai,TUR-056,PLA-006,Branca
+4504,Ricardo Reis,Muay Thai,TUR-055,PLA-005,Cinza
+4505,Ana Lopes Campos,Jiu-jitsu,TUR-018,PLA-012,Branca
+4506,Caio Vieira,Jiu-jitsu,TUR-004,PLA-006,Amarela
+4511,Yasmin Araújo,Jiu-jitsu,TUR-010,PLA-003,Branca
+4515,Yasmin Moura,Jiu-jitsu,TUR-011,PLA-006,Azul
+4516,Luana Silva,Judô,TUR-036,PLA-006,Cinza
+4517,Matheus Campos Silva,Muay Thai,TUR-066,PLA-005,Verde
+4519,Beatriz Medeiros Teixeira,Judô,TUR-031,PLA-007,Branca
+4522,Paula Araújo,Jiu-jitsu,TUR-016,PLA-007,Cinza
+4524,Lucas Lopes,Karatê,TUR-045,PLA-008,Azul
+4525,Helena Fonseca,Muay Thai,TUR-069,PLA-002,Amarela
+4531,Rafael Nogueira Lima,Jiu-jitsu,TUR-005,PLA-007,Verde
+4532,Fernanda Moura,Muay Thai,TUR-072,PLA-006,Amarela
+4533,Daniel Silva Barbosa,Judô,TUR-024,PLA-005,Branca
+4534,Renata Nogueira,Jiu-jitsu,TUR-017,PLA-008,Branca
+4539,Camila Castro Barbosa,Jiu-jitsu,TUR-017,PLA-005,Amarela
+4540,Luana Amaral Vieira,Muay Thai,TUR-065,PLA-010,Verde
+4541,Pedro Barros Lopes,Jiu-jitsu,TUR-013,PLA-006,Amarela
+4548,Fernanda Costa Moura,Judô,TUR-023,PLA-012,Amarela
+4555,Gabriel Rodrigues,Jiu-jitsu,TUR-012,PLA-004,Roxa
+4558,Manuela Freitas,Muay Thai,TUR-056,PLA-013,Cinza
+4560,Leonardo Moreira,Jiu-jitsu,TUR-007,PLA-006,Branca
+4564,Samuel Marques,Jiu-jitsu,TUR-003,PLA-003,Branca
+4566,Matheus Ribeiro,Jiu-jitsu,TUR-005,PLA-009,Verde
+4567,Ricardo Ferreira,Muay Thai,TUR-072,PLA-003,Laranja
+4574,Lucas Castro Marques,Jiu-jitsu,TUR-001,PLA-004,Branca
+4579,Gabriela Cunha,Muay Thai,TUR-060,PLA-006,Azul
+4582,Felipe Lopes,Karatê,TUR-052,PLA-003,Verde
+4588,Valentina Rocha,Muay Thai,TUR-066,PLA-006,Branca
+4591,Daniel Almeida,Muay Thai,TUR-070,PLA-012,Laranja
+4597,Mariana Almeida,Muay Thai,TUR-072,PLA-016,Amarela
+4603,Matheus Figueiredo,Judô,TUR-022,PLA-012,Branca
+4609,Valentina Cunha,Muay Thai,TUR-064,PLA-014,Laranja
+4614,Fernanda Duarte,Karatê,TUR-047,PLA-013,Amarela
+4615,Vinícius Sousa,Jiu-jitsu,TUR-004,PLA-009,Laranja
+4618,Elisa Amaral,Jiu-jitsu,TUR-002,PLA-006,Azul
+4625,Rafael Soares,Muay Thai,TUR-070,PLA-010,Cinza
+4632,Vitória Gomes,Muay Thai,TUR-069,PLA-015,Branca
+4633,César Machado,Judô,TUR-019,PLA-016,Branca
+4637,Heloísa Xavier,Jiu-jitsu,TUR-017,PLA-002,Amarela
+4639,Júlia Xavier,Jiu-jitsu,TUR-014,PLA-008,Branca
+4640,Igor Martins,Judô,TUR-023,PLA-008,Branca
+4646,Daniel Fonseca,Karatê,TUR-051,PLA-006,Cinza
+4647,André Pinto Marques,Jiu-jitsu,TUR-015,PLA-006,Azul
+4651,Igor Monteiro Nascimento,Jiu-jitsu,TUR-013,PLA-004,Amarela
+4655,Daniel Rocha,Jiu-jitsu,TUR-006,PLA-003,Roxa
+4662,Rafael Moreira,Judô,TUR-025,PLA-013,Cinza
+4666,Wesley Santos,Jiu-jitsu,TUR-016,PLA-015,Marrom
+4669,Rafael Campos,Muay Thai,TUR-064,PLA-007,Branca
+4671,Yasmin Duarte Marques,Jiu-jitsu,TUR-004,PLA-011,Amarela
+4672,Otávio Marques,Muay Thai,TUR-057,PLA-008,Branca
+4679,Felipe Rodrigues Cardoso,Jiu-jitsu,TUR-017,PLA-010,Amarela
+4686,Fernanda Araújo,Judô,TUR-033,PLA-014,Branca
+4692,Gustavo Vieira,Jiu-jitsu,TUR-002,PLA-005,Branca
+4693,Daniela Duarte,Jiu-jitsu,TUR-010,PLA-012,Azul
+4695,Larissa Martins,Judô,TUR-026,PLA-005,Branca
+4696,Leonardo Castro,Muay Thai,TUR-070,PLA-004,Amarela
+4703,Mariana Gomes,Jiu-jitsu,TUR-002,PLA-012,Cinza
+4705,Diego Almeida,Jiu-jitsu,TUR-004,PLA-006,Branca
+4712,Gabriel Marques,Judô,TUR-036,PLA-011,Branca
+4713,Daniel Monteiro Ferreira,Jiu-jitsu,TUR-004,PLA-006,Azul
+4720,Vinícius Rodrigues Pereira,Judô,TUR-022,PLA-008,Branca
+4721,Otávio Machado,Muay Thai,TUR-066,PLA-002,Laranja
+4723,Igor Nogueira,Karatê,TUR-049,PLA-001,Branca
+4724,Camila Dias Barros,Jiu-jitsu,TUR-003,PLA-009,Branca
+4730,Thiago Gomes Campos,Jiu-jitsu,TUR-014,PLA-006,Branca
+4734,Daniela Martins,Karatê,TUR-037,PLA-005,Laranja
+4735,Fábio Costa Gonçalves,Jiu-jitsu,TUR-016,PLA-007,Roxa
+4739,Valentina Dias,Jiu-jitsu,TUR-006,PLA-006,Amarela
+4746,Pedro Araújo,Jiu-jitsu,TUR-017,PLA-015,Laranja
+4747,Heloísa Medeiros,Judô,TUR-022,PLA-010,Laranja
+4749,César Coelho,Jiu-jitsu,TUR-011,PLA-006,Branca
+4751,Daniela Gomes,Judô,TUR-030,PLA-008,Cinza
+4752,Yasmin Nogueira Moraes,Muay Thai,TUR-055,PLA-009,Branca
+4754,Mariana Sousa,Jiu-jitsu,TUR-009,PLA-013,Cinza
+4757,Daniela Amaral Pereira,Muay Thai,TUR-060,PLA-010,Amarela
+4761,Rafaela Ribeiro Duarte,Muay Thai,TUR-061,PLA-007,Azul
+4762,Isabela Gonçalves,Jiu-jitsu,TUR-015,PLA-009,Roxa
+4766,Renata Machado Figueiredo,Judô,TUR-036,PLA-008,Azul
+4767,César Melo,Judô,TUR-029,PLA-005,Branca
+4771,Thiago Cunha,Jiu-jitsu,TUR-002,PLA-004,Amarela
+4772,Gabriela Medeiros,Judô,TUR-027,PLA-016,Branca
+4776,Yasmin Moura,Judô,TUR-023,PLA-006,Laranja
+4778,Wesley Freitas,Muay Thai,TUR-063,PLA-007,Branca
+4780,Samuel Ribeiro,Judô,TUR-033,PLA-015,Laranja
+4781,Isabela Rocha,Jiu-jitsu,TUR-013,PLA-007,Roxa
+4783,Heloísa Dias,Karatê,TUR-044,PLA-008,Cinza
+4785,Daniela Moreira Cardoso,Muay Thai,TUR-056,PLA-011,Laranja
+4790,Rafaela Pereira,Muay Thai,TUR-063,PLA-012,Cinza
+4792,Valentina Araújo,Jiu-jitsu,TUR-012,PLA-006,Azul
+4798,Ana Figueiredo Castro,Judô,TUR-020,PLA-013,Branca
+4801,Heloísa Lima Pereira,Judô,TUR-029,PLA-010,Roxa
+4802,Paula Costa,Jiu-jitsu,TUR-015,PLA-003,Branca
+4803,Larissa Fonseca,Jiu-jitsu,TUR-006,PLA-008,Verde
+4804,Matheus Teixeira Castro,Judô,TUR-019,PLA-011,Amarela
+4808,Júlia Pereira,Muay Thai,TUR-062,PLA-006,Amarela
+4809,Manuela Rocha Santos,Judô,TUR-019,PLA-004,Branca
+4816,Felipe Figueiredo,Muay Thai,TUR-070,PLA-007,Verde
+4818,Gustavo Reis,Karatê,TUR-040,PLA-011,Laranja
+4819,Júlia Mendes,Judô,TUR-036,PLA-010,Laranja
+4825,Marcelo Ferreira Costa,Judô,TUR-025,PLA-011,Laranja
+4828,Camila Marques,Jiu-jitsu,TUR-004,PLA-005,Branca
+4831,Rafael Mendes Fonseca,Jiu-jitsu,TUR-015,PLA-012,Azul
+4833,Júlia Cunha,Jiu-jitsu,TUR-011,PLA-005,Branca
+4840,Igor Monteiro,Muay Thai,TUR-066,PLA-008,Marrom
+4842,Matheus Lopes,Judô,TUR-027,PLA-004,Branca
+4844,Elisa Ferreira,Jiu-jitsu,TUR-015,PLA-006,Branca
+4853,Rafaela Araújo,Jiu-jitsu,TUR-003,PLA-006,Amarela
+4855,Vitória Melo,Jiu-jitsu,TUR-002,PLA-001,Laranja
+4856,Paula Borges,Muay Thai,TUR-058,PLA-013,Amarela
+4863,Daniela Nogueira,Jiu-jitsu,TUR-010,PLA-002,Branca
+4864,Diego Monteiro Castro,Jiu-jitsu,TUR-016,PLA-005,Amarela
+4871,Leonardo Barros,Karatê,TUR-037,PLA-010,Laranja
+4874,Fábio Castro,Muay Thai,TUR-061,PLA-010,Roxa
+4876,Gustavo Monteiro,Karatê,TUR-048,PLA-010,Branca
+4883,Pedro Lima Castro,Judô,TUR-032,PLA-011,Cinza
+4886,Gabriela Freitas,Muay Thai,TUR-056,PLA-007,Branca
+4893,Luana Ramos Moura,Jiu-jitsu,TUR-014,PLA-013,Roxa
+4902,Samuel Andrade,Muay Thai,TUR-055,PLA-011,Amarela
+4903,Caio Lopes,Judô,TUR-030,PLA-008,Cinza
+4907,Mirela Rodrigues Moreira,Jiu-jitsu,TUR-007,PLA-006,Azul
+4908,Felipe Costa,Judô,TUR-025,PLA-006,Roxa
+4909,Igor Carvalho,Muay Thai,TUR-058,PLA-010,Branca
+4916,Samuel Barros,Muay Thai,TUR-056,PLA-004,Branca
+4918,Heloísa Teixeira,Muay Thai,TUR-068,PLA-004,Marrom
+4920,Lucas Medeiros,Jiu-jitsu,TUR-001,PLA-007,Branca
+4926,Wesley Pinto,Jiu-jitsu,TUR-008,PLA-011,Marrom
+4927,Daniela Duarte Nascimento,Jiu-jitsu,TUR-003,PLA-004,Branca
+4928,Renata Barros Figueiredo,Muay Thai,TUR-060,PLA-006,Amarela
+4929,Rafaela Lima,Jiu-jitsu,TUR-006,PLA-010,Verde
+4930,Fábio Borges,Judô,TUR-019,PLA-013,Roxa
+4933,Ana Gomes Marques,Jiu-jitsu,TUR-018,PLA-010,Marrom
+4934,Fábio Amaral,Karatê,TUR-043,PLA-012,Branca
+4935,Fábio Santos Martins,Karatê,TUR-051,PLA-008,Branca
+4937,Caio Reis,Jiu-jitsu,TUR-017,PLA-011,Laranja
+4939,Heloísa Figueiredo Borges,Muay Thai,TUR-064,PLA-013,Branca
+4940,Heloísa Pinto,Jiu-jitsu,TUR-002,PLA-008,Amarela
+4947,Fernanda Rocha,Muay Thai,TUR-055,PLA-003,Branca
+4950,André Pereira Araújo,Judô,TUR-027,PLA-013,Laranja
+4951,Natália Lima,Jiu-jitsu,TUR-009,PLA-004,Verde
+4952,Ana Borges,Jiu-jitsu,TUR-007,PLA-006,Amarela
+4960,Sofia Andrade Gonçalves,Jiu-jitsu,TUR-018,PLA-011,Branca
+4962,Helena Cardoso,Judô,TUR-028,PLA-006,Verde
+4963,Elaine Dias,Jiu-jitsu,TUR-014,PLA-011,Verde
+4964,Thiago Cardoso,Judô,TUR-028,PLA-011,Branca
+4968,Valentina Andrade,Judô,TUR-023,PLA-004,Verde
+4970,Gabriel Ramos Monteiro,Muay Thai,TUR-067,PLA-006,Branca
+4976,Wesley Almeida,Jiu-jitsu,TUR-016,PLA-010,Cinza
+4982,Fernanda Barros,Jiu-jitsu,TUR-001,PLA-010,Laranja
+4988,Elaine Araújo Freitas,Jiu-jitsu,TUR-005,PLA-009,Branca
+4989,Otávio Moraes,Jiu-jitsu,TUR-018,PLA-002,Branca
+4992,Caio Duarte Martins,Muay Thai,TUR-059,PLA-002,Amarela
+4995,Renata Dias,Muay Thai,TUR-066,PLA-004,Cinza
+4997,Renata Borges Rodrigues,Judô,TUR-035,PLA-006,Laranja
+5003,Vinícius Pereira,Judô,TUR-034,PLA-013,Branca
+5005,Igor Rodrigues,Muay Thai,TUR-063,PLA-009,Branca
+5007,Caio Silva,Jiu-jitsu,TUR-017,PLA-004,Branca
+5016,Yasmin Campos,Judô,TUR-024,PLA-006,Branca
+5020,Heloísa Teixeira,Jiu-jitsu,TUR-010,PLA-009,Laranja
+5022,Elisa Nascimento,Jiu-jitsu,TUR-010,PLA-006,Laranja
+5029,Renata Figueiredo,Jiu-jitsu,TUR-005,PLA-013,Laranja
+5031,Rafaela Teixeira Xavier,Jiu-jitsu,TUR-011,PLA-003,Verde
+5032,Valentina Rodrigues,Muay Thai,TUR-072,PLA-003,Branca
+5045,Wesley Reis,Judô,TUR-028,PLA-010,Branca
+5051,Isabela Santos,Jiu-jitsu,TUR-011,PLA-012,Verde
+5058,Rafael Batista,Judô,TUR-026,PLA-008,Azul
+5060,Larissa Nascimento,Jiu-jitsu,TUR-009,PLA-014,Azul
+5062,Camila Batista,Jiu-jitsu,TUR-002,PLA-008,Verde
+5068,André Melo,Jiu-jitsu,TUR-001,PLA-013,Laranja
+5075,César Moura,Judô,TUR-029,PLA-003,Verde
+5078,Elaine Gonçalves,Judô,TUR-021,PLA-008,Amarela
+5079,Diego Barros,Muay Thai,TUR-059,PLA-006,Azul
+5082,Pedro Lima,Jiu-jitsu,TUR-012,PLA-001,Branca
+5089,Igor Martins Pereira,Muay Thai,TUR-065,PLA-010,Cinza
+5092,Eduardo Silva,Jiu-jitsu,TUR-003,PLA-004,Cinza
+5099,Caio Batista,Jiu-jitsu,TUR-017,PLA-012,Roxa
+5100,Camila Oliveira,Muay Thai,TUR-063,PLA-009,Branca
+5101,Larissa Mendes,Jiu-jitsu,TUR-017,PLA-010,Amarela
+5103,Natália Xavier,Judô,TUR-023,PLA-004,Cinza
+5106,Matheus Castro,Muay Thai,TUR-067,PLA-012,Branca
+5112,Fábio Gomes,Jiu-jitsu,TUR-018,PLA-008,Branca
+5116,César Cunha Barros,Muay Thai,TUR-065,PLA-002,Branca
+5120,Paula Ribeiro Almeida,Jiu-jitsu,TUR-003,PLA-007,Azul
+5124,Marcelo Moraes,Jiu-jitsu,TUR-006,PLA-001,Cinza
+5126,Rafaela Rodrigues,Jiu-jitsu,TUR-003,PLA-003,Laranja
+5130,Ricardo Silva,Jiu-jitsu,TUR-004,PLA-002,Laranja
+5132,Yasmin Fonseca,Jiu-jitsu,TUR-002,PLA-008,Branca
+5134,Bruno Reis,Muay Thai,TUR-060,PLA-004,Amarela
+5136,César Cardoso,Jiu-jitsu,TUR-014,PLA-003,Verde
+5140,André Moura Batista,Judô,TUR-026,PLA-004,Laranja
+5144,Heloísa Moreira,Muay Thai,TUR-062,PLA-001,Amarela
+5145,Otávio Pinto Xavier,Jiu-jitsu,TUR-002,PLA-006,Laranja
+5148,João Coelho,Jiu-jitsu,TUR-013,PLA-009,Branca
+5152,Heloísa Nogueira,Judô,TUR-025,PLA-014,Branca
+5156,Valentina Marques,Karatê,TUR-044,PLA-014,Amarela
+5159,Daniel Coelho,Jiu-jitsu,TUR-017,PLA-008,Laranja
+5165,Marcelo Santos,Muay Thai,TUR-065,PLA-010,Amarela
+5167,Bruno Castro,Jiu-jitsu,TUR-014,PLA-012,Branca
+5169,Heloísa Duarte Vieira,Jiu-jitsu,TUR-006,PLA-009,Azul
+5173,Isabela Ramos,Jiu-jitsu,TUR-005,PLA-001,Branca
+5174,Ana Freitas,Jiu-jitsu,TUR-006,PLA-006,Branca
+5176,Leonardo Melo,Muay Thai,TUR-065,PLA-010,Amarela
+5180,Samuel Xavier Ferreira,Muay Thai,TUR-066,PLA-011,Branca
+5186,Rafaela Cardoso,Jiu-jitsu,TUR-007,PLA-007,Verde
+5190,Beatriz Gomes,Jiu-jitsu,TUR-008,PLA-004,Amarela
+5192,Eduardo Barbosa,Muay Thai,TUR-059,PLA-005,Cinza
+5193,Felipe Machado Silva,Jiu-jitsu,TUR-008,PLA-005,Branca
+5200,Eduardo Batista,Judô,TUR-023,PLA-008,Branca
+5203,Wesley Cardoso,Jiu-jitsu,TUR-014,PLA-006,Roxa
+5204,Fábio Barbosa,Jiu-jitsu,TUR-010,PLA-010,Verde
+5206,Samuel Rocha,Jiu-jitsu,TUR-001,PLA-013,Branca
+5208,Paula Gonçalves,Karatê,TUR-042,PLA-008,Branca
+5212,Samuel Cardoso Campos,Muay Thai,TUR-061,PLA-013,Amarela
+5213,Daniel Teixeira Moraes,Jiu-jitsu,TUR-017,PLA-011,Amarela
+5215,João Moraes,Jiu-jitsu,TUR-007,PLA-004,Cinza
+5216,Renata Pinto,Judô,TUR-031,PLA-006,Laranja
+5219,Yasmin Monteiro Sousa,Jiu-jitsu,TUR-015,PLA-005,Verde
+5220,Samuel Pinto Medeiros,Judô,TUR-029,PLA-001,Amarela
+5221,Marcelo Batista Barbosa,Jiu-jitsu,TUR-005,PLA-013,Verde
+5222,Caio Martins,Judô,TUR-030,PLA-004,Branca
+5225,Renata Barros,Judô,TUR-025,PLA-009,Branca
+5227,Matheus Melo,Muay Thai,TUR-055,PLA-010,Amarela
+5233,Rafael Ferreira Sousa,Jiu-jitsu,TUR-016,PLA-008,Laranja
+5234,Rafael Moreira Dias,Judô,TUR-029,PLA-004,Verde
+5236,Helena Gomes,Muay Thai,TUR-055,PLA-011,Branca
+5239,Paula Soares,Jiu-jitsu,TUR-016,PLA-002,Cinza
+5247,Lucas Borges,Muay Thai,TUR-066,PLA-012,Laranja
+5251,Paula Oliveira,Muay Thai,TUR-056,PLA-004,Azul
+5253,Fábio Martins,Muay Thai,TUR-071,PLA-004,Amarela
+5257,Lucas Figueiredo,Karatê,TUR-052,PLA-002,Amarela
+5258,Diego Melo,Jiu-jitsu,TUR-011,PLA-006,Laranja
+5265,Samuel Ferreira,Karatê,TUR-052,PLA-011,Laranja
+5266,Ricardo Almeida,Karatê,TUR-054,PLA-004,Branca
+5270,Mariana Moreira,Jiu-jitsu,TUR-018,PLA-005,Amarela
+5276,Manuela Nogueira,Judô,TUR-023,PLA-010,Cinza
+5283,Leonardo Sousa Silva,Muay Thai,TUR-066,PLA-012,Azul
+5290,Felipe Vieira,Muay Thai,TUR-068,PLA-005,Branca
+5293,Elaine Moraes,Jiu-jitsu,TUR-007,PLA-010,Verde
+5297,Luana Andrade,Jiu-jitsu,TUR-014,PLA-009,Verde
+5299,Wesley Moraes,Jiu-jitsu,TUR-002,PLA-011,Cinza
+5305,Paula Barbosa,Jiu-jitsu,TUR-016,PLA-010,Branca
+5312,Bruno Freitas Moura,Jiu-jitsu,TUR-013,PLA-013,Laranja
+5313,Rafael Costa,Jiu-jitsu,TUR-005,PLA-007,Roxa
+5314,Felipe Dias,Muay Thai,TUR-067,PLA-008,Branca
+5321,André Batista Freitas,Muay Thai,TUR-059,PLA-002,Amarela
+5324,Mariana Araújo,Muay Thai,TUR-064,PLA-005,Branca
+5326,Daniela Andrade,Jiu-jitsu,TUR-013,PLA-010,Branca
+5327,Leonardo Nogueira,Muay Thai,TUR-059,PLA-006,Cinza
+5328,Mirela Moraes Lima,Jiu-jitsu,TUR-017,PLA-003,Verde
+5331,Helena Moura Araújo,Jiu-jitsu,TUR-003,PLA-006,Branca
+5332,Helena Ferreira,Karatê,TUR-038,PLA-008,Branca
+5334,Daniel Martins Carvalho,Muay Thai,TUR-058,PLA-001,Verde
+5338,Vitória Duarte,Karatê,TUR-039,PLA-011,Branca
+5339,Camila Nogueira,Jiu-jitsu,TUR-011,PLA-006,Amarela
+5340,Mariana Ribeiro,Muay Thai,TUR-063,PLA-004,Amarela
+5349,Ricardo Campos,Judô,TUR-019,PLA-005,Branca
+5354,Heloísa Cunha,Jiu-jitsu,TUR-017,PLA-006,Azul
+5358,Wesley Costa,Jiu-jitsu,TUR-008,PLA-002,Cinza
+5362,Beatriz Ramos,Jiu-jitsu,TUR-017,PLA-010,Cinza
+5364,Renata Coelho,Muay Thai,TUR-062,PLA-004,Cinza
+5365,Diego Carvalho,Jiu-jitsu,TUR-009,PLA-011,Branca
+5366,Elisa Nascimento,Muay Thai,TUR-066,PLA-011,Verde
+5368,Renata Coelho,Muay Thai,TUR-058,PLA-007,Roxa
+5371,Rafael Costa Moraes,Jiu-jitsu,TUR-005,PLA-010,Branca
+5373,Sofia Araújo Moreira,Muay Thai,TUR-067,PLA-012,Cinza
+5379,Valentina Gomes,Muay Thai,TUR-059,PLA-007,Amarela
+5380,Valentina Moreira,Muay Thai,TUR-063,PLA-005,Branca
+5386,Elisa Mendes,Jiu-jitsu,TUR-001,PLA-010,Laranja
+5393,Camila Martins,Judô,TUR-019,PLA-012,Laranja
+5395,Rafael Ribeiro,Muay Thai,TUR-056,PLA-009,Marrom
+5397,Camila Vieira,Muay Thai,TUR-056,PLA-011,Branca
+5400,Vinícius Mendes,Judô,TUR-023,PLA-004,Azul
+5402,Daniela Nogueira,Jiu-jitsu,TUR-015,PLA-012,Marrom
+5403,Manuela Melo,Jiu-jitsu,TUR-010,PLA-006,Amarela
+5420,Elisa Martins,Karatê,TUR-038,PLA-005,Verde
+5423,Yasmin Cardoso,Jiu-jitsu,TUR-004,PLA-007,Azul
+5424,Larissa Andrade Cunha,Muay Thai,TUR-070,PLA-006,Branca
+5425,Fábio Costa,Jiu-jitsu,TUR-012,PLA-006,Amarela
+5431,Fernanda Medeiros,Judô,TUR-031,PLA-007,Branca
+5434,Eduardo Castro,Muay Thai,TUR-069,PLA-016,Laranja
+5437,Larissa Coelho,Karatê,TUR-039,PLA-010,Verde
+5441,Rafael Nascimento,Jiu-jitsu,TUR-016,PLA-010,Amarela

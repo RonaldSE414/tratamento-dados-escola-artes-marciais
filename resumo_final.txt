@@ -1,0 +1,12 @@
+Data de referência: 2026-11-02
+Registros lidos: 1652
+Registros aproveitados: 1484
+Registros rejeitados: 168
+Registros com correção: 878
+Campos corrigidos: 1259
+Pagos: 721
+Em aberto: 376
+Atrasados: 387
+Frequência mínima de teste atingida: 741
+Verificações: 12
+Base fictícia. Multa de 2% e frequência mínima de 75% usadas apenas nos testes.

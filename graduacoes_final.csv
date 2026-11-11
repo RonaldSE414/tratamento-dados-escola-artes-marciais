@@ -1,0 +1,1485 @@
+﻿id_aluno,faixa_atual,frequencia_percentual,atingiu_frequencia_minima,situacao
+503,Cinza,64.7,Não,Ainda não atingiu a frequência mínima
+506,Amarela,92.9,Sim,Pode ser avaliado pelo professor
+507,Verde,71.4,Não,Ainda não atingiu a frequência mínima
+508,Cinza,78.6,Sim,Pode ser avaliado pelo professor
+513,Amarela,86.7,Sim,Pode ser avaliado pelo professor
+514,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+515,Laranja,60.0,Não,Ainda não atingiu a frequência mínima
+517,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+520,Roxa,55.6,Não,Ainda não atingiu a frequência mínima
+526,Branca,45.5,Não,Ainda não atingiu a frequência mínima
+530,Verde,86.7,Sim,Pode ser avaliado pelo professor
+536,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+540,Branca,88.2,Sim,Pode ser avaliado pelo professor
+541,Cinza,70.6,Não,Ainda não atingiu a frequência mínima
+543,Branca,77.8,Sim,Pode ser avaliado pelo professor
+552,Azul,54.5,Não,Ainda não atingiu a frequência mínima
+553,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+554,Verde,84.6,Sim,Pode ser avaliado pelo professor
+556,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+558,Laranja,72.7,Não,Ainda não atingiu a frequência mínima
+565,Marrom,71.4,Não,Ainda não atingiu a frequência mínima
+571,Branca,52.9,Não,Ainda não atingiu a frequência mínima
+577,Branca,64.3,Não,Ainda não atingiu a frequência mínima
+580,Amarela,92.3,Sim,Pode ser avaliado pelo professor
+587,Laranja,37.5,Não,Ainda não atingiu a frequência mínima
+590,Azul,58.3,Não,Ainda não atingiu a frequência mínima
+592,Branca,77.8,Sim,Pode ser avaliado pelo professor
+595,Cinza,69.2,Não,Ainda não atingiu a frequência mínima
+597,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+603,Branca,84.6,Sim,Pode ser avaliado pelo professor
+610,Branca,53.8,Não,Ainda não atingiu a frequência mínima
+614,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+616,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+623,Laranja,44.4,Não,Ainda não atingiu a frequência mínima
+627,Cinza,58.3,Não,Ainda não atingiu a frequência mínima
+631,Amarela,82.4,Sim,Pode ser avaliado pelo professor
+633,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+638,Branca,100.0,Sim,Pode ser avaliado pelo professor
+644,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+646,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+652,Cinza,76.9,Sim,Pode ser avaliado pelo professor
+660,Cinza,53.8,Não,Ainda não atingiu a frequência mínima
+664,Laranja,63.6,Não,Ainda não atingiu a frequência mínima
+666,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+668,Roxa,77.8,Sim,Pode ser avaliado pelo professor
+670,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+674,Branca,76.5,Sim,Pode ser avaliado pelo professor
+675,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+679,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+682,Branca,77.8,Sim,Pode ser avaliado pelo professor
+684,Marrom,70.6,Não,Ainda não atingiu a frequência mínima
+686,Cinza,91.7,Sim,Pode ser avaliado pelo professor
+692,Laranja,86.7,Sim,Pode ser avaliado pelo professor
+695,Branca,85.7,Sim,Pode ser avaliado pelo professor
+698,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+707,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+714,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+718,Branca,92.3,Sim,Pode ser avaliado pelo professor
+725,Verde,94.4,Sim,Pode ser avaliado pelo professor
+729,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+732,Laranja,45.5,Não,Ainda não atingiu a frequência mínima
+733,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+734,Azul,75.0,Sim,Pode ser avaliado pelo professor
+736,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+737,Branca,77.8,Sim,Pode ser avaliado pelo professor
+740,Roxa,90.9,Sim,Pode ser avaliado pelo professor
+744,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+745,Branca,75.0,Sim,Pode ser avaliado pelo professor
+746,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+748,Amarela,53.8,Não,Ainda não atingiu a frequência mínima
+756,Amarela,90.9,Sim,Pode ser avaliado pelo professor
+757,Branca,84.6,Sim,Pode ser avaliado pelo professor
+758,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+764,Roxa,87.5,Sim,Pode ser avaliado pelo professor
+768,Azul,69.2,Não,Ainda não atingiu a frequência mínima
+774,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+775,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+776,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+783,Branca,81.8,Sim,Pode ser avaliado pelo professor
+785,Branca,81.2,Sim,Pode ser avaliado pelo professor
+788,Cinza,57.1,Não,Ainda não atingiu a frequência mínima
+795,Azul,92.3,Sim,Pode ser avaliado pelo professor
+802,Marrom,93.3,Sim,Pode ser avaliado pelo professor
+808,Verde,93.3,Sim,Pode ser avaliado pelo professor
+810,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+813,Roxa,81.2,Sim,Pode ser avaliado pelo professor
+820,Branca,88.9,Sim,Pode ser avaliado pelo professor
+826,Roxa,64.3,Não,Ainda não atingiu a frequência mínima
+829,Branca,46.7,Não,Ainda não atingiu a frequência mínima
+830,Verde,100.0,Sim,Pode ser avaliado pelo professor
+833,Branca,90.9,Sim,Pode ser avaliado pelo professor
+837,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+840,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+847,Branca,55.6,Não,Ainda não atingiu a frequência mínima
+853,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+854,Branca,44.4,Não,Ainda não atingiu a frequência mínima
+855,Amarela,93.8,Sim,Pode ser avaliado pelo professor
+857,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+860,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+864,Cinza,70.6,Não,Ainda não atingiu a frequência mínima
+865,Amarela,69.2,Não,Ainda não atingiu a frequência mínima
+866,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+870,Verde,52.9,Não,Ainda não atingiu a frequência mínima
+871,Verde,88.2,Sim,Pode ser avaliado pelo professor
+872,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+873,Verde,83.3,Sim,Pode ser avaliado pelo professor
+883,Branca,85.7,Sim,Pode ser avaliado pelo professor
+884,Amarela,81.2,Sim,Pode ser avaliado pelo professor
+887,Laranja,90.0,Sim,Pode ser avaliado pelo professor
+889,Azul,90.0,Sim,Pode ser avaliado pelo professor
+890,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+893,Branca,76.5,Sim,Pode ser avaliado pelo professor
+900,Cinza,46.2,Não,Ainda não atingiu a frequência mínima
+901,Marrom,64.3,Não,Ainda não atingiu a frequência mínima
+907,Cinza,81.8,Sim,Pode ser avaliado pelo professor
+913,Azul,72.7,Não,Ainda não atingiu a frequência mínima
+914,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+920,Laranja,70.6,Não,Ainda não atingiu a frequência mínima
+924,Branca,87.5,Sim,Pode ser avaliado pelo professor
+925,Azul,70.6,Não,Ainda não atingiu a frequência mínima
+926,Amarela,73.3,Não,Ainda não atingiu a frequência mínima
+927,Laranja,84.6,Sim,Pode ser avaliado pelo professor
+933,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+937,Cinza,72.2,Não,Ainda não atingiu a frequência mínima
+939,Cinza,23.5,Não,Ainda não atingiu a frequência mínima
+940,Roxa,90.0,Sim,Pode ser avaliado pelo professor
+941,Amarela,92.3,Sim,Pode ser avaliado pelo professor
+942,Branca,91.7,Sim,Pode ser avaliado pelo professor
+946,Cinza,61.5,Não,Ainda não atingiu a frequência mínima
+950,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+956,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+962,Branca,69.2,Não,Ainda não atingiu a frequência mínima
+963,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+966,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+972,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+973,Roxa,100.0,Sim,Pode ser avaliado pelo professor
+982,Branca,100.0,Sim,Pode ser avaliado pelo professor
+983,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+990,Laranja,82.4,Sim,Pode ser avaliado pelo professor
+1003,Verde,90.0,Sim,Pode ser avaliado pelo professor
+1006,Amarela,69.2,Não,Ainda não atingiu a frequência mínima
+1008,Marrom,73.3,Não,Ainda não atingiu a frequência mínima
+1010,Verde,80.0,Sim,Pode ser avaliado pelo professor
+1011,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+1018,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+1021,Verde,80.0,Sim,Pode ser avaliado pelo professor
+1022,Amarela,92.3,Sim,Pode ser avaliado pelo professor
+1031,Azul,76.5,Sim,Pode ser avaliado pelo professor
+1033,Branca,41.2,Não,Ainda não atingiu a frequência mínima
+1035,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+1042,Verde,62.5,Não,Ainda não atingiu a frequência mínima
+1050,Verde,70.0,Não,Ainda não atingiu a frequência mínima
+1057,Branca,94.4,Sim,Pode ser avaliado pelo professor
+1064,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+1070,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1071,Amarela,36.4,Não,Ainda não atingiu a frequência mínima
+1076,Verde,85.7,Sim,Pode ser avaliado pelo professor
+1083,Laranja,83.3,Sim,Pode ser avaliado pelo professor
+1087,Cinza,91.7,Sim,Pode ser avaliado pelo professor
+1089,Roxa,33.3,Não,Ainda não atingiu a frequência mínima
+1091,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1093,Azul,90.0,Sim,Pode ser avaliado pelo professor
+1099,Laranja,64.3,Não,Ainda não atingiu a frequência mínima
+1100,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+1102,Amarela,68.8,Não,Ainda não atingiu a frequência mínima
+1105,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+1111,Branca,87.5,Sim,Pode ser avaliado pelo professor
+1114,Laranja,88.9,Sim,Pode ser avaliado pelo professor
+1120,Laranja,86.7,Sim,Pode ser avaliado pelo professor
+1126,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+1129,Amarela,92.9,Sim,Pode ser avaliado pelo professor
+1132,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+1133,Cinza,90.9,Sim,Pode ser avaliado pelo professor
+1134,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+1136,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+1137,Laranja,72.7,Não,Ainda não atingiu a frequência mínima
+1143,Amarela,64.3,Não,Ainda não atingiu a frequência mínima
+1149,Roxa,53.8,Não,Ainda não atingiu a frequência mínima
+1150,Cinza,76.9,Sim,Pode ser avaliado pelo professor
+1152,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+1159,Branca,61.5,Não,Ainda não atingiu a frequência mínima
+1163,Amarela,52.9,Não,Ainda não atingiu a frequência mínima
+1165,Amarela,28.6,Não,Ainda não atingiu a frequência mínima
+1169,Branca,88.2,Sim,Pode ser avaliado pelo professor
+1173,Laranja,78.6,Sim,Pode ser avaliado pelo professor
+1174,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+1181,Marrom,53.3,Não,Ainda não atingiu a frequência mínima
+1183,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+1189,Amarela,61.1,Não,Ainda não atingiu a frequência mínima
+1193,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+1194,Azul,70.0,Não,Ainda não atingiu a frequência mínima
+1197,Verde,60.0,Não,Ainda não atingiu a frequência mínima
+1199,Roxa,68.8,Não,Ainda não atingiu a frequência mínima
+1206,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+1210,Amarela,61.1,Não,Ainda não atingiu a frequência mínima
+1212,Branca,82.4,Sim,Pode ser avaliado pelo professor
+1215,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+1220,Roxa,87.5,Sim,Pode ser avaliado pelo professor
+1222,Laranja,81.8,Sim,Pode ser avaliado pelo professor
+1225,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1229,Branca,91.7,Sim,Pode ser avaliado pelo professor
+1230,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+1236,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+1239,Cinza,33.3,Não,Ainda não atingiu a frequência mínima
+1252,Branca,30.8,Não,Ainda não atingiu a frequência mínima
+1255,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+1257,Roxa,94.4,Sim,Pode ser avaliado pelo professor
+1258,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1260,Branca,80.0,Sim,Pode ser avaliado pelo professor
+1267,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+1269,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1270,Amarela,93.3,Sim,Pode ser avaliado pelo professor
+1279,Azul,69.2,Não,Ainda não atingiu a frequência mínima
+1283,Branca,85.7,Sim,Pode ser avaliado pelo professor
+1289,Verde,61.1,Não,Ainda não atingiu a frequência mínima
+1296,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+1302,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+1303,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+1309,Cinza,94.1,Sim,Pode ser avaliado pelo professor
+1310,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+1311,Verde,71.4,Não,Ainda não atingiu a frequência mínima
+1314,Cinza,57.1,Não,Ainda não atingiu a frequência mínima
+1321,Cinza,81.8,Sim,Pode ser avaliado pelo professor
+1322,Branca,85.7,Sim,Pode ser avaliado pelo professor
+1328,Laranja,31.2,Não,Ainda não atingiu a frequência mínima
+1331,Azul,72.7,Não,Ainda não atingiu a frequência mínima
+1333,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+1335,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+1341,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1348,Amarela,61.5,Não,Ainda não atingiu a frequência mínima
+1354,Amarela,37.5,Não,Ainda não atingiu a frequência mínima
+1356,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+1358,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+1359,Azul,61.5,Não,Ainda não atingiu a frequência mínima
+1366,Marrom,93.8,Sim,Pode ser avaliado pelo professor
+1374,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+1378,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1379,Amarela,58.3,Não,Ainda não atingiu a frequência mínima
+1380,Cinza,29.4,Não,Ainda não atingiu a frequência mínima
+1382,Verde,55.6,Não,Ainda não atingiu a frequência mínima
+1384,Amarela,86.7,Sim,Pode ser avaliado pelo professor
+1388,Branca,83.3,Sim,Pode ser avaliado pelo professor
+1389,Amarela,93.8,Sim,Pode ser avaliado pelo professor
+1391,Marrom,50.0,Não,Ainda não atingiu a frequência mínima
+1393,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+1400,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1401,Laranja,82.4,Sim,Pode ser avaliado pelo professor
+1404,Verde,85.7,Sim,Pode ser avaliado pelo professor
+1412,Azul,88.9,Sim,Pode ser avaliado pelo professor
+1413,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+1415,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+1418,Roxa,50.0,Não,Ainda não atingiu a frequência mínima
+1424,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+1425,Azul,72.2,Não,Ainda não atingiu a frequência mínima
+1427,Azul,94.1,Sim,Pode ser avaliado pelo professor
+1431,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+1432,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+1434,Azul,94.4,Sim,Pode ser avaliado pelo professor
+1435,Amarela,42.9,Não,Ainda não atingiu a frequência mínima
+1438,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+1442,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+1448,Amarela,93.8,Sim,Pode ser avaliado pelo professor
+1449,Azul,81.8,Sim,Pode ser avaliado pelo professor
+1456,Verde,92.3,Sim,Pode ser avaliado pelo professor
+1462,Amarela,70.0,Não,Ainda não atingiu a frequência mínima
+1463,Branca,83.3,Sim,Pode ser avaliado pelo professor
+1467,Azul,27.8,Não,Ainda não atingiu a frequência mínima
+1471,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+1475,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1476,Amarela,93.8,Sim,Pode ser avaliado pelo professor
+1485,Amarela,42.9,Não,Ainda não atingiu a frequência mínima
+1487,Cinza,76.9,Sim,Pode ser avaliado pelo professor
+1490,Azul,72.7,Não,Ainda não atingiu a frequência mínima
+1498,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+1499,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+1501,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+1503,Branca,35.7,Não,Ainda não atingiu a frequência mínima
+1505,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+1507,Laranja,53.8,Não,Ainda não atingiu a frequência mínima
+1508,Laranja,36.4,Não,Ainda não atingiu a frequência mínima
+1509,Amarela,90.9,Sim,Pode ser avaliado pelo professor
+1510,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+1511,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+1521,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+1523,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+1525,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1526,Branca,78.6,Sim,Pode ser avaliado pelo professor
+1537,Verde,45.5,Não,Ainda não atingiu a frequência mínima
+1541,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1543,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+1549,Branca,33.3,Não,Ainda não atingiu a frequência mínima
+1550,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+1551,Cinza,53.3,Não,Ainda não atingiu a frequência mínima
+1555,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+1556,Amarela,64.7,Não,Ainda não atingiu a frequência mínima
+1558,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1561,Laranja,62.5,Não,Ainda não atingiu a frequência mínima
+1568,Verde,44.4,Não,Ainda não atingiu a frequência mínima
+1570,Laranja,81.8,Sim,Pode ser avaliado pelo professor
+1576,Roxa,71.4,Não,Ainda não atingiu a frequência mínima
+1582,Marrom,57.1,Não,Ainda não atingiu a frequência mínima
+1584,Branca,80.0,Sim,Pode ser avaliado pelo professor
+1585,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+1586,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+1587,Amarela,84.6,Sim,Pode ser avaliado pelo professor
+1595,Verde,90.9,Sim,Pode ser avaliado pelo professor
+1596,Amarela,55.6,Não,Ainda não atingiu a frequência mínima
+1600,Branca,92.9,Sim,Pode ser avaliado pelo professor
+1603,Verde,69.2,Não,Ainda não atingiu a frequência mínima
+1604,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1605,Azul,61.5,Não,Ainda não atingiu a frequência mínima
+1606,Laranja,92.9,Sim,Pode ser avaliado pelo professor
+1613,Roxa,87.5,Sim,Pode ser avaliado pelo professor
+1617,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+1623,Branca,81.8,Sim,Pode ser avaliado pelo professor
+1630,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+1632,Verde,57.1,Não,Ainda não atingiu a frequência mínima
+1639,Laranja,73.3,Não,Ainda não atingiu a frequência mínima
+1641,Cinza,53.3,Não,Ainda não atingiu a frequência mínima
+1642,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+1643,Azul,45.5,Não,Ainda não atingiu a frequência mínima
+1645,Amarela,61.1,Não,Ainda não atingiu a frequência mínima
+1652,Amarela,64.7,Não,Ainda não atingiu a frequência mínima
+1653,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1654,Cinza,91.7,Sim,Pode ser avaliado pelo professor
+1655,Branca,81.8,Sim,Pode ser avaliado pelo professor
+1657,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1661,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+1662,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+1668,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+1670,Verde,37.5,Não,Ainda não atingiu a frequência mínima
+1677,Branca,45.5,Não,Ainda não atingiu a frequência mínima
+1679,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+1682,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+1686,Laranja,70.6,Não,Ainda não atingiu a frequência mínima
+1689,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+1691,Amarela,58.3,Não,Ainda não atingiu a frequência mínima
+1693,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+1699,Cinza,90.0,Sim,Pode ser avaliado pelo professor
+1701,Azul,77.8,Sim,Pode ser avaliado pelo professor
+1702,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+1709,Laranja,72.7,Não,Ainda não atingiu a frequência mínima
+1711,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+1712,Verde,71.4,Não,Ainda não atingiu a frequência mínima
+1713,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+1715,Roxa,75.0,Sim,Pode ser avaliado pelo professor
+1724,Laranja,52.9,Não,Ainda não atingiu a frequência mínima
+1725,Verde,88.9,Sim,Pode ser avaliado pelo professor
+1726,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+1727,Branca,44.4,Não,Ainda não atingiu a frequência mínima
+1735,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1739,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+1740,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+1742,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+1744,Verde,72.7,Não,Ainda não atingiu a frequência mínima
+1750,Branca,77.8,Sim,Pode ser avaliado pelo professor
+1751,Branca,55.6,Não,Ainda não atingiu a frequência mínima
+1755,Azul,76.5,Sim,Pode ser avaliado pelo professor
+1756,Branca,100.0,Sim,Pode ser avaliado pelo professor
+1757,Cinza,86.7,Sim,Pode ser avaliado pelo professor
+1758,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+1760,Amarela,90.0,Sim,Pode ser avaliado pelo professor
+1761,Marrom,54.5,Não,Ainda não atingiu a frequência mínima
+1762,Azul,94.4,Sim,Pode ser avaliado pelo professor
+1766,Branca,94.1,Sim,Pode ser avaliado pelo professor
+1770,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+1771,Branca,46.7,Não,Ainda não atingiu a frequência mínima
+1774,Branca,90.0,Sim,Pode ser avaliado pelo professor
+1778,Roxa,44.4,Não,Ainda não atingiu a frequência mínima
+1780,Cinza,46.2,Não,Ainda não atingiu a frequência mínima
+1781,Laranja,41.2,Não,Ainda não atingiu a frequência mínima
+1784,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+1787,Branca,81.8,Sim,Pode ser avaliado pelo professor
+1788,Azul,75.0,Sim,Pode ser avaliado pelo professor
+1790,Laranja,88.2,Sim,Pode ser avaliado pelo professor
+1791,Azul,76.9,Sim,Pode ser avaliado pelo professor
+1794,Branca,88.9,Sim,Pode ser avaliado pelo professor
+1796,Azul,63.6,Não,Ainda não atingiu a frequência mínima
+1804,Marrom,86.7,Sim,Pode ser avaliado pelo professor
+1811,Verde,87.5,Sim,Pode ser avaliado pelo professor
+1812,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+1815,Azul,75.0,Sim,Pode ser avaliado pelo professor
+1817,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1820,Amarela,56.2,Não,Ainda não atingiu a frequência mínima
+1821,Branca,90.9,Sim,Pode ser avaliado pelo professor
+1828,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+1831,Roxa,76.9,Sim,Pode ser avaliado pelo professor
+1833,Marrom,41.7,Não,Ainda não atingiu a frequência mínima
+1837,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+1838,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+1845,Laranja,100.0,Sim,Pode ser avaliado pelo professor
+1846,Laranja,66.7,Não,Ainda não atingiu a frequência mínima
+1847,Verde,25.0,Não,Ainda não atingiu a frequência mínima
+1854,Verde,77.8,Sim,Pode ser avaliado pelo professor
+1858,Roxa,58.3,Não,Ainda não atingiu a frequência mínima
+1862,Branca,76.5,Sim,Pode ser avaliado pelo professor
+1864,Branca,93.8,Sim,Pode ser avaliado pelo professor
+1865,Amarela,72.2,Não,Ainda não atingiu a frequência mínima
+1871,Branca,75.0,Sim,Pode ser avaliado pelo professor
+1873,Verde,16.7,Não,Ainda não atingiu a frequência mínima
+1875,Verde,62.5,Não,Ainda não atingiu a frequência mínima
+1876,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+1877,Branca,86.7,Sim,Pode ser avaliado pelo professor
+1879,Verde,76.9,Sim,Pode ser avaliado pelo professor
+1880,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+1882,Azul,94.4,Sim,Pode ser avaliado pelo professor
+1883,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+1887,Branca,83.3,Sim,Pode ser avaliado pelo professor
+1888,Azul,75.0,Sim,Pode ser avaliado pelo professor
+1897,Cinza,55.6,Não,Ainda não atingiu a frequência mínima
+1898,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+1899,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+1902,Cinza,92.3,Sim,Pode ser avaliado pelo professor
+1903,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+1910,Branca,81.2,Sim,Pode ser avaliado pelo professor
+1914,Marrom,73.3,Não,Ainda não atingiu a frequência mínima
+1921,Azul,53.8,Não,Ainda não atingiu a frequência mínima
+1922,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+1929,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+1930,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+1931,Verde,55.6,Não,Ainda não atingiu a frequência mínima
+1942,Verde,72.2,Não,Ainda não atingiu a frequência mínima
+1946,Azul,83.3,Sim,Pode ser avaliado pelo professor
+1950,Verde,58.3,Não,Ainda não atingiu a frequência mínima
+1951,Verde,86.7,Sim,Pode ser avaliado pelo professor
+1953,Verde,69.2,Não,Ainda não atingiu a frequência mínima
+1959,Branca,87.5,Sim,Pode ser avaliado pelo professor
+1963,Laranja,64.7,Não,Ainda não atingiu a frequência mínima
+1970,Azul,55.6,Não,Ainda não atingiu a frequência mínima
+1976,Cinza,92.3,Sim,Pode ser avaliado pelo professor
+1977,Amarela,70.6,Não,Ainda não atingiu a frequência mínima
+1984,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+1985,Cinza,78.6,Sim,Pode ser avaliado pelo professor
+1987,Verde,53.3,Não,Ainda não atingiu a frequência mínima
+1988,Branca,86.7,Sim,Pode ser avaliado pelo professor
+2001,Branca,75.0,Sim,Pode ser avaliado pelo professor
+2008,Branca,77.8,Sim,Pode ser avaliado pelo professor
+2011,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+2017,Branca,56.2,Não,Ainda não atingiu a frequência mínima
+2018,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+2019,Laranja,66.7,Não,Ainda não atingiu a frequência mínima
+2023,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+2027,Verde,75.0,Sim,Pode ser avaliado pelo professor
+2029,Azul,53.3,Não,Ainda não atingiu a frequência mínima
+2030,Verde,57.1,Não,Ainda não atingiu a frequência mínima
+2032,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+2038,Amarela,76.9,Sim,Pode ser avaliado pelo professor
+2047,Branca,90.0,Sim,Pode ser avaliado pelo professor
+2049,Verde,88.2,Sim,Pode ser avaliado pelo professor
+2056,Roxa,75.0,Sim,Pode ser avaliado pelo professor
+2059,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2060,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+2066,Azul,30.0,Não,Ainda não atingiu a frequência mínima
+2068,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+2074,Branca,80.0,Sim,Pode ser avaliado pelo professor
+2078,Laranja,62.5,Não,Ainda não atingiu a frequência mínima
+2084,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+2086,Roxa,75.0,Sim,Pode ser avaliado pelo professor
+2092,Verde,76.5,Sim,Pode ser avaliado pelo professor
+2096,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+2097,Amarela,78.6,Sim,Pode ser avaliado pelo professor
+2103,Amarela,38.5,Não,Ainda não atingiu a frequência mínima
+2104,Azul,83.3,Sim,Pode ser avaliado pelo professor
+2109,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+2111,Verde,75.0,Sim,Pode ser avaliado pelo professor
+2112,Branca,81.8,Sim,Pode ser avaliado pelo professor
+2113,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+2117,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+2120,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+2121,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+2125,Roxa,68.8,Não,Ainda não atingiu a frequência mínima
+2126,Amarela,70.6,Não,Ainda não atingiu a frequência mínima
+2130,Branca,46.2,Não,Ainda não atingiu a frequência mínima
+2132,Amarela,92.9,Sim,Pode ser avaliado pelo professor
+2139,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+2143,Roxa,91.7,Sim,Pode ser avaliado pelo professor
+2145,Laranja,61.1,Não,Ainda não atingiu a frequência mínima
+2153,Verde,92.3,Sim,Pode ser avaliado pelo professor
+2155,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+2157,Branca,76.9,Sim,Pode ser avaliado pelo professor
+2158,Azul,82.4,Sim,Pode ser avaliado pelo professor
+2165,Cinza,70.6,Não,Ainda não atingiu a frequência mínima
+2166,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+2167,Branca,86.7,Sim,Pode ser avaliado pelo professor
+2169,Roxa,83.3,Sim,Pode ser avaliado pelo professor
+2175,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+2176,Branca,36.4,Não,Ainda não atingiu a frequência mínima
+2177,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+2181,Laranja,84.6,Sim,Pode ser avaliado pelo professor
+2188,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+2191,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+2192,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+2193,Roxa,77.8,Sim,Pode ser avaliado pelo professor
+2194,Verde,83.3,Sim,Pode ser avaliado pelo professor
+2196,Marrom,71.4,Não,Ainda não atingiu a frequência mínima
+2198,Verde,92.3,Sim,Pode ser avaliado pelo professor
+2205,Cinza,63.6,Não,Ainda não atingiu a frequência mínima
+2209,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+2216,Branca,93.3,Sim,Pode ser avaliado pelo professor
+2219,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+2225,Verde,77.8,Sim,Pode ser avaliado pelo professor
+2227,Laranja,72.2,Não,Ainda não atingiu a frequência mínima
+2228,Branca,75.0,Sim,Pode ser avaliado pelo professor
+2229,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+2231,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+2232,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+2235,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+2236,Marrom,75.0,Sim,Pode ser avaliado pelo professor
+2237,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+2240,Cinza,52.9,Não,Ainda não atingiu a frequência mínima
+2247,Azul,100.0,Sim,Pode ser avaliado pelo professor
+2248,Branca,80.0,Sim,Pode ser avaliado pelo professor
+2251,Azul,90.0,Sim,Pode ser avaliado pelo professor
+2258,Marrom,46.2,Não,Ainda não atingiu a frequência mínima
+2260,Verde,94.1,Sim,Pode ser avaliado pelo professor
+2262,Cinza,57.1,Não,Ainda não atingiu a frequência mínima
+2264,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+2268,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+2271,Branca,44.4,Não,Ainda não atingiu a frequência mínima
+2278,Branca,84.6,Sim,Pode ser avaliado pelo professor
+2282,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+2283,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+2290,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+2293,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+2297,Azul,56.2,Não,Ainda não atingiu a frequência mínima
+2303,Amarela,90.0,Sim,Pode ser avaliado pelo professor
+2305,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+2308,Verde,37.5,Não,Ainda não atingiu a frequência mínima
+2310,Marrom,42.9,Não,Ainda não atingiu a frequência mínima
+2311,Laranja,81.2,Sim,Pode ser avaliado pelo professor
+2312,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+2313,Verde,52.9,Não,Ainda não atingiu a frequência mínima
+2320,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+2323,Branca,53.8,Não,Ainda não atingiu a frequência mínima
+2325,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+2326,Branca,61.5,Não,Ainda não atingiu a frequência mínima
+2329,Amarela,93.8,Sim,Pode ser avaliado pelo professor
+2333,Azul,84.6,Sim,Pode ser avaliado pelo professor
+2340,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+2344,Cinza,33.3,Não,Ainda não atingiu a frequência mínima
+2348,Branca,94.4,Sim,Pode ser avaliado pelo professor
+2352,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+2354,Cinza,58.8,Não,Ainda não atingiu a frequência mínima
+2361,Branca,64.7,Não,Ainda não atingiu a frequência mínima
+2365,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+2367,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+2370,Verde,90.9,Sim,Pode ser avaliado pelo professor
+2376,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+2383,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+2384,Marrom,82.4,Sim,Pode ser avaliado pelo professor
+2386,Roxa,83.3,Sim,Pode ser avaliado pelo professor
+2387,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+2389,Laranja,81.8,Sim,Pode ser avaliado pelo professor
+2392,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+2404,Branca,80.0,Sim,Pode ser avaliado pelo professor
+2408,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+2412,Cinza,93.3,Sim,Pode ser avaliado pelo professor
+2416,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+2417,Laranja,61.1,Não,Ainda não atingiu a frequência mínima
+2423,Verde,90.0,Sim,Pode ser avaliado pelo professor
+2424,Cinza,64.7,Não,Ainda não atingiu a frequência mínima
+2425,Roxa,87.5,Sim,Pode ser avaliado pelo professor
+2427,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+2429,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+2435,Marrom,100.0,Sim,Pode ser avaliado pelo professor
+2436,Azul,30.8,Não,Ainda não atingiu a frequência mínima
+2439,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+2440,Verde,87.5,Sim,Pode ser avaliado pelo professor
+2442,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2444,Verde,55.6,Não,Ainda não atingiu a frequência mínima
+2447,Verde,81.2,Sim,Pode ser avaliado pelo professor
+2454,Branca,76.5,Sim,Pode ser avaliado pelo professor
+2460,Cinza,84.6,Sim,Pode ser avaliado pelo professor
+2463,Cinza,53.3,Não,Ainda não atingiu a frequência mínima
+2469,Branca,58.8,Não,Ainda não atingiu a frequência mínima
+2473,Verde,81.8,Sim,Pode ser avaliado pelo professor
+2474,Azul,56.2,Não,Ainda não atingiu a frequência mínima
+2475,Azul,43.8,Não,Ainda não atingiu a frequência mínima
+2477,Marrom,63.6,Não,Ainda não atingiu a frequência mínima
+2478,Branca,75.0,Sim,Pode ser avaliado pelo professor
+2480,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+2483,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+2490,Verde,100.0,Sim,Pode ser avaliado pelo professor
+2491,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+2498,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+2505,Verde,64.3,Não,Ainda não atingiu a frequência mínima
+2509,Branca,76.9,Sim,Pode ser avaliado pelo professor
+2513,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+2514,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+2521,Verde,63.6,Não,Ainda não atingiu a frequência mínima
+2525,Amarela,41.7,Não,Ainda não atingiu a frequência mínima
+2531,Branca,80.0,Sim,Pode ser avaliado pelo professor
+2532,Branca,80.0,Sim,Pode ser avaliado pelo professor
+2533,Roxa,100.0,Sim,Pode ser avaliado pelo professor
+2534,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+2541,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+2542,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+2550,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+2558,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+2559,Branca,82.4,Sim,Pode ser avaliado pelo professor
+2560,Branca,36.4,Não,Ainda não atingiu a frequência mínima
+2567,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+2569,Amarela,28.6,Não,Ainda não atingiu a frequência mínima
+2578,Laranja,62.5,Não,Ainda não atingiu a frequência mínima
+2583,Verde,90.0,Sim,Pode ser avaliado pelo professor
+2585,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+2588,Marrom,82.4,Sim,Pode ser avaliado pelo professor
+2594,Laranja,81.8,Sim,Pode ser avaliado pelo professor
+2600,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+2608,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+2610,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+2611,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+2613,Branca,46.7,Não,Ainda não atingiu a frequência mínima
+2615,Azul,81.2,Sim,Pode ser avaliado pelo professor
+2617,Verde,90.0,Sim,Pode ser avaliado pelo professor
+2619,Branca,75.0,Sim,Pode ser avaliado pelo professor
+2623,Amarela,55.6,Não,Ainda não atingiu a frequência mínima
+2626,Branca,55.6,Não,Ainda não atingiu a frequência mínima
+2627,Roxa,40.0,Não,Ainda não atingiu a frequência mínima
+2632,Branca,88.9,Sim,Pode ser avaliado pelo professor
+2636,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+2637,Azul,100.0,Sim,Pode ser avaliado pelo professor
+2644,Azul,50.0,Não,Ainda não atingiu a frequência mínima
+2646,Verde,69.2,Não,Ainda não atingiu a frequência mínima
+2650,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+2658,Branca,69.2,Não,Ainda não atingiu a frequência mínima
+2661,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+2662,Branca,81.2,Sim,Pode ser avaliado pelo professor
+2663,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+2664,Branca,81.8,Sim,Pode ser avaliado pelo professor
+2665,Amarela,46.7,Não,Ainda não atingiu a frequência mínima
+2667,Roxa,56.2,Não,Ainda não atingiu a frequência mínima
+2673,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+2680,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+2684,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+2685,Branca,40.0,Não,Ainda não atingiu a frequência mínima
+2691,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+2692,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+2694,Branca,87.5,Sim,Pode ser avaliado pelo professor
+2698,Branca,85.7,Sim,Pode ser avaliado pelo professor
+2702,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2703,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+2709,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+2712,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+2713,Azul,80.0,Sim,Pode ser avaliado pelo professor
+2720,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+2724,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+2726,Laranja,93.8,Sim,Pode ser avaliado pelo professor
+2728,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+2729,Azul,77.8,Sim,Pode ser avaliado pelo professor
+2735,Verde,61.5,Não,Ainda não atingiu a frequência mínima
+2739,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+2746,Marrom,77.8,Sim,Pode ser avaliado pelo professor
+2750,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+2752,Branca,47.1,Não,Ainda não atingiu a frequência mínima
+2753,Amarela,55.6,Não,Ainda não atingiu a frequência mínima
+2754,Verde,57.1,Não,Ainda não atingiu a frequência mínima
+2760,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+2761,Verde,100.0,Sim,Pode ser avaliado pelo professor
+2763,Cinza,64.3,Não,Ainda não atingiu a frequência mínima
+2765,Azul,81.8,Sim,Pode ser avaliado pelo professor
+2766,Azul,83.3,Sim,Pode ser avaliado pelo professor
+2772,Azul,88.9,Sim,Pode ser avaliado pelo professor
+2778,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+2779,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+2785,Azul,83.3,Sim,Pode ser avaliado pelo professor
+2788,Branca,92.3,Sim,Pode ser avaliado pelo professor
+2791,Amarela,84.6,Sim,Pode ser avaliado pelo professor
+2792,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+2796,Branca,83.3,Sim,Pode ser avaliado pelo professor
+2798,Branca,46.2,Não,Ainda não atingiu a frequência mínima
+2800,Roxa,64.7,Não,Ainda não atingiu a frequência mínima
+2801,Verde,81.8,Sim,Pode ser avaliado pelo professor
+2803,Cinza,54.5,Não,Ainda não atingiu a frequência mínima
+2805,Roxa,57.1,Não,Ainda não atingiu a frequência mínima
+2812,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+2819,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2820,Laranja,78.6,Sim,Pode ser avaliado pelo professor
+2824,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+2825,Azul,77.8,Sim,Pode ser avaliado pelo professor
+2826,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+2828,Cinza,84.6,Sim,Pode ser avaliado pelo professor
+2831,Marrom,88.9,Sim,Pode ser avaliado pelo professor
+2839,Amarela,68.8,Não,Ainda não atingiu a frequência mínima
+2843,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+2844,Azul,57.1,Não,Ainda não atingiu a frequência mínima
+2850,Amarela,84.6,Sim,Pode ser avaliado pelo professor
+2851,Cinza,90.0,Sim,Pode ser avaliado pelo professor
+2853,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+2860,Branca,64.7,Não,Ainda não atingiu a frequência mínima
+2867,Laranja,35.7,Não,Ainda não atingiu a frequência mínima
+2874,Marrom,88.9,Sim,Pode ser avaliado pelo professor
+2887,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+2891,Cinza,60.0,Não,Ainda não atingiu a frequência mínima
+2895,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+2896,Roxa,70.0,Não,Ainda não atingiu a frequência mínima
+2898,Verde,87.5,Sim,Pode ser avaliado pelo professor
+2901,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+2905,Cinza,58.3,Não,Ainda não atingiu a frequência mínima
+2907,Branca,90.9,Sim,Pode ser avaliado pelo professor
+2908,Branca,86.7,Sim,Pode ser avaliado pelo professor
+2909,Laranja,83.3,Sim,Pode ser avaliado pelo professor
+2913,Branca,40.0,Não,Ainda não atingiu a frequência mínima
+2914,Branca,58.8,Não,Ainda não atingiu a frequência mínima
+2918,Verde,75.0,Sim,Pode ser avaliado pelo professor
+2920,Cinza,71.4,Não,Ainda não atingiu a frequência mínima
+2923,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+2929,Roxa,81.8,Sim,Pode ser avaliado pelo professor
+2930,Marrom,80.0,Sim,Pode ser avaliado pelo professor
+2931,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+2938,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+2942,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+2943,Amarela,58.8,Não,Ainda não atingiu a frequência mínima
+2946,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+2947,Verde,88.9,Sim,Pode ser avaliado pelo professor
+2949,Azul,77.8,Sim,Pode ser avaliado pelo professor
+2955,Marrom,62.5,Não,Ainda não atingiu a frequência mínima
+2956,Verde,90.0,Sim,Pode ser avaliado pelo professor
+2959,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+2960,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2964,Cinza,94.4,Sim,Pode ser avaliado pelo professor
+2965,Azul,78.6,Sim,Pode ser avaliado pelo professor
+2966,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+2969,Azul,84.6,Sim,Pode ser avaliado pelo professor
+2970,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+2974,Azul,69.2,Não,Ainda não atingiu a frequência mínima
+2976,Cinza,61.5,Não,Ainda não atingiu a frequência mínima
+2978,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+2979,Marrom,77.8,Sim,Pode ser avaliado pelo professor
+2983,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+2984,Azul,57.1,Não,Ainda não atingiu a frequência mínima
+2985,Laranja,100.0,Sim,Pode ser avaliado pelo professor
+2988,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+2991,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+2998,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+3002,Branca,92.3,Sim,Pode ser avaliado pelo professor
+3006,Branca,69.2,Não,Ainda não atingiu a frequência mínima
+3007,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3009,Amarela,91.7,Sim,Pode ser avaliado pelo professor
+3016,Azul,75.0,Sim,Pode ser avaliado pelo professor
+3017,Branca,81.2,Sim,Pode ser avaliado pelo professor
+3019,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+3020,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+3021,Roxa,52.9,Não,Ainda não atingiu a frequência mínima
+3025,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+3028,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+3029,Roxa,94.1,Sim,Pode ser avaliado pelo professor
+3031,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+3032,Laranja,91.7,Sim,Pode ser avaliado pelo professor
+3040,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+3041,Branca,77.8,Sim,Pode ser avaliado pelo professor
+3048,Branca,77.8,Sim,Pode ser avaliado pelo professor
+3049,Verde,85.7,Sim,Pode ser avaliado pelo professor
+3052,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3055,Marrom,46.2,Não,Ainda não atingiu a frequência mínima
+3058,Laranja,83.3,Sim,Pode ser avaliado pelo professor
+3065,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+3068,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+3074,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+3081,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3083,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+3085,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+3089,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+3092,Azul,78.6,Sim,Pode ser avaliado pelo professor
+3099,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+3101,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+3103,Verde,81.2,Sim,Pode ser avaliado pelo professor
+3104,Amarela,60.0,Não,Ainda não atingiu a frequência mínima
+3105,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+3107,Azul,62.5,Não,Ainda não atingiu a frequência mínima
+3114,Cinza,90.9,Sim,Pode ser avaliado pelo professor
+3118,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+3124,Azul,50.0,Não,Ainda não atingiu a frequência mínima
+3126,Verde,70.0,Não,Ainda não atingiu a frequência mínima
+3127,Laranja,88.9,Sim,Pode ser avaliado pelo professor
+3129,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+3133,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+3135,Laranja,61.1,Não,Ainda não atingiu a frequência mínima
+3137,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+3143,Azul,58.3,Não,Ainda não atingiu a frequência mínima
+3144,Laranja,73.3,Não,Ainda não atingiu a frequência mínima
+3148,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+3152,Verde,58.8,Não,Ainda não atingiu a frequência mínima
+3155,Branca,61.5,Não,Ainda não atingiu a frequência mínima
+3156,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+3158,Verde,71.4,Não,Ainda não atingiu a frequência mínima
+3162,Cinza,64.7,Não,Ainda não atingiu a frequência mínima
+3164,Verde,90.9,Sim,Pode ser avaliado pelo professor
+3165,Amarela,42.9,Não,Ainda não atingiu a frequência mínima
+3172,Roxa,81.8,Sim,Pode ser avaliado pelo professor
+3178,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3179,Azul,77.8,Sim,Pode ser avaliado pelo professor
+3187,Laranja,76.9,Sim,Pode ser avaliado pelo professor
+3193,Marrom,90.0,Sim,Pode ser avaliado pelo professor
+3199,Branca,88.9,Sim,Pode ser avaliado pelo professor
+3206,Amarela,55.6,Não,Ainda não atingiu a frequência mínima
+3207,Verde,80.0,Sim,Pode ser avaliado pelo professor
+3209,Branca,80.0,Sim,Pode ser avaliado pelo professor
+3211,Verde,71.4,Não,Ainda não atingiu a frequência mínima
+3213,Branca,83.3,Sim,Pode ser avaliado pelo professor
+3216,Branca,100.0,Sim,Pode ser avaliado pelo professor
+3217,Cinza,57.1,Não,Ainda não atingiu a frequência mínima
+3219,Verde,68.8,Não,Ainda não atingiu a frequência mínima
+3220,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3221,Branca,94.4,Sim,Pode ser avaliado pelo professor
+3222,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3223,Verde,72.7,Não,Ainda não atingiu a frequência mínima
+3224,Branca,88.9,Sim,Pode ser avaliado pelo professor
+3225,Roxa,64.7,Não,Ainda não atingiu a frequência mínima
+3226,Laranja,81.2,Sim,Pode ser avaliado pelo professor
+3230,Verde,100.0,Sim,Pode ser avaliado pelo professor
+3233,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+3236,Verde,72.7,Não,Ainda não atingiu a frequência mínima
+3238,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+3239,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+3246,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+3253,Verde,100.0,Sim,Pode ser avaliado pelo professor
+3257,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+3260,Amarela,70.0,Não,Ainda não atingiu a frequência mínima
+3268,Roxa,62.5,Não,Ainda não atingiu a frequência mínima
+3269,Laranja,93.8,Sim,Pode ser avaliado pelo professor
+3273,Azul,78.6,Sim,Pode ser avaliado pelo professor
+3279,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3283,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+3284,Marrom,60.0,Não,Ainda não atingiu a frequência mínima
+3288,Laranja,56.2,Não,Ainda não atingiu a frequência mínima
+3296,Verde,88.9,Sim,Pode ser avaliado pelo professor
+3298,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+3304,Verde,42.9,Não,Ainda não atingiu a frequência mínima
+3306,Laranja,90.0,Sim,Pode ser avaliado pelo professor
+3309,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+3311,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+3315,Cinza,86.7,Sim,Pode ser avaliado pelo professor
+3319,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+3321,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+3322,Azul,86.7,Sim,Pode ser avaliado pelo professor
+3324,Cinza,44.4,Não,Ainda não atingiu a frequência mínima
+3328,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+3329,Roxa,64.3,Não,Ainda não atingiu a frequência mínima
+3331,Azul,87.5,Sim,Pode ser avaliado pelo professor
+3334,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+3335,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+3341,Amarela,73.3,Não,Ainda não atingiu a frequência mínima
+3347,Marrom,100.0,Sim,Pode ser avaliado pelo professor
+3348,Amarela,92.9,Sim,Pode ser avaliado pelo professor
+3351,Verde,81.8,Sim,Pode ser avaliado pelo professor
+3354,Branca,87.5,Sim,Pode ser avaliado pelo professor
+3355,Cinza,93.3,Sim,Pode ser avaliado pelo professor
+3358,Cinza,53.8,Não,Ainda não atingiu a frequência mínima
+3361,Laranja,56.2,Não,Ainda não atingiu a frequência mínima
+3367,Laranja,87.5,Sim,Pode ser avaliado pelo professor
+3368,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3369,Branca,64.3,Não,Ainda não atingiu a frequência mínima
+3376,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+3378,Branca,83.3,Sim,Pode ser avaliado pelo professor
+3379,Cinza,46.7,Não,Ainda não atingiu a frequência mínima
+3380,Amarela,68.8,Não,Ainda não atingiu a frequência mínima
+3384,Laranja,93.8,Sim,Pode ser avaliado pelo professor
+3385,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3386,Marrom,40.0,Não,Ainda não atingiu a frequência mínima
+3387,Verde,54.5,Não,Ainda não atingiu a frequência mínima
+3389,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+3396,Laranja,54.5,Não,Ainda não atingiu a frequência mínima
+3397,Azul,83.3,Sim,Pode ser avaliado pelo professor
+3401,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+3402,Roxa,77.8,Sim,Pode ser avaliado pelo professor
+3409,Branca,77.8,Sim,Pode ser avaliado pelo professor
+3410,Cinza,61.1,Não,Ainda não atingiu a frequência mínima
+3411,Azul,57.1,Não,Ainda não atingiu a frequência mínima
+3414,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+3416,Verde,63.6,Não,Ainda não atingiu a frequência mínima
+3418,Azul,90.9,Sim,Pode ser avaliado pelo professor
+3420,Cinza,61.1,Não,Ainda não atingiu a frequência mínima
+3421,Marrom,69.2,Não,Ainda não atingiu a frequência mínima
+3422,Branca,91.7,Sim,Pode ser avaliado pelo professor
+3425,Branca,87.5,Sim,Pode ser avaliado pelo professor
+3426,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+3433,Amarela,69.2,Não,Ainda não atingiu a frequência mínima
+3439,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+3446,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+3454,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3456,Azul,88.2,Sim,Pode ser avaliado pelo professor
+3458,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+3460,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+3467,Branca,80.0,Sim,Pode ser avaliado pelo professor
+3468,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+3469,Branca,75.0,Sim,Pode ser avaliado pelo professor
+3470,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+3472,Laranja,90.0,Sim,Pode ser avaliado pelo professor
+3473,Cinza,33.3,Não,Ainda não atingiu a frequência mínima
+3480,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+3483,Marrom,85.7,Sim,Pode ser avaliado pelo professor
+3497,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+3503,Azul,63.6,Não,Ainda não atingiu a frequência mínima
+3509,Cinza,43.8,Não,Ainda não atingiu a frequência mínima
+3511,Azul,42.9,Não,Ainda não atingiu a frequência mínima
+3512,Roxa,87.5,Sim,Pode ser avaliado pelo professor
+3513,Verde,90.0,Sim,Pode ser avaliado pelo professor
+3514,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+3515,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+3523,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3524,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3530,Branca,81.8,Sim,Pode ser avaliado pelo professor
+3532,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+3533,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+3540,Cinza,55.6,Não,Ainda não atingiu a frequência mínima
+3547,Roxa,83.3,Sim,Pode ser avaliado pelo professor
+3548,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+3549,Cinza,81.2,Sim,Pode ser avaliado pelo professor
+3551,Laranja,78.6,Sim,Pode ser avaliado pelo professor
+3553,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+3560,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+3563,Cinza,81.8,Sim,Pode ser avaliado pelo professor
+3565,Amarela,70.0,Não,Ainda não atingiu a frequência mínima
+3567,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+3568,Laranja,54.5,Não,Ainda não atingiu a frequência mínima
+3570,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3572,Cinza,72.7,Não,Ainda não atingiu a frequência mínima
+3578,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+3579,Cinza,81.2,Sim,Pode ser avaliado pelo professor
+3585,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+3592,Azul,53.3,Não,Ainda não atingiu a frequência mínima
+3593,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+3595,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+3598,Amarela,64.3,Não,Ainda não atingiu a frequência mínima
+3600,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+3603,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+3605,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+3609,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+3610,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3619,Branca,69.2,Não,Ainda não atingiu a frequência mínima
+3620,Verde,76.9,Sim,Pode ser avaliado pelo professor
+3624,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+3630,Branca,87.5,Sim,Pode ser avaliado pelo professor
+3633,Branca,40.0,Não,Ainda não atingiu a frequência mínima
+3635,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+3639,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+3642,Laranja,62.5,Não,Ainda não atingiu a frequência mínima
+3643,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3645,Laranja,58.3,Não,Ainda não atingiu a frequência mínima
+3646,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+3652,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+3654,Cinza,92.9,Sim,Pode ser avaliado pelo professor
+3661,Amarela,78.6,Sim,Pode ser avaliado pelo professor
+3663,Branca,75.0,Sim,Pode ser avaliado pelo professor
+3666,Verde,100.0,Sim,Pode ser avaliado pelo professor
+3668,Branca,75.0,Sim,Pode ser avaliado pelo professor
+3670,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+3671,Branca,42.9,Não,Ainda não atingiu a frequência mínima
+3672,Branca,90.9,Sim,Pode ser avaliado pelo professor
+3676,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+3679,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+3685,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+3692,Roxa,69.2,Não,Ainda não atingiu a frequência mínima
+3698,Branca,80.0,Sim,Pode ser avaliado pelo professor
+3699,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+3703,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+3705,Cinza,84.6,Sim,Pode ser avaliado pelo professor
+3711,Verde,75.0,Sim,Pode ser avaliado pelo professor
+3713,Roxa,62.5,Não,Ainda não atingiu a frequência mínima
+3714,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+3716,Cinza,33.3,Não,Ainda não atingiu a frequência mínima
+3717,Amarela,88.2,Sim,Pode ser avaliado pelo professor
+3719,Amarela,92.9,Sim,Pode ser avaliado pelo professor
+3725,Verde,92.9,Sim,Pode ser avaliado pelo professor
+3727,Verde,100.0,Sim,Pode ser avaliado pelo professor
+3733,Branca,85.7,Sim,Pode ser avaliado pelo professor
+3736,Branca,30.0,Não,Ainda não atingiu a frequência mínima
+3752,Cinza,58.3,Não,Ainda não atingiu a frequência mínima
+3755,Marrom,54.5,Não,Ainda não atingiu a frequência mínima
+3763,Branca,82.4,Sim,Pode ser avaliado pelo professor
+3765,Amarela,46.2,Não,Ainda não atingiu a frequência mínima
+3770,Branca,75.0,Sim,Pode ser avaliado pelo professor
+3771,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+3772,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+3778,Branca,85.7,Sim,Pode ser avaliado pelo professor
+3780,Roxa,43.8,Não,Ainda não atingiu a frequência mínima
+3784,Azul,84.6,Sim,Pode ser avaliado pelo professor
+3785,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+3786,Branca,76.9,Sim,Pode ser avaliado pelo professor
+3788,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+3791,Amarela,41.7,Não,Ainda não atingiu a frequência mínima
+3798,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+3806,Amarela,91.7,Sim,Pode ser avaliado pelo professor
+3809,Cinza,63.6,Não,Ainda não atingiu a frequência mínima
+3810,Branca,94.4,Sim,Pode ser avaliado pelo professor
+3811,Cinza,61.5,Não,Ainda não atingiu a frequência mínima
+3815,Cinza,81.8,Sim,Pode ser avaliado pelo professor
+3816,Verde,80.0,Sim,Pode ser avaliado pelo professor
+3822,Cinza,93.8,Sim,Pode ser avaliado pelo professor
+3823,Laranja,93.3,Sim,Pode ser avaliado pelo professor
+3827,Azul,64.7,Não,Ainda não atingiu a frequência mínima
+3838,Branca,73.3,Não,Ainda não atingiu a frequência mínima
+3845,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+3847,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+3848,Verde,60.0,Não,Ainda não atingiu a frequência mínima
+3849,Amarela,56.2,Não,Ainda não atingiu a frequência mínima
+3851,Branca,88.9,Sim,Pode ser avaliado pelo professor
+3852,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+3863,Marrom,54.5,Não,Ainda não atingiu a frequência mínima
+3865,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+3867,Branca,78.6,Sim,Pode ser avaliado pelo professor
+3868,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+3875,Azul,53.3,Não,Ainda não atingiu a frequência mínima
+3876,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+3877,Azul,88.2,Sim,Pode ser avaliado pelo professor
+3881,Verde,81.2,Sim,Pode ser avaliado pelo professor
+3882,Azul,80.0,Sim,Pode ser avaliado pelo professor
+3885,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+3886,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+3887,Verde,88.9,Sim,Pode ser avaliado pelo professor
+3892,Azul,81.2,Sim,Pode ser avaliado pelo professor
+3893,Laranja,70.6,Não,Ainda não atingiu a frequência mínima
+3897,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+3899,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3906,Azul,53.8,Não,Ainda não atingiu a frequência mínima
+3909,Laranja,83.3,Sim,Pode ser avaliado pelo professor
+3910,Verde,81.2,Sim,Pode ser avaliado pelo professor
+3911,Amarela,77.8,Sim,Pode ser avaliado pelo professor
+3913,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+3914,Branca,100.0,Sim,Pode ser avaliado pelo professor
+3921,Verde,85.7,Sim,Pode ser avaliado pelo professor
+3922,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+3929,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+3930,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+3932,Cinza,91.7,Sim,Pode ser avaliado pelo professor
+3936,Roxa,72.2,Não,Ainda não atingiu a frequência mínima
+3937,Branca,41.2,Não,Ainda não atingiu a frequência mínima
+3940,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+3944,Verde,68.8,Não,Ainda não atingiu a frequência mínima
+3946,Laranja,64.3,Não,Ainda não atingiu a frequência mínima
+3952,Amarela,70.0,Não,Ainda não atingiu a frequência mínima
+3953,Verde,81.2,Sim,Pode ser avaliado pelo professor
+3954,Azul,83.3,Sim,Pode ser avaliado pelo professor
+3957,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+3964,Amarela,91.7,Sim,Pode ser avaliado pelo professor
+3971,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+3978,Azul,81.8,Sim,Pode ser avaliado pelo professor
+3982,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+3984,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+3990,Branca,63.6,Não,Ainda não atingiu a frequência mínima
+3994,Branca,41.7,Não,Ainda não atingiu a frequência mínima
+3995,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+4001,Amarela,43.8,Não,Ainda não atingiu a frequência mínima
+4004,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4005,Azul,57.1,Não,Ainda não atingiu a frequência mínima
+4012,Verde,83.3,Sim,Pode ser avaliado pelo professor
+4014,Branca,64.7,Não,Ainda não atingiu a frequência mínima
+4015,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+4018,Branca,76.5,Sim,Pode ser avaliado pelo professor
+4024,Branca,76.5,Sim,Pode ser avaliado pelo professor
+4028,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+4030,Branca,76.9,Sim,Pode ser avaliado pelo professor
+4032,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+4035,Verde,61.1,Não,Ainda não atingiu a frequência mínima
+4037,Cinza,55.6,Não,Ainda não atingiu a frequência mínima
+4038,Verde,41.2,Não,Ainda não atingiu a frequência mínima
+4039,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4040,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+4042,Cinza,69.2,Não,Ainda não atingiu a frequência mínima
+4043,Branca,88.9,Sim,Pode ser avaliado pelo professor
+4044,Azul,83.3,Sim,Pode ser avaliado pelo professor
+4045,Branca,75.0,Sim,Pode ser avaliado pelo professor
+4049,Azul,75.0,Sim,Pode ser avaliado pelo professor
+4056,Laranja,36.4,Não,Ainda não atingiu a frequência mínima
+4059,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4063,Branca,86.7,Sim,Pode ser avaliado pelo professor
+4066,Verde,92.3,Sim,Pode ser avaliado pelo professor
+4069,Laranja,73.3,Não,Ainda não atingiu a frequência mínima
+4075,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+4076,Branca,83.3,Sim,Pode ser avaliado pelo professor
+4078,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+4084,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+4086,Branca,83.3,Sim,Pode ser avaliado pelo professor
+4093,Branca,82.4,Sim,Pode ser avaliado pelo professor
+4100,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+4101,Branca,92.3,Sim,Pode ser avaliado pelo professor
+4103,Azul,50.0,Não,Ainda não atingiu a frequência mínima
+4105,Amarela,84.6,Sim,Pode ser avaliado pelo professor
+4111,Amarela,78.6,Sim,Pode ser avaliado pelo professor
+4115,Cinza,72.7,Não,Ainda não atingiu a frequência mínima
+4117,Cinza,81.8,Sim,Pode ser avaliado pelo professor
+4119,Branca,82.4,Sim,Pode ser avaliado pelo professor
+4127,Roxa,88.2,Sim,Pode ser avaliado pelo professor
+4128,Verde,82.4,Sim,Pode ser avaliado pelo professor
+4129,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+4132,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+4136,Azul,100.0,Sim,Pode ser avaliado pelo professor
+4137,Branca,40.0,Não,Ainda não atingiu a frequência mínima
+4139,Cinza,44.4,Não,Ainda não atingiu a frequência mínima
+4140,Laranja,41.7,Não,Ainda não atingiu a frequência mínima
+4142,Azul,50.0,Não,Ainda não atingiu a frequência mínima
+4148,Branca,38.9,Não,Ainda não atingiu a frequência mínima
+4150,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+4151,Branca,72.2,Não,Ainda não atingiu a frequência mínima
+4154,Branca,81.2,Sim,Pode ser avaliado pelo professor
+4164,Cinza,30.0,Não,Ainda não atingiu a frequência mínima
+4167,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+4173,Cinza,84.6,Sim,Pode ser avaliado pelo professor
+4175,Amarela,58.8,Não,Ainda não atingiu a frequência mínima
+4178,Azul,73.3,Não,Ainda não atingiu a frequência mínima
+4181,Branca,88.9,Sim,Pode ser avaliado pelo professor
+4183,Verde,83.3,Sim,Pode ser avaliado pelo professor
+4184,Amarela,27.3,Não,Ainda não atingiu a frequência mínima
+4185,Marrom,76.9,Sim,Pode ser avaliado pelo professor
+4192,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+4197,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+4200,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+4202,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+4203,Marrom,50.0,Não,Ainda não atingiu a frequência mínima
+4210,Amarela,76.9,Sim,Pode ser avaliado pelo professor
+4214,Roxa,71.4,Não,Ainda não atingiu a frequência mínima
+4216,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+4217,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+4218,Amarela,72.7,Não,Ainda não atingiu a frequência mínima
+4225,Azul,58.3,Não,Ainda não atingiu a frequência mínima
+4231,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4232,Branca,84.6,Sim,Pode ser avaliado pelo professor
+4234,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+4235,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+4237,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+4244,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+4245,Cinza,80.0,Sim,Pode ser avaliado pelo professor
+4251,Amarela,61.5,Não,Ainda não atingiu a frequência mínima
+4252,Laranja,72.7,Não,Ainda não atingiu a frequência mínima
+4258,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+4259,Branca,90.9,Sim,Pode ser avaliado pelo professor
+4263,Azul,93.8,Sim,Pode ser avaliado pelo professor
+4264,Laranja,88.9,Sim,Pode ser avaliado pelo professor
+4266,Branca,80.0,Sim,Pode ser avaliado pelo professor
+4267,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+4268,Roxa,42.9,Não,Ainda não atingiu a frequência mínima
+4273,Roxa,27.3,Não,Ainda não atingiu a frequência mínima
+4280,Amarela,86.7,Sim,Pode ser avaliado pelo professor
+4281,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+4282,Verde,52.9,Não,Ainda não atingiu a frequência mínima
+4293,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+4294,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+4300,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+4306,Branca,94.4,Sim,Pode ser avaliado pelo professor
+4308,Branca,64.3,Não,Ainda não atingiu a frequência mínima
+4311,Laranja,62.5,Não,Ainda não atingiu a frequência mínima
+4313,Roxa,85.7,Sim,Pode ser avaliado pelo professor
+4315,Azul,72.7,Não,Ainda não atingiu a frequência mínima
+4319,Amarela,33.3,Não,Ainda não atingiu a frequência mínima
+4322,Verde,63.6,Não,Ainda não atingiu a frequência mínima
+4328,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+4334,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+4336,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+4338,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+4344,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4346,Roxa,90.0,Sim,Pode ser avaliado pelo professor
+4347,Verde,100.0,Sim,Pode ser avaliado pelo professor
+4354,Amarela,36.4,Não,Ainda não atingiu a frequência mínima
+4356,Branca,76.9,Sim,Pode ser avaliado pelo professor
+4357,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+4358,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+4364,Amarela,76.5,Sim,Pode ser avaliado pelo professor
+4367,Branca,88.9,Sim,Pode ser avaliado pelo professor
+4368,Branca,82.4,Sim,Pode ser avaliado pelo professor
+4375,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+4376,Branca,46.7,Não,Ainda não atingiu a frequência mínima
+4382,Azul,27.3,Não,Ainda não atingiu a frequência mínima
+4384,Amarela,36.4,Não,Ainda não atingiu a frequência mínima
+4386,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+4392,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4393,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+4396,Branca,77.8,Sim,Pode ser avaliado pelo professor
+4403,Laranja,61.1,Não,Ainda não atingiu a frequência mínima
+4410,Branca,100.0,Sim,Pode ser avaliado pelo professor
+4411,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+4415,Amarela,61.5,Não,Ainda não atingiu a frequência mínima
+4417,Azul,78.6,Sim,Pode ser avaliado pelo professor
+4418,Azul,70.6,Não,Ainda não atingiu a frequência mínima
+4420,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4427,Branca,64.3,Não,Ainda não atingiu a frequência mínima
+4429,Verde,41.7,Não,Ainda não atingiu a frequência mínima
+4432,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+4433,Laranja,47.1,Não,Ainda não atingiu a frequência mínima
+4439,Amarela,30.0,Não,Ainda não atingiu a frequência mínima
+4448,Marrom,80.0,Sim,Pode ser avaliado pelo professor
+4449,Branca,88.9,Sim,Pode ser avaliado pelo professor
+4450,Branca,45.5,Não,Ainda não atingiu a frequência mínima
+4451,Azul,62.5,Não,Ainda não atingiu a frequência mínima
+4453,Branca,61.1,Não,Ainda não atingiu a frequência mínima
+4455,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+4459,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+4460,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+4462,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+4466,Amarela,92.3,Sim,Pode ser avaliado pelo professor
+4470,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4474,Laranja,93.8,Sim,Pode ser avaliado pelo professor
+4478,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+4482,Branca,77.8,Sim,Pode ser avaliado pelo professor
+4484,Roxa,64.7,Não,Ainda não atingiu a frequência mínima
+4485,Verde,87.5,Sim,Pode ser avaliado pelo professor
+4486,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+4487,Roxa,21.4,Não,Ainda não atingiu a frequência mínima
+4488,Amarela,58.3,Não,Ainda não atingiu a frequência mínima
+2009,Verde,84.6,Sim,Pode ser avaliado pelo professor
+4500,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+4502,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+4504,Cinza,87.5,Sim,Pode ser avaliado pelo professor
+4505,Branca,76.5,Sim,Pode ser avaliado pelo professor
+4506,Amarela,52.9,Não,Ainda não atingiu a frequência mínima
+4511,Branca,80.0,Sim,Pode ser avaliado pelo professor
+4515,Azul,70.0,Não,Ainda não atingiu a frequência mínima
+4516,Cinza,88.2,Sim,Pode ser avaliado pelo professor
+4517,Verde,70.6,Não,Ainda não atingiu a frequência mínima
+4519,Branca,88.9,Sim,Pode ser avaliado pelo professor
+4522,Cinza,42.9,Não,Ainda não atingiu a frequência mínima
+4524,Azul,92.3,Sim,Pode ser avaliado pelo professor
+4525,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+4531,Verde,82.4,Sim,Pode ser avaliado pelo professor
+4532,Amarela,90.0,Sim,Pode ser avaliado pelo professor
+4533,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+4534,Branca,77.8,Sim,Pode ser avaliado pelo professor
+4539,Amarela,42.9,Não,Ainda não atingiu a frequência mínima
+4540,Verde,70.0,Não,Ainda não atingiu a frequência mínima
+4541,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+4548,Amarela,86.7,Sim,Pode ser avaliado pelo professor
+4555,Roxa,90.0,Sim,Pode ser avaliado pelo professor
+4558,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+4560,Branca,50.0,Não,Ainda não atingiu a frequência mínima
+4564,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+4566,Verde,60.0,Não,Ainda não atingiu a frequência mínima
+4567,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+4574,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4579,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+4582,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+4588,Branca,80.0,Sim,Pode ser avaliado pelo professor
+4591,Laranja,88.9,Sim,Pode ser avaliado pelo professor
+4597,Amarela,85.7,Sim,Pode ser avaliado pelo professor
+4603,Branca,80.0,Sim,Pode ser avaliado pelo professor
+4609,Laranja,90.0,Sim,Pode ser avaliado pelo professor
+4614,Amarela,94.4,Sim,Pode ser avaliado pelo professor
+4615,Laranja,50.0,Não,Ainda não atingiu a frequência mínima
+4618,Azul,83.3,Sim,Pode ser avaliado pelo professor
+4625,Cinza,41.2,Não,Ainda não atingiu a frequência mínima
+4632,Branca,70.6,Não,Ainda não atingiu a frequência mínima
+4633,Branca,61.5,Não,Ainda não atingiu a frequência mínima
+4637,Amarela,58.3,Não,Ainda não atingiu a frequência mínima
+4639,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+4640,Branca,100.0,Sim,Pode ser avaliado pelo professor
+4646,Cinza,53.8,Não,Ainda não atingiu a frequência mínima
+4647,Azul,35.3,Não,Ainda não atingiu a frequência mínima
+4651,Amarela,64.7,Não,Ainda não atingiu a frequência mínima
+4655,Roxa,66.7,Não,Ainda não atingiu a frequência mínima
+4662,Cinza,61.5,Não,Ainda não atingiu a frequência mínima
+4666,Marrom,94.4,Sim,Pode ser avaliado pelo professor
+4669,Branca,55.6,Não,Ainda não atingiu a frequência mínima
+4671,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+4672,Branca,86.7,Sim,Pode ser avaliado pelo professor
+4679,Amarela,100.0,Sim,Pode ser avaliado pelo professor
+4686,Branca,83.3,Sim,Pode ser avaliado pelo professor
+4692,Branca,75.0,Sim,Pode ser avaliado pelo professor
+4693,Azul,69.2,Não,Ainda não atingiu a frequência mínima
+4695,Branca,76.9,Sim,Pode ser avaliado pelo professor
+4696,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+4703,Cinza,62.5,Não,Ainda não atingiu a frequência mínima
+4705,Branca,87.5,Sim,Pode ser avaliado pelo professor
+4712,Branca,75.0,Sim,Pode ser avaliado pelo professor
+4713,Azul,60.0,Não,Ainda não atingiu a frequência mínima
+4720,Branca,60.0,Não,Ainda não atingiu a frequência mínima
+4721,Laranja,47.1,Não,Ainda não atingiu a frequência mínima
+4723,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+4724,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+4730,Branca,41.7,Não,Ainda não atingiu a frequência mínima
+4734,Laranja,90.9,Sim,Pode ser avaliado pelo professor
+4735,Roxa,37.5,Não,Ainda não atingiu a frequência mínima
+4739,Amarela,64.7,Não,Ainda não atingiu a frequência mínima
+4746,Laranja,78.6,Sim,Pode ser avaliado pelo professor
+4747,Laranja,88.9,Sim,Pode ser avaliado pelo professor
+4749,Branca,29.4,Não,Ainda não atingiu a frequência mínima
+4751,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+4752,Branca,76.5,Sim,Pode ser avaliado pelo professor
+4754,Cinza,88.9,Sim,Pode ser avaliado pelo professor
+4757,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+4761,Azul,80.0,Sim,Pode ser avaliado pelo professor
+4762,Roxa,50.0,Não,Ainda não atingiu a frequência mínima
+4766,Azul,80.0,Sim,Pode ser avaliado pelo professor
+4767,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+4771,Amarela,68.8,Não,Ainda não atingiu a frequência mínima
+4772,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+4776,Laranja,83.3,Sim,Pode ser avaliado pelo professor
+4778,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+4780,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+4781,Roxa,83.3,Sim,Pode ser avaliado pelo professor
+4783,Cinza,54.5,Não,Ainda não atingiu a frequência mínima
+4785,Laranja,66.7,Não,Ainda não atingiu a frequência mínima
+4790,Cinza,38.9,Não,Ainda não atingiu a frequência mínima
+4792,Azul,80.0,Sim,Pode ser avaliado pelo professor
+4798,Branca,40.0,Não,Ainda não atingiu a frequência mínima
+4801,Roxa,78.6,Sim,Pode ser avaliado pelo professor
+4802,Branca,83.3,Sim,Pode ser avaliado pelo professor
+4803,Verde,75.0,Sim,Pode ser avaliado pelo professor
+4804,Amarela,29.4,Não,Ainda não atingiu a frequência mínima
+4808,Amarela,73.3,Não,Ainda não atingiu a frequência mínima
+4809,Branca,68.8,Não,Ainda não atingiu a frequência mínima
+4816,Verde,90.9,Sim,Pode ser avaliado pelo professor
+4818,Laranja,36.4,Não,Ainda não atingiu a frequência mínima
+4819,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+4825,Laranja,80.0,Sim,Pode ser avaliado pelo professor
+4828,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+4831,Azul,57.1,Não,Ainda não atingiu a frequência mínima
+4833,Branca,45.5,Não,Ainda não atingiu a frequência mínima
+4840,Marrom,57.1,Não,Ainda não atingiu a frequência mínima
+4842,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+4844,Branca,64.3,Não,Ainda não atingiu a frequência mínima
+4853,Amarela,61.5,Não,Ainda não atingiu a frequência mínima
+4855,Laranja,55.6,Não,Ainda não atingiu a frequência mínima
+4856,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+4863,Branca,83.3,Sim,Pode ser avaliado pelo professor
+4864,Amarela,75.0,Sim,Pode ser avaliado pelo professor
+4871,Laranja,69.2,Não,Ainda não atingiu a frequência mínima
+4874,Roxa,37.5,Não,Ainda não atingiu a frequência mínima
+4876,Branca,91.7,Sim,Pode ser avaliado pelo professor
+4883,Cinza,42.9,Não,Ainda não atingiu a frequência mínima
+4886,Branca,75.0,Sim,Pode ser avaliado pelo professor
+4893,Roxa,69.2,Não,Ainda não atingiu a frequência mínima
+4902,Amarela,66.7,Não,Ainda não atingiu a frequência mínima
+4903,Cinza,91.7,Sim,Pode ser avaliado pelo professor
+4907,Azul,50.0,Não,Ainda não atingiu a frequência mínima
+4908,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+4909,Branca,100.0,Sim,Pode ser avaliado pelo professor
+4916,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4918,Marrom,81.8,Sim,Pode ser avaliado pelo professor
+4920,Branca,82.4,Sim,Pode ser avaliado pelo professor
+4926,Marrom,71.4,Não,Ainda não atingiu a frequência mínima
+4927,Branca,100.0,Sim,Pode ser avaliado pelo professor
+4928,Amarela,44.4,Não,Ainda não atingiu a frequência mínima
+4929,Verde,64.3,Não,Ainda não atingiu a frequência mínima
+4930,Roxa,90.0,Sim,Pode ser avaliado pelo professor
+4933,Marrom,90.9,Sim,Pode ser avaliado pelo professor
+4934,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+4935,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+4937,Laranja,45.5,Não,Ainda não atingiu a frequência mínima
+4939,Branca,100.0,Sim,Pode ser avaliado pelo professor
+4940,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+4947,Branca,70.0,Não,Ainda não atingiu a frequência mínima
+4950,Laranja,70.6,Não,Ainda não atingiu a frequência mínima
+4951,Verde,66.7,Não,Ainda não atingiu a frequência mínima
+4952,Amarela,50.0,Não,Ainda não atingiu a frequência mínima
+4960,Branca,85.7,Sim,Pode ser avaliado pelo professor
+4962,Verde,64.7,Não,Ainda não atingiu a frequência mínima
+4963,Verde,62.5,Não,Ainda não atingiu a frequência mínima
+4964,Branca,46.7,Não,Ainda não atingiu a frequência mínima
+4968,Verde,84.6,Sim,Pode ser avaliado pelo professor
+4970,Branca,35.3,Não,Ainda não atingiu a frequência mínima
+4976,Cinza,71.4,Não,Ainda não atingiu a frequência mínima
+4982,Laranja,61.5,Não,Ainda não atingiu a frequência mínima
+4988,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+4989,Branca,76.9,Sim,Pode ser avaliado pelo professor
+4992,Amarela,76.5,Sim,Pode ser avaliado pelo professor
+4995,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+4997,Laranja,57.1,Não,Ainda não atingiu a frequência mínima
+5003,Branca,81.2,Sim,Pode ser avaliado pelo professor
+5005,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+5007,Branca,92.9,Sim,Pode ser avaliado pelo professor
+5016,Branca,37.5,Não,Ainda não atingiu a frequência mínima
+5020,Laranja,90.0,Sim,Pode ser avaliado pelo professor
+5022,Laranja,76.9,Sim,Pode ser avaliado pelo professor
+5029,Laranja,72.2,Não,Ainda não atingiu a frequência mínima
+5031,Verde,56.2,Não,Ainda não atingiu a frequência mínima
+5032,Branca,87.5,Sim,Pode ser avaliado pelo professor
+5045,Branca,75.0,Sim,Pode ser avaliado pelo professor
+5051,Verde,44.4,Não,Ainda não atingiu a frequência mínima
+5058,Azul,84.6,Sim,Pode ser avaliado pelo professor
+5060,Azul,68.8,Não,Ainda não atingiu a frequência mínima
+5062,Verde,75.0,Sim,Pode ser avaliado pelo professor
+5068,Laranja,58.8,Não,Ainda não atingiu a frequência mínima
+5075,Verde,86.7,Sim,Pode ser avaliado pelo professor
+5078,Amarela,63.6,Não,Ainda não atingiu a frequência mínima
+5079,Azul,77.8,Sim,Pode ser avaliado pelo professor
+5082,Branca,75.0,Sim,Pode ser avaliado pelo professor
+5089,Cinza,66.7,Não,Ainda não atingiu a frequência mínima
+5092,Cinza,94.1,Sim,Pode ser avaliado pelo professor
+5099,Roxa,77.8,Sim,Pode ser avaliado pelo professor
+5100,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+5101,Amarela,55.6,Não,Ainda não atingiu a frequência mínima
+5103,Cinza,72.7,Não,Ainda não atingiu a frequência mínima
+5106,Branca,55.6,Não,Ainda não atingiu a frequência mínima
+5112,Branca,71.4,Não,Ainda não atingiu a frequência mínima
+5116,Branca,85.7,Sim,Pode ser avaliado pelo professor
+5120,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+5124,Cinza,93.3,Sim,Pode ser avaliado pelo professor
+5126,Laranja,85.7,Sim,Pode ser avaliado pelo professor
+5130,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+5132,Branca,87.5,Sim,Pode ser avaliado pelo professor
+5134,Amarela,53.3,Não,Ainda não atingiu a frequência mínima
+5136,Verde,88.9,Sim,Pode ser avaliado pelo professor
+5140,Laranja,66.7,Não,Ainda não atingiu a frequência mínima
+5144,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+5145,Laranja,91.7,Sim,Pode ser avaliado pelo professor
+5148,Branca,100.0,Sim,Pode ser avaliado pelo professor
+5152,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+5156,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+5159,Laranja,71.4,Não,Ainda não atingiu a frequência mínima
+5165,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+5167,Branca,100.0,Sim,Pode ser avaliado pelo professor
+5169,Azul,93.3,Sim,Pode ser avaliado pelo professor
+5173,Branca,90.0,Sim,Pode ser avaliado pelo professor
+5174,Branca,100.0,Sim,Pode ser avaliado pelo professor
+5176,Amarela,90.0,Sim,Pode ser avaliado pelo professor
+5180,Branca,38.9,Não,Ainda não atingiu a frequência mínima
+5186,Verde,87.5,Sim,Pode ser avaliado pelo professor
+5190,Amarela,71.4,Não,Ainda não atingiu a frequência mínima
+5192,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+5193,Branca,76.9,Sim,Pode ser avaliado pelo professor
+5200,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+5203,Roxa,66.7,Não,Ainda não atingiu a frequência mínima
+5204,Verde,92.3,Sim,Pode ser avaliado pelo professor
+5206,Branca,90.0,Sim,Pode ser avaliado pelo professor
+5208,Branca,66.7,Não,Ainda não atingiu a frequência mínima
+5212,Amarela,56.2,Não,Ainda não atingiu a frequência mínima
+5213,Amarela,87.5,Sim,Pode ser avaliado pelo professor
+5215,Cinza,58.3,Não,Ainda não atingiu a frequência mínima
+5216,Laranja,68.8,Não,Ainda não atingiu a frequência mínima
+5219,Verde,50.0,Não,Ainda não atingiu a frequência mínima
+5220,Amarela,80.0,Sim,Pode ser avaliado pelo professor
+5221,Verde,60.0,Não,Ainda não atingiu a frequência mínima
+5222,Branca,80.0,Sim,Pode ser avaliado pelo professor
+5225,Branca,61.5,Não,Ainda não atingiu a frequência mínima
+5227,Amarela,61.5,Não,Ainda não atingiu a frequência mínima
+5233,Laranja,100.0,Sim,Pode ser avaliado pelo professor
+5234,Verde,90.0,Sim,Pode ser avaliado pelo professor
+5236,Branca,81.8,Sim,Pode ser avaliado pelo professor
+5239,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+5247,Laranja,66.7,Não,Ainda não atingiu a frequência mínima
+5251,Azul,81.8,Sim,Pode ser avaliado pelo professor
+5253,Amarela,37.5,Não,Ainda não atingiu a frequência mínima
+5257,Amarela,90.9,Sim,Pode ser avaliado pelo professor
+5258,Laranja,76.5,Sim,Pode ser avaliado pelo professor
+5265,Laranja,58.3,Não,Ainda não atingiu a frequência mínima
+5266,Branca,62.5,Não,Ainda não atingiu a frequência mínima
+5270,Amarela,83.3,Sim,Pode ser avaliado pelo professor
+5276,Cinza,77.8,Sim,Pode ser avaliado pelo professor
+5283,Azul,66.7,Não,Ainda não atingiu a frequência mínima
+5290,Branca,94.4,Sim,Pode ser avaliado pelo professor
+5293,Verde,76.5,Sim,Pode ser avaliado pelo professor
+5297,Verde,81.2,Sim,Pode ser avaliado pelo professor
+5299,Cinza,100.0,Sim,Pode ser avaliado pelo professor
+5305,Branca,84.6,Sim,Pode ser avaliado pelo professor
+5312,Laranja,100.0,Sim,Pode ser avaliado pelo professor
+5313,Roxa,80.0,Sim,Pode ser avaliado pelo professor
+5314,Branca,77.8,Sim,Pode ser avaliado pelo professor
+5321,Amarela,61.1,Não,Ainda não atingiu a frequência mínima
+5324,Branca,57.1,Não,Ainda não atingiu a frequência mínima
+5326,Branca,44.4,Não,Ainda não atingiu a frequência mínima
+5327,Cinza,70.0,Não,Ainda não atingiu a frequência mínima
+5328,Verde,75.0,Sim,Pode ser avaliado pelo professor
+5331,Branca,76.5,Sim,Pode ser avaliado pelo professor
+5332,Branca,77.8,Sim,Pode ser avaliado pelo professor
+5334,Verde,72.2,Não,Ainda não atingiu a frequência mínima
+5338,Branca,58.3,Não,Ainda não atingiu a frequência mínima
+5339,Amarela,90.0,Sim,Pode ser avaliado pelo professor
+5340,Amarela,88.9,Sim,Pode ser avaliado pelo professor
+5349,Branca,82.4,Sim,Pode ser avaliado pelo professor
+5354,Azul,72.7,Não,Ainda não atingiu a frequência mínima
+5358,Cinza,75.0,Sim,Pode ser avaliado pelo professor
+5362,Cinza,50.0,Não,Ainda não atingiu a frequência mínima
+5364,Cinza,85.7,Sim,Pode ser avaliado pelo professor
+5365,Branca,82.4,Sim,Pode ser avaliado pelo professor
+5366,Verde,46.2,Não,Ainda não atingiu a frequência mínima
+5368,Roxa,76.9,Sim,Pode ser avaliado pelo professor
+5371,Branca,54.5,Não,Ainda não atingiu a frequência mínima
+5373,Cinza,70.6,Não,Ainda não atingiu a frequência mínima
+5379,Amarela,70.0,Não,Ainda não atingiu a frequência mínima
+5380,Branca,77.8,Sim,Pode ser avaliado pelo professor
+5386,Laranja,75.0,Sim,Pode ser avaliado pelo professor
+5393,Laranja,41.7,Não,Ainda não atingiu a frequência mínima
+5395,Marrom,88.9,Sim,Pode ser avaliado pelo professor
+5397,Branca,76.5,Sim,Pode ser avaliado pelo professor
+5400,Azul,71.4,Não,Ainda não atingiu a frequência mínima
+5402,Marrom,83.3,Sim,Pode ser avaliado pelo professor
+5403,Amarela,62.5,Não,Ainda não atingiu a frequência mínima
+5420,Verde,83.3,Sim,Pode ser avaliado pelo professor
+5423,Azul,100.0,Sim,Pode ser avaliado pelo professor
+5424,Branca,90.9,Sim,Pode ser avaliado pelo professor
+5425,Amarela,57.1,Não,Ainda não atingiu a frequência mínima
+5431,Branca,72.7,Não,Ainda não atingiu a frequência mínima
+5434,Laranja,77.8,Sim,Pode ser avaliado pelo professor
+5437,Verde,78.6,Sim,Pode ser avaliado pelo professor
+5441,Amarela,73.3,Não,Ainda não atingiu a frequência mínima
