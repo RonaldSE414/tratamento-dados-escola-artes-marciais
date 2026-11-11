@@ -6,7 +6,12 @@ Como a escola não tinha uma base digital disponível, utilizamos **dados fictí
 
 ## Integrantes 
 
-João Victor Martins Freitas; João Victor da Cunha Oliveira; Pedro Henrique Dias Carneiro Matos Silva; Artur Oliveira Santos Pereira; Ronald Machado Guimarães de Sousa; Luiz Eduardo Rios Barradas.
+|Ronald Machado Guimarães de Sousa|
+|João Victor Martins Freitas| 
+|João Victor da Cunha Oliveira|
+|Pedro Henrique Dias Carneiro Matos Silva|
+|Artur Oliveira Santos Pereira|
+|Luiz Eduardo Rios Barradas|
 
 ## Arquivos do projeto
 
