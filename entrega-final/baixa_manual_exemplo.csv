@@ -1,0 +1,2 @@
+﻿id_pagamento,id_aluno,valor_mensalidade,vencimento,data_pagamento,situacao_pagamento,mes_referencia,dias_atraso,pago_apos_vencimento,multa_estimada,valor_estimado,confirmacao_manual
+PAG-00013,540,85.00,2026-10-17,2026-11-02,Pago,2026-10,16,Sim,0.0,85.0,Sim
