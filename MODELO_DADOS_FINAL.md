@@ -36,16 +36,4 @@ Os IDs de turma e plano são gerados no processamento. O agrupamento de planos f
 
 A data usada nas classificações é **02/11/2026**.
 
-## Estrutura prevista para o sistema completo
 
-| Tabela | Informações ainda necessárias |
-|---|---|
-| Alunos | Data de matrícula, situação do aluno e contato autorizado |
-| Responsáveis | Dados de contato e vínculo com alunos menores |
-| Turmas | Professor, horários e capacidade |
-| Planos | Nome, valor, periodicidade e vencimento |
-| Pagamentos | Histórico mensal, forma de pagamento e responsável pela baixa |
-| Frequência | Data de cada aula e presença individual |
-| Graduações | Faixa anterior, faixa atual, data da troca e avaliação do professor |
-
-Esses dados foram previstos no levantamento, mas **não estão disponíveis no CSV de teste**. O desenvolvimento de um sistema real ainda exige definição das regras com o proprietário, armazenamento seguro, controle de acesso e cuidados com a LGPD.
