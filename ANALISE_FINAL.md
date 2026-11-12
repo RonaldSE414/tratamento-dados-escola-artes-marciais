@@ -1,4 +1,4 @@
-# Análise final dos dados
+# Análise Geral dos Dados
 
 **Escola de Artes Marciais — projeto de dados**  
 **Data de referência:** 02/11/2026
