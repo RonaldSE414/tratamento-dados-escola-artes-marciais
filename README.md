@@ -24,7 +24,7 @@ O trabalho foi desenvolvido a partir de um levantamento realizado em uma escola 
 tratamento-dados-escola-artes-marciais/
 │
 ├── entrega-parcial/
-│   ├── Parcial_Escola_Artes_Marciais_Co-lab.ipynb
+│   ├── Parcial_Escola_Artes_Marciais_Colab.ipynb
 │   ├── dados_tratados_parcial.csv
 │   ├── correcoes_parcial.csv
 │   ├── rejeitados_parcial.csv
