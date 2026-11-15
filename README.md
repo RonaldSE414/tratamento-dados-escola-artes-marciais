@@ -69,7 +69,7 @@ tratamento-dados-escola-artes-marciais/
 | `baixa_manual_exemplo.csv` | Demonstração de confirmação manual de pagamento |
 | `resumo_final.txt` | Resumo dos resultados do processamento |
 
-Os arquivos da entrega parcial estão na pasta `entrega-parcial/`, enquanto osda versão final estão organizados em `entrega-final/`.
+Os arquivos da entrega parcial estão na pasta `entrega-parcial/`, enquanto os da versão final estão organizados em `entrega-final/`.
 
 ## ⚙️ Desenvolvimento
 
